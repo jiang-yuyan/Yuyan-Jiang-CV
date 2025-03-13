@@ -49,17 +49,17 @@ Information Management and Information Systems
 **6.** Digital Library & Reading Promotion
 
 ## Academic Role
-__Society Members__
+__·Society Members__
 
 `2022 - now`
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
-__Editorial Review Board__
+__·Editorial Review Board__
 
 `2025 - now`
 _Health Informatics Journal  (SCI)_
 
-__Reviewer__
+__·Reviewer__
 
 `2024 - now`
 _Journal of Medical Internet Research (SCI)_
@@ -149,13 +149,13 @@ _Berkala Ilmu Perpustakaan dan Informasi_
 _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
 ## Research Project
-__Host__
+__·Host__
 
 `2022-2024`
 
 **1.** Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)
 
-__Participation__
+__·Participation__
 
 `2024-2027`
 
