@@ -126,7 +126,7 @@ _Berkala Ilmu Perpustakaan dan Informasi_
 _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
 ## Publication
-__SCI SSCI AHCI__
+__SCI & SSCI & AHCI__
 
 [1] __Jiang Y__, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
 
@@ -142,9 +142,11 @@ __SCI SSCI AHCI__
 
 __CSSCI (Chinese Social Science Citation Index)__
 
+__中文社会科学引文索引__
+
 [1] Liu X, __Jiang Y*__. Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2025, Accept.
 
-中文：刘雪立，**姜育彦***. 基于引证数据来源优化的期刊颠覆性指数及其实证研究[J].**中国科技期刊研究**, 2025, 已录用.
+中文：刘雪立，**姜育彦**. 基于引证数据来源优化的期刊颠覆性指数及其实证研究[J].**中国科技期刊研究**, 2025, 已录用.
 
 [2] Lu Y, __Jiang Y__. Zhang Y, Zheng J, Liu X, Fang H. Beware of the Predatory Distortion of Journals in the Open Access Environment [J]. ***Acta Editologica***, 2025, Accept.
 
@@ -156,44 +158,64 @@ __CSSCI (Chinese Social Science Citation Index)__
 
 [4] Zhang Z, Yang X, Liu X, __Jiang Y__. Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(11):1611-1618.
 
+中文：张紫璇, 杨心如, 刘雪立, **姜育彦**.作者国际化水平对我国SCI期刊影响力和颠覆性创新的影响[J].**中国科技期刊研究**,2024,35(11):1611-1618.
+
 [5] Wang L, Liu X, __Jiang Y__. Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(7): 982-994
+
+中文：王丽云, 刘雪立, **姜育彦**. SCI期刊载文量和影响因子的动态变化及载文量对影响因子的影响[J]. **中国科技期刊研究**, 2024, 35(7): 982-994
 
 [6] __Jiang Y__, Wang L, Liu X. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(8): 1060-1068
 
-中文：姜育彦, 王丽云, 刘雪立. SCIE收录的我国科技期刊的创新性评价：基于颠覆性指数的实证研究[J]. 中国科技期刊研究, 2023, 34(8):1060-1068.
+中文：**姜育彦**, 王丽云, 刘雪立. SCIE收录的我国科技期刊的创新性评价：基于颠覆性指数的实证研究[J]. **中国科技期刊研究**, 2023, 34(8):1060-1068.
 
 [7] Zhang Y, __Jiang Y__, Fang H. Research progress on interdisciplinary evaluation indicators of scientific journals[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(7):944-952.
 
-[8] __Jiang Y, Liu X. The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers[J]. Library and Information Service, 2023, 67(3): 96-105.
+中文：张亚杰, **姜育彦**, 方红玲. 科技期刊跨学科评价指标的研究进展[J]. **中国科技期刊研究**, 2023, 34(7):944-952.
 
-[9] __Jiang Y, Liu X. Open peer review: models, technologies, problems and countermeasures[J]. Chinese Journal of Scientific and Technical Periodicals, 2022, 33(9): 1196-1205.
+[8] __Jiang Y__, Liu X. The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers[J]. ***Library and Information Service, 2023***, 67(3): 96-105.
 
-[10] __Jiang Y, Liu X. An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research [J]. Chinese Journal of Scientific and Technical Periodicals, 2022, 33(7): 965-972.
+中文：**姜育彦**, 刘雪立. 绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究[J]. **图书情报工作**, 2023, 67(3): 96-105.
 
-• 	CSTPCD (China Scientific and Technical Papers and Citations Database)
+[9] __Jiang Y__, Liu X. Open peer review: models, technologies, problems and countermeasures[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2022, 33(9): 1196-1205.
 
-[1] Jiang Y, Liu X. Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example [J]. Digital Library Forum, 2022(3): 47-52.
+中文：**姜育彦**, 刘雪立. 开放型同行评议：模式、技术、问题与对策[J]. **中国科技期刊研究**, 2022, 33(9): 1196-1205.
 
-中文: 姜育彦, 刘雪立. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. 数字图书馆论坛, 2022(3): 47-52.
+[10] __Jiang Y__, Liu X. An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2022, 33(7): 965-972.
+
+中文：**姜育彦**, 刘雪立. 科技期刊的创新性评价指标—颠覆性指数(JDI)及其实证研究[J]. **中国科技期刊研究**, 2022, 33(7): 965-972.
+
+__CSTPCD (China Scientific and Technical Papers and Citations Database)__
+
+__中国科技论文与引文数据库__
+
+[1] __Jiang Y__, Liu X. Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example [J]. Digital Library Forum, 2022(3): 47-52.
+
+中文: **姜育彦**, 刘雪立. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. **数字图书馆论坛**, 2022(3): 47-52.
 
 • 	Scopus 
 
-[1] Jiang Y, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity [J]. Journal of Library and Information Science in Agriculture, 2020, 32(6): 23-33.
+[1] __Jiang Y__, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity [J]. ***Journal of Library and Information Science in Agriculture***, 2020, 32(6): 23-33.
 
-[2] Yu H, Li Z, Jiang Y. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. Big Data and Security. 2020, 1210: 417-428.
+中文: **姜育彦**, 李雅茹. 基于数字人文视角的“情感——时空”模型探析 [J]. **农业图书情报学报**, 2020, 32(6): 23-33.
+
+[2] Yu H, Li Z, Jiang Y. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. ***Big Data and Security***. 2020, 1210: 417-428.
 
 • 	Other (Chinese Journal)
-[1] Jiang Y, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. Digital & Micrographic Imaging,2022(1):37-40.
+[1] __Jiang Y__, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. ***Digital & Micrographic Imaging***, 2022(1):37-40.
 
-[2] Jiang Y, Li Y. An analysis of the collection construction model of university libraries driven by reader behavior data [J]. Digital & Micrographic Imaging, 2021(4):39-42.
+中文：**姜育彦**, 李雅茹. 基于馆藏题录分词索引的阅读推广新模式. **数字与缩微影像**,2022(1):37-40.
 
-[3] Jiang Y, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years [J]. Technology and Economic Guide, 2020, 28(5):7-9
+[2] __Jiang Y__, Li Y. An analysis of the collection construction model of university libraries driven by reader behavior data [J]. ***Digital & Micrographic Imaging***, 2021(4):39-42.
 
-[4] Li Y, Jiang Y. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation [J]. Policy & Scientific Consult,2021(6):22-24.
-[1] 姜育彦, 李雅茹. 基于馆藏题录分词索引的阅读推广新模式. 数字与缩微影像,2022(1):37-40.
-[2] 姜育彦, 李雅茹. 读者行为数据驱动的高校图书馆馆藏建设模式探析. 数字与缩微影像,2022(1):37-40.
-[3] 李雅茹, 姜育彦. 双创背景下独立学院创客空间建设模式思考[J].科学咨询, 2021(6):22-24.
-[4] 姜育彦, 李雅茹.近五年我国竞争情报文献研究热点研究分析[J].科技经济导刊, 2020, 28(5):7-9.
+中文：**姜育彦**, 李雅茹. 读者行为数据驱动的高校图书馆馆藏建设模式探析. **数字与缩微影像**,2021(4):37-40.
+
+[3] __Jiang Y__, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years [J]. ***Technology and Economic Guide***, 2020, 28(5):7-9
+
+中文: **姜育彦**, 李雅茹.近五年我国竞争情报文献研究热点研究分析[J].**科技经济导刊**, 2020, 28(5):7-9.
+
+[4] Li Y, __Jiang Y__. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation [J]. ***Policy & Scientific Consult***, 2021(6):22-24.
+
+中文：李雅茹, **姜育彦**. 双创背景下独立学院创客空间建设模式思考[J].**科学咨询**, 2021(6):22-24.
 
 <!-- <div style="page-break-after: always;"></div> -->
 ## Activities
