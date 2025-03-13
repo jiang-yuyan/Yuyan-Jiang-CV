@@ -1,16 +1,14 @@
 ---
 layout: cv
-title: David Layardi
+title: Yuyan Jiang
 ---
-# David Layardi - Example
-Cloud Infrastructure, Automation, DevOps Engineer.
+# Yuyan Jiang - Example
+Phd Student.
 
 <div id="webaddress">
-<text>Jakarta, Indonesia</text>
-| <a href="mailto:david@layardi.com">david@layardi.com</a>
-| <a href="https://github.com/doctor500">github.com/doctor500</a>
-| <a href="https://www.linkedin.com/in/david-lay/">linkedin.com/in/david-lay</a>
-| <a href="https://medium.com/@davidlayardi">medium.com/@davidlayardi</a>
+<text>Lanzhou, China</text>
+| <a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
+| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
 </div>
 
 
