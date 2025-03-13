@@ -38,47 +38,48 @@ Information Management and Information Systems
 
 ## Research Direction
 
-- 1.	Scientometrics
-- 2.	Journal Publishing
-- 3.	Open Science & Scientific Data
-- 4.	Peer Review & Research Ethic
-- 5.	Digital Humanity
-- 6.	Digital Library & Reading Promotion
+- __1.	Scientometrics__
+- __2.	Journal Publishing__
+- __3.	Open Science & Scientific Data__
+- __4.	Peer Review & Research Ethic__
+- __5.	Digital Humanity__
+- __6.	Digital Library & Reading Promotion__
 
 ## Professional Experience
 ### Journal Role
 __Editorial Review Board__
-- 1.	Health Informatics Journal  (SCI)
+- __Health Informatics Journal  (SCI)__
+
 __Reviewer__
-- 1.	Journal of Medical Internet Research (SCI)
-JMIR mHealth and uHealth (SCI)
-JMIR Public Health and Surveillance (SCI)
-JMIR Serious Games (SCI)
-Journal of the Medical Library Association (SSCI)
-Information Research (SSCI)
-Insights - the USKG Journal (ESCI、Scopus)
-Interactive Journal of Medical Research (ESCI、Scopus)
-JMIR Medical Education (ESCI、Scopus)
-JMIR Aging (ESCI、Scopus)
-JMIR Cancer (ESCI、Scopus)
-JMIR Infodemiology (ESCI、Scopus)
-JMIR Formative Research (ESCI、Scopus)
-Online Journal of Public Health Informatics (ESCI、Scopus)
-COLLNET Journal of Scientometrics and Information Management (ESCI)
-Research Integrity and Peer Review (ESCI)
-Journal of Hospital Librarianship (Scopus)
-Iberoamerican Journal of Science Measurement and Communication (Scopus)
-Issues in Science and Technology Librarianship (Scopus)
-Asian/Pacific Island Nursing Journal (Scopus)
-JMIR Cardio (Scopus)
-JMIR Dermatology (Scopus)
-Journal of Librarianship and Scholarly Communication (Scopus)
-JMIR Data
-REVUE DES SCIENCES DE L’ INFORMATION
-IP Indian Journal of Library Science and Information Technology
-International Journal of Library Information Networks and Knowledge
-Berkala Ilmu Perpustakaan dan Informasi
-Pustaka Karya: 
+- __Journal of Medical Internet Research (SCI)__
+- __JMIR mHealth and uHealth (SCI)__
+- __JMIR Public Health and Surveillance (SCI)__
+- __JMIR Serious Games (SCI)__
+- __Journal of the Medical Library Association (SSCI)__
+- __Information Research (SSCI)__
+- __Insights - the USKG Journal (ESCI、Scopus)__
+- __Interactive Journal of Medical Research (ESCI、Scopus)__
+- __JMIR Medical Education (ESCI、Scopus)__
+- __JMIR Aging (ESCI、Scopus)__
+- __JMIR Cancer (ESCI、Scopus)__
+- __JMIR Infodemiology (ESCI、Scopus)__
+- __JMIR Formative Research (ESCI、Scopus)__
+- __Online Journal of Public Health Informatics (ESCI、Scopus)__
+- __COLLNET Journal of Scientometrics and Information Management (ESCI)__
+- __Research Integrity and Peer Review (ESCI)__
+- __Journal of Hospital Librarianship (Scopus)__
+- __Iberoamerican Journal of Science Measurement and Communication (Scopus)__
+- __Issues in Science and Technology Librarianship (Scopus)__
+- __Asian/Pacific Island Nursing Journal (Scopus)__
+- __JMIR Cardio (Scopus)__
+- __JMIR Dermatology (Scopus)__
+- __Journal of Librarianship and Scholarly Communication (Scopus)__
+- __JMIR Data__
+- __REVUE DES SCIENCES DE L’ INFORMATION__
+- __IP Indian Journal of Library Science and Information Technology__
+- __International Journal of Library Information Networks and Knowledge__
+- __Berkala Ilmu Perpustakaan dan Informasi__
+- __Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi__
 
 ## Professional Experience
 
