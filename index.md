@@ -119,6 +119,7 @@ _Berkala Ilmu Perpustakaan dan Informasi_
 _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
 ## Research Project
+
 General Project of National Social Science Fund (23BTQ085)
   
 General Project of National Social Science Fund (19BTQ087)
