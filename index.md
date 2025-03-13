@@ -10,13 +10,6 @@ title: Yuyan Jiang
 | <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
 </div>
 
-
-## Profile Summary
-
-Indonesian, speaks native Bahasa & intermediate English. Passionate as an application developer since 2011 in various web application development with soft skills that I built up from 5-year organizational experience in analytical thinking, problem-solving, and collaboration.
-
-Since 2018, I've successfully delivered automation-based innovation to solve business problems for more than 10 professional projects. Now I'm focused on infrastructure & automation by implementing the DevOps culture to improve software engineer productivity. 
-
 ## Education
 
 `2024 - 2027`
@@ -125,7 +118,24 @@ _Berkala Ilmu Perpustakaan dan Informasi_
 
 _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
-## Publication
+## Research Project
+General Project of National Social Science Fund (23BTQ085)
+  
+General Project of National Social Science Fund (19BTQ087)
+
+Major Project of Henan Provincial Department of Education (2024-JCZD-23)
+
+Intellectual Property Program of Gansu Province(24ZSCQ022)
+
+Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas
+
+Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)
+
+Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)
+
+Project of Society of Scientific and Technological Periodicals (YJH202315)
+
+##Publication
 __·SCI & SSCI & AHCI__
 
 [1] __Jiang Y__, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
@@ -226,71 +236,162 @@ __·Report__
 
 `Dec 2024`
 
-The 7th Conference on Quality and Development of Chinese Journals
+**The 7th Conference on Quality and Development of Chinese Journals**
 
 第七届中国期刊质量与发展大会
 
 `Now 2024`
 
-The 15th International Symposium on Scientometrics and Science and Education Evaluation
+**The 15th International Symposium on Scientometrics and Science and Education Evaluation**
 
 `Sep 2023`
 
-The 6th Tianfu Forum on Scientometrics and Scientific Evaluation
+**The 6th Tianfu Forum on Scientometrics and Scientific Evaluation**
 
 第六届科学计量与科学评价天府论坛
 
 `Jun 2023`
 
-The 14th International Symposium on Scientometrics and Science and Education Evaluation
+**The 14th International Symposium on Scientometrics and Science and Education Evaluation**
 
 第十四届科学计量学与科教评价国际研讨会
 
 `Sep 2022`
 
-The 13th National Symposium on Scientometrics and Science and Education Evaluation
+**The 13th National Symposium on Scientometrics and Science and Education Evaluation**
 
 第十三届全国科学计量学与科教评价研讨会
 
 `Aug 2022`
 
-China Intelligence Science Annual Conference
+**China Intelligence Science Annual Conference**
 
 中国情报学年会暨情报学与情报工作发展论坛
 
 `May 2024`
 
-Scientometrics Frontier Forum and International Journal Submission and Review Experience Exchange Meeting
+**Scientometrics Frontier Forum and International Journal Submission and Review Experience Exchange Meeting**
 
 科学计量学前沿论坛暨国际期刊投稿与评审经验交流会
 
-
 `May 2023`
 
-The 7th Youth Academic Forum on Quantitative Information Analysis
-
+**The 7th Youth Academic Forum on Quantitative Information Analysis
+**
 第七届定量信息分析青年学术论坛
 
 `May 2023`
 
-The 1st Science and Technology Star and Technology Management Youth Forum
+**The 1st Science and Technology Star and Technology Management Youth Forum**
 
 首届科技计量与科技管理青年论坛
 
 `May 2023`
 
-The 2nd Science and Technology Journal Academic Forum
+**The 2nd Science and Technology Journal Academic Forum**
 
 第二届科技期刊学术论坛
 
-## Publication
+## Honour
 __·National Awards__
 
 `2023`
 
-1.National Postgraduate Scholarship of China
+1. **National Postgraduate Scholarship of China** | 国家奖学金
 
-1.国家奖学金
+__·Provincial Awards__
+
+`2024`
+
+1. **Innovation Star of Henan Province** | 河南省创新之星
+
+`2024`
+
+2. **Outstanding Graduate Students of Henan Province** | 河南省优秀毕业研究生
+
+`2022`
+
+3. **First Prize of Postgraduate Academic Scholarship of Henan Province** | 河南省研究生学业奖学金一等奖
+
+__·University Awards__
+
+`2024`
+
+1. Innovation Star of Xinxiang Medical University
+
+`2024`
+
+2. Outstanding Dissertation of Xinxiang Medical University
+
+`2023`
+
+3. First Prize of Academic Star of Xinxiang Medical University
+
+`2022`
+
+4. First Prize of Graduate School Scholarship of Xinxiang Medical University
+
+`2022`
+
+5. Outstanding Postgraduate Student of Xinxiang Medical University
+
+`2021`
+
+6. Outstanding Postgraduate Student of Xinxiang Medical University
+
+`2021`
+
+7. Third Prize of People's Scholarship Award of Nanjing University Jinling College
+
+`2020`
+
+8. Single Prize of People's Scholarship Award of Nanjing University Jinling College
+
+__·Department Awards
+
+`2023`
+
+1.	First Prize of Academic Star of Henan Research Center for Science Journals
+
+`2021`
+
+2.	Outstanding Readers of Nanjing University Jinling College Library
+
+__·Academic Awards
+
+`2024`
+
+1.	Third Prize of Outstanding Papers at the 7th Conference on Quality and Development of Chinese Journals
+
+`2023`
+
+2.	First Prize of Outstanding Papers at the 14th International Symposium on Scientometrics and Science and Education Evaluation
+
+`2023`
+
+3.	Third Prize of Outstanding Papers in the 6th Tianfu Forum on Scientometrics and Scientific Evaluation
+
+__·Professional Awards
+
+`2019`
+
+1. **Third Prize of the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province** | 第十届蓝桥杯江苏赛区C/C++程序设计三等奖
+
+`2018`
+
+2. **Third Prize of the 9th Blue Bridge Cup C/C++ Programming in Jiangsu Province** | 第九届蓝桥杯江苏赛区C/C++程序设计三等奖
+
+## Professional Skills
+
+1. **English CET-6**
+
+2. **Jiangsu Province Computer Level 2 - Excellent**
+
+3. **IOP Trusted Reviewer Certification**
+
+4. **Project Management Engineer (RSE-PM)**
+
+5. **Information Security - Penetration Test Engineer (CISP-PTE)**
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
