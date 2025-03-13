@@ -274,7 +274,7 @@ __·Attendance__
 
 `May 2024`
 
-**1.** Scientometrics Frontier Forum and International Journal Submission and Review Experience Exchange Meeting
+**1.** Scientometrics Frontier Forum and International Journal Submission & Review Experience Exchange Meeting
 
 `May 2023`
 
