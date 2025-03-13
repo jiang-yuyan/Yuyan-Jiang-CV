@@ -126,7 +126,7 @@ _Berkala Ilmu Perpustakaan dan Informasi_
 _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
 ## Publication
-__SCI & SSCI & AHCI__
+__·SCI & SSCI & AHCI__
 
 [1] __Jiang Y__, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
 
@@ -140,9 +140,9 @@ __SCI & SSCI & AHCI__
 
 [6] __Jiang Y__, Liu X. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. ***Sustainability***, 2023, 15(2): 969.
 
-__CSSCI (Chinese Social Science Citation Index)__
+__·CSSCI (Chinese Social Science Citation Index)__
 
-__中文社会科学引文索引__
+__·中文社会科学引文索引__
 
 [1] Liu X, __Jiang Y*__. Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2025, Accept.
 
@@ -184,15 +184,15 @@ __中文社会科学引文索引__
 
 中文：**姜育彦**, 刘雪立. 科技期刊的创新性评价指标—颠覆性指数(JDI)及其实证研究[J]. **中国科技期刊研究**, 2022, 33(7): 965-972.
 
-__CSTPCD (China Scientific and Technical Papers and Citations Database)__
+__·CSTPCD (China Scientific and Technical Papers and Citations Database)__
 
-__中国科技论文与引文数据库__
+__·中国科技论文与引文数据库__
 
 [1] __Jiang Y__, Liu X. Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example [J]. Digital Library Forum, 2022(3): 47-52.
 
 中文: **姜育彦**, 刘雪立. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. **数字图书馆论坛**, 2022(3): 47-52.
 
-__Scopus__
+__·Scopus__
 
 [1] __Jiang Y__, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity [J]. ***Journal of Library and Information Science in Agriculture***, 2020, 32(6): 23-33.
 
@@ -200,9 +200,9 @@ __Scopus__
 
 [2] Yu H, Li Z, Jiang Y. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. ***Big Data and Security***. 2020, 1210: 417-428.
 
-__Other (Chinese Journal)__
+__·Other (Chinese Journal)__
 
-__其他中文期刊__
+__·其他中文期刊__
 
 [1] __Jiang Y__, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. ***Digital & Micrographic Imaging***, 2022(1):37-40.
 
@@ -222,7 +222,8 @@ __其他中文期刊__
 
 <!-- <div style="page-break-after: always;"></div> -->
 ## Academic Exchange
-### Report
+__·Report__
+
 `Dec 2024`
 
 The 7th Conference on Quality and Development of Chinese Journals
@@ -233,15 +234,63 @@ The 7th Conference on Quality and Development of Chinese Journals
 
 The 15th International Symposium on Scientometrics and Science and Education Evaluation
 
+`Sep 2023`
+
 The 6th Tianfu Forum on Scientometrics and Scientific Evaluation
+
+第六届科学计量与科学评价天府论坛
+
+`Jun 2023`
 
 The 14th International Symposium on Scientometrics and Science and Education Evaluation
 
+第十四届科学计量学与科教评价国际研讨会
+
+`Sep 2022`
+
 The 13th National Symposium on Scientometrics and Science and Education Evaluation
+
+第十三届全国科学计量学与科教评价研讨会
+
+`Aug 2022`
 
 China Intelligence Science Annual Conference
 
+中国情报学年会暨情报学与情报工作发展论坛
 
+`May 2024`
+
+Scientometrics Frontier Forum and International Journal Submission and Review Experience Exchange Meeting
+
+科学计量学前沿论坛暨国际期刊投稿与评审经验交流会
+
+
+`May 2023`
+
+The 7th Youth Academic Forum on Quantitative Information Analysis
+
+第七届定量信息分析青年学术论坛
+
+`May 2023`
+
+The 1st Science and Technology Star and Technology Management Youth Forum
+
+首届科技计量与科技管理青年论坛
+
+`May 2023`
+
+The 2nd Science and Technology Journal Academic Forum
+
+第二届科技期刊学术论坛
+
+## Publication
+__·National Awards__
+
+`2023`
+
+1.National Postgraduate Scholarship of China
+
+1.国家奖学金
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
