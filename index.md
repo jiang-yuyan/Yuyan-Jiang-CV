@@ -192,7 +192,7 @@ __中国科技论文与引文数据库__
 
 中文: **姜育彦**, 刘雪立. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. **数字图书馆论坛**, 2022(3): 47-52.
 
-• 	Scopus 
+__Scopus__
 
 [1] __Jiang Y__, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity [J]. ***Journal of Library and Information Science in Agriculture***, 2020, 32(6): 23-33.
 
@@ -200,7 +200,10 @@ __中国科技论文与引文数据库__
 
 [2] Yu H, Li Z, Jiang Y. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. ***Big Data and Security***. 2020, 1210: 417-428.
 
-• 	Other (Chinese Journal)
+__Other (Chinese Journal)__
+
+__其他中文期刊__
+
 [1] __Jiang Y__, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. ***Digital & Micrographic Imaging***, 2022(1):37-40.
 
 中文：**姜育彦**, 李雅茹. 基于馆藏题录分词索引的阅读推广新模式. **数字与缩微影像**,2022(1):37-40.
@@ -218,28 +221,27 @@ __中国科技论文与引文数据库__
 中文：李雅茹, **姜育彦**. 双创背景下独立学院创客空间建设模式思考[J].**科学咨询**, 2021(6):22-24.
 
 <!-- <div style="page-break-after: always;"></div> -->
-## Activities
-### Medium Articles
-`Aug 2021`
-[**Automate Export From Jenkins API Job List to Google Sheets Using Google Apps Script**](https://medium.com/geekculture/automate-export-from-jenkins-api-job-list-to-google-sheets-using-google-apps-script-2eef44008bdc)
+## Academic Exchange
+### Report
+`Dec 2024`
 
-Reach 1100+ Reader (per 2023/01/26) under Geek Culture publication
+The 7th Conference on Quality and Development of Chinese Journals
 
-`Jul 2021`
-[**Easy Deploy SonarQube on Kubernetes with YAML configuration**](https://medium.com/codex/easy-deploy-sonarqube-on-kubernetes-with-yaml-configuration-27f5adc8de90)
+第七届中国期刊质量与发展大会
 
-Reach 8500+ Reader (per 2023/01/26) under CodeX publication
+`Now 2024`
 
-## Training & Certifications
+The 15th International Symposium on Scientometrics and Science and Education Evaluation
 
-`Jan 2023`
-[Associate Cloud Engineer](https://www.credential.net/3e62c331-8419-43d6-9d48-849d04182582), *from GCP*
+The 6th Tianfu Forum on Scientometrics and Scientific Evaluation
 
-`Sep 2022`
-[Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/B2V6L4ZSGNUH), *from Coursera*
+The 14th International Symposium on Scientometrics and Science and Education Evaluation
 
-`Mar 2021`
-[DevOps Engineering on AWS](https://1drv.ms/b/s!AgiuQdtA6DaqkRFlSnO8rKrDO8iQ?e=htxgE9), *from AWS*
+The 13th National Symposium on Scientometrics and Science and Education Evaluation
+
+China Intelligence Science Annual Conference
+
+
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
