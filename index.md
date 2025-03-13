@@ -202,7 +202,7 @@ __·SCI & SSCI & AHCI__
 
 __·CSSCI (Chinese Social Science Citation Index)__
 
-[1] Liu X, __Jiang Y*__. Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2025, Accept.
+[1] Liu X, __Jiang Y#__. Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2025, Accept.
 
 [2] Lu Y, __Jiang Y__. Zhang Y, Zheng J, Liu X, Fang H. Beware of the Predatory Distortion of Journals in the Open Access Environment [J]. ***Acta Editologica***, 2025, Accept.
 
