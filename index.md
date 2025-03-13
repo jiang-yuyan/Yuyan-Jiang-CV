@@ -162,7 +162,7 @@ __Participation__
 
 `2019-2023`
 
-1. General Project of National Social Science Fund (19BTQ087)
+2. General Project of National Social Science Fund (19BTQ087)
 
 `2024-2026`
 
@@ -350,7 +350,7 @@ __·Department Awards__
 
 `2021`
 
-3. **Outstanding Readers of Nanjing University Jinling College Library**
+2. **Outstanding Readers of Nanjing University Jinling College Library**
 
 __·Academic Awards__
 
