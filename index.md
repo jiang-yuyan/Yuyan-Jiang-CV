@@ -20,18 +20,24 @@ Since 2018, I've successfully delivered automation-based innovation to solve bus
 ## Education
 
 `2024 - 2027`
-__University of Chinese Academy of Sciences__.
+__University of Chinese Academy of Sciences__
+
 PhD
+
 Information Science
 
 `2021 - 2024`
-__Xinxiang Medical University__. 
+__Xinxiang Medical University__
+
 MPhil
+
 Library, Information and Archives Management
 
 `2017 - 2021`
-__Nanjing University Jinling College__. 
+__Nanjing University Jinling College__
+
 Bachelor's degree
+
 Information Management and Information Systems
 
 ## Research Direction
