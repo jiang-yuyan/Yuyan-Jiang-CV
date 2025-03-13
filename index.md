@@ -137,6 +137,7 @@ Nanjing University Jinling College Undergraduate Innovation Training Program Pro
 Project of Society of Scientific and Technological Periodicals (YJH202315)
 
 ##Publication
+
 __·SCI & SSCI & AHCI__
 
 [1] __Jiang Y__, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
