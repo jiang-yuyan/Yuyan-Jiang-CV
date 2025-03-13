@@ -119,23 +119,41 @@ _Berkala Ilmu Perpustakaan dan Informasi_
 _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
 ## Research Project
-__National Project__
+__Host__
 
-1. General Project of National Social Science Fund (23BTQ085)
+`2022-2024`
+
+1. Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y) | 新乡医学院研究生科研创新支持计划项目
+
+__Participation__
+
+`2024-2027`
+
+1. General Project of National Social Science Fund (23BTQ085) 
   
-2.General Project of National Social Science Fund (19BTQ087)
+`2019-2023`
+
+2. General Project of National Social Science Fund (19BTQ087)
+
+`2024-2026`
 
 3. Major Project of Henan Provincial Department of Education (2024-JCZD-23)
 
-4.Intellectual Property Program of Gansu Province(24ZSCQ022)
+`2024-`
 
-5.Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas
+4. Intellectual Property Program of Gansu Province(24ZSCQ022)
 
-6. Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)
+`2024-`
 
-7.Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)
+5. Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas
 
-8.Project of Society of Scientific and Technological Periodicals (YJH202315)
+`2019-2021`
+
+6. Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)
+
+`2023-2023`
+
+7. Project of Society of Scientific and Technological Periodicals (YJH202315)
 
 ## Publications
 
