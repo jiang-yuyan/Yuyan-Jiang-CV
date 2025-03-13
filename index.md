@@ -22,15 +22,28 @@ Since 2018, I've successfully delivered automation-based innovation to solve bus
 ## Education
 
 `2024 - 2027`
-__University of Chinese Academy of Sciences__. PhD, Information Science
+__University of Chinese Academy of Sciences__.
+PhD
+Information Science
 
 `2021 - 2024`
-__Xinxiang Medical University__. MPhil, Library, Information and Archives Management
+__Xinxiang Medical University__. 
+MPhil
+Library, Information and Archives Management
 
 `2017 - 2021`
-__Nanjing University Jinling College__. Bachelor's degree, Information Management and Information Systems### Technical Skill
+__Nanjing University Jinling College__. 
+Bachelor's degree
+Information Management and Information Systems
 
-AWS, GCP, Linux VM, Windows Server, Debian, CentOS, Docker, Kubernetes, MySQL, PostgreSQL, Git, Python, Java (Groovy), Jenkins, Gitlab CI, GitHub Actions, Helm, Kustomize, Terraform.
+### Research Direction
+
+1.	Scientometrics
+2.	Journal Publishing
+3.	Open Science & Scientific Data
+4.	Peer Review & Research Ethic
+5.	Digital Humanity
+6.	Digital Library & Reading Promotion
 
 ## Professional Experience
 
