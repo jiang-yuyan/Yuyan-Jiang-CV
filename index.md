@@ -2,7 +2,7 @@
 layout: cv
 title: Yuyan Jiang
 ---
-# Yuyan Jiang - Example
+# Yuyan Jiang
 Phd Student.
 
 <div id="webaddress">
@@ -101,10 +101,12 @@ Reach 8500+ Reader (per 2023/01/26) under CodeX publication
 
 ## Education
 
+`2024 - 2027expext`
+__University of Chinese Academy of Sciences__. PhD, Information Science
 `2016 - 2020`
-__Bina Nusantara University, Jakarta__. Bachelor's degree, Information System
-
-Taking Business Intelligence Specialization. Graduated in 7th semester. GPA 3.8 of 4.0
+__	Xinxiang Medical University__. MPhil, Library, Information and Archives Management
+`2016 - 2020`
+__Nanjing University Jinling College__. Bachelor's degree, Information Management and Information Systems
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
