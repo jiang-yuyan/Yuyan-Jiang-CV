@@ -35,17 +35,17 @@ Information Management and Information Systems
 
 ## Research Direction
 
-_1.	Scientometrics_
+**1.** Scientometrics
 
-_2.	Journal Publishing_
+**2.** Journal Publishing
 
-_3.	Open Science & Scientific Data_
+**3.** Open Science & Scientific Data
 
-_4.	Peer Review & Research Ethic_
+**4.** Peer Review & Research Ethic
 
-_5.	Digital Humanity_
+**5.** Digital Humanity
 
-_6.	Digital Library & Reading Promotion_
+**6.** Digital Library & Reading Promotion
 
 ## Academic Role
 __Society Members__
@@ -329,65 +329,65 @@ __·University Awards__
 
 `2022`
 
-**5.** Outstanding Postgraduate Student of Xinxiang Medical University**
+**5.** Outstanding Postgraduate Student of Xinxiang Medical University
 
 `2021`
 
-**6.** Outstanding Postgraduate Student of Xinxiang Medical University**
+**6.** Outstanding Postgraduate Student of Xinxiang Medical University
 
 `2021`
 
-**7.** Third Prize of People's Scholarship Award of Nanjing University Jinling College**
+**7.** Third Prize of People's Scholarship Award of Nanjing University Jinling College
 
 `2020`
 
-**8.** Single Prize of People's Scholarship Award of Nanjing University Jinling College**
+**8.** Single Prize of People's Scholarship Award of Nanjing University Jinling College
 
 __·Department Awards__
 
 `2023`
 
-**1.** First Prize of Academic Star of Henan Research Center for Science Journals**
+**1.** First Prize of Academic Star of Henan Research Center for Science Journals
 
 `2021`
 
-**2.** Outstanding Readers of Nanjing University Jinling College Library**
+**2.** Outstanding Readers of Nanjing University Jinling College Library
 
 __·Academic Awards__
 
 `2024`
 
-**1.** Third Prize of Outstanding Papers at the 7th Conference on Quality and Development of Chinese Journals**
+**1.** Third Prize of Outstanding Papers at the 7th Conference on Quality and Development of Chinese Journals
 
 `2023`
 
-**2.** First Prize of Outstanding Papers at the 14th International Symposium on Scientometrics and Science and Education Evaluation**
+**2.** First Prize of Outstanding Papers at the 14th International Symposium on Scientometrics and Science and Education Evaluation
 
 `2023`
 
-**3.	Third Prize of Outstanding Papers in the 6th Tianfu Forum on Scientometrics and Scientific Evaluation**
+**3.**	Third Prize of Outstanding Papers in the 6th Tianfu Forum on Scientometrics and Scientific Evaluation
 
 __·Professional Awards__
 
 `2019`
  
-**1.** Third Prize of the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province**
+**1.** Third Prize of the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province
 
 `2018`
 
-**2.** Third Prize of the 9th Blue Bridge Cup C/C++ Programming in Jiangsu Province**
+**2.** Third Prize of the 9th Blue Bridge Cup C/C++ Programming in Jiangsu Province
 
 ## Professional Skills
 
-**1.** English CET-6**
+**1.** English CET-6
 
-**2.** Jiangsu Province Computer Level 2 - Excellent**
+**2.** Jiangsu Province Computer Level 2 - Excellent
 
-**3.** IOP Trusted Reviewer Certification**
+**3.** IOP Trusted Reviewer Certification
 
-**4.** Project Management Engineer (RSE-PM)**
+**4.** Project Management Engineer (RSE-PM)
 
-**5.** Information Security - Penetration Test Engineer (CISP-PTE)**
+**5.** Information Security - Penetration Test Engineer (CISP-PTE)
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
