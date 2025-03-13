@@ -101,10 +101,12 @@ Reach 8500+ Reader (per 2023/01/26) under CodeX publication
 
 ## Education
 
-`2024 - 2027expext`
+`2024 - 2027`
 __University of Chinese Academy of Sciences__. PhD, Information Science
+
 `2016 - 2020`
-__	Xinxiang Medical University__. MPhil, Library, Information and Archives Management
+__Xinxiang Medical University__. MPhil, Library, Information and Archives Management
+
 `2016 - 2020`
 __Nanjing University Jinling College__. Bachelor's degree, Information Management and Information Systems
 
