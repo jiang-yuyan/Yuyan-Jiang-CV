@@ -152,37 +152,37 @@ __Host__
 
 `2022-2024`
 
-**1. Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)**
+**1.** Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)**
 
 __Participation__
 
 `2024-2027`
 
-**1. General Project of National Social Science Fund (23BTQ085) **
+**1.** General Project of National Social Science Fund (23BTQ085)**
 
 `2019-2023`
 
-**2. General Project of National Social Science Fund (19BTQ087)**
+**2.** General Project of National Social Science Fund (19BTQ087)**
 
 `2024-2026`
 
-**3. Major Project of Henan Provincial Department of Education (2024-JCZD-23)**
+**3.** Major Project of Henan Provincial Department of Education (2024-JCZD-23)**
 
 `2024-`
 
-**4. Intellectual Property Program of Gansu Province(24ZSCQ022)**
+**4.** Intellectual Property Program of Gansu Province(24ZSCQ022)**
 
 `2024-`
 
-**5. Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**
+**5.** Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**
 
 `2019-2021`
 
-**6. Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)**
+**6.** Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)**
 
 `2023-2023`
 
-**7. Project of Society of Scientific and Technological Periodicals (YJH202315)**
+**7.** Project of Society of Scientific and Technological Periodicals (YJH202315)**
 
 ## Publications
 
@@ -248,119 +248,120 @@ __·Report__
 
 `Dec 2024`
 
-**The 7th Conference on Quality and Development of Chinese Journals**
+**1.** The 7th Conference on Quality and Development of Chinese Journals
 
 `Now 2024`
 
-**The 15th International Symposium on Scientometrics and Science and Education Evaluation**
+**2.** The 15th International Symposium on Scientometrics and Science and Education Evaluation
 
 `Sep 2023`
 
-**The 6th Tianfu Forum on Scientometrics and Scientific Evaluation**
+**3.** The 6th Tianfu Forum on Scientometrics and Scientific Evaluation
 
 `Jun 2023`
 
-**The 14th International Symposium on Scientometrics and Science and Education Evaluation**
+**4.** The 14th International Symposium on Scientometrics and Science and Education Evaluation
 
 `Sep 2022`
 
-**The 13th National Symposium on Scientometrics and Science and Education Evaluation**
+**5.** The 13th National Symposium on Scientometrics and Science and Education Evaluation
 
 `Aug 2022`
 
-**China Intelligence Science Annual Conference**
+**6.** China Intelligence Science Annual Conference
+
+__·Attendance__
 
 `May 2024`
 
-**Scientometrics Frontier Forum and International Journal Submission and Review Experience Exchange Meeting**
-
-
-`May 2023`
-
-**The 7th Youth Academic Forum on Quantitative Information Analysis**
+**1.** Scientometrics Frontier Forum and International Journal Submission and Review Experience Exchange Meeting
 
 `May 2023`
 
-**The 1st Science and Technology Star and Technology Management Youth Forum**
+**2.** The 7th Youth Academic Forum on Quantitative Information Analysis
 
 `May 2023`
 
-**The 2nd Science and Technology Journal Academic Forum**
+**3.** The 1st Science and Technology Star and Technology Management Youth Forum
+
+`May 2023`
+
+**4.** The 2nd Science and Technology Journal Academic Forum
 
 ## Honour
 __·National Awards__
 
 `2023`
 
-**1. National Postgraduate Scholarship of China**
+**1.** National Postgraduate Scholarship of China
 
 __·Provincial Awards__
 
 `2024`
 
-**1. Innovation Star of Henan Province**
+**1.** Innovation Star of Henan Province
 
 `2024`
 
-**2. Outstanding Graduate Students of Henan Province** 
+**2.** Outstanding Graduate Students of Henan Province
 
 `2022`
 
-**3. First Prize of Postgraduate Academic Scholarship of Henan Province**
+**3.** First Prize of Postgraduate Academic Scholarship of Henan Province
 
 __·University Awards__
 
 `2024`
 
-**1. Innovation Star of Xinxiang Medical University**
+**1.** Innovation Star of Xinxiang Medical University
 
 `2024`
 
-**2. Outstanding Dissertation of Xinxiang Medical University**
+**2.** Outstanding Dissertation of Xinxiang Medical University
 
 `2023`
 
-**3. First Prize of Academic Star of Xinxiang Medical University**
+**3.** First Prize of Academic Star of Xinxiang Medical University
 
 `2022`
 
-**4. First Prize of Graduate School Scholarship of Xinxiang Medical University**
+**4.** First Prize of Graduate School Scholarship of Xinxiang Medical University
 
 `2022`
 
-**5. Outstanding Postgraduate Student of Xinxiang Medical University**
+**5.** Outstanding Postgraduate Student of Xinxiang Medical University**
 
 `2021`
 
-**6. Outstanding Postgraduate Student of Xinxiang Medical University**
+**6.** Outstanding Postgraduate Student of Xinxiang Medical University**
 
 `2021`
 
-**7. Third Prize of People's Scholarship Award of Nanjing University Jinling College**
+**7.** Third Prize of People's Scholarship Award of Nanjing University Jinling College**
 
 `2020`
 
-**8. Single Prize of People's Scholarship Award of Nanjing University Jinling College**
+**8.** Single Prize of People's Scholarship Award of Nanjing University Jinling College**
 
 __·Department Awards__
 
 `2023`
 
-**1. First Prize of Academic Star of Henan Research Center for Science Journals**
+**1.** First Prize of Academic Star of Henan Research Center for Science Journals**
 
 `2021`
 
-**2. Outstanding Readers of Nanjing University Jinling College Library**
+**2.** Outstanding Readers of Nanjing University Jinling College Library**
 
 __·Academic Awards__
 
 `2024`
 
-**1. Third Prize of Outstanding Papers at the 7th Conference on Quality and Development of Chinese Journals**
+**1.** Third Prize of Outstanding Papers at the 7th Conference on Quality and Development of Chinese Journals**
 
 `2023`
 
-**2. First Prize of Outstanding Papers at the 14th International Symposium on Scientometrics and Science and Education Evaluation**
+**2.** First Prize of Outstanding Papers at the 14th International Symposium on Scientometrics and Science and Education Evaluation**
 
 `2023`
 
@@ -370,23 +371,23 @@ __·Professional Awards__
 
 `2019`
  
-**1. Third Prize of the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province**
+**1.** Third Prize of the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province**
 
 `2018`
 
-**2. Third Prize of the 9th Blue Bridge Cup C/C++ Programming in Jiangsu Province**
+**2.** Third Prize of the 9th Blue Bridge Cup C/C++ Programming in Jiangsu Province**
 
 ## Professional Skills
 
-**1. English CET-6**
+**1.** English CET-6**
 
-**2. Jiangsu Province Computer Level 2 - Excellent**
+**2.** Jiangsu Province Computer Level 2 - Excellent**
 
-**3. IOP Trusted Reviewer Certification**
+**3.** IOP Trusted Reviewer Certification**
 
-**4. Project Management Engineer (RSE-PM)**
+**4.** Project Management Engineer (RSE-PM)**
 
-**5. Information Security - Penetration Test Engineer (CISP-PTE)**
+**5.** Information Security - Penetration Test Engineer (CISP-PTE)**
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
