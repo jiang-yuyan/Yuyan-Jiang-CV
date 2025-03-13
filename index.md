@@ -4,8 +4,6 @@ title: Yuyan Jiang
 ---
 # Yuyan Jiang
 
-Phd Student.
-
 <div id="webaddress">
 <text>Lanzhou, China</text>
 | <a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
@@ -47,10 +45,14 @@ Information Management and Information Systems
 
 ## Academic Role
 __Society Members__
--	_Specialized Committee on Scientometrics and Information Metrology of China_
+
+`2022 - now`
+_Specialized Committee on Scientometrics and Information Metrology of China_
 
 __Editorial Review Board__
-- _Health Informatics Journal  (SCI)_
+
+`2025 - now`
+_Health Informatics Journal  (SCI)_
 
 __Reviewer__
 - _Journal of Medical Internet Research (SCI)_
