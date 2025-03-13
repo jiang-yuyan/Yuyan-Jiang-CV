@@ -3,6 +3,7 @@ layout: cv
 title: Yuyan Jiang
 ---
 # Yuyan Jiang
+
 Phd Student.
 
 <div id="webaddress">
@@ -18,7 +19,16 @@ Indonesian, speaks native Bahasa & intermediate English. Passionate as an applic
 
 Since 2018, I've successfully delivered automation-based innovation to solve business problems for more than 10 professional projects. Now I'm focused on infrastructure & automation by implementing the DevOps culture to improve software engineer productivity. 
 
-### Technical Skill
+## Education
+
+`2024 - 2027`
+__University of Chinese Academy of Sciences__. PhD, Information Science
+
+`2021 - 2024`
+__Xinxiang Medical University__. MPhil, Library, Information and Archives Management
+
+`2017 - 2021`
+__Nanjing University Jinling College__. Bachelor's degree, Information Management and Information Systems### Technical Skill
 
 AWS, GCP, Linux VM, Windows Server, Debian, CentOS, Docker, Kubernetes, MySQL, PostgreSQL, Git, Python, Java (Groovy), Jenkins, Gitlab CI, GitHub Actions, Helm, Kustomize, Terraform.
 
@@ -96,19 +106,6 @@ Reach 8500+ Reader (per 2023/01/26) under CodeX publication
 
 `Mar 2021`
 [DevOps Engineering on AWS](https://1drv.ms/b/s!AgiuQdtA6DaqkRFlSnO8rKrDO8iQ?e=htxgE9), *from AWS*
-
-
-
-## Education
-
-`2024 - 2027`
-__University of Chinese Academy of Sciences__. PhD, Information Science
-
-`2016 - 2020`
-__Xinxiang Medical University__. MPhil, Library, Information and Archives Management
-
-`2016 - 2020`
-__Nanjing University Jinling College__. Bachelor's degree, Information Management and Information Systems
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
