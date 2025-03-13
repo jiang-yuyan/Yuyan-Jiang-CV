@@ -153,37 +153,37 @@ __Host__
 
 `2022-2024`
 
-**1.** Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)**
+**1.** Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)
 
 __Participation__
 
 `2024-2027`
 
-**1.** General Project of National Social Science Fund (23BTQ085)**
+**1.** General Project of National Social Science Fund (23BTQ085)
 
 `2019-2023`
 
-**2.** General Project of National Social Science Fund (19BTQ087)**
+**2.** General Project of National Social Science Fund (19BTQ087)
 
 `2024-2026`
 
-**3.** Major Project of Henan Provincial Department of Education (2024-JCZD-23)**
+**3.** Major Project of Henan Provincial Department of Education (2024-JCZD-23)
 
 `2024-`
 
-**4.** Intellectual Property Program of Gansu Province(24ZSCQ022)**
+**4.** Intellectual Property Program of Gansu Province(24ZSCQ022)
 
 `2024-`
 
-**5.** Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**
+**5.** Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas
 
 `2019-2021`
 
-**6.** Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)**
+**6.** Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)
 
 `2023-2023`
 
-**7.** Project of Society of Scientific and Technological Periodicals (YJH202315)**
+**7.** Project of Society of Scientific and Technological Periodicals (YJH202315)
 
 ## Publications
 
