@@ -42,12 +42,17 @@ Information Management and Information Systems
 
 ## Research Direction
 
-- _1.	Scientometrics_
-- _2.	Journal Publishing_
-- _3.	Open Science & Scientific Data_
-- _4.	Peer Review & Research Ethic_
-- _5.	Digital Humanity_
-- _6.	Digital Library & Reading Promotion_
+_1.	Scientometrics_
+
+_2.	Journal Publishing_
+
+_3.	Open Science & Scientific Data_
+
+_4.	Peer Review & Research Ethic_
+
+_5.	Digital Humanity_
+
+_6.	Digital Library & Reading Promotion_
 
 ## Academic Role
 __Society Members__
@@ -61,42 +66,68 @@ __Editorial Review Board__
 _Health Informatics Journal  (SCI)_
 
 __Reviewer__
-- _Journal of Medical Internet Research (SCI)_
-- _JMIR mHealth and uHealth (SCI)_
-- _JMIR Public Health and Surveillance (SCI)_
-- _JMIR Serious Games (SCI)_
-- _Journal of the Medical Library Association (SSCI)_
-- _Information Research (SSCI)_
-- _Insights - the USKG Journal (ESCI、Scopus)_
-- _Interactive Journal of Medical Research (ESCI、Scopus)_
-- _JMIR Medical Education (ESCI、Scopus)_
-- _JMIR Aging (ESCI、Scopus)_
-- _JMIR Cancer (ESCI、Scopus)_
-- _JMIR Infodemiology (ESCI、Scopus)_
-- _JMIR Formative Research (ESCI、Scopus)_
-- _Online Journal of Public Health Informatics (ESCI、Scopus)_
-- _COLLNET Journal of Scientometrics and Information Management (ESCI)_
-- _Research Integrity and Peer Review (ESCI)_
-- _Journal of Hospital Librarianship (Scopus)_
-- _Iberoamerican Journal of Science Measurement and Communication (Scopus)_
-- _Issues in Science and Technology Librarianship (Scopus)_
-- _Asian/Pacific Island Nursing Journal (Scopus)_
-- _JMIR Cardio (Scopus)_
-- _JMIR Dermatology (Scopus)_
-- _Journal of Librarianship and Scholarly Communication (Scopus)_
-- _JMIR Data_
-- _REVUE DES SCIENCES DE L’ INFORMATION_
-- _IP Indian Journal of Library Science and Information Technology_
-- _International Journal of Library Information Networks and Knowledge_
-- _Berkala Ilmu Perpustakaan dan Informasi_
-- _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
-## Professional Experience
+_Journal of Medical Internet Research (SCI)_
 
-`Nov 2021 - Now`
-__DevOps Engineer__, Gojek - GoTo Financial
+_JMIR mHealth and uHealth (SCI)_
 
-Part Commerce Enablement - Developer Experience (CE DevX) Team. We provide cloud infrastructure platform for CE products and engineers at scale.
+_JMIR Public Health and Surveillance (SCI)_
+
+_JMIR Serious Games (SCI)_
+
+_Journal of the Medical Library Association (SSCI)_
+
+_Information Research (SSCI)_
+
+_Insights - the USKG Journal (ESCI、Scopus)_
+
+_Interactive Journal of Medical Research (ESCI、Scopus)_
+
+_JMIR Medical Education (ESCI、Scopus)_
+
+_JMIR Aging (ESCI、Scopus)_
+
+_JMIR Cancer (ESCI、Scopus)_
+
+_JMIR Infodemiology (ESCI、Scopus)_
+
+_JMIR Formative Research (ESCI、Scopus)_
+
+_Online Journal of Public Health Informatics (ESCI、Scopus)_
+
+_COLLNET Journal of Scientometrics and Information Management (ESCI)_
+
+_Research Integrity and Peer Review (ESCI)_
+
+_Journal of Hospital Librarianship (Scopus)_
+
+_Iberoamerican Journal of Science Measurement and Communication (Scopus)_
+
+_Issues in Science and Technology Librarianship (Scopus)_
+
+_Asian/Pacific Island Nursing Journal (Scopus)_
+
+_JMIR Cardio (Scopus)_
+
+_JMIR Dermatology (Scopus)_
+
+_Journal of Librarianship and Scholarly Communication (Scopus)_
+
+_JMIR Data_
+
+_REVUE DES SCIENCES DE L’ INFORMATION_
+
+_IP Indian Journal of Library Science and Information Technology_
+
+_International Journal of Library Information Networks and Knowledge_
+
+_Berkala Ilmu Perpustakaan dan Informasi_
+
+_Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
+
+## Publication
+
+[1] __Jiang Y__, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
 
 Responsibilities:
 - 1) Plan and execute cloud cost saving activity
