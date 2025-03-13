@@ -126,52 +126,74 @@ _Berkala Ilmu Perpustakaan dan Informasi_
 _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
 
 ## Publication
+__SCI SSCI AHCI__
 
 [1] __Jiang Y__, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
 
-Responsibilities:
-- 1) Plan and execute cloud cost saving activity
-- 2) Lead and organize sharing session for CE DevX
-- 3) Manage Terraform, Hashicorp Vault, and Helm Chart templating
-- 4) Maintain multicloud Kubernetes cluster, Gitlab CI pipeline & runners 
+[2] __Jiang Y__, Liu X, Wang L The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. ***Journal of Scholarly Publishing***, 2025, 56(1): 60-78.
 
-Achivements:
-- 1) Reduce AWS infra cost for development up to 50% on an hourly basis
-- 2) End-to-end implementation of Hashicorp Vault with Operator pattern
-- 3) PoC and Implementation for reverse IaC to legacy infrastructure
+[3] __Jiang Y__, Liu X, Zhang Z, et al. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. ***Journal of Medical Internet Research***, 2024, 26: e55121.
 
-`Mar 2020 - Oct 2021`
-__Release Engineer__, Pegipegi
+[4] __Jiang Y__, Liu X. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2024: 01655515241263545.
 
-Part of core functional team. Focus on software engineering concerning compilation, assembly, and delivery of source code into finished products or other software components.
+[5] __Jiang Y__, Liu X. A construction and empirical research of the journal disruption index based on open citation data[J]. ***Scientometrics***, 2023, 128(7): 3935-3958.
 
-Responsibilities:
-- 1) Research & PoC tools that supporting DevOps culture implementation
-- 2) Manage Jenkins pipeline & runner on multicloud environment
-- 3) Maintain Kubernetes cluster & Atlassian Bitbucket repository
+[6] __Jiang Y__, Liu X. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. ***Sustainability***, 2023, 15(2): 969.
 
-Achivements:
-- 1) PoC & Implementation for Jenkins on top of Kubernetes
-- 2) Refactor Pipeline from Jenkins-file to Jenkins Shared Library
-- 3) Create multicloud support for deployment pipeline
-- 4) PoC Phabricator for monorepo implementation
+__CSSCI (Chinese Social Science Citation Index)__
 
-`Mar 2018 - Feb 2020`
-__Data Center Staff__, Bina Nusantara - IT Division
+[1] Liu X, __Jiang Y*__. Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2025, Accept.
 
-Collaborate in Data Center & IT Infrastructure group to Help Binus IT Operational Process. 
+中文：刘雪立，**姜育彦***. 基于引证数据来源优化的期刊颠覆性指数及其实证研究[J].**中国科技期刊研究**, 2025, 已录用.
 
-Responsibilities:
-- 1) Research & PoC tools for creating automation/integration
-- 2) Support data analyst & data center infrastructure team task
-- 3) Provide ETL & data report for PDDikti &/ University reporting
-- 4) Support application & infra troubleshooting in production level
+[2] Lu Y, __Jiang Y__. Zhang Y, Zheng J, Liu X, Fang H. Beware of the Predatory Distortion of Journals in the Open Access Environment [J]. ***Acta Editologica***, 2025, Accept.
 
-Achivements:
-- 1) Pioneer of QR-based event registration system, [used on national-scale event](https://binus.ac.id/2019/01/sarasehan-dialog-nasional-bersama-menteri-ristekdikti-republik-nasional/)
-- 2) Create tools & scripts to automate data analyst reporting processes
-- 3) Develop WiFi debugging tools to help network-infra team
-- 4) Integrate Windows AD with physical facilities (access door, and WiFi SSO)
+中文：卢颖超, **姜育彦**, 张亚杰, 郑嘉祺, 刘雪立, 方红玲. 警惕开放获取环境下期刊的掠夺性畸变[J].**编辑学报**, 2025, 已录用.
+
+[3] Cao J, Gao J, __Jiang Y__, Zhou Z. Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(12):1732-1743.
+
+中文：曹金磊，高健，**姜育彦**，周志新. 国际期刊撤销我国高校学者论文特征及原因分析[J].**中国科技期刊研究**, 2024, 35(12):1732-1743.
+
+[4] Zhang Z, Yang X, Liu X, __Jiang Y__. Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(11):1611-1618.
+
+[5] Wang L, Liu X, __Jiang Y__. Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(7): 982-994
+
+[6] __Jiang Y__, Wang L, Liu X. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(8): 1060-1068
+
+中文：姜育彦, 王丽云, 刘雪立. SCIE收录的我国科技期刊的创新性评价：基于颠覆性指数的实证研究[J]. 中国科技期刊研究, 2023, 34(8):1060-1068.
+
+[7] Zhang Y, __Jiang Y__, Fang H. Research progress on interdisciplinary evaluation indicators of scientific journals[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(7):944-952.
+
+[8] __Jiang Y, Liu X. The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers[J]. Library and Information Service, 2023, 67(3): 96-105.
+
+[9] __Jiang Y, Liu X. Open peer review: models, technologies, problems and countermeasures[J]. Chinese Journal of Scientific and Technical Periodicals, 2022, 33(9): 1196-1205.
+
+[10] __Jiang Y, Liu X. An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research [J]. Chinese Journal of Scientific and Technical Periodicals, 2022, 33(7): 965-972.
+
+• 	CSTPCD (China Scientific and Technical Papers and Citations Database)
+
+[1] Jiang Y, Liu X. Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example [J]. Digital Library Forum, 2022(3): 47-52.
+
+中文: 姜育彦, 刘雪立. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. 数字图书馆论坛, 2022(3): 47-52.
+
+• 	Scopus 
+
+[1] Jiang Y, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity [J]. Journal of Library and Information Science in Agriculture, 2020, 32(6): 23-33.
+
+[2] Yu H, Li Z, Jiang Y. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. Big Data and Security. 2020, 1210: 417-428.
+
+• 	Other (Chinese Journal)
+[1] Jiang Y, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. Digital & Micrographic Imaging,2022(1):37-40.
+
+[2] Jiang Y, Li Y. An analysis of the collection construction model of university libraries driven by reader behavior data [J]. Digital & Micrographic Imaging, 2021(4):39-42.
+
+[3] Jiang Y, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years [J]. Technology and Economic Guide, 2020, 28(5):7-9
+
+[4] Li Y, Jiang Y. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation [J]. Policy & Scientific Consult,2021(6):22-24.
+[1] 姜育彦, 李雅茹. 基于馆藏题录分词索引的阅读推广新模式. 数字与缩微影像,2022(1):37-40.
+[2] 姜育彦, 李雅茹. 读者行为数据驱动的高校图书馆馆藏建设模式探析. 数字与缩微影像,2022(1):37-40.
+[3] 李雅茹, 姜育彦. 双创背景下独立学院创客空间建设模式思考[J].科学咨询, 2021(6):22-24.
+[4] 姜育彦, 李雅茹.近五年我国竞争情报文献研究热点研究分析[J].科技经济导刊, 2020, 28(5):7-9.
 
 <!-- <div style="page-break-after: always;"></div> -->
 ## Activities
