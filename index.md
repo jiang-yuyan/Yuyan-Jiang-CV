@@ -428,7 +428,7 @@ __·2020__
 **Tag**：Scopus    
 **Chinese**：	基于数字人文视角的“情感——时空”模型探析
 
-[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
+[**Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry**](https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32)  
 **Source**：*Big Data and Security*    
 **Year**：2020    
 **Volume**：1210    
