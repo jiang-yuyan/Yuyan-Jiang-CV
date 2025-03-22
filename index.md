@@ -189,7 +189,14 @@ __·Participation__
 
 __·SCI & SSCI & AHCI__
 
-[1] __Jiang Y__, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.[[HTML]](https://www.jmir.org/2025/1/e59598)
+[1] 
+[**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
+**Source**：*Journal of Medical Internet Research*    
+**Year**：2025    
+**Volume**：27    
+**Issue**：-    
+**Page**：e59598    
+**Author**：__Jiang Y__, Liu X, Wang L.
 
 [2] __Jiang Y__, Liu X, Wang L The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. ***Journal of Scholarly Publishing***, 2025, 56(1): 60-78.
 
