@@ -369,7 +369,7 @@ __·2022__
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：	科技期刊的创新性评价指标——期刊颠覆性指数(JDI)及其实证研究
 
-[**Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example**]()  
+[**Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example**](https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1)  
 **Source**：*Digital Library Forum*    
 **Source-Chinese**：《数字图书馆论坛》    
 **Year**：2022    
