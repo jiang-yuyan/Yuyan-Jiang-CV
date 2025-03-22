@@ -454,8 +454,8 @@ _Note: All categorised results are based on the highest of the results in the ma
 ## Academic Exchange
 __·2024__
 
-**Conference**：_The 7th Conference on Quality and Development of Chinese Journals_  
-**Conference-Chinese**：第七届中国期刊质量与发展大会  
+**The 7th Conference on Quality and Development of Chinese Journals**  
+**Conf-Chinese**：第七届中国期刊质量与发展大会  
 **Role**：Reporter    
 **Time**：2024-12    
 **Location**：Hangzhou, China
