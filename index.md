@@ -209,45 +209,56 @@ __·2025__
 
 [**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**]()  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source—Chinese**：《中国科技期刊研究》    
 **Year**：2025    
 **Volume**：35    
 **Issue**：3    
 **Page**：Accept    
 **Author**：Liu X, __Jiang Y__#    
-**Tag**：CSSCI    
+**Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
 
 [**Beware of the Predatory Distortion of Journals in the Open Access Environment**]()  
 **Source**：*Acta Editologica*    
+**Source—Chinese**：《编辑学报》   
 **Year**：2025    
 **Volume**：37    
 **Issue**：2    
 **Page**：Accept    
-**Author**：Lu Y, __Jiang Y__. Zhang Y, Zheng J, Liu X, Fang H    
-**Tag**：CSSCI 
+**Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
+**Tag**：CSSCI, PKU, CSTPCD   
 **Chinese**：警惕开放获取环境下期刊的掠夺性畸变
 
 __·2024__
 
-[3] __Jiang Y__, Liu X, Zhang Z, et al. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. ***Journal of Medical Internet Research***, 2024, 26: e55121.
+[**Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation**](https://www.jmir.org/2024/1/e55121)  
+**Source**：*Journal of Medical Internet Research*    
+**Year**：2024    
+**Volume**：26    
+**Issue**：-    
+**Page**：e55121    
+**Author**：__Jiang Y__, Liu X, Wang L    
+**Tag**：SCI, JIF = 5.8, CAS Q2 Top, JCR Q1, JCI Q1  
 
-[4] __Jiang Y__, Liu X. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2024: 01655515241263545.
-
-[5] __Jiang Y__, Liu X. A construction and empirical research of the journal disruption index based on open citation data[J]. ***Scientometrics***, 2023, 128(7): 3935-3958.
-
-[6] __Jiang Y__, Liu X. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. ***Sustainability***, 2023, 15(2): 969.
-
-__·CSSCI (Chinese Social Science Citation Index)__
-
-[1] Liu X, __Jiang Y#__. Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2025, Accept.
-
-[2] Lu Y, __Jiang Y__. Zhang Y, Zheng J, Liu X, Fang H. Beware of the Predatory Distortion of Journals in the Open Access Environment [J]. ***Acta Editologica***, 2025, Accept.
+[**A new method of calculating the disruption index based on open citation data**](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545)  
+**Source**：*Journal of Information Science*    
+**Year**：2024    
+**Volume**：26    
+**Issue**：-    
+**Page**：01655515241263545 (Online First)    
+**Author**：__Jiang Y__, Liu X    
+**Tag**：SCI, JIF = 1.8, CAS Q4, JCR Q2, JCI Q2, AJG 2 Star 
 
 [3] Cao J, Gao J, __Jiang Y__, Zhou Z. Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(12):1732-1743.
 
 [4] Zhang Z, Yang X, Liu X, __Jiang Y__. Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(11):1611-1618.
 
 [5] Wang L, Liu X, __Jiang Y__. Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(7): 982-994
+
+[5] __Jiang Y__, Liu X. A construction and empirical research of the journal disruption index based on open citation data[J]. ***Scientometrics***, 2023, 128(7): 3935-3958.
+
+[6] __Jiang Y__, Liu X. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. ***Sustainability***, 2023, 15(2): 969.
+
 
 [6] __Jiang Y__, Wang L, Liu X. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(8): 1060-1068
 
