@@ -417,7 +417,7 @@ __·2021__
 
 __·2020__
 
-[** An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
+[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
 **Source**：*Journal of Library and Information Science in Agriculture*    
 **Source-Chinese**：《农业图书情报学报》    
 **Year**：2020    
@@ -428,7 +428,7 @@ __·2020__
 **Tag**：Scopus    
 **Chinese**：	基于数字人文视角的“情感——时空”模型探析
 
-[** An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
+[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
 **Source**：*Big Data and Security*    
 **Year**：2020    
 **Volume**：1210    
