@@ -452,13 +452,13 @@ _Note: All categorised results are based on the highest of the results in the ma
 
 <!-- <div style="page-break-after: always;"></div> -->
 ## Academic Exchange
-__·Report__
+__·2024__
 
-`Dec 2024`
-
-**1.** The 7th Conference on Quality and Development of Chinese Journals
-
-`Now 2024`
+**Conference**：**The 7th Conference on Quality and Development of Chinese Journals**  
+**Conference-Chinese**：第七届中国期刊质量与发展大会  
+**Role**：Reporter    
+**Time**：2024-12    
+**Location**：Hangzhou, China
 
 **2.** The 15th International Symposium on Scientometrics and Science and Education Evaluation
 
