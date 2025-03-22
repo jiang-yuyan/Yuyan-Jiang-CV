@@ -312,36 +312,141 @@ __·2023__
 **Author**：__Jiang Y__, Liu X    
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
-[6] __Jiang Y__, Wang L, Liu X. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(8): 1060-1068
+[**Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2023    
+**Volume**：34    
+**Issue**：8    
+**Page**：1060-1068    
+**Author**：__Jiang Y__, Wang L, Liu X    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：SCIE收录的我国科技期刊创新性评价：基于颠覆性指数的实证研究
 
-[7] Zhang Y, __Jiang Y__, Fang H. Research progress on interdisciplinary evaluation indicators of scientific journals[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(7):944-952.
+[**Research progress on interdisciplinary evaluation indicators of scientific journals**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2023    
+**Volume**：34    
+**Issue**：7    
+**Page**：944-952    
+**Author**：Zhang Y, __Jiang Y__, Fang H    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：科技期刊跨学科评价指标的研究进展及展望
 
-[8] __Jiang Y__, Liu X. The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers[J]. ***Library and Information Service, 2023***, 67(3): 96-105.
+[**The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers**]()  
+**Source**：*Library and Information Service*    
+**Source-Chinese**：《图书情报工作》    
+**Year**：2023    
+**Volume**：67    
+**Issue**：3    
+**Page**：96-105    
+**Author**：__Jiang Y__, Liu X    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：	绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究   
 
 __·2022__
 
-[9] __Jiang Y__, Liu X. Open peer review: models, technologies, problems and countermeasures[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2022, 33(9): 1196-1205.
+[**Open peer review: models, technologies, problems and countermeasures**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2022    
+**Volume**：33    
+**Issue**：9    
+**Page**：1196-1205    
+**Author**：__Jiang Y__, Liu X    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：开放型同行评议：模式、技术、问题与对策
 
-[10] __Jiang Y__, Liu X. An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2022, 33(7): 965-972.
+[**An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2022    
+**Volume**：33    
+**Issue**：7    
+**Page**：965-972    
+**Author**：__Jiang Y__, Liu X    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：	科技期刊的创新性评价指标——期刊颠覆性指数(JDI)及其实证研究
 
-[1] __Jiang Y__, Liu X. Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example [J]. Digital Library Forum, 2022(3): 47-52.
+[**Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example**]()  
+**Source**：*Digital Library Forum*    
+**Source-Chinese**：《数字图书馆论坛》    
+**Year**：2022    
+**Volume**：-    
+**Issue**：3    
+**Page**：47-52    
+**Author**：__Jiang Y__, Liu X    
+**Tag**：CSSCI(E), CSTPCD    
+**Chinese**：	数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例
 
-[1] __Jiang Y__, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. ***Digital & Micrographic Imaging***, 2022(1):37-40.
+[**A new model for promoting reading based on word segmentation indexing of collection titles**]()  
+**Source**：*Digital & Micrographic Imaging*    
+**Source-Chinese**：《数字与缩微影像》    
+**Year**：2022    
+**Volume**：-    
+**Issue**：1    
+**Page**：37-40    
+**Author**：__Jiang Y__, Liu Y    
+**Tag**：-    
+**Chinese**：	基于馆藏题录分词索引的阅读推广新模式
 
 __·2021__
 
-[2] __Jiang Y__, Li Y. An analysis of the collection construction model of university libraries driven by reader behavior data [J]. ***Digital & Micrographic Imaging***, 2021(4):39-42.
+[**An analysis of the collection construction model of university libraries driven by reader behavior data**]()  
+**Source**：*Digital & Micrographic Imaging*    
+**Source-Chinese**：《数字与缩微影像》    
+**Year**：2021    
+**Volume**：-    
+**Issue**：4    
+**Page**：39-42    
+**Author**：__Jiang Y__, Liu Y    
+**Tag**：-    
+**Chinese**：	读者行为数据驱动的高校图书馆馆藏建设模式探析
 
-[4] Li Y, __Jiang Y__. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation [J]. ***Policy & Scientific Consult***, 2021(6):22-24.
+[**Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation**]()  
+**Source**：*Policy & Scientific Consult*    
+**Source-Chinese**：《科学咨询(科技·管理)》    
+**Year**：2021    
+**Volume**：-    
+**Issue**：6    
+**Page**：22-24    
+**Author**：Li Y, __Jiang Y__    
+**Tag**：-    
+**Chinese**：	双创背景下独立学院创客空间建设模式思考
 
 __·2020__
 
-[1] __Jiang Y__, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity [J]. ***Journal of Library and Information Science in Agriculture***, 2020, 32(6): 23-33.
+[** An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
+**Source**：*Journal of Library and Information Science in Agriculture*    
+**Source-Chinese**：《农业图书情报学报》    
+**Year**：2020    
+**Volume**：32    
+**Issue**：6    
+**Page**：23-33    
+**Author**：__Jiang Y__, Li Y    
+**Tag**：Scopus    
+**Chinese**：	基于数字人文视角的“情感——时空”模型探析
 
-[2] Yu H, Li Z, Jiang Y. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. ***Big Data and Security***. 2020, 1210: 417-428.
+[** An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
+**Source**：*Big Data and Security*    
+**Year**：2020    
+**Volume**：1210    
+**Issue**：-    
+**Page**：417-428    
+**Author**：Yu H, Li Z,__Jiang Y__    
+**Tag**：Scopus
 
-[3] __Jiang Y__, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years [J]. ***Technology and Economic Guide***, 2020, 28(5):7-9
-
+[**Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years**]()  
+**Source**：*Technology and Economic Guide*    
+**Source-Chinese**：《科技经济导刊》    
+**Year**：2020    
+**Volume**：28    
+**Issue**：5    
+**Page**：7-9    
+**Author**：__Jiang Y__, Li Y    
+**Tag**：-    
+**Chinese**：	近五年我国竞争情报文献研究热点研究分析
 
 _Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
 
