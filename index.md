@@ -2,7 +2,7 @@
 layout: cv
 title: Yuyan Jiang
 ---
-# Yuyan Jiang
+# Yuyan Jiang **|** [姜育彦](sy.md)
 
 <div id="webaddress">
 <text>Lanzhou, China</text>
