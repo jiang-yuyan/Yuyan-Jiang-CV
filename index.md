@@ -187,7 +187,15 @@ __·Participation__
 
 ## Publications
 
-__·Ongoing__
+__·Submission & Reviewing__
+
+**_Humanities and Social Sciences Communications_：Peer Review R2**   
+
+**_Journal of Scholarly Publishing_：Peer Review R1**   
+
+**_Malaysian Journal of Library and Information Science_：Peer Review R1**   
+
+**_Journal of the Medical Library Association_：Submission**   
 
 __·2025__
 
@@ -310,29 +318,30 @@ __·2023__
 
 [8] __Jiang Y__, Liu X. The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers[J]. ***Library and Information Service, 2023***, 67(3): 96-105.
 
+__·2022__
+
 [9] __Jiang Y__, Liu X. Open peer review: models, technologies, problems and countermeasures[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2022, 33(9): 1196-1205.
 
 [10] __Jiang Y__, Liu X. An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2022, 33(7): 965-972.
 
-__·CSTPCD (China Scientific and Technical Papers and Citations Database)__
-
 [1] __Jiang Y__, Liu X. Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example [J]. Digital Library Forum, 2022(3): 47-52.
 
-__·Scopus__
+[1] __Jiang Y__, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. ***Digital & Micrographic Imaging***, 2022(1):37-40.
+
+__·2021__
+
+[2] __Jiang Y__, Li Y. An analysis of the collection construction model of university libraries driven by reader behavior data [J]. ***Digital & Micrographic Imaging***, 2021(4):39-42.
+
+[4] Li Y, __Jiang Y__. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation [J]. ***Policy & Scientific Consult***, 2021(6):22-24.
+
+__·2020__
 
 [1] __Jiang Y__, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity [J]. ***Journal of Library and Information Science in Agriculture***, 2020, 32(6): 23-33.
 
 [2] Yu H, Li Z, Jiang Y. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. ***Big Data and Security***. 2020, 1210: 417-428.
 
-__·Other (Chinese Journal)__
-
-[1] __Jiang Y__, Li Y. A new model for promoting reading based on word segmentation indexing of collection titles. [J]. ***Digital & Micrographic Imaging***, 2022(1):37-40.
-
-[2] __Jiang Y__, Li Y. An analysis of the collection construction model of university libraries driven by reader behavior data [J]. ***Digital & Micrographic Imaging***, 2021(4):39-42.
-
 [3] __Jiang Y__, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years [J]. ***Technology and Economic Guide***, 2020, 28(5):7-9
 
-[4] Li Y, __Jiang Y__. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation [J]. ***Policy & Scientific Consult***, 2021(6):22-24.
 
 _Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
 
