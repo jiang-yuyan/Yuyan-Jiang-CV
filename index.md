@@ -187,6 +187,8 @@ __·Participation__
 
 ## Publications
 
+__·Ongoing__
+
 __·2025__
 
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
@@ -209,9 +211,9 @@ __·2025__
 
 [**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**]()  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source—Chinese**：《中国科技期刊研究》    
+**Source-Chinese**：《中国科技期刊研究》    
 **Year**：2025    
-**Volume**：35    
+**Volume**：36    
 **Issue**：3    
 **Page**：Accept    
 **Author**：Liu X, __Jiang Y__#    
@@ -220,7 +222,7 @@ __·2025__
 
 [**Beware of the Predatory Distortion of Journals in the Open Access Environment**]()  
 **Source**：*Acta Editologica*    
-**Source—Chinese**：《编辑学报》   
+**Source-Chinese**：《编辑学报》   
 **Year**：2025    
 **Volume**：37    
 **Issue**：2    
@@ -249,16 +251,58 @@ __·2024__
 **Author**：__Jiang Y__, Liu X    
 **Tag**：SCI, JIF = 1.8, CAS Q4, JCR Q2, JCI Q2, AJG 2 Star 
 
-[3] Cao J, Gao J, __Jiang Y__, Zhou Z. Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(12):1732-1743.
+[**Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2024    
+**Volume**：35    
+**Issue**：12    
+**Page**：1732-1743    
+**Author**：Cao J, Gao J, __Jiang Y__, Zhou Z    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：我国高校学者被撤销论文特征及原因分析   
 
-[4] Zhang Z, Yang X, Liu X, __Jiang Y__. Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(11):1611-1618.
+[**Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2024    
+**Volume**：35    
+**Issue**：11    
+**Page**：1611-1618    
+**Author**：Zhang Z, Yang X, Liu X, __Jiang Y__    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：作者国际化水平对我国SCI期刊影响力和颠覆性创新的影响
 
-[5] Wang L, Liu X, __Jiang Y__. Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2024, 35(7): 982-994
+[**Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2024    
+**Volume**：35    
+**Issue**：7    
+**Page**：982-994    
+**Author**：Wang L, Liu X, __Jiang Y__    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：	SCI来源期刊载文量和影响因子的动态变化及载文量对影响因子的影响
 
-[5] __Jiang Y__, Liu X. A construction and empirical research of the journal disruption index based on open citation data[J]. ***Scientometrics***, 2023, 128(7): 3935-3958.
+__·2023__
 
-[6] __Jiang Y__, Liu X. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. ***Sustainability***, 2023, 15(2): 969.
+[**A construction and empirical research of the journal disruption index based on open citation data**](https://link.springer.com/article/10.1007/s11192-023-04737-y)  
+**Source**：*Scientometrics*    
+**Year**：2023    
+**Volume**：128    
+**Issue**：7    
+**Page**：3935-3958    
+**Author**：__Jiang Y__, Liu X    
+**Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q1, JCI Q1, AJG Star 2   
 
+[**A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Securit**](https://www.mdpi.com/2071-1050/15/2/969)  
+**Source**：*Sustainability*    
+**Year**：2023    
+**Volume**：15    
+**Issue**：2    
+**Page**：969    
+**Author**：__Jiang Y__, Liu X    
+**Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
 [6] __Jiang Y__, Wang L, Liu X. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index [J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2023, 34(8): 1060-1068
 
