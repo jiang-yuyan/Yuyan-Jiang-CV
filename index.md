@@ -417,7 +417,7 @@ __·2021__
 
 __·2020__
 
-[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**]()  
+[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](http://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
 **Source**：*Journal of Library and Information Science in Agriculture*    
 **Source-Chinese**：《农业图书情报学报》    
 **Year**：2020    
