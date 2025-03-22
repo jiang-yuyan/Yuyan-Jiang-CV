@@ -207,7 +207,27 @@ __·2025__
 **Author**：__Jiang Y__, Liu X, Wang L    
 **Tag**：AHCI, SSCI, JIF = 1.2, CAS Q2, JCR Q1, JCI Q1 
 
-[2] __Jiang Y__, Liu X, Wang L The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. ***Journal of Scholarly Publishing***, 2025, 56(1): 60-78.
+[**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Year**：2025    
+**Volume**：35    
+**Issue**：3    
+**Page**：Accept    
+**Author**：Liu X, __Jiang Y__#    
+**Tag**：CSSCI    
+**Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
+
+[**Beware of the Predatory Distortion of Journals in the Open Access Environment**]()  
+**Source**：*Acta Editologica*    
+**Year**：2025    
+**Volume**：37    
+**Issue**：2    
+**Page**：Accept    
+**Author**：Lu Y, __Jiang Y__. Zhang Y, Zheng J, Liu X, Fang H    
+**Tag**：CSSCI 
+**Chinese**：警惕开放获取环境下期刊的掠夺性畸变
+
+__·2024__
 
 [3] __Jiang Y__, Liu X, Zhang Z, et al. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. ***Journal of Medical Internet Research***, 2024, 26: e55121.
 
