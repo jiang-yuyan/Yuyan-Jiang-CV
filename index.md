@@ -195,10 +195,17 @@ __·2025__
 **Volume**：27    
 **Issue**：-    
 **Page**：e59598    
-**Author**：__Jiang Y__, Liu X, Wang L
-**Tag**：SCI, JIF = 5.8, CAS Q2Top, JCR Q1
+**Author**：__Jiang Y__, Liu X, Wang L    
+**Tag**：SCI, JIF = 5.8, CAS Q2 Top, JCR Q1, JCI Q1    
 
----
+[**The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals**](https://utppublishing.com/doi/10.3138/jsp-2023-0056)  
+**Source**：*Journal of Scholarly Publishing*    
+**Year**：2025    
+**Volume**：56    
+**Issue**：1    
+**Page**：60-78    
+**Author**：__Jiang Y__, Liu X, Wang L    
+**Tag**：AHCI, SSCI, JIF = 1.2, CAS Q2, JCR Q1, JCI Q1 
 
 [2] __Jiang Y__, Liu X, Wang L The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. ***Journal of Scholarly Publishing***, 2025, 56(1): 60-78.
 
@@ -251,6 +258,8 @@ __·Other (Chinese Journal)__
 [3] __Jiang Y__, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years [J]. ***Technology and Economic Guide***, 2020, 28(5):7-9
 
 [4] Li Y, __Jiang Y__. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation [J]. ***Policy & Scientific Consult***, 2021(6):22-24.
+
+_Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
 
 <!-- <div style="page-break-after: always;"></div> -->
 ## Academic Exchange
