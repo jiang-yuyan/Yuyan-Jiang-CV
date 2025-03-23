@@ -6,9 +6,10 @@ title: Yuyan Jiang
 
 <div id="webaddress">
 <text>Lanzhou, China </text>
-| <a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
-| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-| <text>WeChat & Tel: +86 13372007365</text>
+| <a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a> 
+:email: | <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
+:mortar_board: | <text>WeChat & Tel: +86 13372007365</text>
+:iphone:
 </div>
 
 ## Education
@@ -16,21 +17,21 @@ title: Yuyan Jiang
 `2024 - 2027`
 __University of Chinese Academy of Sciences__
 
-PhD
+PhD :man:
 
 Information Science
 
 `2021 - 2024`
 __Xinxiang Medical University__
 
-MPhil
+MPhil :boy:
 
 Library, Information and Archives Management
 
 `2017 - 2021`
 __Nanjing University Jinling College__
 
-Bachelor's degree
+Bachelor :baby:
 
 Information Management and Information Systems
 
@@ -605,7 +606,7 @@ __·Professional Awards__
 
 `2018`
 
-**2.** Third Prize of the 9th Blue Bridge Cup C/C++ Programming in Jiangsu Province
+**2.** Third Prize of the 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province
 
 ## Professional Skills
 
