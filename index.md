@@ -7,9 +7,8 @@ title: Yuyan Jiang
 <div id="webaddress">
 <text>Lanzhou, China </text>
 | <a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a> 
-:email: | <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-:mortar_board: | <text>WeChat & Tel: +86 13372007365</text>
-:iphone:
+| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
+| <text>WeChat & Tel: +86 13372007365</text>
 </div>
 
 ## Education
@@ -17,21 +16,21 @@ title: Yuyan Jiang
 `2024 - 2027`
 __University of Chinese Academy of Sciences__
 
-PhD :man:
+PhD
 
 Information Science
 
 `2021 - 2024`
 __Xinxiang Medical University__
 
-MPhil :boy:
+MPhil
 
 Library, Information and Archives Management
 
 `2017 - 2021`
 __Nanjing University Jinling College__
 
-Bachelor :baby:
+Bachelor
 
 Information Management and Information Systems
 
