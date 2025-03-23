@@ -454,47 +454,69 @@ _Note: All categorised results are based on the highest of the results in the ma
 ## Academic Exchange
 __·2024__
 
-[**The 7th Conference on Quality and Development of Chinese Journals**]()  
+**Conf**：**The 7th Conference on Quality and Development of Chinese Journals**  
 **Conf-Chinese**：第七届中国期刊质量与发展大会  
 **Role**：Reporter    
 **Time**：2024-12    
-**Location**：Hangzhou, China
+**Location**：Hangzhou, Zhejiang, China    
 
-**2.** The 15th International Symposium on Scientometrics and Science and Education Evaluation
+**Conf**：**The 15th National Symposium on Scientometrics and Science and Education Evaluation**  
+**Conf-Chinese**：第十五届全国科学计量学与科教评价研讨会  
+**Role**：Reporter    
+**Time**：2024-11    
+**Location**：Zibo, Shandong, China    
 
-`Sep 2023`
+**Conf**：**Scientometrics Frontier Forum and International Journal Submission & Review Experience Exchange Meeting**  
+**Conf-Chinese**：科学计量学前沿论坛暨国际期刊投稿与评审经验交流会   
+**Role**：Participant    
+**Time**：2024-5    
+**Location**：Beijing, China    
 
-**3.** The 6th Tianfu Forum on Scientometrics and Scientific Evaluation
+__·2023__
 
-`Jun 2023`
+**Conf**：**The 6th Tianfu Forum on Scientometrics and Scientific Evaluation**  
+**Conf-Chinese**：第六届科学计量与科技评价天府论坛  
+**Role**：Reporter    
+**Time**：2023-9    
+**Location**：Chengdu, Sichuan, China    
 
-**4.** The 14th International Symposium on Scientometrics and Science and Education Evaluation
+**Conf**：**The 14th National Symposium on Scientometrics and Science and Education Evaluation**  
+**Conf-Chinese**：第十四届全国科学计量学与科教评价研讨会   
+**Role**：Reporter    
+**Time**：2023-6    
+**Location**：Taiyuan, Shanxi, China    
 
-`Sep 2022`
+**Conf**：**The 7th Youth Academic Forum on Quantitative Information Analysis**  
+**Conf-Chinese**：第七届定量信息分析青年学术论坛   
+**Role**：Participant    
+**Time**：2023-5    
+**Location**：Wuhan, Hubei, China    
 
-**5.** The 13th National Symposium on Scientometrics and Science and Education Evaluation
+**Conf**：**The 1st Science and Technology Star and Technology Management Youth Forum**  
+**Conf-Chinese**：首届科技计量与科技管理青年论坛  
+**Role**：Participant    
+**Time**：2023-5    
+**Location**：Wuhan, Hubei, China    
 
-`Aug 2022`
+**Conf**：**The 2nd Science and Technology Journal Academic Forum**  
+**Conf-Chinese**：第二届科技期刊学术论坛  
+**Role**：Participant    
+**Time**：2023-5    
+**Location**：Xian, ShannXi, China    
 
-**6.** China Intelligence Science Annual Conference
+__·2022__
 
-__·Attendance__
+**Conf**：**The 13th National Symposium on Scientometrics and Science and Education Evaluation**  
+**Conf-Chinese**：第十三届全国科学计量学与科教评价研讨会   
+**Role**：Reporter    
+**Time**：2022-9    
+**Location**：Zhengzhou, Henan, China    
 
-`May 2024`
-
-**1.** Scientometrics Frontier Forum and International Journal Submission & Review Experience Exchange Meeting
-
-`May 2023`
-
-**2.** The 7th Youth Academic Forum on Quantitative Information Analysis
-
-`May 2023`
-
-**3.** The 1st Science and Technology Star and Technology Management Youth Forum
-
-`May 2023`
-
-**4.** The 2nd Science and Technology Journal Academic Forum
+**Conf**：**China Intelligence Science Annual Conference**  
+**Conf-Chinese**：中国情报学年会   
+**Role**：Reporter    
+**Time**：2022-8    
+**Location**：Online    
 
 ## Honour
 __·National Awards__
