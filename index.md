@@ -62,8 +62,9 @@ _Health Informatics Journal  (SCI)_
 
 __·Reviewer__
 
+
 | Journal | SCI | SSCI | AHCI | ESCI | Scopus | 
-| :-----| :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 |Journal of Medical Internet Research|√| | | |√|
 
 `2025 - now`
