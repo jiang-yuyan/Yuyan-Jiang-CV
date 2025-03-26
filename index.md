@@ -52,104 +52,83 @@ Information Management and Information Systems
 ## Academic Role
 __·Society Members__
 
-`2022 - now`
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
 __·Editorial Review Board__
 
-`2025 - now`
-_Health Informatics Journal  (SCI)_
+**1.** _Health Informatics Journal_ (SCI)
 
 __·Reviewer__
 
+**1.** _Journal of Medical Internet Research_ (SCI)
 
-| Journal | SCI | SSCI | AHCI | ESCI | Scopus | 
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-|Journal of Medical Internet Research|√| | | |√|
+**2.** _JMIR mHealth and uHealth_ (SCI)
 
-`2025 - now`
-_JMIR mHealth and uHealth (SCI)_
+**3.** _JMIR Public Health and Surveillance_ (SCI)
 
-`2025 - now`
-_JMIR Public Health and Surveillance (SCI)_
+**4.** _JMIR Serious Games_ (SCI)
 
-`2025 - now`
-_JMIR Serious Games (SCI)_
+**5.** _Journal of the Medical Library Association_ (SSCI)
 
-`2025 - now`
-_Journal of the Medical Library Association (SSCI)_
+**6.** _Information Research_ (SSCI)
 
-`2025 - now`
-_Information Research (SSCI)_
+**7.** _Health Information and Libraries Journal_ (SSCI)
 
-`2025 - now`
-_Insights - the USKG Journal (ESCI、Scopus)_
+**8.** _Insights - the USKG Journal_ (ESCI、Scopus)
 
-`2024 - now`
-_Interactive Journal of Medical Research (ESCI、Scopus)_
+**9.** _Interactive Journal of Medical Research_ (ESCI、Scopus)
 
-`2024 - now`
-_JMIR Medical Education (ESCI、Scopus)_
+**10.** _JMIR Medical Education_ (ESCI、Scopus)
 
-`2025 - now`
-_JMIR Aging (ESCI、Scopus)_
+**11.** _JMIR Aging_ (ESCI、Scopus)
 
-`2025 - now`
-_JMIR Cancer (ESCI、Scopus)_
+**12.** _JMIR Cancer_ (ESCI、Scopus)
 
-`2025 - now`
-_JMIR Infodemiology (ESCI、Scopus)_
+**13.** _JMIR Infodemiology_ (ESCI、Scopus)
 
-`2025 - now`
-_JMIR Formative Research (ESCI、Scopus)_
+**14.** _JMIR Formative Research_ (ESCI、Scopus)
 
-`2025 - now`
-_Online Journal of Public Health Informatics (ESCI、Scopus)_
+**15.** _Online Journal of Public Health Informatics_ (ESCI、Scopus)
 
-`2025 - now`
-_COLLNET Journal of Scientometrics and Information Management (ESCI)_
+**16.** _COLLNET Journal of Scientometrics and Information Management_ (ESCI)
 
-`2025 - now`
-_Research Integrity and Peer Review (ESCI)_
+**17.** _Research Integrity and Peer Review_ (ESCI)
 
-`2025 - now`
-_Journal of Hospital Librarianship (Scopus)_
+**18.** _Journal of Hospital Librarianship_ (Scopus)
 
-`2025 - now`
-_Iberoamerican Journal of Science Measurement and Communication (Scopus)_
+**19.** _Revista Interamericana de Bibliotecología_ (Scopus)
 
-`2025 - now`
-_Issues in Science and Technology Librarianship (Scopus)_
+**20.** _Iberoamerican Journal of Science Measurement and Communication_ (Scopus)
 
-`2025 - now`
-_Asian/Pacific Island Nursing Journal (Scopus)_
+**21.** _Issues in Science and Technology Librarianship_ (Scopus)
 
-`2025 - now`
-_JMIR Cardio (Scopus)_
+**22.** _Asian/Pacific Island Nursing Journal_ (Scopus)
 
-`2025 - now`
-_JMIR Dermatology (Scopus)_
+**23.** _JMIR Cardio_ (Scopus)
 
-`2025 - now`
-_Journal of Librarianship and Scholarly Communication (Scopus)_
+**24.** _JMIR Dermatology_ (Scopus)
 
-`2024 - now`
-_JMIR Data_
+**25.** _Journal of Librarianship and Scholarly Communication_ (Scopus)
 
-`2025 - now`
-_REVUE DES SCIENCES DE L’ INFORMATION_
+**26.** _Folia Toruniensia_ (Scopus)
 
-`2025 - now`
-_IP Indian Journal of Library Science and Information Technology_
+**27.** _JMIR Data_
 
-`2025 - now`
-_International Journal of Library Information Networks and Knowledge_
+**28.** _REVUE DES SCIENCES DE L’ INFORMATION_
 
-`2025 - now`
-_Berkala Ilmu Perpustakaan dan Informasi_
+**29.** _IP Indian Journal of Library Science and Information Technology_
 
-`2025 - now`
-_Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
+**30.** _International Journal of Library Information Networks and Knowledge_
+
+**31.** _Berkala Ilmu Perpustakaan dan Informasi_
+
+**32.** _Edulib_
+
+**33.** _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
+
+**34.** _Pustabiblia: Journal of Library and Information Science_
+
+**35.** _Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi_
 
 ## Research Project
 __·Host__
