@@ -6,7 +6,8 @@ title: Yuyan Jiang
 
 <div id="webaddress">
 <text>Lanzhou, China </text>
-| <a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a> 
+| <a href="mailto:jiangyuyancite@163.com">Mail:jiangyuyancite@163.com</a> 
+| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
 | <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
 | <text>WeChat & Tel: +86 13372007365</text>
 </div>
@@ -60,9 +61,9 @@ __·Editorial Review Board__
 _Health Informatics Journal  (SCI)_
 
 __·Reviewer__
-
-`2024 - now`
-_Journal of Medical Internet Research (SCI)_
+| 期刊 | SCI | SSCI | AHCI | ESCI | Scopus | 
+| :-----| :-: | :-: | :-: | :-: | :-: |
+|Journal of Medical Internet Research|√| | | |√|
 
 `2025 - now`
 _JMIR mHealth and uHealth (SCI)_
