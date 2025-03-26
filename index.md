@@ -61,6 +61,7 @@ __·Editorial Review Board__
 _Health Informatics Journal  (SCI)_
 
 __·Reviewer__
+
 | 期刊 | SCI | SSCI | AHCI | ESCI | Scopus | 
 | :-----| :-: | :-: | :-: | :-: | :-: |
 |Journal of Medical Internet Research|√| | | |√|
