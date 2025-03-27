@@ -54,7 +54,7 @@ __·Society Members__
 
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
-__·Editorial Review Board__
+__·Editorial Review Board__ :blush:
 
 **1.** _Health Informatics Journal_ (SCI)
 
@@ -168,16 +168,6 @@ __·Participation__
 **7.** Project of Society of Scientific and Technological Periodicals (YJH202315)
 
 ## Publications
-
-__·Submission & Reviewing__
-
-**_Humanities and Social Sciences Communications_：Peer Review R2**   
-
-**_Journal of Scholarly Publishing_：Peer Review R1**   
-
-**_Malaysian Journal of Library and Information Science_：Peer Review R1**   
-
-**_Journal of the Medical Library Association_：Submission**   
 
 __·2025__
 
