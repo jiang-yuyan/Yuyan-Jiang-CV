@@ -6,9 +6,8 @@ title: Yuyan Jiang
 
 <div id="webaddress">
 <text>Lanzhou, China </text>
-| <a href="mailto:jiangyuyancite@163.com">Mail:jiangyuyancite@163.com</a> 
-| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
+| <a href="mailto:jiangyuyancite@163.com">📧:jiangyuyancite@163.com</a> 
+| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar👨‍🎓</a>
 | <text>WeChat & 📱: +86 13372007365</text>
 </div>
 
@@ -17,21 +16,21 @@ title: Yuyan Jiang
 `2024 - 2027`
 __University of Chinese Academy of Sciences__
 
-PhD
+PhD👨
 
 Information Science
 
 `2021 - 2024`
 __Xinxiang Medical University__
 
-MPhil
+MPhil👦
 
 Library, Information and Archives Management
 
 `2017 - 2021`
 __Nanjing University Jinling College__
 
-Bachelor
+Bachelor👶
 
 Information Management and Information Systems
 
@@ -50,15 +49,15 @@ Information Management and Information Systems
 **6.** Digital Library & Reading Promotion
 
 ## Academic Role
-__·Society Members__
+__·Society Members__ 🧑‍🎓
 
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
-__·Editorial Review Board__ :blush:
+__·Editorial Review Board__ 👨‍🔬
 
 **1.** _Health Informatics Journal_ (SCI)
 
-__·Reviewer__
+__·Reviewer__ 🕵️‍♂️
 
 **1.** _Journal of Medical Internet Research_ (SCI)
 
