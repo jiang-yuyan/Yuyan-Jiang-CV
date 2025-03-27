@@ -9,7 +9,7 @@ title: Yuyan Jiang
 | <a href="mailto:jiangyuyancite@163.com">Mail:jiangyuyancite@163.com</a> 
 | <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
 | <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-| <text>WeChat & Tel: +86 13372007365</text>
+| <text>WeChat & 📱: +86 13372007365</text>
 </div>
 
 ## Education
