@@ -1,6 +1,8 @@
 # Yuyan Jiang **|** 姜育彦
 
-Lanzhou, China | [jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) |👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) | WeChat & 📱: +86 13372007365
+Lanzhou, China **|** 📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) **|** 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) **|** WeChat & 📱: +86 13372007365
+
+[Research Project](#research-project)
 
 ## Education
 
@@ -34,18 +36,18 @@ _Specialized Committee on Scientometrics and Information Metrology of China_
 
 __·Editorial Review Board__ 👨‍🔬
 
-**1.** _Health Informatics Journal_ (SCI)
+**1.** _Health Informatics Journal**_ (SCI)
 
 __·Reviewer__ 🕵️‍♂️
 
 **Statistics:** 14 times (2024); 28 times(2025)
 
-**Medicine and Interdisciplinary**: _Journal of Medical Internet Research_ (SCI); _JMIR mHealth and uHealth_ (SCI); _JMIR Public Health and Surveillance_ (SCI);_JMIR Serious Games_ (SCI)
-; _Health Informatics Journal_ (SCI); _Interactive Journal of Medical Research_ (ESCI、Scopus); _JMIR Medical Education_ (ESCI、Scopus); _JMIR Aging_ (ESCI、Scopus); _JMIR Cancer_ (ESCI、Scopus); _JMIR Infodemiology_ (ESCI、Scopus); _JMIR Formative Research_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _Online Journal of Public Health Informatics_ (ESCI、Scopus); _Asian/Pacific Island Nursing Journal_ (Scopus); _JMIR Cardio_ (Scopus); _JMIR Dermatology_ (Scopus); _JMIR Data_
+**Medicine and Interdisciplinary**: _**Journal of Medical Internet Research**_ (SCI); _**JMIR mHealth and uHealth**_ (SCI); _**JMIR Public Health and Surveillance**_ (SCI);_JMIR Serious Games**_ (SCI)
+; _**Health Informatics Journal**_ (SCI); _**Interactive Journal of Medical Research**_ (ESCI、Scopus); _**JMIR Medical Education**_ (ESCI、Scopus); _**JMIR Aging**_ (ESCI、Scopus); _**JMIR Cancer**_ (ESCI、Scopus); _**JMIR Infodemiology**_ (ESCI、Scopus); _**JMIR Formative Research**_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _**Online Journal of Public Health Informatics**_ (ESCI、Scopus); _**Asian/Pacific Island Nursing Journal**_ (Scopus); _**JMIR Cardio**_ (Scopus); _**JMIR Dermatology**_ (Scopus); _**JMIR Data**_
 
-**Library & Information Science**: _Information Research_ (SSCI); _Journal of the Medical Library Association_ (SSCI); _Health Information and Libraries Journal_ (SSCI); _Insights - the USKG Journal_ (ESCI、Scopus); _COLLNET Journal of Scientometrics and Information Management_ (ESCI); _Research Integrity and Peer Review_ (ESCI); _Issues in Science and Technology Librarianship_ (Scopus); _Journal of Librarianship and Scholarly Communication_ (Scopus); _Folia Toruniensia_ (Scopus); _REVUE DES SCIENCES DE L’ INFORMATION_; _IP Indian Journal of Library Science and Information Technology_; _International Journal of Library Information Networks and Knowledge_; _Berkala Ilmu Perpustakaan dan Informasi_; _Edulib: Journal of Library and Information Science_; _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_; _Pustabiblia: Journal of Library and Information Science_; _Tibanndaru: Jurnal Ilmu Perpustakaan dan Informasi_
+**Library & Information Science**: _**Information Research**_ (SSCI); _**Journal of the Medical Library Association**_ (SSCI); _**Health Information and Libraries Journal**_ (SSCI); _**Insights - the USKG Journal**_ (ESCI、Scopus); _**COLLNET Journal of Scientometrics and Information Management**_ (ESCI); _**Research Integrity and Peer Review**_ (ESCI); _**Issues in Science and Technology Librarianship**_ (Scopus); _**Journal of Librarianship and Scholarly Communication**_ (Scopus); _**Folia Toruniensia**_ (Scopus); _**REVUE DES SCIENCES DE L’ INFORMATION_; _**IP Indian Journal of Library Science and Information Technology**_; _**International Journal of Library Information Networks and Knowledge**_; _**Berkala Ilmu Perpustakaan dan Informasi**_; _**Edulib: Journal of Library and Information Science**_; _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_; _**Pustabiblia: Journal of Library and Information Science**_; _**Tibanndaru: Jurnal Ilmu Perpustakaan dan Informasi**_
 
-**Meta-science and Ethics**: _Research Integrity and Peer Review_ (ESCI); _Iberoamerican Journal of Science Measurement and Communication_ (Scopus)
+**Meta-science and Ethics**: _**Research Integrity and Peer Review**_ (ESCI); _**Iberoamerican Journal of Science Measurement and Communication**_ (Scopus)
 
 ## Research Project
 __·Host__
