@@ -501,7 +501,7 @@ __·2022__
 
 **5.** Information Security - Penetration Test Engineer (CISP-PTE)
 
-[Back](#navigation)
-
+[Back](#navigation) |
+[Lucky](https://github.com/jiang-yuyan/Yuyan-Jiang-CV/blob/main/Lucky.md)
 <!-- ### Footer
 Last updated: Jan 2023 -->
