@@ -42,22 +42,50 @@ __·Society Members__ 🧑‍🎓
 
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
-__·Editorial Review Board__ 👨‍🔬
+__·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 
-**1.** _Health Informatics Journal**_ (SCI)
+| Journal | SCI | SSCI | AHCI | ESCI | Scopus | Role |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| _**Journal of Medical Internet Research**_ |√| | | |√| Reviewer |
+| _**JMIR mHealth and uHealth**_ |√| | | |√| Reviewer |
+| _**JMIR Public Health and Surveillance**_ |√| | | |√| Reviewer |
+| _**JMIR Serious Games**_ |√| | | |√| Editorial Review Board |
+| _**Health Informatics Journal**_ |√| | | |√| Reviewer |
+| _**Journal of the Medical Library Association**_ | |√ | | |√| Reviewer |
+| _**Information Research**_ | |√ | | |√| Reviewer |
+| _**Health Information and Libraries Journal**_ | |√ | | |√| Reviewer |
+| _**Insights - the USKG Journal**_ | | | |√|√| Reviewer |
+| _**Interactive Journal of Medical Research**_ | | | |√|√| Reviewer |
+| _**JMIR Medical Education**_ | | | |√|√| Reviewer |
+| _**JMIR Aging**_ | | | |√|√| Reviewer |
+| _**JMIR Cancer**_ | | | |√|√| Reviewer |
+| _**JMIR Infodemiology**_ | | | |√|√| Reviewer |
+| _**JMIR Formative Research**_ | | | |√|√| Reviewer |
+| _**JMIR Research Protocols**_ | | | |√|√| Reviewer |
+| _**Online Journal of Public Health Informatics**_ | | | |√|√| Reviewer |
+| _**COLLNET Journal of Scientometrics and Information Management**_ | | | |√| | Reviewer |
+| _**Research Integrity and Peer Review**_ | | | |√| | Reviewer |
+| _**Journal of Hospital Librarianship**_ | | | | |√| Reviewer |
+| _**Revista Interamericana de Bibliotecología**_ | | | | |√| Reviewer |
+| _**Iberoamerican Journal of Science Measurement and Communication**_ | | | | |√| Reviewer |
+| _**Issues in Science and Technology Librarianship**_ | | | | |√| Reviewer |
+| _**Asian/Pacific Island Nursing Journal**_ | | | | |√| Reviewer |
+| _**JMIR Cardio**_ | | | | |√| Reviewer |
+| _**JMIR Dermatology**_ | | | | |√| Reviewer |
+| _**Journal of Librarianship and Scholarly Communication**_ | | | | |√| Reviewer |
+| _**Folia Toruniensia**_ | | | | |√| Reviewer |
+| _**JMIR Data**_ | | | | | | Reviewer |
+| _**REVUE DES SCIENCES DE L’ INFORMATION**_ | | | | | | Reviewer |
+| _**IP Indian Journal of Library Science and Information Technology**_ | | | | | | Reviewer |
+| _**Nordic Journal of Library and Information Studies**_ | | | | | | Reviewer |
+| _**International Journal of Library Information Networks and Knowledge**_ | | | | | | Reviewer |
+| _**Berkala Ilmu Perpustakaan dan Informasi**_ | | | | | | Reviewer |
+| _**Edulib: Journal of Library and Information Science**_ | | | | | | Reviewer |
+| _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_ | | | | | | Reviewer |
+| _**Pustabiblia: Journal of Library and Information Science**_ | | | | | | Reviewer |
+| _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | | Reviewer |
 
-__·Reviewer__ 🕵️‍♂️
-
-**Statistics:** 14 times (2024); 28 times(2025)
-
-**Medicine and Interdisciplinary**:  
-_**Journal of Medical Internet Research**_ (SCI)  
-_**JMIR mHealth and uHealth**_ (SCI)
-_**JMIR Public Health and Surveillance**_ (SCI);_**JMIR Serious Games**_ (SCI); _**Health Informatics Journal**_ (SCI); _**Interactive Journal of Medical Research**_ (ESCI、Scopus); _**JMIR Medical Education**_ (ESCI、Scopus); _**JMIR Aging**_ (ESCI、Scopus); _**JMIR Cancer**_ (ESCI、Scopus); _**JMIR Infodemiology**_ (ESCI、Scopus); _**JMIR Formative Research**_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _**Online Journal of Public Health Informatics**_ (ESCI、Scopus); _**Asian/Pacific Island Nursing Journal**_ (Scopus); _**JMIR Cardio**_ (Scopus); _**JMIR Dermatology**_ (Scopus); _**JMIR Data**_   
-
-**Library & Information Science**: _**Information Research**_ (SSCI); _**Journal of the Medical Library Association**_ (SSCI); _**Health Information and Libraries Journal**_ (SSCI); _**Insights - the USKG Journal**_ (ESCI、Scopus); _**COLLNET Journal of Scientometrics and Information Management**_ (ESCI); _**Research Integrity and Peer Review**_ (ESCI); _**Issues in Science and Technology Librarianship**_ (Scopus); _**Journal of Librarianship and Scholarly Communication**_ (Scopus); _**Folia Toruniensia**_ (Scopus); _**REVUE DES SCIENCES DE L’ INFORMATION_; _**IP Indian Journal of Library Science and Information Technology**_; _**International Journal of Library Information Networks and Knowledge**_; _**Berkala Ilmu Perpustakaan dan Informasi**_; _**Edulib: Journal of Library and Information Science**_; _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_; _**Pustabiblia: Journal of Library and Information Science**_; _**Tibanndaru: Jurnal Ilmu Perpustakaan dan Informasi**_   
-
-**Meta-science and Ethics**: _**Research Integrity and Peer Review**_ (ESCI); _**Iberoamerican Journal of Science Measurement and Communication**_ (Scopus)   
+***Statistics:** 14 times (2024); 28 times(2025)  
 
 ## Research Project
 
@@ -434,8 +462,8 @@ __·2022__
 
 ## Honour
 
-| Award | Year | Level | Source |
-| :-: | :-: | :-: | :-: |
+| Award | Year | Source |
+| :-: | :-: | :-: |
 | **National Postgraduate Scholarship** | 2023 | Ministry of Education of China |
 | **Innovation Star** | 2024 | Department of Education of Henan Province |
 | **Outstanding Graduate Students** | 2024 | Department of Education of Henan Province |
@@ -450,8 +478,8 @@ __·2022__
 | **Outstanding Postgraduate Student** | 2021 | Xinxiang Medical University |
 | **Third Prize of People’s Scholarship** | 2021 | Nanjing University Jinling College |
 | **Single Prize of People’s Scholarship** | 2020 | Nanjing University Jinling College |
-| **First Prize of Academic Star** | 2023 || Henan Research Center for Science Journals |
-| **Outstanding Readers** | 2021 || Library of Nanjing University Jinling College |
+| **First Prize of Academic Star** | 2023 | Henan Research Center for Science Journals |
+| **Outstanding Readers** | 2021 | Library of Nanjing University Jinling College |
 | **Third Prize of Outstanding Papers** | 2024 | The 7th Conference on Quality and Development of Chinese Journals |
 | **First Prize of Outstanding Papers** | 2023 | The 14th National Symposium on Scientometrics and Science and Education Evaluation |
 | **Third Prize of Outstanding Papers** | 2023 | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
