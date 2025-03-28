@@ -59,46 +59,53 @@ __·Reviewer__ 🕵️‍♂️
 
 ## Research Project
 
-**Project**: **Xinxiang Medical University Postgraduate Research Innovation Support Program**
-Topic: 
-Level: Institution
-Code: YJSCX202277Y  
-Role: Host  
-Time: 2022-2024  
+**Source**: **Major Project of Henan Provincial Department of Education**  
+Code: 2024-JCZD-23  
+Role: Participant  
+Time: 2024-2026  
+Type: In-Research  
+
+**Source**: **Intellectual Property Program of Gansu Province**  
+Code: 24ZSCQ022  
+Role: Participant  
+Time: 2024-2026  
+Type: In-Research
+
+**Source**: **Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**  
+Code: -  
+Role: Participant  
+Time: 2024-2025  
+Type: In-Research  
+
+**Source**: **Project of Society of Scientific and Technological Periodicals**  
+Code: YJH202315    
+Role: Participant  
+Time: 2023-2023  
 Type: Finished  
 
-**Project**: **General Project of National Social Science Fund**  
-Level: Country
+**Source**: **General Project of National Social Science Fund**  
 Code: 23BTQ085  
 Role: Participant  
 Time: 2023-2027  
 Type: In-Research  
 
-**1.** General Project of National Social Science Fund (23BTQ085)
+**Source**: **Xinxiang Medical University Postgraduate Research Innovation Support Program**  
+Code: YJSCX202277Y  
+Role: Host  
+Time: 2022-2024  
+Type: Finished  
 
-`2019-2023`
+**Source**: **General Project of National Social Science Fund**  
+Code: 19BTQ087  
+Role: Participant  
+Time: 2019-2023  
+Type: Finished  
 
-**2.** General Project of National Social Science Fund (19BTQ087)
-
-`2024-2026`
-
-**3.** Major Project of Henan Provincial Department of Education (2024-JCZD-23)
-
-`2024-`
-
-**4.** Intellectual Property Program of Gansu Province(24ZSCQ022)
-
-`2024-`
-
-**5.** Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas
-
-`2019-2021`
-
-**6.** Nanjing University Jinling College Undergraduate Innovation Training Program Project (136462019007X)
-
-`2023-2023`
-
-**7.** Project of Society of Scientific and Technological Periodicals (YJH202315)
+**Source**: **Nanjing University Jinling College Undergraduate Innovation Training Program Project**  
+Code: 136462019007X    
+Role: Participant  
+Time: 2019-2021  
+Type: Finished
 
 ## Publications
 
