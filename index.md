@@ -433,20 +433,20 @@ __·2022__
 
 | Award | Year | Level | Source |
 | :-: | :-: | :-: | :-: |
-| **National Postgraduate Scholarship of China** | 2023 | National Awards | Ministry of Education of China |
+| **National Postgraduate Scholarship** | 2023 | National Awards | Ministry of Education of China |
 | **Innovation Star** | 2024 | Provincial Awards | Department of Education of Henan Province |
 | **Outstanding Graduate Students** | 2024 | Provincial Awards | Department of Education of Henan Province |
-| **First Prize of Postgraduate Scholarships** | 2022 | Provincial Awards | Department of Education of Henan Province |
-| **First Prize of Postgraduate Scholarships** | 2022 | Provincial Awards | Department of Education of Henan Province |
+| **First Prize of Scholarship** | 2022 | Provincial Awards | Department of Education of Henan Province |
+| **First Prize of Scholarship** | 2022 | Provincial Awards | Department of Education of Henan Province |
 | **Innovation Star** | 2024 | University Awards | Xinxiang Medical University |
 | **Outstanding Dissertation** | 2024 | University Awards | Xinxiang Medical University |
 | **First Prize of Academic Star** | 2023 | University Awards | Xinxiang Medical University |
-| **First Prize of Postgraduate School Scholarships** | 2022 | University Awards | Xinxiang Medical University |
+| **First Prize of University Scholarship** | 2022 | University Awards | Xinxiang Medical University |
 | **Outstanding Postgraduate Student** | 2022 | University Awards | Xinxiang Medical University |
 | **Outstanding Postgraduate Student** | 2021 | University Awards | Xinxiang Medical University |
 | **Outstanding Postgraduate Student** | 2021 | University Awards | Xinxiang Medical University |
-| **Third Prize of People’s Scholarships** | 2021 | University Awards | Nanjing University Jinling College |
-| **Single Prize of People’s Scholarships** | 2020 | University Awards | Nanjing University Jinling College |
+| **Third Prize of People’s Scholarship** | 2021 | University Awards | Nanjing University Jinling College |
+| **Single Prize of People’s Scholarship** | 2020 | University Awards | Nanjing University Jinling College |
 | **First Prize of Academic Star** | 2023 | Department Awards | Henan Research Center for Science Journals |
 | **Outstanding Readers** | 2021 | Department Awards | Library of Nanjing University Jinling College |
 | **Third Prize of Outstanding Papers** | 2024 | Conference Awards | The 7th Conference on Quality and Development of Chinese Journals |
