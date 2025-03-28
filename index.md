@@ -447,7 +447,7 @@ __·2023__
 **Conf-Chinese**：第二届科技期刊学术论坛  
 **Role**：Participant    
 **Time**：2023-5    
-**Location**：Xian, ShannXi, China    
+**Location**：Xian, Shaanxi, China    
 
 __·2022__
 
