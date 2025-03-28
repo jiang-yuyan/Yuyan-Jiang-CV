@@ -49,8 +49,8 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**Journal of Medical Internet Research**_ |√| | | |√| Reviewer |
 | _**JMIR mHealth and uHealth**_ |√| | | |√| Reviewer |
 | _**JMIR Public Health and Surveillance**_ |√| | | |√| Reviewer |
-| _**JMIR Serious Games**_ |√| | | |√| Editorial Review Board |
-| _**Health Informatics Journal**_ |√| | | |√| Reviewer |
+| _**JMIR Serious Games**_ |√| | | |√| Reviewer |
+| _**Health Informatics Journal**_ |√| | | |√|Editorial Review Board|
 | _**Journal of the Medical Library Association**_ | |√ | | |√| Reviewer |
 | _**Information Research**_ | |√ | | |√| Reviewer |
 | _**Health Information and Libraries Journal**_ | |√ | | |√| Reviewer |
