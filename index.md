@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/609958e4-caf3-4b84-a691-c857d2b4bd1e)![image](https://github.com/user-attachments/assets/1769ccc4-6a8b-4420-8b12-f6e3747d157a)---
 layout: cv
 title: Yuyan Jiang
 ---
@@ -59,75 +59,14 @@ __·Editorial Review Board__ 👨‍🔬
 
 __·Reviewer__ 🕵️‍♂️
 
-**1.** _Journal of Medical Internet Research_ (SCI)
+**Statistics:** 14 times (2024); 28 times(2025)
 
-**2.** _JMIR mHealth and uHealth_ (SCI)
+**Medicine and Interdisciplinary**: _Journal of Medical Internet Research_ (SCI); _JMIR mHealth and uHealth_ (SCI); _JMIR Public Health and Surveillance_ (SCI);_JMIR Serious Games_ (SCI)
+; _Health Informatics Journal_ (SCI); _Interactive Journal of Medical Research_ (ESCI、Scopus); _JMIR Medical Education_ (ESCI、Scopus); _JMIR Aging_ (ESCI、Scopus); _JMIR Cancer_ (ESCI、Scopus); _JMIR Infodemiology_ (ESCI、Scopus); _JMIR Formative Research_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _Online Journal of Public Health Informatics_ (ESCI、Scopus); _Asian/Pacific Island Nursing Journal_ (Scopus); _JMIR Cardio_ (Scopus); _JMIR Dermatology_ (Scopus); _JMIR Data_
 
-**3.** _JMIR Public Health and Surveillance_ (SCI)
+**Library & Information Science**: _Information Research_ (SSCI); _Journal of the Medical Library Association_ (SSCI); _Health Information and Libraries Journal_ (SSCI); _Insights - the USKG Journal_ (ESCI、Scopus); _COLLNET Journal of Scientometrics and Information Management_ (ESCI); _Research Integrity and Peer Review_ (ESCI); _Issues in Science and Technology Librarianship_ (Scopus); _Journal of Librarianship and Scholarly Communication_ (Scopus); _Folia Toruniensia_ (Scopus); _REVUE DES SCIENCES DE L’ INFORMATION_; _IP Indian Journal of Library Science and Information Technology_; _International Journal of Library Information Networks and Knowledge_; _Berkala Ilmu Perpustakaan dan Informasi_; _Edulib: Journal of Library and Information Science_; _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_; _Pustabiblia: Journal of Library and Information Science_; _Tibanndaru: Jurnal Ilmu Perpustakaan dan Informasi_
 
-**4.** _JMIR Serious Games_ (SCI)
-
-**5.** _Journal of the Medical Library Association_ (SSCI)
-
-**6.** _Information Research_ (SSCI)
-
-**7.** _Health Information and Libraries Journal_ (SSCI)
-
-**8.** _Insights - the USKG Journal_ (ESCI、Scopus)
-
-**9.** _Interactive Journal of Medical Research_ (ESCI、Scopus)
-
-**10.** _JMIR Medical Education_ (ESCI、Scopus)
-
-**11.** _JMIR Aging_ (ESCI、Scopus)
-
-**12.** _JMIR Cancer_ (ESCI、Scopus)
-
-**13.** _JMIR Infodemiology_ (ESCI、Scopus)
-
-**14.** _JMIR Formative Research_ (ESCI、Scopus)
-
-**15.** _Online Journal of Public Health Informatics_ (ESCI、Scopus)
-
-**16.** _COLLNET Journal of Scientometrics and Information Management_ (ESCI)
-
-**17.** _Research Integrity and Peer Review_ (ESCI)
-
-**18.** _Journal of Hospital Librarianship_ (Scopus)
-
-**19.** _Revista Interamericana de Bibliotecología_ (Scopus)
-
-**20.** _Iberoamerican Journal of Science Measurement and Communication_ (Scopus)
-
-**21.** _Issues in Science and Technology Librarianship_ (Scopus)
-
-**22.** _Asian/Pacific Island Nursing Journal_ (Scopus)
-
-**23.** _JMIR Cardio_ (Scopus)
-
-**24.** _JMIR Dermatology_ (Scopus)
-
-**25.** _Journal of Librarianship and Scholarly Communication_ (Scopus)
-
-**26.** _Folia Toruniensia_ (Scopus)
-
-**27.** _JMIR Data_
-
-**28.** _REVUE DES SCIENCES DE L’ INFORMATION_
-
-**29.** _IP Indian Journal of Library Science and Information Technology_
-
-**30.** _International Journal of Library Information Networks and Knowledge_
-
-**31.** _Berkala Ilmu Perpustakaan dan Informasi_
-
-**32.** _Edulib_
-
-**33.** _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_
-
-**34.** _Pustabiblia: Journal of Library and Information Science_
-
-**35.** _Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi_
+**Meta-science and Ethics**: _Research Integrity and Peer Review_ (ESCI); _Iberoamerican Journal of Science Measurement and Communication_ (Scopus)
 
 ## Research Project
 __·Host__
