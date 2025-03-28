@@ -1,4 +1,4 @@
-## Navigation
+![image](https://github.com/user-attachments/assets/4565371c-52f3-4ccc-9da7-f22b33efc039)## Navigation
 Lanzhou, China |
 📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) 
 | 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
@@ -50,7 +50,7 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**JMIR mHealth and uHealth**_ |√| | | |√| Reviewer |
 | _**JMIR Public Health and Surveillance**_ |√| | | |√| Reviewer |
 | _**JMIR Serious Games**_ |√| | | |√| Reviewer |
-| _**Health Informatics Journal**_ |√| | | |√|Editorial Review Board|
+| _**Health Informatics Journal**_ |√| | | |√| ERB |
 | _**Journal of the Medical Library Association**_ | |√ | | |√| Reviewer |
 | _**Information Research**_ | |√ | | |√| Reviewer |
 | _**Health Information and Libraries Journal**_ | |√ | | |√| Reviewer |
@@ -86,6 +86,7 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | | Reviewer |
 
 ***Statistics:** 14 times (2024); 28 times(2025)  
+**ERB：Editorial Review Board**
 
 ## Research Project
 
@@ -481,7 +482,7 @@ __·2022__
 | **First Prize of Academic Star** | 2023 | Henan Research Center for Science Journals |
 | **Outstanding Readers** | 2021 | Library of Nanjing University Jinling College |
 | **Third Prize of Outstanding Paper** | 2024 | The 7th Conference on Quality and Development of Chinese Journals |
-| **First Prize of Outstanding Paper** | 2023 | The 14th National Symposium on Scientometrics and Science and Education Evaluation |
+| **First Prize of Outstanding Paper** | 2023 | The 14th National Symposium on Scientometrics & Science and Education Evaluation |
 | **Third Prize of Outstanding Paper** | 2023 | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
 | **Third Prize** | 2019 | The 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
 | **Third Prize** | 2018 | The 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
