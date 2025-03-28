@@ -431,7 +431,7 @@ __·2022__
 
 ## Honour
 
-| Award | Year | Level | Source |
+| <div style="width:400px">Award</div> | Year | Level | Source |
 | :-: | :-: | :-: | :-: |
 | **National Postgraduate Scholarship** | 2023 | National Awards | Ministry of Education of China |
 | **Innovation Star** | 2024 | Provincial Awards | Department of Education of Henan Province |
