@@ -1,7 +1,3 @@
----
-layout: cv
-title: Yuyan Jiang
----
 # Yuyan Jiang **|** 姜育彦
 
 <div id="webaddress">
