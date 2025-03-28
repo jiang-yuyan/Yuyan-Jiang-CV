@@ -431,16 +431,17 @@ __·2022__
 **Location**：Online    
 
 ## Honour
+
+| Award | Year | Level |
+| :-: | :-: | :-: |
+| National Postgraduate Scholarship of China | 2023 | National Awards |
+
+
 __·National Awards__
 
 `2023`
 
 **1.** National Postgraduate Scholarship of China
-`2023`
-|Award|Year|Level|
-|:-:|:-:|:-:|
-|National Postgraduate Scholarship of China|2023|National Awards|
-
 
 __·Provincial Awards__
 
