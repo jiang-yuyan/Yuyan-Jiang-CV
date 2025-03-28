@@ -50,7 +50,10 @@ __·Reviewer__ 🕵️‍♂️
 
 **Statistics:** 14 times (2024); 28 times(2025)
 
-**Medicine and Interdisciplinary**: _**Journal of Medical Internet Research**_ (SCI); _**JMIR mHealth and uHealth**_ (SCI); _**JMIR Public Health and Surveillance**_ (SCI);_JMIR Serious Games**_ (SCI); _**Health Informatics Journal**_ (SCI); _**Interactive Journal of Medical Research**_ (ESCI、Scopus); _**JMIR Medical Education**_ (ESCI、Scopus); _**JMIR Aging**_ (ESCI、Scopus); _**JMIR Cancer**_ (ESCI、Scopus); _**JMIR Infodemiology**_ (ESCI、Scopus); _**JMIR Formative Research**_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _**Online Journal of Public Health Informatics**_ (ESCI、Scopus); _**Asian/Pacific Island Nursing Journal**_ (Scopus); _**JMIR Cardio**_ (Scopus); _**JMIR Dermatology**_ (Scopus); _**JMIR Data**_   
+**Medicine and Interdisciplinary**:  
+_**Journal of Medical Internet Research**_ (SCI)  
+_**JMIR mHealth and uHealth**_ (SCI)
+_**JMIR Public Health and Surveillance**_ (SCI);_**JMIR Serious Games**_ (SCI); _**Health Informatics Journal**_ (SCI); _**Interactive Journal of Medical Research**_ (ESCI、Scopus); _**JMIR Medical Education**_ (ESCI、Scopus); _**JMIR Aging**_ (ESCI、Scopus); _**JMIR Cancer**_ (ESCI、Scopus); _**JMIR Infodemiology**_ (ESCI、Scopus); _**JMIR Formative Research**_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _**Online Journal of Public Health Informatics**_ (ESCI、Scopus); _**Asian/Pacific Island Nursing Journal**_ (Scopus); _**JMIR Cardio**_ (Scopus); _**JMIR Dermatology**_ (Scopus); _**JMIR Data**_   
 
 **Library & Information Science**: _**Information Research**_ (SSCI); _**Journal of the Medical Library Association**_ (SSCI); _**Health Information and Libraries Journal**_ (SSCI); _**Insights - the USKG Journal**_ (ESCI、Scopus); _**COLLNET Journal of Scientometrics and Information Management**_ (ESCI); _**Research Integrity and Peer Review**_ (ESCI); _**Issues in Science and Technology Librarianship**_ (Scopus); _**Journal of Librarianship and Scholarly Communication**_ (Scopus); _**Folia Toruniensia**_ (Scopus); _**REVUE DES SCIENCES DE L’ INFORMATION_; _**IP Indian Journal of Library Science and Information Technology**_; _**International Journal of Library Information Networks and Knowledge**_; _**Berkala Ilmu Perpustakaan dan Informasi**_; _**Edulib: Journal of Library and Information Science**_; _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_; _**Pustabiblia: Journal of Library and Information Science**_; _**Tibanndaru: Jurnal Ilmu Perpustakaan dan Informasi**_   
 
@@ -431,7 +434,7 @@ __·2022__
 
 ## Honour
 
-| <div style="width:400px">Award</div> | Year | Level | Source |
+|                  Award                | Year |       Level       | Source |
 | :-: | :-: | :-: | :-: |
 | **National Postgraduate Scholarship** | 2023 | National Awards | Ministry of Education of China |
 | **Innovation Star** | 2024 | Provincial Awards | Department of Education of Henan Province |
