@@ -1,11 +1,6 @@
 # Yuyan Jiang **|** 姜育彦
 
-<div id="webaddress">
-<text>Lanzhou, China </text>
-| <a href="mailto:jiangyuyancite@163.com">📧 jiangyuyancite@163.com</a> 
-| <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">👨‍🎓 Google Scholar</a>
-| <text>WeChat & 📱: +86 13372007365</text>
-</div>
+Lanzhou, China | [jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) |👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) | WeChat & 📱: +86 13372007365
 
 ## Education
 
