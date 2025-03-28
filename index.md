@@ -377,7 +377,7 @@ __·2020__
 **Volume**：1210    
 **Issue**：-    
 **Page**：417-428    
-**Author**：Yu H, Li Z,__Jiang Y__    
+**Author**：Yu H, Li Z, __Jiang Y__    
 **Tag**：Scopus
 
 [**Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years**]()  
@@ -498,6 +498,8 @@ __·2022__
 **4.** Project Management Engineer (RSE-PM)
 
 **5.** Information Security - Penetration Test Engineer (CISP-PTE)
+
+[Back](#navigation)
 
 <!-- ### Footer
 Last updated: Jan 2023 -->
