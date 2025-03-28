@@ -9,40 +9,28 @@
 
 ## Education
 
-`2024 - 2027`
-__University of Chinese Academy of Sciences__
+__University of Chinese Academy of Sciences__  
+PhD👨  
+Information Science  
+2024 - 2027  
 
-PhD👨
+__Xinxiang Medical University__  
+MPhil👦  
+Library, Information and Archives Management  
+2021 - 2024  
 
-Information Science
+__Nanjing University Jinling College__  
+Bachelor👶  
+Information Management and Information Systems  
+2017 - 2021  
 
-`2021 - 2024`
-__Xinxiang Medical University__
-
-MPhil👦
-
-Library, Information and Archives Management
-
-`2017 - 2021`
-__Nanjing University Jinling College__
-
-Bachelor👶
-
-Information Management and Information Systems
-
-## Research Direction
-
-**1.** Scientometrics
-
-**2.** Journal Publishing
-
-**3.** Open Science & Scientific Data
-
-**4.** Peer Review & Research Ethic
-
-**5.** Digital Humanity
-
-**6.** Digital Library & Reading Promotion
+## Research Direction  
+**1.** Scientometrics  
+**2.** Journal Publishing  
+**3.** Open Science & Scientific Data  
+**4.** Peer Review & Research Ethic  
+**5.** Digital Humanity  
+**6.** Digital Library & Reading Promotion  
 
 ## Academic Role
 __·Society Members__ 🧑‍🎓
