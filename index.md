@@ -11,7 +11,8 @@ WeChat & 📱: +86 13372007365
 [Research Project](#research-project) |
 [Publications](#publications) |
 [Academic Exchange](#academic-exchange) |
-[Honour](#honour)
+[Honour](#honour) |
+[Professional Skills](#professional-skills)
 
 ## Education
 
