@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/609958e4-caf3-4b84-a691-c857d2b4bd1e)![image](https://github.com/user-attachments/assets/1769ccc4-6a8b-4420-8b12-f6e3747d157a)---
+---
 layout: cv
 title: Yuyan Jiang
 ---
