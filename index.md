@@ -1,8 +1,17 @@
 # Yuyan Jiang **|** 姜育彦
 
-Lanzhou, China **|** 📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) **|** 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) **|** WeChat & 📱: +86 13372007365
+Lanzhou, China |
+📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) 
+| 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
+WeChat & 📱: +86 13372007365
 
-[Research Project](#research-project)
+[Education](#education) |
+[Research Direction](#research-direction) |
+[Academic Role](#academic-role) |
+[Research Project](#research-project) |
+[Publications](#publications) |
+[Academic Exchange](#academic-exchange) |
+[Honour](#honour)
 
 ## Education
 
