@@ -432,98 +432,29 @@ __·2022__
 
 ## Honour
 
-| Award | Year | Level |
-| :-: | :-: | :-: |
-| National Postgraduate Scholarship of China | 2023 | National Awards |
-
-
-__·National Awards__
-
-`2023`
-
-**1.** National Postgraduate Scholarship of China
-
-__·Provincial Awards__
-
-`2024`
-
-**1.** Innovation Star of Henan Province
-
-`2024`
-
-**2.** Outstanding Graduate Students of Henan Province
-
-`2022`
-
-**3.** First Prize of Postgraduate Academic Scholarship of Henan Province
-
-__·University Awards__
-
-`2024`
-
-**1.** Innovation Star of Xinxiang Medical University
-
-`2024`
-
-**2.** Outstanding Dissertation of Xinxiang Medical University
-
-`2023`
-
-**3.** First Prize of Academic Star of Xinxiang Medical University
-
-`2022`
-
-**4.** First Prize of Graduate School Scholarship of Xinxiang Medical University
-
-`2022`
-
-**5.** Outstanding Postgraduate Student of Xinxiang Medical University
-
-`2021`
-
-**6.** Outstanding Postgraduate Student of Xinxiang Medical University
-
-`2021`
-
-**7.** Third Prize of People's Scholarship Award of Nanjing University Jinling College
-
-`2020`
-
-**8.** Single Prize of People's Scholarship Award of Nanjing University Jinling College
-
-__·Department Awards__
-
-`2023`
-
-**1.** First Prize of Academic Star of Henan Research Center for Science Journals
-
-`2021`
-
-**2.** Outstanding Readers of Nanjing University Jinling College Library
-
-__·Academic Awards__
-
-`2024`
-
-**1.** Third Prize of Outstanding Papers at the 7th Conference on Quality and Development of Chinese Journals
-
-`2023`
-
-**2.** First Prize of Outstanding Papers at the 14th International Symposium on Scientometrics and Science and Education Evaluation
-
-`2023`
-
-**3.**	Third Prize of Outstanding Papers in the 6th Tianfu Forum on Scientometrics and Scientific Evaluation
-
-__·Professional Awards__
-
-`2019`
- 
-**1.** Third Prize of the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province
-
-`2018`
-
-**2.** Third Prize of the 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province
+| Award | Year | Level | Source |
+| :-: | :-: | :-: | :-: |
+| **National Postgraduate Scholarship of China** | 2023 | National Awards | Ministry of Education of China |
+| **Innovation Star** | 2024 | Provincial Awards | Department of Education of Henan Province |
+| **Outstanding Graduate Students** | 2024 | Provincial Awards | Department of Education of Henan Province |
+| **First Prize of Postgraduate Scholarships** | 2022 | Provincial Awards | Department of Education of Henan Province |
+| **First Prize of Postgraduate Scholarships** | 2022 | Provincial Awards | Department of Education of Henan Province |
+| **Innovation Star** | 2024 | University Awards | Xinxiang Medical University |
+| **Outstanding Dissertation** | 2024 | University Awards | Xinxiang Medical University |
+| **First Prize of Academic Star** | 2023 | University Awards | Xinxiang Medical University |
+| **First Prize of Postgraduate School Scholarships** | 2022 | University Awards | Xinxiang Medical University |
+| **Outstanding Postgraduate Student** | 2022 | University Awards | Xinxiang Medical University |
+| **Outstanding Postgraduate Student** | 2021 | University Awards | Xinxiang Medical University |
+| **Outstanding Postgraduate Student** | 2021 | University Awards | Xinxiang Medical University |
+| **Third Prize of People’s Scholarships** | 2021 | University Awards | Nanjing University Jinling College |
+| **Single Prize of People’s Scholarships** | 2020 | University Awards | Nanjing University Jinling College |
+| **First Prize of Academic Star** | 2023 | Department Awards | Henan Research Center for Science Journals |
+| **Outstanding Readers** | 2021 | Department Awards | Library of Nanjing University Jinling College |
+| **Third Prize of Outstanding Papers** | 2024 | Conference Awards | The 7th Conference on Quality and Development of Chinese Journals |
+| **First Prize of Outstanding Papers** | 2023 | Conference Awards | The 14th National Symposium on Scientometrics and Science and Education Evaluation |
+| **Third Prize of Outstanding Papers** | 2023 | Conference Awards | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
+| **Third Prize of Outstanding Papers** | 2019 | Professional Awards | the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
+| **Third Prize of Outstanding Papers** | 2018 | Professional Awards | the 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
 
 ## Professional Skills
 
