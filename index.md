@@ -59,12 +59,6 @@ __·Reviewer__ 🕵️‍♂️
 
 ## Research Project
 
-**Source**: **Major Project of Henan Provincial Department of Education**  
-Code: 2024-JCZD-23  
-Role: Participant  
-Time: 2024-2026  
-Type: In-Research  
-
 **Source**: **Intellectual Property Program of Gansu Province**  
 Code: 24ZSCQ022  
 Role: Participant  
@@ -75,6 +69,12 @@ Type: In-Research
 Code: -  
 Role: Participant  
 Time: 2024-2025  
+Type: In-Research  
+
+**Source**: **Major Project of Henan Provincial Department of Education**  
+Code: 2024-JCZD-23  
+Role: Participant  
+Time: 2024-2026  
 Type: In-Research  
 
 **Source**: **Project of Society of Scientific and Technological Periodicals**  
@@ -436,6 +436,11 @@ __·National Awards__
 `2023`
 
 **1.** National Postgraduate Scholarship of China
+`2023`
+|Award|Year|Level|
+|:-:|:-:|:-:|
+|National Postgraduate Scholarship of China|2023|National Awards|
+
 
 __·Provincial Awards__
 
