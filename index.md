@@ -1,5 +1,4 @@
-**Home Page**
-
+## Navigation
 Lanzhou, China |
 📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) 
 | 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
@@ -16,19 +15,19 @@ WeChat & 📱: +86 13372007365
 ## Education
 
 __University of Chinese Academy of Sciences__  
-PhD👨  
-Information Science  
-2024 - 2027  
+Degree: PhD👨  
+Major: Information Science  
+Time: 2024 - 2027  
 
 __Xinxiang Medical University__  
-MPhil👦  
-Library, Information and Archives Management  
-2021 - 2024  
+Degree: MPhil👦  
+Major: Library, Information and Archives Management  
+Time: 2021 - 2024  
 
 __Nanjing University Jinling College__  
-Bachelor👶  
-Information Management and Information Systems  
-2017 - 2021  
+Degree: Bachelor👶  
+Major: Information Management and Information Systems  
+Time: 2017 - 2021  
 
 ## Research Direction  
 **1.** Scientometrics  
@@ -59,15 +58,21 @@ __·Reviewer__ 🕵️‍♂️
 **Meta-science and Ethics**: _**Research Integrity and Peer Review**_ (ESCI); _**Iberoamerican Journal of Science Measurement and Communication**_ (Scopus)
 
 ## Research Project
-__·Host__
 
-`2022-2024`
+**Project**: **Xinxiang Medical University Postgraduate Research Innovation Support Program**
+Topic: 
+Level: Institution
+Code: YJSCX202277Y  
+Role: Host  
+Time: 2022-2024  
+Type: Finished  
 
-**1.** Xinxiang Medical University Postgraduate Research Innovation Support Program (YJSCX202277Y)
-
-__·Participation__
-
-`2024-2027`
+**Project**: **General Project of National Social Science Fund**  
+Level: Country
+Code: 23BTQ085  
+Role: Participant  
+Time: 2023-2027  
+Type: In-Research  
 
 **1.** General Project of National Social Science Fund (23BTQ085)
 
