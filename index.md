@@ -50,12 +50,11 @@ __·Reviewer__ 🕵️‍♂️
 
 **Statistics:** 14 times (2024); 28 times(2025)
 
-**Medicine and Interdisciplinary**: _**Journal of Medical Internet Research**_ (SCI); _**JMIR mHealth and uHealth**_ (SCI); _**JMIR Public Health and Surveillance**_ (SCI);_JMIR Serious Games**_ (SCI)
-; _**Health Informatics Journal**_ (SCI); _**Interactive Journal of Medical Research**_ (ESCI、Scopus); _**JMIR Medical Education**_ (ESCI、Scopus); _**JMIR Aging**_ (ESCI、Scopus); _**JMIR Cancer**_ (ESCI、Scopus); _**JMIR Infodemiology**_ (ESCI、Scopus); _**JMIR Formative Research**_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _**Online Journal of Public Health Informatics**_ (ESCI、Scopus); _**Asian/Pacific Island Nursing Journal**_ (Scopus); _**JMIR Cardio**_ (Scopus); _**JMIR Dermatology**_ (Scopus); _**JMIR Data**_
+**Medicine and Interdisciplinary**: _**Journal of Medical Internet Research**_ (SCI); _**JMIR mHealth and uHealth**_ (SCI); _**JMIR Public Health and Surveillance**_ (SCI);_JMIR Serious Games**_ (SCI); _**Health Informatics Journal**_ (SCI); _**Interactive Journal of Medical Research**_ (ESCI、Scopus); _**JMIR Medical Education**_ (ESCI、Scopus); _**JMIR Aging**_ (ESCI、Scopus); _**JMIR Cancer**_ (ESCI、Scopus); _**JMIR Infodemiology**_ (ESCI、Scopus); _**JMIR Formative Research**_ (ESCI、Scopus); JMIR Research Protocols (ESCI、Scopus); _**Online Journal of Public Health Informatics**_ (ESCI、Scopus); _**Asian/Pacific Island Nursing Journal**_ (Scopus); _**JMIR Cardio**_ (Scopus); _**JMIR Dermatology**_ (Scopus); _**JMIR Data**_   
 
-**Library & Information Science**: _**Information Research**_ (SSCI); _**Journal of the Medical Library Association**_ (SSCI); _**Health Information and Libraries Journal**_ (SSCI); _**Insights - the USKG Journal**_ (ESCI、Scopus); _**COLLNET Journal of Scientometrics and Information Management**_ (ESCI); _**Research Integrity and Peer Review**_ (ESCI); _**Issues in Science and Technology Librarianship**_ (Scopus); _**Journal of Librarianship and Scholarly Communication**_ (Scopus); _**Folia Toruniensia**_ (Scopus); _**REVUE DES SCIENCES DE L’ INFORMATION_; _**IP Indian Journal of Library Science and Information Technology**_; _**International Journal of Library Information Networks and Knowledge**_; _**Berkala Ilmu Perpustakaan dan Informasi**_; _**Edulib: Journal of Library and Information Science**_; _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_; _**Pustabiblia: Journal of Library and Information Science**_; _**Tibanndaru: Jurnal Ilmu Perpustakaan dan Informasi**_
+**Library & Information Science**: _**Information Research**_ (SSCI); _**Journal of the Medical Library Association**_ (SSCI); _**Health Information and Libraries Journal**_ (SSCI); _**Insights - the USKG Journal**_ (ESCI、Scopus); _**COLLNET Journal of Scientometrics and Information Management**_ (ESCI); _**Research Integrity and Peer Review**_ (ESCI); _**Issues in Science and Technology Librarianship**_ (Scopus); _**Journal of Librarianship and Scholarly Communication**_ (Scopus); _**Folia Toruniensia**_ (Scopus); _**REVUE DES SCIENCES DE L’ INFORMATION_; _**IP Indian Journal of Library Science and Information Technology**_; _**International Journal of Library Information Networks and Knowledge**_; _**Berkala Ilmu Perpustakaan dan Informasi**_; _**Edulib: Journal of Library and Information Science**_; _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_; _**Pustabiblia: Journal of Library and Information Science**_; _**Tibanndaru: Jurnal Ilmu Perpustakaan dan Informasi**_   
 
-**Meta-science and Ethics**: _**Research Integrity and Peer Review**_ (ESCI); _**Iberoamerican Journal of Science Measurement and Communication**_ (Scopus)
+**Meta-science and Ethics**: _**Research Integrity and Peer Review**_ (ESCI); _**Iberoamerican Journal of Science Measurement and Communication**_ (Scopus)   
 
 ## Research Project
 
@@ -453,8 +452,8 @@ __·2022__
 | **Third Prize of Outstanding Papers** | 2024 | Conference Awards | The 7th Conference on Quality and Development of Chinese Journals |
 | **First Prize of Outstanding Papers** | 2023 | Conference Awards | The 14th National Symposium on Scientometrics and Science and Education Evaluation |
 | **Third Prize of Outstanding Papers** | 2023 | Conference Awards | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
-| **Third Prize of Outstanding Papers** | 2019 | Professional Awards | the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
-| **Third Prize of Outstanding Papers** | 2018 | Professional Awards | the 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
+| **Third Prize** | 2019 | Professional Awards | the 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
+| **Third Prize** | 2018 | Professional Awards | the 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
 
 ## Professional Skills
 
