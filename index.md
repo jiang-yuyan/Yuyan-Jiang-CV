@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4565371c-52f3-4ccc-9da7-f22b33efc039)## Navigation
+## Navigation
 Lanzhou, China |
 📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) 
 | 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
