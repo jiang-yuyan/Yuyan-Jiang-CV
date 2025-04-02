@@ -58,7 +58,7 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**Information Research**_ | |√| | | | | |√| Reviewer |
 | _**Health Information and Libraries Journal**_ | |√| | | | | |√| Reviewer |
 | _**Chinese Journal of Scientific and Technical Periodicals**_ | | | |√| |√| | | Reviewer |
-| _**Insights - the USKG Journal**_ | | | |√|√| | | | Reviewer |
+| _**Insights - the USKG Journal**_ | | | | | | |√|√| Reviewer |
 | _**Ibersid: revista de sistemas de información y documentación**_ | | | | | | |√|√| Reviewer |
 | _**Interactive Journal of Medical Research**_ | | | | | | |√|√| Reviewer |
 | _**JMIR Medical Education**_ | | | | | | |√|√| Reviewer |
