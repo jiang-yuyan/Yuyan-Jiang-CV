@@ -46,8 +46,6 @@ __·Society Members__ 🧑‍🎓
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
 __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
-
-<table class="small-font-table">
   
 | Journal | SCI | SSCI | AHCI | CSSCI | CSCD | PKU | ESCI | Scopus | Role |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -92,8 +90,6 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | Reviewer |
 | _**Pustabiblia: Journal of Library and Information Science**_ | | | | | | | | | Reviewer |
 | _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | Reviewer |  
-
-</table>
 
 ***Statistics:** 14 times (2024); 29 times (2025)  
 ***ERB:** Editorial Review Board
