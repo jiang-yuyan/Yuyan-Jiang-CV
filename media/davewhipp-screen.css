@@ -195,3 +195,7 @@ strong {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+
+.small-font-table {
+    font-size: 80%; /* 可以根据需要调整字体大小 */
+}
