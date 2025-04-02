@@ -1,4 +1,4 @@
 markdown:   kramdown
-style:  davewhipp
+style:  kjhealy
 plugins:
   - jemoji
