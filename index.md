@@ -91,7 +91,7 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**Pustabiblia: Journal of Library and Information Science**_ | | | | | | | | | Reviewer |
 | _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | Reviewer |
 
-***Statistics:** 14 times (2024); 28 times (2025)  
+***Statistics:** 14 times (2024); 29 times (2025)  
 ***ERB:** Editorial Review Board
 
 ## Research Project
