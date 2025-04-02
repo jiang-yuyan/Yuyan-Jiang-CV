@@ -53,7 +53,7 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**JMIR mHealth and uHealth**_ |√| | | |√|| | | | Reviewer |
 | _**JMIR Public Health and Surveillance**_ |√| | | |√|| | | | Reviewer |
 | _**JMIR Serious Games**_ |√| | | |√|| | | | | | | Reviewer |
-| _**Health Informatics Journal**_ |√| | | |√| ERB |
+| _**Health Informatics Journal**_ |√| | | |√| | | | ERB |
 | _**Journal of the Medical Library Association**_ | |√ | | |√|| | | | Reviewer |
 | _**Information Research**_ | |√ | | |√|| | | | Reviewer |
 | _**Health Information and Libraries Journal**_ | |√ | | |√|| | | | Reviewer |
