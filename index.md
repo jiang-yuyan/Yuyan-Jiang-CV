@@ -49,45 +49,45 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 
 | Journal | SCI | SSCI | AHCI | ESCI | Scopus | CSSCI | CSCD | PKU | Role |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| _**Journal of Medical Internet Research**_ |√| | | |√|| | | | Reviewer |
-| _**JMIR mHealth and uHealth**_ |√| | | |√|| | | | Reviewer |
-| _**JMIR Public Health and Surveillance**_ |√| | | |√|| | | | Reviewer |
-| _**JMIR Serious Games**_ |√| | | |√|| | | | | | | Reviewer |
+| _**Journal of Medical Internet Research**_ |√| | | |√| | | | | Reviewer |
+| _**JMIR mHealth and uHealth**_ |√| | | |√| | | | | Reviewer |
+| _**JMIR Public Health and Surveillance**_ |√| | | |√| | | | | Reviewer |
+| _**JMIR Serious Games**_ |√| | | |√| | | | | | | | Reviewer |
 | _**Health Informatics Journal**_ |√| | | |√| | | | ERB |
-| _**Journal of the Medical Library Association**_ | |√ | | |√|| | | | Reviewer |
-| _**Information Research**_ | |√ | | |√|| | | | Reviewer |
-| _**Health Information and Libraries Journal**_ | |√ | | |√|| | | | Reviewer |
-| _**Insights - the USKG Journal**_ | | | |√|√|| | | | Reviewer |
-| _**Ibersid: revista de sistemas de información y documentación**_ | | | |√|√|| | | | Reviewer |
-| _**Interactive Journal of Medical Research**_ | | | |√|√|| | | | Reviewer |
-| _**JMIR Medical Education**_ | | | |√|√|| | | | Reviewer |
-| _**JMIR Aging**_ | | | |√|√|| | | | Reviewer |
-| _**JMIR Cancer**_ | | | |√|√|| | | | Reviewer |
-| _**JMIR Infodemiology**_ | | | |√|√|| | | | Reviewer |
-| _**JMIR Formative Research**_ | | | |√|√|| | | | Reviewer |
-| _**JMIR Research Protocols**_ | | | |√|√|| | | | Reviewer |
-| _**Online Journal of Public Health Informatics**_ | | | |√|√|| | | | Reviewer |
-| _**COLLNET Journal of Scientometrics and Information Management**_ | | | |√| || | | | Reviewer |
-| _**Research Integrity and Peer Review**_ | | | |√| || | | | Reviewer |
-| _**Journal of Hospital Librarianship**_ | | | | |√|| | | | Reviewer |
-| _**Revista Interamericana de Bibliotecología**_ | | | | |√|| | | | Reviewer |
-| _**Iberoamerican Journal of Science Measurement and Communication**_ | | | | |√|| | | | Reviewer |
-| _**Issues in Science and Technology Librarianship**_ | | | | |√|| | | | Reviewer |
-| _**Asian/Pacific Island Nursing Journal**_ | | | | |√|| | | | Reviewer |
-| _**JMIR Cardio**_ | | | | |√|| | | | Reviewer |
-| _**JMIR Dermatology**_ | | | | |√|| | | | Reviewer |
-| _**Journal of Librarianship and Scholarly Communication**_ | | | | |√|| | | | Reviewer |
-| _**Folia Toruniensia**_ | | | | |√|| | | | Reviewer |
-| _**JMIR Data**_ | | | | | || | | | Reviewer |
-| _**REVUE DES SCIENCES DE L’ INFORMATION**_ | | | | | || | | | Reviewer |
-| _**IP Indian Journal of Library Science and Information Technology**_ | | | | | || | | | Reviewer |
-| _**Nordic Journal of Library and Information Studies**_ | | | | | || | | | Reviewer |
-| _**International Journal of Library Information Networks and Knowledge**_ | | | | | || | | | Reviewer |
-| _**Berkala Ilmu Perpustakaan dan Informasi**_ | | | | | || | | | Reviewer |
-| _**Edulib: Journal of Library and Information Science**_ | | | | | || | | | Reviewer |
-| _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_ | | | | | || | | | Reviewer |
-| _**Pustabiblia: Journal of Library and Information Science**_ | | | | | || | | | Reviewer |
-| _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | || | | | Reviewer |
+| _**Journal of the Medical Library Association**_ | |√ | | |√| | | | | Reviewer |
+| _**Information Research**_ | |√ | | |√| | | | | Reviewer |
+| _**Health Information and Libraries Journal**_ | |√ | | |√| | | | | Reviewer |
+| _**Insights - the USKG Journal**_ | | | |√|√| | | | | Reviewer |
+| _**Ibersid: revista de sistemas de información y documentación**_ | | | |√|√| | | | | Reviewer |
+| _**Interactive Journal of Medical Research**_ | | | |√|√| | | | | Reviewer |
+| _**JMIR Medical Education**_ | | | |√|√| | | | | Reviewer |
+| _**JMIR Aging**_ | | | |√|√| | | | | Reviewer |
+| _**JMIR Cancer**_ | | | |√|√| | | | | Reviewer |
+| _**JMIR Infodemiology**_ | | | |√|√| | | | | Reviewer |
+| _**JMIR Formative Research**_ | | | |√|√| | | | | Reviewer |
+| _**JMIR Research Protocols**_ | | | |√|√| | | | | Reviewer |
+| _**Online Journal of Public Health Informatics**_ | | | |√|√| | | | | Reviewer |
+| _**COLLNET Journal of Scientometrics and Information Management**_ | | | |√| | | | | | Reviewer |
+| _**Research Integrity and Peer Review**_ | | | |√| | | | | | Reviewer |
+| _**Journal of Hospital Librarianship**_ | | | | |√| | | | | Reviewer |
+| _**Revista Interamericana de Bibliotecología**_ | | | | |√| | | | | Reviewer |
+| _**Iberoamerican Journal of Science Measurement and Communication**_ | | | | |√| | | | | Reviewer |
+| _**Issues in Science and Technology Librarianship**_ | | | | |√| | | | | Reviewer |
+| _**Asian/Pacific Island Nursing Journal**_ | | | | |√| | | | | Reviewer |
+| _**JMIR Cardio**_ | | | | |√| | | | | Reviewer |
+| _**JMIR Dermatology**_ | | | | |√| | | | | Reviewer |
+| _**Journal of Librarianship and Scholarly Communication**_ | | | | |√| | | | | Reviewer |
+| _**Folia Toruniensia**_ | | | | |√| | | | | Reviewer |
+| _**JMIR Data**_ | | | | | | | | | | Reviewer |
+| _**REVUE DES SCIENCES DE L’ INFORMATION**_ | | | | | | | | | | Reviewer |
+| _**IP Indian Journal of Library Science and Information Technology**_ | | | | | | | | | | Reviewer |
+| _**Nordic Journal of Library and Information Studies**_ | | | | | | | | | | Reviewer |
+| _**International Journal of Library Information Networks and Knowledge**_ | | | | | | | | | | Reviewer |
+| _**Berkala Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | | Reviewer |
+| _**Edulib: Journal of Library and Information Science**_ | | | | | | | | | | Reviewer |
+| _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | | Reviewer |
+| _**Pustabiblia: Journal of Library and Information Science**_ | | | | | | | | | | Reviewer |
+| _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | | Reviewer |
 
 ***Statistics:** 14 times (2024); 28 times (2025)  
 ***ERB:** Editorial Review Board
