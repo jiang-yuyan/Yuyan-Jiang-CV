@@ -49,7 +49,7 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 
 | Journal | SCI | SSCI | AHCI | ESCI | Scopus | Role |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <font size="1"> _**Journal of Medical Internet Research**_ </font> |√| | | |√| Reviewer |
+| _**Journal of Medical Internet Research**_ |√| | | |√| Reviewer |
 | _**JMIR mHealth and uHealth**_ |√| | | |√| Reviewer |
 | _**JMIR Public Health and Surveillance**_ |√| | | |√| Reviewer |
 | _**JMIR Serious Games**_ |√| | | |√| Reviewer |
