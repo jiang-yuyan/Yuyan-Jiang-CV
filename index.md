@@ -208,7 +208,7 @@ __·2024__
 **Author**：__Jiang Y__, Liu X    
 **Tag**：SCI, JIF = 1.8, CAS Q4, JCR Q2, JCI Q2, AJG 2 Star 
 
-[**Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals**]()  
+[**Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals**](https://www.cjstp.cn/CN/10.11946/cjstp.202409020964)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2024    
@@ -219,7 +219,7 @@ __·2024__
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：我国高校学者被撤销论文特征及原因分析   
 
-[**Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI**]()  
+[**Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI**](https://www.cjstp.cn/CN/10.11946/cjstp.202405210538)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2024    
@@ -230,7 +230,7 @@ __·2024__
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：作者国际化水平对我国SCI期刊影响力和颠覆性创新的影响
 
-[**Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor**]()  
+[**Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor**](https://www.cjstp.cn/CN/10.11946/cjstp.202402130115)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2024    
@@ -261,7 +261,7 @@ __·2023__
 **Author**：__Jiang Y__, Liu X    
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
-[**Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index**]()  
+[**Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2023    
@@ -272,7 +272,7 @@ __·2023__
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：SCIE收录的我国科技期刊创新性评价：基于颠覆性指数的实证研究
 
-[**Research progress on interdisciplinary evaluation indicators of scientific journals**]()  
+[**Research progress on interdisciplinary evaluation indicators of scientific journals**](https://www.cjstp.cn/CN/10.11946/cjstp.202301130027)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2023    
@@ -283,7 +283,7 @@ __·2023__
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：科技期刊跨学科评价指标的研究进展及展望
 
-[**The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers**]()  
+[**The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
 **Source**：*Library and Information Service*    
 **Source-Chinese**：《图书情报工作》    
 **Year**：2023    
@@ -296,7 +296,7 @@ __·2023__
 
 __·2022__
 
-[**Open peer review: models, technologies, problems and countermeasures**]()  
+[**Open peer review: models, technologies, problems and countermeasures**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2022    
@@ -307,7 +307,7 @@ __·2022__
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：开放型同行评议：模式、技术、问题与对策
 
-[**An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research**]()  
+[**An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2022    
