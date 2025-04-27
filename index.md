@@ -171,7 +171,7 @@ __·2025__
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2025    
 **Volume**：36    
-**Issue**：3    
+**Issue**：4    
 **Page**：Accept    
 **Author**：Liu X, __Jiang Y__#    
 **Tag**：CSSCI, PKU, CSTPCD    
