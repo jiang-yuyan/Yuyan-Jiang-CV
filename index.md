@@ -164,7 +164,7 @@ __·2025__
 **Issue**：1    
 **Page**：60-78    
 **Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：AHCI, SSCI, JIF = 1.2, CAS Q2, JCR Q1, JCI Q1 
+**Tag**：AHCI, SSCI, JIF = 1.2, CAS Q2, JCR Q3, JCI Q1 
 
 [**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**]()  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
