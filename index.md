@@ -91,7 +91,7 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 | _**Pustabiblia: Journal of Library and Information Science**_ | | | | | | | | | Reviewer |
 | _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | Reviewer |  
 
-***Statistics:** 14 times (2024); 30 times (2025)  
+***Statistics:** 14 times (2024); 31 times (2025)  
 ***ERB:** Editorial Review Board
 
 ## Research Project
@@ -182,7 +182,7 @@ __·2025__
 **Source-Chinese**：《编辑学报》   
 **Year**：2025    
 **Volume**：37    
-**Issue**：2    
+**Issue**：3    
 **Page**：Accept    
 **Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
 **Tag**：CSSCI, PKU, CSTPCD   
