@@ -96,6 +96,12 @@ __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
 
 ## Research Project
 
+**Source**: **Nantong Social Science Research Project**  
+Code: SKB25-106  
+Role: Participant  
+Time: 2025-2025  
+Type: In-Research
+
 **Source**: **Intellectual Property Program of Gansu Province**  
 Code: 24ZSCQ022  
 Role: Participant  
