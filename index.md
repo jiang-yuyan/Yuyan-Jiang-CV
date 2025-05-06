@@ -178,13 +178,13 @@ __·2025__
 **Author**：__Jiang Y__, Liu X, Wang L    
 **Tag**：AHCI, SSCI, JIF = 1.2, CAS Q2, JCR Q3, JCI Q1 
 
-[**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**]()  
+[**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2025    
 **Volume**：36    
 **Issue**：4    
-**Page**：Accept    
+**Page**：512-521    
 **Author**：Liu X, __Jiang Y__#    
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
