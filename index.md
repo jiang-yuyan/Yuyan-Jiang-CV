@@ -47,8 +47,8 @@ _Specialized Committee on Scientometrics and Information Metrology of China_
 
 __·Editorial Board 👨‍🔬
 
-**-Editorial Review Board**  
-&#8195; _**Health Informatics Journal**_ (SCI)  
+&#8195;**-SCI&SSCI&AHCI**  
+&#8195;&#8195;_**Health Informatics Journal**_ (Editorial Review Board)  
 
 __·Reviewer 🕵️‍♂️
   
