@@ -47,6 +47,17 @@ _Specialized Committee on Scientometrics and Information Metrology of China_
 
 __·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
   
+**-Editorial Review Board**  
+&#8195; _Health Informatics Journal_ (SCI)  
+**-Reviewer**  
+&#8195;**-SCI&SSCI&AHCI**  
+&#8195;&#8195;_Journal of Medical Internet Research_  
+&#8195;&#8195;_JMIR mHealth and uHealth_; _JMIR Public Health and Surveillance_; _JMIR Serious Games_; _Journal of the Medical Library Association_; _Information Research_; _Health Information and Libraries Journal_; _Serials Review_  
+&#8195;**-CSSCI**  
+&#8195;&#8195;_Chinese Journal of Scientific and Technical Periodicals_
+&#8195;**-ESCI&SCOPUS**  
+&#8195;&#8195;
+
 | Journal | SCI | SSCI | AHCI | CSSCI | CSCD | PKU | ESCI | Scopus | Role |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | _**Journal of Medical Internet Research**_ |√| | | | | | |√| Reviewer |
