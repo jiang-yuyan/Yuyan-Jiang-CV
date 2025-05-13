@@ -45,65 +45,62 @@ __·Society Members__ 🧑‍🎓
 
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
-__·Editorial Board 👨‍🔬 & Reviewer__ 🕵️‍♂️
-  
-**-Editorial Review Board**  
-&#8195; _Health Informatics Journal_ (SCI)  
-**-Reviewer**  
-&#8195;**-SCI&SSCI&AHCI**  
-&#8195;&#8195;_Journal of Medical Internet Research_  
-&#8195;&#8195;_JMIR mHealth and uHealth_; _JMIR Public Health and Surveillance_; _JMIR Serious Games_; _Journal of the Medical Library Association_; _Information Research_; _Health Information and Libraries Journal_; _Serials Review_  
-&#8195;**-CSSCI**  
-&#8195;&#8195;_Chinese Journal of Scientific and Technical Periodicals_
-&#8195;**-ESCI&SCOPUS**  
-&#8195;&#8195;
+__·Editorial Board 👨‍🔬
 
-| Journal | SCI | SSCI | AHCI | CSSCI | CSCD | PKU | ESCI | Scopus | Role |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| _**Journal of Medical Internet Research**_ |√| | | | | | |√| Reviewer |
-| _**JMIR mHealth and uHealth**_ |√| | | | | | |√| Reviewer |
-| _**JMIR Public Health and Surveillance**_ |√| | | | | | |√| Reviewer |
-| _**JMIR Serious Games**_ |√| | | | | | |√| Reviewer |
-| _**Health Informatics Journal**_ |√| | | | | | |√| ERB |
-| _**Journal of the Medical Library Association**_ | |√| | | | | |√| Reviewer |
-| _**Information Research**_ | |√| | | | | |√| Reviewer |
-| _**Health Information and Libraries Journal**_ | |√| | | | | |√| Reviewer |
-| _**Chinese Journal of Scientific and Technical Periodicals**_ | | | |√| |√| | | Reviewer |
-| _**Insights - the USKG Journal**_ | | | | | | |√|√| Reviewer |
-| _**Ibersid: revista de sistemas de información y documentación**_ | | | | | | |√|√| Reviewer |
-| _**Interactive Journal of Medical Research**_ | | | | | | |√|√| Reviewer |
-| _**JMIR Medical Education**_ | | | | | | |√|√| Reviewer |
-| _**JMIR Aging**_ | | | | | | |√|√| Reviewer |
-| _**JMIR Cancer**_ | | | | | | |√|√| Reviewer |
-| _**JMIR Infodemiology**_ | | | | | | |√|√| Reviewer |
-| _**JMIR Formative Research**_ | | | | | | |√|√| Reviewer |
-| _**JMIR Research Protocols**_ | | | | | | |√|√| Reviewer |
-| _**Online Journal of Public Health Informatics**_ | | | | | | |√|√| Reviewer |
-| _**COLLNET Journal of Scientometrics and Information Management**_ | | | | | | |√| | Reviewer |
-| _**Research Integrity and Peer Review**_ | | | | | | |√| | Reviewer |
-| _**Journal of Hospital Librarianship**_ | | | | | | | |√| Reviewer |
-| _**Revista Interamericana de Bibliotecología**_ | | | | | | | |√| Reviewer |
-| _**Iberoamerican Journal of Science Measurement and Communication**_ | | | | | | | |√| Reviewer |
-| _**Issues in Science and Technology Librarianship**_ | | | | | | | |√| Reviewer |
-| _**Asian/Pacific Island Nursing Journal**_ | | | | | | | |√| Reviewer |
-| _**JMIR Cardio**_ | | | | | | | |√| Reviewer |
-| _**JMIR Dermatology**_ | | | | | | | |√| Reviewer |
-| _**Journal of Librarianship and Scholarly Communication**_ | | | | | | | |√| Reviewer |
-| _**Folia Toruniensia**_ | | | | | | | |√| Reviewer |
-| _**JMIR Data**_ | | | | | | | | | Reviewer |
-| _**REVUE DES SCIENCES DE L’ INFORMATION**_ | | | | | | | | | Reviewer |
-| _**IP Indian Journal of Library Science and Information Technology**_ | | | | | | | | | Reviewer |
-| _**Nordic Journal of Library and Information Studies**_ | | | | | | | | | Reviewer |
-| _**International Journal of Library Information Networks and Knowledge**_ | | | | | | | | | Reviewer |
-| _**Journalof Knowledge and Communication Management**_ | | | | | | | | | Reviewer |
-| _**Berkala Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | Reviewer |
-| _**Edulib: Journal of Library and Information Science**_ | | | | | | | | | Reviewer |
-| _**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | Reviewer |
-| _**Pustabiblia: Journal of Library and Information Science**_ | | | | | | | | | Reviewer |
-| _**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_ | | | | | | | | | Reviewer |  
+**-Editorial Review Board**  
+&#8195; _**Health Informatics Journal**_ (SCI)  
+
+__·Reviewer 🕵️‍♂️
+  
+&#8195;**-SCI&SSCI&AHCI**  
+&#8195;&#8195;_**Journal of Medical Internet Research**_  
+&#8195;&#8195;_**JMIR mHealth and uHealth**_  
+&#8195;&#8195;_**JMIR Public Health and Surveillance**_  
+&#8195;&#8195;_**JMIR Serious Games**_  
+&#8195;&#8195;_**Journal of the Medical Library Association**_  
+&#8195;&#8195;_**Information Research**_  
+&#8195;&#8195;_**Health Information and Libraries Journal**_  
+&#8195;&#8195;_**Serials Review**_  
+
+&#8195;**-CSSCI**  
+&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_  
+
+&#8195;**-ESCI&SCOPUS**  
+&#8195;&#8195;_**Insights - the USKG Journal**_   
+&#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_  
+&#8195;&#8195;_**Interactive Journal of Medical Research**_  
+&#8195;&#8195;_**JMIR Medical Education**_  
+&#8195;&#8195;_**JMIR Aging**_  
+&#8195;&#8195;_**JMIR Cancer**_  
+&#8195;&#8195;_**JMIR Infodemiology**_  
+&#8195;&#8195;_**JMIR Formative Research**_  
+&#8195;&#8195;_**JMIR Research Protocols**_  
+&#8195;&#8195;_**Online Journal of Public Health Informatics**_  
+&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_  
+&#8195;&#8195;_**Research Integrity and Peer Review**_  
+&#8195;&#8195;_**Journal of Hospital Librarianship**_  
+&#8195;&#8195;_**Revista Interamericana de Bibliotecología**_  
+&#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_  
+&#8195;&#8195;_**Issues in Science and Technology Librarianship**_  
+&#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_  
+&#8195;&#8195;_**JMIR Cardio**_  
+&#8195;&#8195;_**JMIR Dermatology**_  
+&#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
+&#8195;&#8195;_**Folia Toruniensia**_  
+
+&#8195;**-Other**  
+&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_  
+&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_  
+&#8195;&#8195;_**Nordic Journal of Library and Information Studies**_  
+&#8195;&#8195;_**International Journal of Library Information Networks and Knowledge**_  
+&#8195;&#8195;_**Journalof Knowledge and Communication Management**_  
+&#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
+&#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
+&#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_   
 
 ***Statistics:** 14 times (2024); 32 times (2025)  
-***ERB:** Editorial Review Board
 
 ## Research Project
 
