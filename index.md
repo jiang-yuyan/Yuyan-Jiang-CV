@@ -45,12 +45,12 @@ __·Society Members__ 🧑‍🎓
 
 _Specialized Committee on Scientometrics and Information Metrology of China_
 
-__·Editorial Board 👨‍🔬
+__·Editorial Board__ 👨‍🔬
 
 &#8195;**-SCI&SSCI&AHCI**  
 &#8195;&#8195;_**Health Informatics Journal**_ (Editorial Review Board)  
 
-__·Reviewer 🕵️‍♂️
+__·Reviewer__ 🕵️‍♂️
   
 &#8195;**-SCI&SSCI&AHCI**  
 &#8195;&#8195;_**Journal of Medical Internet Research**_  
