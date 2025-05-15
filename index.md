@@ -100,7 +100,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_   
 
-***Statistics:** 14 times (2024); 32 times (2025)  
+***Statistics:** 14 times (2024); 35 times (2025)  
 
 ## Research Project
 
