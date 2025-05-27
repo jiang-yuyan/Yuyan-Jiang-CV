@@ -87,6 +87,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**JMIR Dermatology**_  
 &#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
 &#8195;&#8195;_**Folia Toruniensia**_  
+&#8195;&#8195;_**New Review of Information Networking**_  
 
 &#8195;**-Other**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_  
@@ -100,7 +101,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_   
 
-***Statistics:** 14 times (2024); 35 times (2025)  
+***Statistics:** 14 times (2024); 37 times (2025)  
 
 ## Research Project
 
