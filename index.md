@@ -52,17 +52,15 @@ __·Editorial Board__ 👨‍🔬
 
 __·Reviewer__ 🕵️‍♂️
   
-&#8195;&#8195;_**Health Information and Libraries Journal**_  
-&#8195;&#8195;_**Information Research**_  
-&#8195;&#8195;_**JMIR mHealth and uHealth**_  
-&#8195;&#8195;_**JMIR Public Health and Surveillance**_  
-&#8195;&#8195;_**JMIR Serious Games**_  
-&#8195;&#8195;_**Journal of Medical Internet Research**_  
-&#8195;&#8195;_**Journal of the Medical Library Association**_  
-&#8195;&#8195;_**Serials Review**_  
-
-&#8195;**-CSSCI**  
-&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_  
+&#8195;&#8195;_**Health Information and Libraries Journal**_ (SSCI)  
+&#8195;&#8195;_**Information Research**_ (SSCI)  
+&#8195;&#8195;_**JMIR mHealth and uHealth**_ (SCI)  
+&#8195;&#8195;_**JMIR Public Health and Surveillance**_ (SCI)  
+&#8195;&#8195;_**JMIR Serious Games**_ (SCI)  
+&#8195;&#8195;_**Journal of Medical Internet Research**_ (SCI)  
+&#8195;&#8195;_**Journal of the Medical Library Association**_ (SSCI)  
+&#8195;&#8195;_**Serials Review**_ (SSCI)  
+&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ (CSSCI)  
 
 &#8195;**-ESCI&SCOPUS**  
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_  
