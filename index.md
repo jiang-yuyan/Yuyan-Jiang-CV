@@ -71,6 +71,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**JMIR Cardio**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Dermatology**_ **(Scopus)**  
 &#8195;&#8195;_**JMIR Formative Research**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Human Factors**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Infodemiology**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Medical Education**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCI)**  
