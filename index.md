@@ -15,7 +15,7 @@ WeChat & 📱: +86 13372007365
 [Honour](#honour) |
 [Professional Skills](#professional-skills)
 
-## Education [👆](#navigation) |
+## Education
 
 __University of Chinese Academy of Sciences__  
 Degree: PhD👨  
@@ -47,8 +47,8 @@ _Specialized Committee on Scientometrics and Information Metrology of China_
 
 __·Editorial Board__ 👨‍🔬
 
-&#8195;**-SCI&SSCI&AHCI**  
-&#8195;&#8195;_**Health Informatics Journal**_ (Editorial Review Board)  
+&#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
+&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
 
 __·Reviewer__ 🕵️‍♂️
   
@@ -60,13 +60,15 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCI)**  
 &#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
+
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
-&#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_  
-&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_  
-&#8195;&#8195;_**Folia Toruniensia**_  
-&#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_  
-&#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_  
-&#8195;&#8195;_**Insights - the USKG Journal**_   
+
+&#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
+&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
+&#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
+&#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
+&#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**Insights - the USKG Journal**_ **(ESCI & Scopus)**   
 &#8195;&#8195;_**Interactive Journal of Medical Research**_  
 &#8195;&#8195;_**Issues in Science and Technology Librarianship**_  
 &#8195;&#8195;_**JMIR Aging**_  
