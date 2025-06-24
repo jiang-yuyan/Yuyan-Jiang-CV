@@ -53,7 +53,7 @@ __·Editorial Board__ 👨‍🔬
 __·Reviewer__ 🕵️‍♂️
   
 &#8195;**-SCI&SSCI&AHCI**  
-&#8195;&#8195;_**Journal of Medical Internet Research**_  
+&#8195;&#8195;[_**Journal of Medical Internet Research**_](https://www.jmir.org/)  
 &#8195;&#8195;_**JMIR mHealth and uHealth**_  
 &#8195;&#8195;_**JMIR Public Health and Surveillance**_  
 &#8195;&#8195;_**JMIR Serious Games**_  
