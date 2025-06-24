@@ -15,7 +15,7 @@ WeChat & 📱: +86 13372007365
 [Honour](#honour) |
 [Professional Skills](#professional-skills)
 
-## Education
+## Education [👆](#navigation) |
 
 __University of Chinese Academy of Sciences__  
 Degree: PhD👨  
@@ -52,17 +52,15 @@ __·Editorial Board__ 👨‍🔬
 
 __·Reviewer__ 🕵️‍♂️
   
-&#8195;&#8195;_**Health Information and Libraries Journal**_ (SSCI)  
-&#8195;&#8195;_**Information Research**_ (SSCI)  
-&#8195;&#8195;_**JMIR mHealth and uHealth**_ (SCI)  
-&#8195;&#8195;_**JMIR Public Health and Surveillance**_ (SCI)  
-&#8195;&#8195;_**JMIR Serious Games**_ (SCI)  
-&#8195;&#8195;_**Journal of Medical Internet Research**_ (SCI)  
-&#8195;&#8195;_**Journal of the Medical Library Association**_ (SSCI)  
-&#8195;&#8195;_**Serials Review**_ (SSCI)  
-&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ (CSSCI)  
-
-&#8195;**-ESCI&SCOPUS**  
+&#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
+&#8195;&#8195;_**Information Research**_ **(SSCI)**  
+&#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCI)**  
+&#8195;&#8195;_**JMIR Public Health and Surveillance**_ **(SCI)**  
+&#8195;&#8195;_**JMIR Serious Games**_ **(SCI)**  
+&#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCI)**  
+&#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
+&#8195;&#8195;_**Serials Review**_ **(SSCI)**  
+&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_  
 &#8195;&#8195;_**Folia Toruniensia**_  
@@ -85,8 +83,6 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Online Journal of Public Health Informatics**_  
 &#8195;&#8195;_**Research Integrity and Peer Review**_  
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_  
-
-&#8195;**-Other**  
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
 &#8195;&#8195;_**International Journal of Library Information Networks and Knowledge**_  
@@ -98,7 +94,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***Statistics:** 14 times (2024); 37 times (2025)  
+***Statistics:** 14 times (2024); 44 times (2025)  
 
 ## Research Project
 
@@ -166,6 +162,15 @@ Type: Finished
 
 __·2025__
 
+[**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**]()  
+**Source**：*Humanities and Social Sciences Communications*    
+**Year**：2025    
+**Volume**：    
+**Issue**：-    
+**Page**：Accept    
+**Author**：__Jiang Y__, Ma J    
+**Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
+
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
 **Source**：*Journal of Medical Internet Research*    
 **Year**：2025    
@@ -173,7 +178,7 @@ __·2025__
 **Issue**：-    
 **Page**：e59598    
 **Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：SCI, JIF = 5.8, CAS Q2 Top, JCR Q1, JCI Q1    
+**Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1    
 
 [**The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals**](https://utppublishing.com/doi/10.3138/jsp-2023-0056)  
 **Source**：*Journal of Scholarly Publishing*    
@@ -182,7 +187,7 @@ __·2025__
 **Issue**：1    
 **Page**：60-78    
 **Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：AHCI, SSCI, JIF = 1.2, CAS Q2, JCR Q3, JCI Q1 
+**Tag**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
 
 [**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
