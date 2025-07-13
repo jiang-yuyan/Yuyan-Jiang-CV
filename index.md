@@ -52,6 +52,7 @@ __·Editorial Board__ 👨‍🔬
 
 __·Reviewer__ 🕵️‍♂️
   
+&#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
@@ -94,7 +95,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***Statistics:** 14 times (2024); 44 times (2025)  
+***Statistics:** 14 times (2024); 46 times (2025)  
 
 ## Research Project
 
