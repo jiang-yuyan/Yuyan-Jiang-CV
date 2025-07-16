@@ -51,7 +51,8 @@ __·Editorial Board__ 👨‍🔬
 &#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
 
 __·Reviewer__ 🕵️‍♂️
-  
+
+&#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
 &#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
