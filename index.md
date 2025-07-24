@@ -537,8 +537,7 @@ __·2022__
 
 <details>  
 2025.7 NIEER<br>
-
-2025.7 NIEER<br>
+2025.7 NIEER
 </details>  
 
 [Back](#navigation) |
