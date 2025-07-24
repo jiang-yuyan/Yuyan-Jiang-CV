@@ -534,10 +534,12 @@ __·2022__
 **5.** Information Security - Penetration Test Engineer (CISP-PTE)  
 
 ## Talk
-<details>
+<details>  
 2025.7 NIEER  
+
 2025.7 NIEER  
-<details>
+<details>  
+
 [Back](#navigation) |
 
 <!-- ### Footer
