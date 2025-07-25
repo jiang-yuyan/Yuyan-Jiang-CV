@@ -33,15 +33,17 @@ WeChat & 📱: +86 13372007365
 **6.** Digital Library & Reading Promotion  
 
 ## Academic Role
-__·Society Members__ 🧑‍🎓
+<details>  
+<summary><strong>·Society Members🧑‍🎓</strong></summary>
+<strong>&#8195;&#8195;Specialized Committee on Scientometrics and Information Metrology of China</strong>
+</details>  
 
-&#8195;&#8195;_Specialized Committee on Scientometrics and Information Metrology of China_
-
-__·Editorial Board__ 👨‍🔬
-
-&#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
-&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
-&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_ **(Scientific Committee Menber)**  
+<details>  
+<summary><strong>·Editorial Board👨‍🔬</strong></summary>
+<strong>&#8195;&#8195;Health Informatics Journal (SCI, Editorial Review Board)</strong><br>
+<strong>&#8195;&#8195;Transportation Safety and Environment (ESCI & EI, Part-time Assistant Editor)</strong><br>
+<strong>&#8195;&#8195;REVUE DES SCIENCES DE L’ INFORMATION (Scientific Committee Menber)</strong>
+</details>  
 
 __·Reviewer__ 🕵️‍♂️
 
