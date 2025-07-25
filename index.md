@@ -206,7 +206,7 @@ __·2025__
 </details>  
 
 <details>  
-<summary><strong>Journal of Scholarly Publishing</strong></summary>
+<summary><strong>Acta Editologica 《编辑学报》</strong></summary>
 <strong>Title：<a href="https://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)">Beware of the Predatory Distortion of Journals in the Open Access Environment</a></strong><br>
 <strong>Volume：</strong> 37 <br>
 <strong>Issue：</strong> 3 <br>
