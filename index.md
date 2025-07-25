@@ -33,91 +33,84 @@ WeChat & 📱: +86 13372007365
 **6.** Digital Library & Reading Promotion  
 
 ## Academic Role
-<details>  
-<summary><strong>·Society Members🧑‍🎓</strong></summary>
-<strong>&#8195;&#8195;Specialized Committee on Scientometrics and Information Metrology of China</strong><br>
-</details>  
-<details>  
-<summary><strong>·Editorial Board👨‍🔬</strong></summary>
-<strong>&#8195;&#8195;Health Informatics Journal (SCI, Editorial Review Board)</strong><br>
-<strong>&#8195;&#8195;Transportation Safety and Environment (ESCI & EI, Part-time Assistant Editor)</strong><br>
-<strong>&#8195;&#8195;REVUE DES SCIENCES DE L’ INFORMATION (Scientific Committee Menber)</strong><br>
-</details>  
-<details>  
-<summary><strong>·Reviewer🕵️‍♂️</strong></summary>
-<strong>&#8195;&#8195;ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan</strong><br>
-<strong>&#8195;&#8195;ACCESS: An International Journal of Nepal Library Association</strong><br>
-<strong>&#8195;&#8195;Annals of Library and Information Studies (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;Asian/Pacific Island Nursing Journal (Scopus)</strong><br>
-<strong>&#8195;&#8195;Berkala Ilmu Perpustakaan dan Informasi</strong><br>
-<strong>&#8195;&#8195;Chinese Journal of Scientific and Technical Periodicals (CSSCI)</strong><br>
-<strong>&#8195;&#8195;COLLNET Journal of Scientometrics and Information Management (ESCI)</strong><br>
-<strong>&#8195;&#8195;Folia Toruniensia (Scopus)</strong><br>
-<strong>&#8195;&#8195;Health Information and Libraries Journal (SSCI)</strong><br>
-<strong>&#8195;&#8195;Iberoamerican Journal of Science Measurement and Communication (Scopus)</strong><br>
-<strong>&#8195;&#8195;Ibersid: revista de sistemas de información y documentación (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;Information Research (SSCI)</strong><br>
-<strong>&#8195;&#8195;Insights - the USKG Journal (ESCI & Scopus)</strong><br> 
-<strong>&#8195;&#8195;Interactive Journal of Medical Research (ESCI)</strong><br>
-<strong>&#8195;&#8195;International Journal of Library Information Networks and Knowledge</strong><br>
-<strong>&#8195;&#8195;IP Indian Journal of Library Science and Information Technology</strong><br>
-<strong>&#8195;&#8195;Issues in Science and Technology Librarianship (Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Aging (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Cancer (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Cardio (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Dermatology (Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Formative Research (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Human Factors (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Infodemiology (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Medical Education (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR mHealth and uHealth (SCI)</strong><br>
-<strong>&#8195;&#8195;JMIR Public Health and Surveillance (SCI)</strong><br>
-<strong>&#8195;&#8195;JMIR Research Protocols (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;JMIR Serious Games (SCI)</strong><br>
-<strong>&#8195;&#8195;Journal of Hospital Librarianship (Scopus)</strong><br>
-<strong>&#8195;&#8195;Journal of Librarianship and Scholarly Communication (Scopus)</strong><br>
-<strong>&#8195;&#8195;Journal of Medical Internet Research (SCI)</strong><br>
-<strong>&#8195;&#8195;Journal of the Medical Library Association (SSCI)</strong><br>
-<strong>&#8195;&#8195;Journal of Knowledge and Communication Management</strong><br>
-<strong>&#8195;&#8195;New Review of Information Networking (Scopus)</strong><br>
-<strong>&#8195;&#8195;Nordic Journal of Library and Information Studies</strong><br>
-<strong>&#8195;&#8195;Online Journal of Public Health Informatics (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;Pustabiblia: Journal of Library and Information Science</strong><br>
-<strong>&#8195;&#8195;Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi</strong><br>
-<strong>&#8195;&#8195;Research Integrity and Peer Review (ESCI & Scopus)</strong><br>
-<strong>&#8195;&#8195;Revista Interamericana de Bibliotecología (Scopus)</strong><br>
-<strong>&#8195;&#8195;REVUE DES SCIENCES DE L’ INFORMATION</strong><br>
-<strong>&#8195;&#8195;Serials Review(SSCI)</strong><br>
-<strong>&#8195;&#8195;Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi</strong><br>
-</details>  
+__·Society Members__ 🧑‍🎓
+
+&#8195;&#8195;_Specialized Committee on Scientometrics and Information Metrology of China_
+
+__·Editorial Board__ 👨‍🔬
+
+&#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
+&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
+&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_ **(Scientific Committee Menber)**  
+
+__·Reviewer__ 🕵️‍♂️
+
+&#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
+&#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
+&#8195;&#8195;_**Annals of Library and Information Studies**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
+&#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
+&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
+&#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
+&#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
+&#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
+&#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**Information Research**_ **(SSCI)**  
+&#8195;&#8195;_**Insights - the USKG Journal**_ **(ESCI & Scopus)**   
+&#8195;&#8195;_**Interactive Journal of Medical Research**_ **(ESCI)**  
+&#8195;&#8195;_**International Journal of Library Information Networks and Knowledge**_  
+&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_  
+&#8195;&#8195;_**Issues in Science and Technology Librarianship**_ **(Scopus)**  
+&#8195;&#8195;_**JMIR Aging**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Cancer**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Cardio**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Dermatology**_ **(Scopus)**  
+&#8195;&#8195;_**JMIR Formative Research**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Human Factors**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Infodemiology**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Medical Education**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCI)**  
+&#8195;&#8195;_**JMIR Public Health and Surveillance**_ **(SCI)**  
+&#8195;&#8195;_**JMIR Research Protocols**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Serious Games**_ **(SCI)**  
+&#8195;&#8195;_**Journal of Hospital Librarianship**_ **(Scopus)**  
+&#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
+&#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCI)**  
+&#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
+&#8195;&#8195;_**Journal of Knowledge and Communication Management**_  
+&#8195;&#8195;_**New Review of Information Networking**_ **(Scopus)**  
+&#8195;&#8195;_**Nordic Journal of Library and Information Studies**_  
+&#8195;&#8195;_**Online Journal of Public Health Informatics**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
+&#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_**Research Integrity and Peer Review**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
+&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_  
+&#8195;&#8195;_**Serials Review**_ **(SSCI)**  
+&#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
 ***Statistics:** 14 times (2024); 50 times (2025)  
 
 ## Research Project
 
-<details>  
-<summary><strong>Nantong Social Science Research Project</strong></summary>
-Code: SKB25-106<br>  
-Role: Participant<br>
-Time: 2025-2025<br>
+**Source**: **Nantong Social Science Research Project**  
+Code: SKB25-106  
+Role: Participant  
+Time: 2025-2025  
 Type: In-Research
-</details>  
-  
-<details>  
-<summary><strong>Liyungang Federation of Philosophy and Social Sciences Project</strong></summary>
-Code: 25xsj50<br> 
-Role: Participant<br> 
-Time: 2025-2025<br> 
-Type: In-Research
-</details>  
 
-<details>  
-<summary><strong>Intellectual Property Program of Gansu Province</strong></summary>
-Code: 24ZSCQ022<br> 
-Role: Participant<br> 
-Time: 2024-2026<br> 
+**Source**: **Liyungang Federation of Philosophy and Social Sciences Project**  
+Code: 25xsj50 
+Role: Participant  
+Time: 2025-2025  
 Type: In-Research
-</details>  
+
+**Source**: **Intellectual Property Program of Gansu Province**  
+Code: 24ZSCQ022  
+Role: Participant  
+Time: 2024-2026  
+Type: In-Research
 
 **Source**: **Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**  
 Code: -  
@@ -163,60 +156,57 @@ Type: Finished
 
 ## Publications
 
-<details>  
-<summary><strong>·2025</strong></summary>
-  
-<details>  
-<summary><strong>Humanities and Social Sciences Communications</strong></summary>
-<strong>Title：<a href="https://www.nature.com/articles/s41599-025-05387-6">Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data</a></strong><br>
-<strong>Volume：</strong> 12 <br>
-<strong>Issue：</strong> 1 <br>
-<strong>Page：</strong> 1-10 <br>
-<strong>Author：Jiang Y</strong>, Ma J<br>
-<strong>Tag：</strong> AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1
-</details>  
-  
-<details>  
-<summary><strong>Journal of Medical Internet Research</strong></summary>
-<strong>Title：<a href="https://www.jmir.org/2025/1/e59598">Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation</a></strong><br>
-<strong>Volume：</strong> 27 <br>
-<strong>Issue：</strong> - <br>
-<strong>Page：</strong> e59598 <br>
-<strong>Author：Jiang Y </strong>, Liu X, Wang L<br>
-<strong>Tag：</strong> SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1
-</details>  
+__·2025__
 
-<details>  
-<summary><strong>Journal of Scholarly Publishing</strong></summary>
-<strong>Title：<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056">The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals</a></strong><br>
-<strong>Volume：</strong> 56 <br>
-<strong>Issue：</strong> 1 <br>
-<strong>Page：</strong> 60-78 <br>
-<strong>Author：Jiang Y </strong>, Liu X, Wang L<br>
-<strong>Tag：</strong> AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1
-</details>  
+[**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](http://www.nature.com/articles/s41599-025-05387-6)  
+**Source**：*Humanities and Social Sciences Communications*    
+**Year**：2025    
+**Volume**：12    
+**Issue**：1    
+**Page**：1-10    
+**Author**：__Jiang Y__, Ma J    
+**Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
 
-<details>  
-<summary><strong>Chinese Journal of Scientific and Technical Periodicals《中国科技期刊研究》</strong></summary>
-<strong>Title：<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056">Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study</a></strong><br>
-<strong>Volume：</strong> 36 <br>
-<strong>Issue：</strong> 4 <br>
-<strong>Page：</strong> 512-521 <br>
-<strong>Author：</strong>, Liu X, <strong>Jiang Y</strong>,<br>
-<strong>Tag：</strong> CSSCI, PKU, CSTPCD  
-</details>  
+[**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
+**Source**：*Journal of Medical Internet Research*    
+**Year**：2025    
+**Volume**：27    
+**Issue**：-    
+**Page**：e59598    
+**Author**：__Jiang Y__, Liu X, Wang L    
+**Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1    
 
-<details>  
-<summary><strong>Acta Editologica 《编辑学报》</strong></summary>
-<strong>Title：<a href="https://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)">Beware of the Predatory Distortion of Journals in the Open Access Environment</a></strong><br>
-<strong>Volume：</strong> 37 <br>
-<strong>Issue：</strong> 3 <br>
-<strong>Page：</strong> 272-277 <br>
-<strong>Author：</strong>, Lu Y, <strong>Jiang Y</strong>, Zhang Y, Zheng J, Liu X, Fang H <br>
-<strong>Tag：</strong> CSSCI, PKU, CSTPCD  
-</details> 
+[**The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals**](https://utppublishing.com/doi/10.3138/jsp-2023-0056)  
+**Source**：*Journal of Scholarly Publishing*    
+**Year**：2025    
+**Volume**：56    
+**Issue**：1    
+**Page**：60-78    
+**Author**：__Jiang Y__, Liu X, Wang L    
+**Tag**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
 
-</details> 
+[**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source-Chinese**：《中国科技期刊研究》    
+**Year**：2025    
+**Volume**：36    
+**Issue**：4    
+**Page**：512-521    
+**Author**：Liu X, __Jiang Y__#    
+**Tag**：CSSCI, PKU, CSTPCD    
+**Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
+
+[**Beware of the Predatory Distortion of Journals in the Open Access Environment**]()  
+**Source**：*Acta Editologica*    
+**Source-Chinese**：《编辑学报》   
+**Year**：2025    
+**Volume**：37    
+**Issue**：3    
+**Page**：272-277    
+**Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
+**Tag**：CSSCI, PKU, CSTPCD   
+**Chinese**：警惕开放获取环境下期刊的掠夺性畸变
+
 __·2024__
 
 [**Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation**](https://www.jmir.org/2024/1/e55121)  
@@ -534,7 +524,7 @@ __·2022__
 
 **5.** Information Security - Penetration Test Engineer (CISP-PTE)  
 
-## Talk  
+## Talk
 
 **1.** 2025.7 NIEE  
 
