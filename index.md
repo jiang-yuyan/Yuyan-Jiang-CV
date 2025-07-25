@@ -30,7 +30,7 @@
 <a href="#academic-exchange">Academic Exchange</a> | 
 <a href="#honour">Honour</a>|
 <a href="#professional-skills">Professional Skills</a> | 
-<a href="#talk">Talk</a> | 
+<a href="#talk">Talk | </a>
 <a href="#connection">Connection</a>
 </div>
 
