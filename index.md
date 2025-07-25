@@ -9,10 +9,17 @@
         z-index: 1000;
         padding: 10px;
         border-bottom: 1px solid #ccc;
-        /* 添加这些属性实现水平居中 */
         display: flex;
         justify-content: center;
         align-items: center;
+        gap: 10px; /* 统一设置元素间距 */
+    }
+    
+    /* 添加分隔符样式 */
+    .navigation a:not(:last-child)::after {
+        content: " | ";
+        margin-left: 10px;
+        color: #666;
     }
     
     /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
@@ -22,15 +29,15 @@
 </style>
 
 <div class="navigation">
-<a href="#education">Education</a> | 
-<a href="#research-direction">Research Direction</a> | 
-<a href="#academic-role">Academic Role</a> | 
-<a href="#research-project">Research Project</a> | 
-<a href="#publications">Publications</a> | 
-<a href="#academic-exchange">Academic Exchange</a> | 
-<a href="#honour">Honour</a>|
-<a href="#professional-skills">Professional Skills</a> | 
-<a href="#talk">Talk | </a>
+<a href="#education">Education</a>
+<a href="#research-direction">Research Direction</a>
+<a href="#academic-role">Academic Role</a>
+<a href="#research-project">Research Project</a>
+<a href="#publications">Publications</a>
+<a href="#academic-exchange">Academic Exchange</a>
+<a href="#honour">Honour</a>
+<a href="#professional-skills">Professional Skills</a>
+<a href="#talk">Talk</a>
 <a href="#connection">Connection</a>
 </div>
 
