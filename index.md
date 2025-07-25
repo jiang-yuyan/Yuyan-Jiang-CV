@@ -111,11 +111,13 @@ Time: 2025-2025<br>
 Type: In-Research
 </details>  
 
-**Source**: **Intellectual Property Program of Gansu Province**  
-Code: 24ZSCQ022  
-Role: Participant  
-Time: 2024-2026  
+<details>  
+<summary><strong>Intellectual Property Program of Gansu Province</strong></summary>
+Code: 24ZSCQ022<br> 
+Role: Participant<br> 
+Time: 2024-2026<br> 
 Type: In-Research
+</details>  
 
 **Source**: **Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**  
 Code: -  
@@ -176,32 +178,32 @@ __·2025__
 <details>  
 <summary><strong>Journal of Medical Internet Research</strong></summary>
 <strong>Title：<a href="https://www.jmir.org/2025/1/e59598">Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation</a></strong><br>
-<strong>Volume：</strong> 272 <br>
+<strong>Volume：</strong> 27 <br>
 <strong>Issue：</strong> - <br>
 <strong>Page：</strong> e59598 <br>
 <strong>Author：Jiang Y </strong>, Liu X, Wang L<br>
 <strong>Tag：</strong> SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1
 </details>  
 
-[**The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals**](https://utppublishing.com/doi/10.3138/jsp-2023-0056)  
-**Source**：*Journal of Scholarly Publishing*    
-**Year**：2025    
-**Volume**：56    
-**Issue**：1    
-**Page**：60-78    
-**Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
+<details>  
+<summary><strong>Journal of Scholarly Publishing</strong></summary>
+<strong>Title：<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056">The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals</a></strong><br>
+<strong>Volume：</strong> 56 <br>
+<strong>Issue：</strong> 1 <br>
+<strong>Page：</strong> 60-78 <br>
+<strong>Author：Jiang Y </strong>, Liu X, Wang L<br>
+<strong>Tag：</strong> AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1
+</details>  
 
-[**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
-**Year**：2025    
-**Volume**：36    
-**Issue**：4    
-**Page**：512-521    
-**Author**：Liu X, __Jiang Y__#    
-**Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
+<details>  
+<summary><strong>Chinese Journal of Scientific and Technical Periodicals《中国科技期刊研究》</strong></summary>
+<strong>Title：<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056">Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study</a></strong><br>
+<strong>Volume：</strong> 36 <br>
+<strong>Issue：</strong> 4 <br>
+<strong>Page：</strong> 512-521 <br>
+<strong>Author：</strong>, Liu X, <strong>Jiang Y</strong>,<br>
+<strong>Tag：</strong> CSSCI, PKU, CSTPCD  
+</details>  
 
 [**Beware of the Predatory Distortion of Journals in the Open Access Environment**]()  
 **Source**：*Acta Editologica*    
