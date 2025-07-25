@@ -25,6 +25,7 @@
     /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
     body {
         padding-top: 60px;
+        font-family: "Times New Roman", "宋体", serif; /* 设置英文字体为 Times New Roman，中文字体为宋体 */
     }
 </style>
 
