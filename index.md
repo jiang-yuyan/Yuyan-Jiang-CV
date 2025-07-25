@@ -18,20 +18,11 @@ WeChat & 📱: +86 13372007365
 
 ## Education
 
-__University of Chinese Academy of Sciences__  
-Degree: PhD👨  
-Major: Information Science  
-Time: 2024 - 2027  
-
-__Xinxiang Medical University__  
-Degree: MPhil👦  
-Major: Library, Information and Archives Management  
-Time: 2021 - 2024  
-
-__Nanjing University Jinling College__  
-Degree: Bachelor👶  
-Major: Information Management and Information Systems  
-Time: 2017 - 2021  
+| Degree | University | Major | Time |
+| :-: | :-: | :-: | :-: |
+|👨**PhD**| University of Chinese Academy of Sciences | Information Science | 2024 - 2027 |  
+|👦**MPhil**| Xinxiang Medical University | Library, Information and Archives Management | 2021 - 2024 |  
+|👶**Bachelor**| Nanjing University Jinling College | Information Management and Information Systems | 2017 - 2021 |  
 
 ## Research Direction  
 **1.** Scientometrics  
@@ -84,7 +75,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**JMIR Research Protocols**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Serious Games**_ **(SCI)**  
 &#8195;&#8195;_**Journal of Hospital Librarianship**_ **(Scopus)**  
-&#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
+&#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_ **(Scopus)**  
 &#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCI)**  
 &#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
 &#8195;&#8195;_**Journal of Knowledge and Communication Management**_  
@@ -103,12 +94,14 @@ __·Reviewer__ 🕵️‍♂️
 
 ## Research Project
 
-**Source**: **Nantong Social Science Research Project**  
-Code: SKB25-106  
-Role: Participant  
-Time: 2025-2025  
+<details>  
+<summary><strong>Nantong Social Science Research Project</strong></summary>
+Code: SKB25-106<br>  
+Role: Participant<br>
+Time: 2025-2025<br>
 Type: In-Research
-
+</details>  
+  
 **Source**: **Liyungang Federation of Philosophy and Social Sciences Project**  
 Code: 25xsj50 
 Role: Participant  
