@@ -18,14 +18,7 @@
 
 ## Navigation
 <div class="navigation">
-Yuyan Jiang |
-姜育彦 |
-Lanzhou, China |
-📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) |
-👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
-WeChat & 📱: +86 13372007365
-
-<a href="#Education">Education</a>|
+<a href="#education">Education</a>|
 [Research Direction](#research-direction) |
 [Academic Role](#academic-role) |
 [Research Project](#research-project) |
@@ -34,6 +27,7 @@ WeChat & 📱: +86 13372007365
 [Honour](#honour) |
 [Professional Skills](#professional-skills) |
 [Talk](#talk)
+<a href="#connection">Connection|
 </div>
 
 ## Education
@@ -549,6 +543,15 @@ __·2022__
 **1.** 2025.7 NIEE  
 
 **2.** 2025.7 NIEE  
+
+## Connection
+
+Yuyan Jiang |
+姜育彦 |
+Lanzhou, China |
+📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) |
+👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
+WeChat & 📱: +86 13372007365
 
 [Back](#navigation) |
 
