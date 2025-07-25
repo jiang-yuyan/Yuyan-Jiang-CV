@@ -564,7 +564,5 @@ Lanzhou, China |
 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
 WeChat & 📱: +86 13372007365
 
-[Back](#navigation) |
-
 <!-- ### Footer
 Last updated: Jan 2023 -->
