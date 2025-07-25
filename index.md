@@ -170,7 +170,7 @@ __·2025__
 <strong>Volume：</strong><br>
 <strong>Issue：</strong><br>
 <strong>Page：</strong><br>
-<strong>Author：__Jiang Y__, Ma J</strong><br>
+<strong>Author：Jiang Y, Ma J</strong><br>
 <strong>Tag：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1</strong><br>
 </details>  
 
