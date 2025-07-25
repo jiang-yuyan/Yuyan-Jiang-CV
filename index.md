@@ -19,15 +19,15 @@
 ## Navigation
 <div class="navigation">
 <a href="#education">Education</a>|
-[Research Direction](#research-direction) |
-[Academic Role](#academic-role) |
-[Research Project](#research-project) |
-[Publications](#publications) |
-[Academic Exchange](#academic-exchange) |
-[Honour](#honour) |
-[Professional Skills](#professional-skills) |
-[Talk](#talk)
-<a href="#connection">Connection|
+<a href="#research-direction">Research Direction</a>|
+<a href="#academic-role">Academic Role</a>|
+<a href="#research-project">Research Project</a>|
+<a href="#publications">Publications</a>|
+<a href="#academic-exchange">Academic Exchange</a>|
+<a href="#honour">Honour</a>|
+<a href="#professional-skills">Professional Skills</a>|
+<a href="#talk">Talk</a>|
+<a href="#connection">Connection</a>
 </div>
 
 ## Education
