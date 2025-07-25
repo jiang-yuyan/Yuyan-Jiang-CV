@@ -221,7 +221,7 @@ __·2025__
 **Tag**：CSSCI, PKU, CSTPCD    
 **Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
 
-[**Beware of the Predatory Distortion of Journals in the Open Access Environment**]()  
+[**Beware of the Predatory Distortion of Journals in the Open Access Environment**](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)  
 **Source**：*Acta Editologica*    
 **Source-Chinese**：《编辑学报》   
 **Year**：2025    
@@ -551,9 +551,9 @@ __·2022__
 
 ## Talk
 
-**1.** 2025.7 NIEE  
+**1.** 2025.7 NIEER  
 
-**2.** 2025.7 NIEE  
+**2.** 2025.7 NIEER  
 
 ## Connection
 
