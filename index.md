@@ -25,7 +25,7 @@ Lanzhou, China |
 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
 WeChat & 📱: +86 13372007365
 
-[Education](#education) |
+<a href="#education">Education |
 [Research Direction](#research-direction) |
 [Academic Role](#academic-role) |
 [Research Project](#research-project) |
