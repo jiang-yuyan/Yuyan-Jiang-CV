@@ -1,9 +1,28 @@
+<style>
+    /* 设置导航栏固定在页面顶部 */
+    .navigation {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: white; /* 设置背景颜色，避免内容被遮挡 */
+        z-index: 1000; /* 设置 z-index，确保导航栏显示在其他内容之上 */
+        padding: 10px; /* 添加内边距，使内容更美观 */
+        border-bottom: 1px solid #ccc; /* 添加底部边框，增强视觉效果 */
+    }
+    /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
+    body {
+        padding-top: 60px; /* 根据导航栏的高度调整 */
+    }
+</style>
+
 ## Navigation
+<div class="navigation">
 Yuyan Jiang |
 姜育彦 |
 Lanzhou, China |
-📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) 
-| 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
+📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) |
+👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
 WeChat & 📱: +86 13372007365
 
 [Education](#education) |
@@ -15,6 +34,7 @@ WeChat & 📱: +86 13372007365
 [Honour](#honour) |
 [Professional Skills](#professional-skills) |
 [Talk](#talk)
+</div>
 
 ## Education
 
