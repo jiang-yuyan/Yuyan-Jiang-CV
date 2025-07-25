@@ -102,7 +102,7 @@ Role: Participant<br>
 Time: 2025-2025<br>
 Type: In-Research
 </details>  
-
+  
 <details>  
 <summary><strong>Liyungang Federation of Philosophy and Social Sciences Project</strong></summary>
 Code: 25xsj50<br> 
@@ -162,7 +162,7 @@ Type: Finished
 ## Publications
 
 __·2025__
-
+  
 <details>  
 <summary><strong>Humanities and Social Sciences Communications</strong></summary>
 <strong>Title：<a href="https://www.nature.com/articles/s41599-025-05387-6">Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data</a></strong><br>
@@ -172,7 +172,7 @@ __·2025__
 <strong>Author：Jiang Y</strong>, Ma J<br>
 <strong>Tag：</strong> AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1
 </details>  
-
+  
 <details>  
 <summary><strong>Journal of Medical Internet Research</strong></summary>
 <strong>Title：<a href="https://www.jmir.org/2025/1/e59598">Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation</a></strong><br>
