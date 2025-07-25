@@ -37,14 +37,12 @@ WeChat & 📱: +86 13372007365
 <summary><strong>·Society Members🧑‍🎓</strong></summary>
 <strong>&#8195;&#8195;Specialized Committee on Scientometrics and Information Metrology of China</strong><br>
 </details>  
-<br>
 <details>  
 <summary><strong>·Editorial Board👨‍🔬</strong></summary>
 <strong>&#8195;&#8195;Health Informatics Journal (SCI, Editorial Review Board)</strong><br>
 <strong>&#8195;&#8195;Transportation Safety and Environment (ESCI & EI, Part-time Assistant Editor)</strong><br>
 <strong>&#8195;&#8195;REVUE DES SCIENCES DE L’ INFORMATION (Scientific Committee Menber)</strong><br>
 </details>  
-<br>
 <details>  
 <summary><strong>·Reviewer🕵️‍♂️</strong></summary>
 <strong>&#8195;&#8195;ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan</strong><br>
@@ -104,13 +102,14 @@ Role: Participant<br>
 Time: 2025-2025<br>
 Type: In-Research
 </details>  
-<br>
 
-**Source**: **Liyungang Federation of Philosophy and Social Sciences Project**  
-Code: 25xsj50 
-Role: Participant  
-Time: 2025-2025  
+<details>  
+<summary><strong>Liyungang Federation of Philosophy and Social Sciences Project</strong></summary>
+Code: 25xsj50<br> 
+Role: Participant<br> 
+Time: 2025-2025<br> 
 Type: In-Research
+</details>  
 
 **Source**: **Intellectual Property Program of Gansu Province**  
 Code: 24ZSCQ022  
@@ -167,23 +166,22 @@ __·2025__
 <details>  
 <summary><strong>Humanities and Social Sciences Communications</strong></summary>
 <strong>Title：<a href="https://www.nature.com/articles/s41599-025-05387-6">Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data</a></strong><br>
-<strong>Year：</strong> 2025 <br>
 <strong>Volume：</strong> 12 <br>
 <strong>Issue：</strong> 1 <br>
 <strong>Page：</strong> 1-10 <br>
 <strong>Author：Jiang Y</strong>, Ma J<br>
 <strong>Tag：</strong> AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1
 </details>  
-<br>
 
-[**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
-**Source**：*Journal of Medical Internet Research*    
-**Year**：2025    
-**Volume**：27    
-**Issue**：-    
-**Page**：e59598    
-**Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1    
+<details>  
+<summary><strong>Journal of Medical Internet Research</strong></summary>
+<strong>Title：<a href="https://www.jmir.org/2025/1/e59598">Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation</a></strong><br>
+<strong>Volume：</strong> 272 <br>
+<strong>Issue：</strong> - <br>
+<strong>Page：</strong> e59598 <br>
+<strong>Author：Jiang Y </strong>, Liu X, Wang L<br>
+<strong>Tag：</strong> SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1
+</details>  
 
 [**The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals**](https://utppublishing.com/doi/10.3138/jsp-2023-0056)  
 **Source**：*Journal of Scholarly Publishing*    
