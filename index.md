@@ -163,7 +163,8 @@ Type: Finished
 
 ## Publications
 
-__·2025__
+<details>  
+<summary><strong>·2025</strong></summary>
   
 <details>  
 <summary><strong>Humanities and Social Sciences Communications</strong></summary>
@@ -215,6 +216,7 @@ __·2025__
 <strong>Tag：</strong> CSSCI, PKU, CSTPCD  
 </details> 
 
+</details> 
 __·2024__
 
 [**Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation**](https://www.jmir.org/2024/1/e55121)  
