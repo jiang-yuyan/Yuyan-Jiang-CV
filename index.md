@@ -205,16 +205,15 @@ __·2025__
 <strong>Tag：</strong> CSSCI, PKU, CSTPCD  
 </details>  
 
-[**Beware of the Predatory Distortion of Journals in the Open Access Environment**]()  
-**Source**：*Acta Editologica*    
-**Source-Chinese**：《编辑学报》   
-**Year**：2025    
-**Volume**：37    
-**Issue**：3    
-**Page**：Accept    
-**Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
-**Tag**：CSSCI, PKU, CSTPCD   
-**Chinese**：警惕开放获取环境下期刊的掠夺性畸变
+<details>  
+<summary><strong>Journal of Scholarly Publishing</strong></summary>
+<strong>Title：<a href="https://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)">Beware of the Predatory Distortion of Journals in the Open Access Environment</a></strong><br>
+<strong>Volume：</strong> 37 <br>
+<strong>Issue：</strong> 3 <br>
+<strong>Page：</strong> 272-277 <br>
+<strong>Author：</strong>, Lu Y, <strong>Jiang Y</strong>, Zhang Y, Zheng J, Liu X, Fang H <br>
+<strong>Tag：</strong> CSSCI, PKU, CSTPCD  
+</details> 
 
 __·2024__
 
