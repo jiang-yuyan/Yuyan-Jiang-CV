@@ -5,18 +5,22 @@
         top: 0;
         left: 0;
         width: 100%;
-        background-color: white; /* 设置背景颜色，避免内容被遮挡 */
-        z-index: 1000; /* 设置 z-index，确保导航栏显示在其他内容之上 */
-        padding: 10px; /* 添加内边距，使内容更美观 */
-        border-bottom: 1px solid #ccc; /* 添加底部边框，增强视觉效果 */
+        background-color: white;
+        z-index: 1000;
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+        /* 添加这些属性实现水平居中 */
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+    
     /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
     body {
-        padding-top: 60px; /* 根据导航栏的高度调整 */
+        padding-top: 60px;
     }
 </style>
 
-## Navigation
 <div class="navigation">
 <a href="#education">Education</a>|
 <a href="#research-direction">Research Direction</a>|
