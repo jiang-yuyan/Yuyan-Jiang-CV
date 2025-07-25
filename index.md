@@ -164,7 +164,7 @@ Type: Finished
 __·2025__
 
 <details>  
-<summary><strong><a href="https://www.nature.com/articles/s41599-025-05387-6">Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data</strong></summary>
+<summary><strong><a href="https://www.nature.com/articles/s41599-025-05387-6">Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data</a></strong></summary>
 <strong>Source：Humanities and Social Sciences Communications</strong><br>
 <strong>Year：2025</strong><br>
 <strong>Volume：</strong><br>
