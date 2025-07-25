@@ -47,7 +47,7 @@
 | Degree | University | Major | Time |
 | :-: | :-: | :-: | :-: |
 |👨**PhD**| University of Chinese Academy of Sciences | Information Science | 2024 - 2027 |  
-|👦**MPhil**| Xinxiang Medical University | Library, Information and Archives Management | 2021 - 2024 |  
+|👦**MPhil**| Henan Medical University | Library, Information and Archives Management | 2021 - 2024 |  
 |👶**Bachelor**| Nanjing University Jinling College | Information Management and Information Systems | 2017 - 2021 |  
 
 ## Research Direction  
