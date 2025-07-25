@@ -163,7 +163,9 @@ Type: Finished
 
 __·2025__
 
-[**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**]()  
+<details>  
+<summary><strong><a href="https://www.nature.com/articles/s41599-025-05387-6">Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data</strong></summary>
+
 **Source**：*Humanities and Social Sciences Communications*    
 **Year**：2025    
 **Volume**：    
@@ -171,6 +173,7 @@ __·2025__
 **Page**：Accept    
 **Author**：__Jiang Y__, Ma J    
 **Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
+</details>  
 
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
 **Source**：*Journal of Medical Internet Research*    
