@@ -171,7 +171,7 @@ __·2025__
 <strong>Issue：</strong><br>
 <strong>Page：</strong><br>
 <strong>Author：Jiang Y, Ma J</strong><br>
-<strong>Tag：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1</strong><br>
+<strong>Tag：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1</strong>
 </details>  
 
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
