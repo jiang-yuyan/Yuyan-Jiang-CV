@@ -124,16 +124,14 @@
 
 <div style="display: flex; margin-bottom: 30px;">
   <!-- 左侧头像区域 -->
-  <div style="flex: 0 0 150px; margin-right: 30px;">
-    <img src="cat.jpeg" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #ddd;">
-  </div>
-  
+    <div style="flex: 0 0 150px; margin-right: 30px;">
+        <img src="cat.jpeg" style="width: 300px; height: 300px; object-fit: cover;">
+    </div>
   <!-- 右侧个人简介区域 -->
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-    <h2 style="margin-top: 0;">Yuyan Jiang</h2>
-    <p><strong>Not a cat, but a PhD student!</strong></p>
-
-  </div>
+    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+        <h2 style="margin-top: 0;">Yuyan Jiang</h2>
+        <p><strong>Not a cat, but a PhD student!</strong></p>
+    </div>
 </div>
 
 ---
