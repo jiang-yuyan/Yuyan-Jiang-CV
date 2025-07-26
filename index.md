@@ -42,6 +42,12 @@
         align-items: center;
         gap: 10px; /* 统一设置元素间距 */
     }
+
+    .connection a:not(:last-child)::after {
+        content: " | ";
+        margin-left: 10px;
+        color: #666;
+    }
 </style>
 
 <div class="navigation">
@@ -578,15 +584,3 @@ __·2022__
 **1.** 2025.7 NIEER  
 
 **2.** 2025.7 NIEER  
-
-## Connection
-
-Yuyan Jiang |
-姜育彦 |
-Lanzhou, China |
-📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) |
-👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
-WeChat & 📱: +86 13372007365
-
-<!-- ### Footer
-Last updated: Jan 2023 -->
