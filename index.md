@@ -95,7 +95,7 @@
 <a href="#academic-role">Academic Role</a>
 <a href="#research-project">Research Project</a>
 <div class="dropdown">
-    <a href="#publications">Publications</a>
+    <a href="./publications">Publications</a>
     <div class="dropdown-menu">
         <a href="#publications-2025">2025</a>
         <a href="#publications-2024">2024</a>
