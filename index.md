@@ -135,9 +135,7 @@
 </div>
 
 ---
-
-## Education
-
+  
 &#8195;&#8195;I am a researcher specialising in information science and am currently pursuing my PhD Degree in Information Science at the University of Chinese Academy of Sciences (2024-2027). Prior to that, I received my MPhil in Management (Library Information and Records Management, 2021-2024) and BSc in Management (Information Management and Information System, 2017-2021) from Henan Medical University and Nanjing University Jinling College, respectively.  
 
 &#8195;&#8195;My research interests cover a number of cutting-edge areas, mainly focusing on scientometrics, journal publishing, open science and scientific data management. Meanwhile, I am also deeply concerned with peer review and research ethics issues, and committed to promoting academic integrity. In addition, I am actively exploring digital humanities and digital library construction, with special attention to the innovative development of reading promotion activities.  
