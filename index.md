@@ -125,17 +125,31 @@
 <div style="display: flex; margin-bottom: 30px;">
   <!-- 左侧头像区域 -->
   <div style="flex: 0 0 150px; margin-right: 30px;">
-    <img src="头像图片链接" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #ddd;">
+    <img src="cat.jpeg" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #ddd;">
   </div>
   
   <!-- 右侧个人简介区域 -->
 <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
     <h2 style="margin-top: 0;">Yuyan Jiang</h2>
-    <p><strong>Updating：</strong>Updating</p>
+    <p><strong>Not a cat, but a PhD student!</strong></p>
 
   </div>
 </div>
 
 ---
 
-Updating
+## Education
+
+| Degree | University | Major | Time |
+| :-: | :-: | :-: | :-: |
+|👨**PhD**| University of Chinese Academy of Sciences | Information Science | 2024 - 2027 |  
+|👦**MPhil**| Henan Medical University | Library, Information and Archives Management | 2021 - 2024 |  
+|👶**Bachelor**| Nanjing University Jinling College | Information Management and Information Systems | 2017 - 2021 |  
+
+## Research Direction  
+**1.** Scientometrics  
+**2.** Journal Publishing  
+**3.** Open Science & Scientific Data  
+**4.** Peer Review & Research Ethic  
+**5.** Digital Humanity  
+**6.** Digital Library & Reading Promotion  
