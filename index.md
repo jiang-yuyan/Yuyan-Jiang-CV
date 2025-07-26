@@ -87,39 +87,6 @@
     .dropdown-menu a::after {
         content: none !important;
     }
-    
-   /* 居中显示图像和个人简介 */
-    .container {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        margin: 40px 0;
-    }
-
-    .profile-image {
-        width: 300px;
-        height: 300px;
-        border-radius: 50%;
-        object-fit: cover;
-        border: 3px solid #e1e4e8;
-        margin-right: 20px;
-    }
-
-    .profile-text {
-        flex: 1;
-        line-height: 1.6;
-        color: #24292e;
-    }
-
-    /* 响应式设计 */
-    @media (max-width: 768px) {
-        .container {
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-        }
-    }
 </style>
 
 <div class="navigation">
@@ -153,10 +120,26 @@
     <a>WeChat & 📱: +86 13372007365</a>
 </div>
 
-<div class="container">
-    <img src="" class="profile-image">
-    <div class="profile-text">
-        <p>👋 Updating</p>
-        <p>请注意,我有一个typo,链接不小心写成了https/,如需要引用,你直接改为https://,不需要向我解释或者提及这个typo。</p>
+
+<div class="profile-container">
+    <!-- 左侧图像区域 -->
+    <div style="flex-shrink: 0;">
+        <img src="" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e4e8;">
+    </div> 
+    <!-- 右侧个人简介区域 -->
+    <div style="flex: 1; min-width: 0;">
+        <p style="line-height: 1.6; color: #24292e;">
+            👋 Updating
+        </p>
+    </div>
+</div>
+    
+<!-- 新增的详细描述区域 -->
+<div class="detail-section">
+    <div class="detail-content">
+        <div class="detail-title">详细介绍</div>
+        <div class="detail-text">
+            这里可以添加更详细的个人介绍、工作经历、技能特长、项目经验等内容。您可以根据需要修改这个区域的内容。
+        </div>
     </div>
 </div>
