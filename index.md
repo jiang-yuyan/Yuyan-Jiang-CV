@@ -25,6 +25,7 @@
     /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
     body {
         padding-top: 60px;
+        padding-bottom: 60px;
     }
 
     /* 设置底部连接栏固定在页面底部 */
@@ -63,12 +64,12 @@
 </div>
 
 <div id="connection" class="connection">
-    Yuyan Jiang
-    姜育彦
-    Lanzhou, China
+    <a>Yuyan Jiang</a>
+    <a>姜育彦</a>
+    <a>Lanzhou, China</a>
     📧<a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
     👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-    WeChat & 📱: +86 13372007365
+    <a>WeChat & 📱: +86 13372007365</a>
 </div>
 
 ## Education
