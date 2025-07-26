@@ -97,12 +97,12 @@
 <div class="dropdown">
     <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">Publications</a>
     <div class="dropdown-menu">
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication-2025">2025</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication-2024">2024</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication-2023">2023</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication-2022">2022</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication-2021">2021</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication-2020">2020</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025">2025</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024">2024</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2023">2023</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2022">2022</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2021">2021</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020">2020</a>
     </div>
 </div>
 <a href="#academic-exchange">Academic Exchange</a>
