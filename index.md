@@ -121,25 +121,21 @@
 </div>
 
 
-<div class="profile-container">
-    <!-- 左侧图像区域 -->
-    <div style="flex-shrink: 0;">
-        <img src="" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e4e8;">
-    </div> 
-    <!-- 右侧个人简介区域 -->
-    <div style="flex: 1; min-width: 0;">
-        <p style="line-height: 1.6; color: #24292e;">
-            👋 Updating
-        </p>
-    </div>
+
+<div style="display: flex; margin-bottom: 30px;">
+  <!-- 左侧头像区域 -->
+  <div style="flex: 0 0 150px; margin-right: 30px;">
+    <img src="头像图片链接" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #ddd;">
+  </div>
+  
+  <!-- 右侧个人简介区域 -->
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0;">Yuyan Jiang</h2>
+    <p><strong>Updating：</strong>Updating</p>
+
+  </div>
 </div>
-    
-<!-- 新增的详细描述区域 -->
-<div class="detail-section">
-    <div class="detail-content">
-        <div class="detail-title">详细介绍</div>
-        <div class="detail-text">
-            这里可以添加更详细的个人介绍、工作经历、技能特长、项目经验等内容。您可以根据需要修改这个区域的内容。
-        </div>
-    </div>
-</div>
+
+---
+
+Updating
