@@ -95,14 +95,14 @@
 <a href="#academic-role">Academic Role</a>
 <a href="#research-project">Research Project</a>
 <div class="dropdown">
-    <a href="./publication/publications">Publications</a>
+    <a href="./publications">Publications</a>
     <div class="dropdown-menu">
-        <a href="./publication/publications-2025">2025</a>
-        <a href="./publication/publications-2024">2024</a>
-        <a href="./publication/publications-2023">2023</a>
-        <a href="./publication/publications-2022">2022</a>
-        <a href="./publication/publications-2021">2021</a>
-        <a href="./publication/publications-2020">2020</a>
+        <a href="./publications-2025">2025</a>
+        <a href="./publications-2024">2024</a>
+        <a href="./publications-2023">2023</a>
+        <a href="./publications-2022">2022</a>
+        <a href="./publications-2021">2021</a>
+        <a href="./publications-2020">2020</a>
     </div>
 </div>
 <a href="#academic-exchange">Academic Exchange</a>
