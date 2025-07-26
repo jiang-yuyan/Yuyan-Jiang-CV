@@ -29,7 +29,7 @@
 </style>
 
 <div class="navigation">
-<a href="#education">教育经历</a>
+<a href="#教育经历">教育经历</a>
 <a href="#research-direction">Research Direction</a>
 <a href="#academic-role">Academic Role</a>
 <a href="#research-project">Research Project</a>
@@ -39,15 +39,19 @@
 <a href="#professional-skills">Professional Skills</a>
 <a href="#talk">Talk</a>
 <a href="#connection">Connection</a>
+<a>中文版</a>
+<a href="./">English</a>
 </div>
 
-## Education
+## 教育经历
 
-| Degree | University | Major | Time |
+| 学位 | 高校 | 专业 | 时间 |
 | :-: | :-: | :-: | :-: |
-|👨**PhD**| University of Chinese Academy of Sciences | Information Science | 2024 - 2027 |  
-|👦**MPhil**| Henan Medical University | Library, Information and Archives Management | 2021 - 2024 |  
-|👶**Bachelor**| Nanjing University Jinling College | Information Management and Information Systems | 2017 - 2021 |  
+|👨**博士**| 中国科学院大学 | 情报学 | 2024 - 2027 |  
+|👦**硕士**| 河南医药大学（新乡医学院） | 信息资源管理（图书情报与档案管理） | 2021 - 2024 |  
+|👶**学士**| 南京大学金陵学院 | 信息管理与信息系统 | 2017 - 2021 |  
+
+***注:**括号内为旧称  
 
 ## Research Direction  
 **1.** Scientometrics  
