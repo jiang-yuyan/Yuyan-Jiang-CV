@@ -95,7 +95,7 @@
 <a href="#academic-role">Academic Role</a>
 <a href="#research-project">Research Project</a>
 <div class="dropdown">
-    <a href="https://github.com/jiang-yuyan/Yuyan-Jiang-CV/edit/main/publication/publications">Publications</a>
+    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">Publications</a>
     <div class="dropdown-menu">
         <a href="./publication-2025">2025</a>
         <a href="./publication-2024">2024</a>
