@@ -87,6 +87,26 @@
     .dropdown-menu a::after {
         content: none !important;
     }
+
+    /* 居中容器样式 */
+    .profile-container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        gap: 20px;
+    }
+
+    /* 响应式设计 */
+    @media (max-width: 768px) {
+        .profile-container {
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+    }
 </style>
 
 <div class="navigation">
@@ -120,7 +140,7 @@
     <a>WeChat & 📱: +86 13372007365</a>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+<div class="profile-container">
   <!-- 左侧图像区域 -->
   <div style="flex-shrink: 0;">
     <img src=""  style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e4e8;">
@@ -132,4 +152,5 @@
     <p style="line-height: 1.6; color: #24292e;">
       👋 Updating
     </p>
-
+  </div>
+</div>
