@@ -60,7 +60,7 @@
 <a href="#academic-exchange">Academic Exchange</a>
 <a href="#honour">Honour</a>
 <a href="#professional-skills">Professional Skills</a>
-<a href="./index-zh">中文</a>
+<a href="./index-zh">中文（更新中）</a>
 <a>English</a>
 </div>
 
