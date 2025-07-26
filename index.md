@@ -25,7 +25,22 @@
     /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
     body {
         padding-top: 60px;
-        font-family: "Times New Roman", "宋体", serif; /* 设置英文字体为 Times New Roman，中文字体为宋体 */
+    }
+
+    /* 设置底部连接栏固定在页面底部 */
+    .connection {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: white;
+        z-index: 1000;
+        padding: 10px;
+        border-top: 1px solid #ccc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px; /* 统一设置元素间距 */
     }
 </style>
 
@@ -39,7 +54,15 @@
 <a href="#honour">Honour</a>
 <a href="#professional-skills">Professional Skills</a>
 <a href="#talk">Talk</a>
-<a href="#connection">Connection</a>
+</div>
+
+<div id="connection" class="connection">
+    Yuyan Jiang
+    姜育彦
+    Lanzhou, China
+    📧<a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
+    👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
+    WeChat & 📱: +86 13372007365
 </div>
 
 ## Education
