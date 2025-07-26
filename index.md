@@ -1,5 +1,5 @@
 <style>
-    /* 设置导航栏固定在页面顶部 */
+    / 设置导航栏固定在页面顶部 /
     .navigation {
         position: fixed;
         top: 0;
@@ -12,23 +12,23 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 10px; /* 统一设置元素间距 */
+        gap: 10px; / 统一设置元素间距 /
     }
     
-    /* 添加分隔符样式 */
+    / 添加分隔符样式 /
     .navigation a:not(:last-child)::after {
         content: " | ";
         margin-left: 10px;
         color: #666;
     }
     
-    /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
+    / 为页面主体添加顶部内边距，避免内容被导航栏遮挡 /
     body {
         padding-top: 60px;
         padding-bottom: 60px;
     }
 
-    /* 设置底部连接栏固定在页面底部 */
+    / 设置底部连接栏固定在页面底部 /
     .connection {
         position: fixed;
         bottom: 0;
@@ -41,7 +41,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 10px; /* 统一设置元素间距 */
+        gap: 10px; / 统一设置元素间距 /
     }
 
     .connection a:not(:last-child)::after {
@@ -50,7 +50,7 @@
         color: #666;
     }
 
-    /* 下拉菜单样式 */
+    / 下拉菜单样式 /
     .dropdown {
         position: relative;
         display: inline-block;
@@ -97,12 +97,12 @@
 <div class="dropdown">
     <a href="./publication/publications">Publications</a>
     <div class="dropdown-menu">
-        <a href="./publication/publications-2025">2025</a>
-        <a href="./publication/publications-2024">2024</a>
-        <a href="./publication/publications-2023">2023</a>
-        <a href="./publication/publications-2022">2022</a>
-        <a href="./publication/publications-2021">2021</a>
-        <a href="./publication/publications-2020">2020</a>
+        <a href="./publication/publication-2025">2025</a>
+        <a href="./publication/publication-2024">2024</a>
+        <a href="./publication/publication-2023">2023</a>
+        <a href="./publication/publication-2022">2022</a>
+        <a href="./publication/publication-2021">2021</a>
+        <a href="./publication/publication-2020">2020</a>
     </div>
 </div>
 <a href="#academic-exchange">Academic Exchange</a>
@@ -138,9 +138,13 @@
 
 ## Brief Introduction
 
-&#8195;&#8195;I am a researcher and am currently pursuing my **PhD in Management*** at **University of Chinese Academy of Sciences** (***Information Science***, 2024-2027). Prior to that, I received my **MPhil in Management** (***Library Information and Records Management***, 2021-2024) and **BSc in Management** (***Information Management and Information System***, 2017-2021) from **Henan Medical University** and **Nanjing University Jinling College**, respectively.  
+&#8195;&#8195;I am a researcher and am currently pursuing my PhD in Management at University of Chinese Academy of Sciences (Information Science, 2024-2027). Prior to that, I received my MPhil in Management (Library Information and Records Management, 2021-2024) and BSc in Management (Information Management and Information System, 2017-2021) from Henan Medical University and Nanjing University Jinling College, respectively.  
 
-&#8195;&#8195;My research interests cover a number of cutting-edge areas, mainly focusing on **scientometrics**, **journal publishing**, **open science** and **open data**. Meanwhile, I am also deeply concerned with ***peer review and research ethics issues***, and committed to promoting **academic integrity**. In addition, I am actively exploring **digital humanities and digital library construction**.  
+&#8195;&#8195;My research interests cover a number of cutting-edge areas, mainly focusing on scientometrics, journal publishing, open science and open data. Meanwhile, I am also deeply concerned with peer review and research ethics issues, and committed to promoting academic integrity. In addition, I am actively exploring digital humanities and digital library construction.  
 
-&#8195;&#8195;Through my interdisciplinary learning background and diversified research directions, I hope to make meaningful contributions to the field of **information science** and promote the modern development of **academic communication and knowledge dissemination**.  
+&#8195;&#8195;Through my interdisciplinary learning background and diversified research directions, I hope to make meaningful contributions to the field of information science and promote the modern development of academic communication and knowledge dissemination.  
+
+&#8195;&#8195;If you want to know more about me, you can click on the navigation bar above. Due to the fact that it takes some work to build the site, I will be updating it as soon as I can.  
+
+&#8195;&#8195;If you want to contact me. The relevant ways are shown at the bottom of the site.  
 
