@@ -89,14 +89,12 @@
     }
 
     /* 居中容器样式 */
-    .profile-container {
+    .container {
         display: flex;
+        flex-direction: row;
         justify-content: center;
-        align-items: flex-start;
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 20px;
-        gap: 20px;
+        align-items: center;
+        margin: 40px 0;
     }
 
     /* 响应式设计 */
