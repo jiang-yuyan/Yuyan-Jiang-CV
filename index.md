@@ -1,7 +1,3 @@
-<head>
-    <title></title>
-</head>
-
 <style>
     /* 设置导航栏固定在页面顶部 */
     .navigation {
