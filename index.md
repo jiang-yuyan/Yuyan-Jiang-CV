@@ -61,7 +61,7 @@
 <a href="#honour">Honour</a>
 <a href="#professional-skills">Professional Skills</a>
 <a href="#talk">Talk</a>
-<a href="./index-zh.md">中文版</a>
+<a href="./index-zh">中文版</a>
 <a>English</a>
 ---
 </div>
