@@ -138,7 +138,7 @@
     <a>WeChat & 📱: +86 13372007365</a>
 </div>
 
-<div class="profile-container">
+<div class="container">
   <!-- 左侧图像区域 -->
   <div style="flex-shrink: 0;">
     <img src=""  style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e4e8;">
