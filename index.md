@@ -146,5 +146,4 @@
 
 &#8195;&#8195;If you want to know more about me, you can click on the navigation bar above. Due to the fact that it takes some work to build the site, I will be updating it as soon as I can.  
 
-&#8195;&#8195;If you want to contact me. The relevant ways are shown at the bottom of the site.  
-
+&#8195;&#8195;If you want to contact me. The relevant ways are shown at the bottom of the site.
