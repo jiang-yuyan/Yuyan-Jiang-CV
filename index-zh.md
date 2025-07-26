@@ -54,7 +54,7 @@
 <div class="navigation">
 <a href="#教育经历">教育经历</a>
 <a href="#研究方向n">研究方向</a>
-<a href="学术兼职">学术兼职</a>
+<a href="#学术兼职">学术兼职</a>
 <a href="#研究项目">研究项目</a>
 <a href="#出版记录">出版记录</a>
 <a href="#学术交流">学术交流</a>
@@ -152,7 +152,7 @@ __·审稿人__ 🕵️‍♂️
 Type: In-Research
 
 **Source**: **Liyungang Federation of Philosophy and Social Sciences Project**  
-编号：25xsj50 
+编号：25xsj50  
 角色： Participant  
 时间：2025-2025  
 Type: In-Research
