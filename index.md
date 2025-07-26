@@ -1,3 +1,7 @@
+<head>
+    <title></title>
+</head>
+
 <style>
     /* 设置导航栏固定在页面顶部 */
     .navigation {
@@ -129,7 +133,7 @@
   </div>
   
   <!-- 右侧个人简介区域 -->
-  <div style="flex: 1;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
     <h2 style="margin-top: 0;">Yuyan Jiang</h2>
     <p><strong>Updating：</strong>Updating</p>
 
