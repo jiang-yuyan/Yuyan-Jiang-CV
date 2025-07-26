@@ -1,5 +1,5 @@
 <style>
-    / 设置导航栏固定在页面顶部 /
+    /* 设置导航栏固定在页面顶部 */
     .navigation {
         position: fixed;
         top: 0;
@@ -12,23 +12,23 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 10px; / 统一设置元素间距 /
+        gap: 10px; /* 统一设置元素间距 */
     }
     
-    / 添加分隔符样式 /
+    /* 添加分隔符样式 */
     .navigation a:not(:last-child)::after {
         content: " | ";
         margin-left: 10px;
         color: #666;
     }
     
-    / 为页面主体添加顶部内边距，避免内容被导航栏遮挡 /
+    /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
     body {
         padding-top: 60px;
         padding-bottom: 60px;
     }
 
-    / 设置底部连接栏固定在页面底部 /
+    /* 设置底部连接栏固定在页面底部 */
     .connection {
         position: fixed;
         bottom: 0;
@@ -41,7 +41,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 10px; / 统一设置元素间距 /
+        gap: 10px; /* 统一设置元素间距 */
     }
 
     .connection a:not(:last-child)::after {
@@ -50,7 +50,7 @@
         color: #666;
     }
 
-    / 下拉菜单样式 /
+    /* 下拉菜单样式 */
     .dropdown {
         position: relative;
         display: inline-block;
@@ -95,20 +95,20 @@
 <a href="#academic-role">Academic Role</a>
 <a href="#research-project">Research Project</a>
 <div class="dropdown">
-    <a href="./publication/publications">Publications</a>
+    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">Publications</a>
     <div class="dropdown-menu">
-        <a href="./publication/publication-2025">2025</a>
-        <a href="./publication/publication-2024">2024</a>
-        <a href="./publication/publication-2023">2023</a>
-        <a href="./publication/publication-2022">2022</a>
-        <a href="./publication/publication-2021">2021</a>
-        <a href="./publication/publication-2020">2020</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025">2025</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024">2024</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2023">2023</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2022">2022</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2021">2021</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020">2020</a>
     </div>
 </div>
 <a href="#academic-exchange">Academic Exchange</a>
 <a href="#honour">Honour</a>
 <a href="#professional-skills">Professional Skills</a>
-<a href="./index-zh">中文（更新中）</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025-zh">中文（更新中）</a>
 <a>English</a>
 </div>
 
@@ -119,8 +119,6 @@
     👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
     <a>WeChat & 📱: +86 13372007365</a>
 </div>
-
-
 
 <div style="display: flex; margin-bottom: 30px;">
   <!-- 左侧头像区域 -->
