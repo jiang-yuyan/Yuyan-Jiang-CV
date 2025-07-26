@@ -124,7 +124,7 @@
 
 <div style="display: flex; margin-bottom: 30px;">
   <!-- 左侧头像区域 -->
-    <div style="flex: 0 0 150px; margin-right: 30px;">
+    <div style="flex: 0 0 300px; margin-right: 60px;">
         <img src="cat.jpeg" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
   <!-- 右侧个人简介区域 -->
@@ -138,16 +138,9 @@
 
 ## Education
 
-| Degree | University | Major | Time |
-| :-: | :-: | :-: | :-: |
-|👨**PhD**| University of Chinese Academy of Sciences | Information Science | 2024 - 2027 |  
-|👦**MPhil**| Henan Medical University | Library, Information and Archives Management | 2021 - 2024 |  
-|👶**Bachelor**| Nanjing University Jinling College | Information Management and Information Systems | 2017 - 2021 |  
+&#8195;&#8195;I am a researcher specialising in information science and am currently pursuing my PhD Degree in Information Science at the University of Chinese Academy of Sciences (2024-2027). Prior to that, I received my MPhil in Management (Library Information and Records Management, 2021-2024) and BSc in Management (Information Management and Information System, 2017-2021) from Henan Medical University and Nanjing University Jinling College, respectively.  
 
-## Research Direction  
-**1.** Scientometrics  
-**2.** Journal Publishing  
-**3.** Open Science & Scientific Data  
-**4.** Peer Review & Research Ethic  
-**5.** Digital Humanity  
-**6.** Digital Library & Reading Promotion  
+&#8195;&#8195;My research interests cover a number of cutting-edge areas, mainly focusing on scientometrics, journal publishing, open science and scientific data management. Meanwhile, I am also deeply concerned with peer review and research ethics issues, and committed to promoting academic integrity. In addition, I am actively exploring digital humanities and digital library construction, with special attention to the innovative development of reading promotion activities.  
+
+&#8195;&#8195;Through my interdisciplinary learning background and diversified research directions, I hope to make meaningful contributions to the field of information science and promote the modern development of academic communication and knowledge dissemination.  
+
