@@ -123,22 +123,13 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <!-- 左侧图像区域 -->
   <div style="flex-shrink: 0;">
-    <img src="https://github.com/你的用户名.png"  style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e4e8;">
+    <img src=""  style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e4e8;">
   </div>
   
   <!-- 右侧个人简介区域 -->
   <div style="flex: 1; min-width: 0;">
-    <h2 style="margin-top: 0; color: #0366d6;">张三</h2>
-    <h3 style="color: #586069; font-weight: normal;">全栈开发工程师</h3>
-    
+   
     <p style="line-height: 1.6; color: #24292e;">
-      👋 你好！我是一名热爱技术的开发者，专注于Web开发和人工智能领域。拥有5年的软件开发经验，熟练掌握JavaScript、Python、React等技术栈。
+      👋 Updating
     </p>
-    
-    <div style="margin: 15px 0;">
-      <strong>技能专长：</strong><br>
-      • 前端开发：React, Vue.js, TypeScript<br>
-      • 后端开发：Node.js, Python, Java<br>
-      • 数据库：MySQL, MongoDB, Redis<br>
-      • 云服务：AWS, Docker, Kubernetes
-    </div>
+
