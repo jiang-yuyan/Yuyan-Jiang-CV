@@ -87,8 +87,8 @@
     .dropdown-menu a::after {
         content: none !important;
     }
-
-    /* 居中容器样式 */
+    
+   /* 居中显示图像和个人简介 */
     .container {
         display: flex;
         flex-direction: row;
@@ -97,9 +97,24 @@
         margin: 40px 0;
     }
 
+    .profile-image {
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 3px solid #e1e4e8;
+        margin-right: 20px;
+    }
+
+    .profile-text {
+        flex: 1;
+        line-height: 1.6;
+        color: #24292e;
+    }
+
     /* 响应式设计 */
     @media (max-width: 768px) {
-        .profile-container {
+        .container {
             flex-direction: column;
             align-items: center;
             text-align: center;
@@ -139,16 +154,9 @@
 </div>
 
 <div class="container">
-  <!-- 左侧图像区域 -->
-  <div style="flex-shrink: 0;">
-    <img src=""  style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e4e8;">
-  </div>
-  
-  <!-- 右侧个人简介区域 -->
-  <div style="flex: 1; min-width: 0;">
-   
-    <p style="line-height: 1.6; color: #24292e;">
-      👋 Updating
-    </p>
-  </div>
+    <img src="" class="profile-image">
+    <div class="profile-text">
+        <p>👋 Updating</p>
+        <p>请注意,我有一个typo,链接不小心写成了https/,如需要引用,你直接改为https://,不需要向我解释或者提及这个typo。</p>
+    </div>
 </div>
