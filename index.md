@@ -90,8 +90,6 @@
 </style>
 
 <div class="navigation">
-<a href="#education">Education</a>
-<a href="#research-direction">Research Direction</a>
 <a href="#academic-role">Academic Role</a>
 <a href="#research-project">Research Project</a>
 <div class="dropdown">
@@ -108,7 +106,7 @@
 <a href="#academic-exchange">Academic Exchange</a>
 <a href="#honour">Honour</a>
 <a href="#professional-skills">Professional Skills</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025-zh">中文（更新中）</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/index-zh">中文（更新中）</a>
 <a>English</a>
 </div>
 
