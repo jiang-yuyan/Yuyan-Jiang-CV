@@ -49,6 +49,44 @@
         margin-left: 10px;
         color: #666;
     }
+
+    /* 下拉菜单样式 */
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-menu {
+        display: none;
+        position: absolute;
+        background-color: white;
+        min-width: 100px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1001;
+        border: 1px solid #ccc;
+        top: 100%;
+        left: 0;
+    }
+
+    .dropdown-menu a {
+        color: black;
+        padding: 8px 12px;
+        text-decoration: none;
+        display: block;
+        font-size: 14px;
+    }
+
+    .dropdown-menu a:hover {
+        background-color: #f1f1f1;
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+
+    .dropdown-menu a::after {
+        content: none !important;
+    }
 </style>
 
 <div class="navigation">
@@ -56,7 +94,17 @@
 <a href="#research-direction">Research Direction</a>
 <a href="#academic-role">Academic Role</a>
 <a href="#research-project">Research Project</a>
-<a href="#publications">Publications</a>
+<div class="dropdown">
+    <a href="#publications">Publications</a>
+    <div class="dropdown-menu">
+        <a href="#publications-2025">2025</a>
+        <a href="#publications-2024">2024</a>
+        <a href="#publications-2023">2023</a>
+        <a href="#publications-2022">2022</a>
+        <a href="#publications-2021">2021</a>
+        <a href="#publications-2020">2020</a>
+    </div>
+</div>
 <a href="#academic-exchange">Academic Exchange</a>
 <a href="#honour">Honour</a>
 <a href="#professional-skills">Professional Skills</a>
@@ -97,7 +145,7 @@ __·Editorial Board__ 👨‍🔬
 
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
 &#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
-&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_ **(Scientific Committee Menber)**  
+&#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_ **(Scientific Committee Menber)**  
 
 __·Reviewer__ 🕵️‍♂️
 
@@ -142,7 +190,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Research Integrity and Peer Review**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
-&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_  
+&#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
@@ -212,9 +260,9 @@ Type: Finished
 
 ## Publications
 
-__·2025__
+<h3 id="publications-2025">·2025</h3>
 
-[**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](http://www.nature.com/articles/s41599-025-05387-6)  
+[**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](https://www.nature.com/articles/s41599-025-05387-6)  
 **Source**：*Humanities and Social Sciences Communications*    
 **Year**：2025    
 **Volume**：12    
@@ -250,7 +298,7 @@ __·2025__
 **Author**：Liu X, __Jiang Y__#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-[**Beware of the Predatory Distortion of Journals in the Open Access Environment**](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)  
+[**Beware of the Predatory Distortion of Journals in the Open Access Environment**](https://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)  
 **Source**：*Acta Editologica*     
 **Year**：2025    
 **Volume**：37    
@@ -259,7 +307,7 @@ __·2025__
 **Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
 **Tag**：CSSCI, PKU, CSTPCD   
 
-__·2024__
+<h3 id="publications-2024">·2024</h3>
 
 [**Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation**](https://www.jmir.org/2024/1/e55121)  
 **Source**：*Journal of Medical Internet Research*    
@@ -306,7 +354,7 @@ __·2024__
 **Author**：Wang L, Liu X, __Jiang Y__    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-__·2023__
+<h3 id="publications-2023">·2023</h3>
 
 [**A construction and empirical research of the journal disruption index based on open citation data**](https://link.springer.com/article/10.1007/s11192-023-04737-y)  
 **Source**：*Scientometrics*    
@@ -353,7 +401,7 @@ __·2023__
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-__·2022__
+<h3 id="publications-2022">·2022</h3>
 
 [**Open peer review: models, technologies, problems and countermeasures**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
@@ -364,7 +412,7 @@ __·2022__
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-[**An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
+[**An innovative evaluation index of scientific journals--Journal Disruption Index (JDI) and its empirical research**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
 **Year**：2022    
 **Volume**：33    
@@ -391,7 +439,7 @@ __·2022__
 **Author**：__Jiang Y__, Liu Y    
 **Tag**：-    
 
-__·2021__
+<h3 id="publications-2021">·2021</h3>
 
 [**An analysis of the collection construction model of university libraries driven by reader behavior data**]()  
 **Source**：*Digital & Micrographic Imaging*    
@@ -411,9 +459,9 @@ __·2021__
 **Author**：Li Y, __Jiang Y__    
 **Tag**：-    
 
-__·2020__
+<h3 id="publications-2020">·2020</h3>
 
-[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](http://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
+[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
 **Source**：*Journal of Library and Information Science in Agriculture*    
 **Year**：2020    
 **Volume**：32    
@@ -536,4 +584,4 @@ __·2022__
 
 **4.** Project Management Engineer (RSE-PM)
 
-**5.** Information Security - Penetration Test Engineer (CISP-PTE)  
+**5.** Information Security - Penetration Test Engineer (CISP-PTE)
