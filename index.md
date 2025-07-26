@@ -60,8 +60,7 @@
 <a href="#academic-exchange">Academic Exchange</a>
 <a href="#honour">Honour</a>
 <a href="#professional-skills">Professional Skills</a>
-<a href="#talk">Talk</a>
-<a href="./index-zh">中文版</a>
+<a href="./index-zh">中文</a>
 <a>English</a>
 </div>
 
@@ -243,26 +242,22 @@ __·2025__
 **Tag**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
 
 [**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*       
 **Year**：2025    
 **Volume**：36    
 **Issue**：4    
 **Page**：512-521    
 **Author**：Liu X, __Jiang Y__#    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
 
 [**Beware of the Predatory Distortion of Journals in the Open Access Environment**](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)  
-**Source**：*Acta Editologica*    
-**Source-Chinese**：《编辑学报》   
+**Source**：*Acta Editologica*     
 **Year**：2025    
 **Volume**：37    
 **Issue**：3    
 **Page**：272-277    
 **Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
 **Tag**：CSSCI, PKU, CSTPCD   
-**Chinese**：警惕开放获取环境下期刊的掠夺性畸变
 
 __·2024__
 
@@ -285,37 +280,31 @@ __·2024__
 **Tag**：SCI, JIF = 1.8, CAS Q4, JCR Q2, JCI Q2, AJG 2 Star 
 
 [**Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals**](https://www.cjstp.cn/CN/10.11946/cjstp.202409020964)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*     
 **Year**：2024    
 **Volume**：35    
 **Issue**：12    
 **Page**：1732-1743    
 **Author**：Cao J, Gao J, __Jiang Y__, Zhou Z    
-**Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：我国高校学者被撤销论文特征及原因分析   
+**Tag**：CSSCI, PKU, CSTPCD     
 
 [**Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI**](https://www.cjstp.cn/CN/10.11946/cjstp.202405210538)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
 **Year**：2024    
 **Volume**：35    
 **Issue**：11    
 **Page**：1611-1618    
 **Author**：Zhang Z, Yang X, Liu X, __Jiang Y__    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：作者国际化水平对我国SCI期刊影响力和颠覆性创新的影响
 
 [**Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor**](https://www.cjstp.cn/CN/10.11946/cjstp.202402130115)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
 **Year**：2024    
 **Volume**：35    
 **Issue**：7    
 **Page**：982-994    
 **Author**：Wang L, Liu X, __Jiang Y__    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：	SCI来源期刊载文量和影响因子的动态变化及载文量对影响因子的影响
 
 __·2023__
 
@@ -339,119 +328,99 @@ __·2023__
 
 [**Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
 **Year**：2023    
 **Volume**：34    
 **Issue**：8    
 **Page**：1060-1068    
 **Author**：__Jiang Y__, Wang L, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：SCIE收录的我国科技期刊创新性评价：基于颠覆性指数的实证研究
 
 [**Research progress on interdisciplinary evaluation indicators of scientific journals**](https://www.cjstp.cn/CN/10.11946/cjstp.202301130027)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
 **Year**：2023    
 **Volume**：34    
 **Issue**：7    
 **Page**：944-952    
 **Author**：Zhang Y, __Jiang Y__, Fang H    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：科技期刊跨学科评价指标的研究进展及展望
 
 [**The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
 **Source**：*Library and Information Service*    
-**Source-Chinese**：《图书情报工作》    
 **Year**：2023    
 **Volume**：67    
 **Issue**：3    
 **Page**：96-105    
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：	绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究   
 
 __·2022__
 
 [**Open peer review: models, technologies, problems and countermeasures**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
 **Year**：2022    
 **Volume**：33    
 **Issue**：9    
 **Page**：1196-1205    
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：开放型同行评议：模式、技术、问题与对策
 
 [**An innovative evaluation index of scientific journals—Journal Disruption Index (JDI) and its empirical research**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
 **Year**：2022    
 **Volume**：33    
 **Issue**：7    
 **Page**：965-972    
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：	科技期刊的创新性评价指标——期刊颠覆性指数(JDI)及其实证研究
 
 [**Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example**](https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1)  
 **Source**：*Digital Library Forum*    
-**Source-Chinese**：《数字图书馆论坛》    
 **Year**：2022    
 **Volume**：-    
 **Issue**：3    
 **Page**：47-52    
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI(E), CSTPCD    
-**Chinese**：	数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例
 
 [**A new model for promoting reading based on word segmentation indexing of collection titles**]()  
 **Source**：*Digital & Micrographic Imaging*    
-**Source-Chinese**：《数字与缩微影像》    
 **Year**：2022    
 **Volume**：-    
 **Issue**：1    
 **Page**：37-40    
 **Author**：__Jiang Y__, Liu Y    
 **Tag**：-    
-**Chinese**：	基于馆藏题录分词索引的阅读推广新模式
 
 __·2021__
 
 [**An analysis of the collection construction model of university libraries driven by reader behavior data**]()  
 **Source**：*Digital & Micrographic Imaging*    
-**Source-Chinese**：《数字与缩微影像》    
 **Year**：2021    
 **Volume**：-    
 **Issue**：4    
 **Page**：39-42    
 **Author**：__Jiang Y__, Liu Y    
 **Tag**：-    
-**Chinese**：	读者行为数据驱动的高校图书馆馆藏建设模式探析
 
 [**Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation**]()  
 **Source**：*Policy & Scientific Consult*    
-**Source-Chinese**：《科学咨询(科技·管理)》    
 **Year**：2021    
 **Volume**：-    
 **Issue**：6    
 **Page**：22-24    
 **Author**：Li Y, __Jiang Y__    
 **Tag**：-    
-**Chinese**：	双创背景下独立学院创客空间建设模式思考
 
 __·2020__
 
 [**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](http://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
 **Source**：*Journal of Library and Information Science in Agriculture*    
-**Source-Chinese**：《农业图书情报学报》    
 **Year**：2020    
 **Volume**：32    
 **Issue**：6    
 **Page**：23-33    
 **Author**：__Jiang Y__, Li Y    
 **Tag**：Scopus    
-**Chinese**：	基于数字人文视角的“情感——时空”模型探析
 
 [**Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry**](https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32)  
 **Source**：*Big Data and Security*    
@@ -464,14 +433,12 @@ __·2020__
 
 [**Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years**]()  
 **Source**：*Technology and Economic Guide*    
-**Source-Chinese**：《科技经济导刊》    
 **Year**：2020    
 **Volume**：28    
 **Issue**：5    
 **Page**：7-9    
 **Author**：__Jiang Y__, Li Y    
 **Tag**：-    
-**Chinese**：	近五年我国竞争情报文献研究热点研究分析
 
 _Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
 
@@ -480,19 +447,16 @@ _Note: All categorised results are based on the highest of the results in the ma
 __·2024__
 
 **Conf**：**The 7th Conference on Quality and Development of Chinese Journals**  
-**Conf-Chinese**：第七届中国期刊质量与发展大会  
 **Role**：Reporter    
 **Time**：2024-12    
 **Location**：Hangzhou, Zhejiang, China    
 
 **Conf**：**The 15th National Symposium on Scientometrics and Science and Education Evaluation**  
-**Conf-Chinese**：第十五届全国科学计量学与科教评价研讨会  
 **Role**：Reporter    
 **Time**：2024-11    
 **Location**：Zibo, Shandong, China    
 
 **Conf**：**Scientometrics Frontier Forum and International Journal Submission & Review Experience Exchange Meeting**  
-**Conf-Chinese**：科学计量学前沿论坛暨国际期刊投稿与评审经验交流会   
 **Role**：Participant    
 **Time**：2024-5    
 **Location**：Beijing, China    
@@ -500,31 +464,26 @@ __·2024__
 __·2023__
 
 **Conf**：**The 6th Tianfu Forum on Scientometrics and Scientific Evaluation**  
-**Conf-Chinese**：第六届科学计量与科技评价天府论坛  
 **Role**：Reporter    
 **Time**：2023-9    
 **Location**：Chengdu, Sichuan, China    
 
 **Conf**：**The 14th National Symposium on Scientometrics and Science and Education Evaluation**  
-**Conf-Chinese**：第十四届全国科学计量学与科教评价研讨会   
 **Role**：Reporter    
 **Time**：2023-6    
 **Location**：Taiyuan, Shanxi, China    
 
 **Conf**：**The 7th Youth Academic Forum on Quantitative Information Analysis**  
-**Conf-Chinese**：第七届定量信息分析青年学术论坛   
 **Role**：Participant    
 **Time**：2023-5    
 **Location**：Wuhan, Hubei, China    
 
 **Conf**：**The 1st Science and Technology Star and Technology Management Youth Forum**  
-**Conf-Chinese**：首届科技计量与科技管理青年论坛  
 **Role**：Participant    
 **Time**：2023-5    
 **Location**：Wuhan, Hubei, China    
 
 **Conf**：**The 2nd Science and Technology Journal Academic Forum**  
-**Conf-Chinese**：第二届科技期刊学术论坛  
 **Role**：Participant    
 **Time**：2023-5    
 **Location**：Xian, Shaanxi, China    
@@ -532,13 +491,11 @@ __·2023__
 __·2022__
 
 **Conf**：**The 13th National Symposium on Scientometrics and Science and Education Evaluation**  
-**Conf-Chinese**：第十三届全国科学计量学与科教评价研讨会   
 **Role**：Reporter    
 **Time**：2022-9    
 **Location**：Zhengzhou, Henan, China    
 
 **Conf**：**China Intelligence Science Annual Conference**  
-**Conf-Chinese**：中国情报学年会   
 **Role**：Reporter    
 **Time**：2022-8    
 **Location**：Online    
@@ -580,9 +537,3 @@ __·2022__
 **4.** Project Management Engineer (RSE-PM)
 
 **5.** Information Security - Penetration Test Engineer (CISP-PTE)  
-
-## Talk
-
-**1.** 2025.7 NIEER  
-
-**2.** 2025.7 NIEER  
