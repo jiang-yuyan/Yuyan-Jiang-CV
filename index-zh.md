@@ -25,21 +25,42 @@
     /* 为页面主体添加顶部内边距，避免内容被导航栏遮挡 */
     body {
         padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    /* 设置底部连接栏固定在页面底部 */
+    .connection {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: white;
+        z-index: 1000;
+        padding: 10px;
+        border-top: 1px solid #ccc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px; /* 统一设置元素间距 */
+    }
+
+    .connection a:not(:last-child)::after {
+        content: " | ";
+        margin-left: 10px;
+        color: #666;
     }
 </style>
 
 <div class="navigation">
 <a href="#教育经历">教育经历</a>
-<a href="#research-direction">Research Direction</a>
-<a href="#academic-role">Academic Role</a>
-<a href="#research-project">Research Project</a>
-<a href="#publications">Publications</a>
-<a href="#academic-exchange">Academic Exchange</a>
-<a href="#honour">Honour</a>
-<a href="#professional-skills">Professional Skills</a>
-<a href="#talk">Talk</a>
-<a href="#connection">Connection</a>
-<a>中文版</a>
+<a href="#研究方向n">研究方向</a>
+<a href="学术兼职">学术兼职</a>
+<a href="#研究项目">研究项目</a>
+<a href="#出版记录">出版记录</a>
+<a href="#学术交流">学术交流</a>
+<a href="#荣誉奖励">荣誉奖励</a>
+<a href="#专业技能">专业技能</a>
+<a>中文（更新中）</a>
 <a href="./">English</a>
 </div>
 
@@ -53,26 +74,26 @@
 
 ***注:**括号内为旧称  
 
-## Research Direction  
-**1.** Scientometrics  
-**2.** Journal Publishing  
-**3.** Open Science & Scientific Data  
-**4.** Peer Review & Research Ethic  
-**5.** Digital Humanity  
-**6.** Digital Library & Reading Promotion  
+## 研究方向  
+**1.** 科学计量学  
+**2.** 期刊出版  
+**3.** 开放科学与科学数据  
+**4.** 同行评议与学术道德  
+**5.** 数字人文  
+**6.** 数字图书馆与阅读推广  
 
-## Academic Role
-__·Society Members__ 🧑‍🎓
+## 学术兼职
+__·学会成员__ 🧑‍🎓
 
-&#8195;&#8195;_Specialized Committee on Scientometrics and Information Metrology of China_
+&#8195;&#8195;_中国科学学与科技政策研究会科学计量学与信息计量学专业委员会_
 
-__·Editorial Board__ 👨‍🔬
+__·编辑委员会__ 👨‍🔬
 
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
 &#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_ **(Scientific Committee Menber)**  
 
-__·Reviewer__ 🕵️‍♂️
+__·审稿人__ 🕵️‍♂️
 
 &#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
 &#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
@@ -82,6 +103,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
 &#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
+&#8195;&#8195;_**Health Informatics Journal**_ **(SCI)**  
 &#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
 &#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
 &#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
@@ -121,69 +143,69 @@ __·Reviewer__ 🕵️‍♂️
 
 ***Statistics:** 14 times (2024); 50 times (2025)  
 
-## Research Project
+## 研究课题
 
 **Source**: **Nantong Social Science Research Project**  
-Code: SKB25-106  
-Role: Participant  
-Time: 2025-2025  
+编号：SKB25-106  
+角色： Participant  
+时间：2025-2025  
 Type: In-Research
 
 **Source**: **Liyungang Federation of Philosophy and Social Sciences Project**  
-Code: 25xsj50 
-Role: Participant  
-Time: 2025-2025  
+编号：25xsj50 
+角色： Participant  
+时间：2025-2025  
 Type: In-Research
 
 **Source**: **Intellectual Property Program of Gansu Province**  
-Code: 24ZSCQ022  
-Role: Participant  
-Time: 2024-2026  
+编号：24ZSCQ022  
+角色： Participant  
+时间：2024-2026  
 Type: In-Research
 
 **Source**: **Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**  
-Code: -  
-Role: Participant  
-Time: 2024-2025  
-Type: In-Research  
+编号：-  
+角色： Participant  
+时间：2024-2025  
+状态：在研
 
 **Source**: **Major Project of Henan Provincial Department of Education**  
-Code: 2024-JCZD-23  
-Role: Participant  
-Time: 2024-2026  
-Type: In-Research  
+编号：2024-JCZD-23  
+角色： Participant  
+时间：2024-2026  
+状态：在研
 
 **Source**: **Project of Society of Scientific and Technological Periodicals**  
-Code: YJH202315    
-Role: Participant  
-Time: 2023-2023  
-Type: Finished  
+编号：YJH202315    
+角色： Participant  
+时间：2023-2023  
+状态：结项  
 
 **Source**: **General Project of National Social Science Fund**  
-Code: 23BTQ085  
-Role: Participant  
-Time: 2023-2027  
-Type: In-Research  
+编号：23BTQ085  
+角色： Participant  
+时间：2023-2027  
+状态：在研
 
 **Source**: **Xinxiang Medical University Postgraduate Research Innovation Support Program**  
-Code: YJSCX202277Y  
-Role: Host  
-Time: 2022-2024  
-Type: Finished  
+编号：YJSCX202277Y  
+角色： Host  
+时间：2022-2024  
+状态：结项  
 
 **Source**: **General Project of National Social Science Fund**  
-Code: 19BTQ087  
-Role: Participant  
-Time: 2019-2023  
-Type: Finished  
+编号：19BTQ087  
+角色： Participant  
+时间：2019-2023  
+状态：结项  
 
 **Source**: **Nanjing University Jinling College Undergraduate Innovation Training Program Project**  
-Code: 136462019007X    
-Role: Participant  
-Time: 2019-2021  
-Type: Finished
+编号：136462019007X    
+角色： Participant  
+时间：2019-2021  
+状态：结项
 
-## Publications
+## 出版记录
 
 __·2025__
 
@@ -214,16 +236,14 @@ __·2025__
 **Author**：__Jiang Y__, Liu X, Wang L    
 **Tag**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
 
-[**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
-**Year**：2025    
-**Volume**：36    
-**Issue**：4    
-**Page**：512-521    
-**Author**：Liu X, __Jiang Y__#    
+[**基于引证数据来源优化的期刊颠覆性指数及其实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
+**期刊**：《中国科技期刊研究》    
+**年份**：2025    
+**卷号**：36    
+**期号**：4    
+**页码**：512-521    
+**作者**：Liu X, __Jiang Y__#    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：基于引证数据来源优化的期刊颠覆性指数及其实证研究 
 
 [**Beware of the Predatory Distortion of Journals in the Open Access Environment**](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)  
 **Source**：*Acta Editologica*    
@@ -256,8 +276,8 @@ __·2024__
 **Author**：__Jiang Y__, Liu X    
 **Tag**：SCI, JIF = 1.8, CAS Q4, JCR Q2, JCI Q2, AJG 2 Star 
 
-[**Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals**](https://www.cjstp.cn/CN/10.11946/cjstp.202409020964)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+[**我国高校学者被撤销论文特征及原因分析**](https://www.cjstp.cn/CN/10.11946/cjstp.202409020964)  
+**Source**：*中国科技期刊研究*    
 **Source-Chinese**：《中国科技期刊研究》    
 **Year**：2024    
 **Volume**：35    
@@ -265,11 +285,9 @@ __·2024__
 **Page**：1732-1743    
 **Author**：Cao J, Gao J, __Jiang Y__, Zhou Z    
 **Tag**：CSSCI, PKU, CSTPCD    
-**Chinese**：我国高校学者被撤销论文特征及原因分析   
 
 [**Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI**](https://www.cjstp.cn/CN/10.11946/cjstp.202405210538)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
-**Source-Chinese**：《中国科技期刊研究》    
+**Source**：*中国科技期刊研究*    
 **Year**：2024    
 **Volume**：35    
 **Issue**：11    
@@ -495,37 +513,34 @@ __·2023__
 **Time**：2023-5    
 **Location**：Wuhan, Hubei, China    
 
-**Conf**：**The 2nd Science and Technology Journal Academic Forum**  
-**Conf-Chinese**：第二届科技期刊学术论坛  
-**Role**：Participant    
-**Time**：2023-5    
-**Location**：Xian, Shaanxi, China    
+**会议**：第二届科技期刊学术论坛  
+**角色**：Participant    
+**时间**：2023-5    
+**地点**：中国，陕西，西安    
 
 __·2022__
 
-**Conf**：**The 13th National Symposium on Scientometrics and Science and Education Evaluation**  
-**Conf-Chinese**：第十三届全国科学计量学与科教评价研讨会   
-**Role**：Reporter    
-**Time**：2022-9    
-**Location**：Zhengzhou, Henan, China    
+**会议**：第十三届全国科学计量学与科教评价研讨会   
+**角色**：分论坛汇报    
+**时间**：2022-9    
+**地点**：中国，河南，郑州    
+ 
+**角色**：中国情报学年会   
+**角色**：分论坛汇报    
+**时间**：2022-8    
+**地点**：在线    
 
-**Conf**：**China Intelligence Science Annual Conference**  
-**Conf-Chinese**：中国情报学年会   
-**Role**：Reporter    
-**Time**：2022-8    
-**Location**：Online    
+## 荣誉奖励
 
-## Honour
-
-| Award | Year | Source |
+| 奖项 | 年度 | 来源 |
 | :-: | :-: | :-: |
-| **National Postgraduate Scholarship** | 2023 | Ministry of Education of China |
-| **Innovation Star** | 2024 | Department of Education of Henan Province |
-| **Outstanding Graduate Students** | 2024 | Department of Education of Henan Province |
-| **First Prize of Scholarship** | 2022 | Department of Education of Henan Province |
-| **First Prize of Scholarship** | 2022 | Department of Education of Henan Province |
-| **Innovation Star** | 2024 | Xinxiang Medical University |
-| **Outstanding Dissertation** | 2024 | Xinxiang Medical University |
+| 国家奖学金 | 2023 | 中华人民共和国教育部 |
+| 河南省创新之星 | 2024 | 河南省教育厅 |
+| 优秀毕业研究生 | 2024 | 河南省教育厅 |
+| **First Prize of Scholarship** | 2022 | 河南省教育厅 |
+| **First Prize of Scholarship** | 2022 | 河南省教育厅 |
+| 校创新之星 | 2024 | 河南医药大学 |
+| 校优秀论文 | 2024 | 河南医药大学 |
 | **First Prize of Academic Star** | 2023 | Xinxiang Medical University |
 | **First Prize of University Scholarship** | 2022 | Xinxiang Medical University |
 | **Outstanding Postgraduate Student** | 2022 | Xinxiang Medical University |
@@ -535,38 +550,20 @@ __·2022__
 | **Single Prize of People Scholarship** | 2020 | Nanjing University Jinling College |
 | **First Prize of Academic Star** | 2023 | Henan Research Center for Science Journals |
 | **Outstanding Readers** | 2021 | Library of Nanjing University Jinling College |
-| **Third Prize of Outstanding Paper** | 2024 | The 7th Conference on Quality and Development of Chinese Journals |
-| **First Prize of Outstanding Paper** | 2023 | The 14th National Symposium on Scientometrics & Science and Education Evaluation |
-| **Third Prize of Outstanding Paper** | 2023 | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
-| **Third Prize** | 2019 | The 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
-| **Third Prize** | 2018 | The 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
+| 优秀论文三等奖 | 2024 | The 7th Conference on Quality and Development of Chinese Journals |
+| 优秀论文一等奖 | 2023 | The 14th National Symposium on Scientometrics & Science and Education Evaluation |
+| 优秀论文三等奖 | 2023 | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
+| 三等奖 | 2019 | The 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
+| 三等奖 | 2018 | The 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
 
-## Professional Skills
+## 专业技能
 
-**1.** English CET-6
+**1.** CET-6
 
-**2.** Jiangsu Province Computer Level 2 - Excellent
+**2.** 江苏省计算机等级考试二级 - 优秀
 
-**3.** IOP Trusted Reviewer Certification
+**3.** IOP 可信评审人认证  
 
-**4.** Project Management Engineer (RSE-PM)
+**4.** 锐捷项目管理工程师
 
-**5.** Information Security - Penetration Test Engineer (CISP-PTE)  
-
-## Talk
-
-**1.** 2025.7 NIEER  
-
-**2.** 2025.7 NIEER  
-
-## Connection
-
-Yuyan Jiang |
-姜育彦 |
-Lanzhou, China |
-📧[jiangyuyancite@163.com](mailto:jiangyuyancite@163.com) |
-👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=QTCEilEAAAAJ) |
-WeChat & 📱: +86 13372007365
-
-<!-- ### Footer
-Last updated: Jan 2023 -->
+**5.** 信息安全 - 渗透测试工程师  
