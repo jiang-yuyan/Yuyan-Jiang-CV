@@ -105,7 +105,7 @@
 </div>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">学术交流</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">荣誉奖励</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills"专业技能</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">专业技能</a>
 <a>中文</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/index">English</a>
 </div>
