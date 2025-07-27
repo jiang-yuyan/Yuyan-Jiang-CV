@@ -110,6 +110,14 @@
 <a>English</a>
 </div>
 
+<div id="connection" class="connection">
+    <a>Yuyan Jiang</a>
+    <a>Lanzhou, Gansu, China</a>
+    📧<a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
+    👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
+    <a>WeChat & 📱: +86 13372007365</a>
+</div>
+
 ## Publications
 
 <h3 id="publications-2025">·2025</h3>
