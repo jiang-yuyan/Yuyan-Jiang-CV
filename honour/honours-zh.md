@@ -107,7 +107,7 @@
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours-zh">荣誉奖励</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills-zh">专业技能</a>
 <a>中文</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/index">English</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">English</a>
 </div>
 
 <div id="connection" class="connection">
