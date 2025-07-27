@@ -90,34 +90,32 @@
 </style>
 
 <div class="navigation">
-<a href="#education">Education</a>
-<a href="#research-direction">Research Direction</a>
-<a href="#academic-role">Academic Role</a>
-<a href="#research-project">Research Project</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles-zh">学术兼职</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects-zh">研究课题</a>
 <div class="dropdown">
-    <a href="./publication/publications">Publications</a>
+    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications-zh">出版记录</a>
     <div class="dropdown-menu">
-        <a href="./publication/publications-2025">2025</a>
-        <a href="./publication/publications-2024">2024</a>
-        <a href="./publication/publications-2023">2023</a>
-        <a href="./publication/publications-2022">2022</a>
-        <a href="./publication/publications-2021">2021</a>
-        <a href="./publication/publications-2020">2020</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025-zh">2025</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024-zh">2024</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2023-zh">2023</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2022-zh">2022</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2021-zh">2021</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020-zh">2020</a>
     </div>
 </div>
-<a href="#academic-exchange">Academic Exchange</a>
-<a href="#honour">Honour</a>
-<a href="#professional-skills">Professional Skills</a>
-<a href="./index-zh">中文（更新中）</a>
-<a>English</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges-zh">学术交流</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours-zh">荣誉奖励</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills-zh">专业技能</a>
+<a>中文</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025">English</a>
 </div>
 
 <div id="connection" class="connection">
-    <a>Yuyan Jiang</a>
-    <a>Lanzhou, Gansu, China</a>
+    <a>姜育彦</a>
+    <a>中国，甘肃，兰州</a>
     📧<a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
     👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-    <a>WeChat & 📱: +86 13372007365</a>
+    <a>微信 & 📱: +86 13372007365</a>
 </div>
 
 ## 出版记录
