@@ -126,13 +126,11 @@
 | **Innovation Star** | 2024 | Department of Education of Henan Province |
 | **Outstanding Graduate Students** | 2024 | Department of Education of Henan Province |
 | **First Prize of Scholarship** | 2022 | Department of Education of Henan Province |
-| **First Prize of Scholarship** | 2022 | Department of Education of Henan Province |
 | **Innovation Star** | 2024 | Xinxiang Medical University |
 | **Outstanding Dissertation** | 2024 | Xinxiang Medical University |
 | **First Prize of Academic Star** | 2023 | Xinxiang Medical University |
 | **First Prize of University Scholarship** | 2022 | Xinxiang Medical University |
 | **Outstanding Postgraduate Student** | 2022 | Xinxiang Medical University |
-| **Outstanding Postgraduate Student** | 2021 | Xinxiang Medical University |
 | **Outstanding Postgraduate Student** | 2021 | Xinxiang Medical University |
 | **Third Prize of People Scholarship** | 2021 | Nanjing University Jinling College |
 | **Single Prize of People Scholarship** | 2020 | Nanjing University Jinling College |
