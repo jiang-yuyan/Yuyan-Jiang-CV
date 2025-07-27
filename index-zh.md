@@ -90,10 +90,10 @@
 </style>
 
 <div class="navigation">
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">Academic Role</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects">Research Project</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">学术兼职</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects">研究课题</a>
 <div class="dropdown">
-    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">Publications</a>
+    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">出版记录</a>
     <div class="dropdown-menu">
         <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025">2025</a>
         <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024">2024</a>
@@ -103,9 +103,9 @@
         <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020">2020</a>
     </div>
 </div>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">Academic Exchange</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">Honour</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">Professional Skills</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">学术交流</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">荣誉奖励</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills"专业技能</a>
 <a>中文</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/index">English</a>
 </div>
@@ -132,7 +132,7 @@
 
 ---
 
-## Brief Introduction
+## 简单聊聊
 
 &#8195;&#8195;我是一名研究人员，目前正在中国科学院大学攻读管理学博士学位（情报学专业，2024-2027）。此前，我分别在河南医药大学和南京大学金陵学院获得管理学硕士学位（图书情报与档案管理，2021-2024）和管理学学士学位（信息管理与信息系统，2017-2021）。
 
