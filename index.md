@@ -90,8 +90,8 @@
 </style>
 
 <div class="navigation">
-<a href="#academic-role">Academic Role</a>
-<a href="#research-project">Research Project</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">Academic Role</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects">Research Project</a>
 <div class="dropdown">
     <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">Publications</a>
     <div class="dropdown-menu">
@@ -103,9 +103,9 @@
         <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020">2020</a>
     </div>
 </div>
-<a href="#academic-exchange">Academic Exchange</a>
-<a href="#honour">Honour</a>
-<a href="#professional-skills">Professional Skills</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">Academic Exchange</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">Honour</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">Professional Skills</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/index-zh">中文（更新中）</a>
 <a>English</a>
 </div>
@@ -137,6 +137,8 @@
 &#8195;&#8195;I am a researcher and am currently pursuing my PhD in Management at University of Chinese Academy of Sciences (Information Science, 2024-2027). Prior to that, I received my MPhil in Management (Library Information and Records Management, 2021-2024) and BSc in Management (Information Management and Information System, 2017-2021) from Henan Medical University and Nanjing University Jinling College, respectively.  
 
 &#8195;&#8195;My research interests cover a number of cutting-edge areas, mainly focusing on scientometrics, journal publishing, open science and open data. Meanwhile, I am also deeply concerned with peer review and research ethics issues, and committed to promoting academic integrity. In addition, I am actively exploring digital humanities and digital library construction.  
+
+&#8195;&#8195;At present, I have published over 20 papers, including 7 papers as the first author in AHCI, SCIE and SSCI journals such as Humanities and Social Sciences Communications, Journal of Medical Internet Research, Scientometrics, Journal of Information Science, Journal of Scholarly Publishing, Sustainability, etc., and 5 papers as the first/corresponding author in CSSCI journals, such as Library & Information Service and Chinese Journal of Scientific and Technical Periodicals. and 1 paper in Journal of Library and Information Sciences in Agriculture, which is indexed by Scopus.
 
 &#8195;&#8195;Through my interdisciplinary learning background and diversified research directions, I hope to make meaningful contributions to the field of information science and promote the modern development of academic communication and knowledge dissemination.  
 
