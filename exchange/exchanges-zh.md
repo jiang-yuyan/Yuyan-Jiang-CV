@@ -107,7 +107,7 @@
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours-zh">荣誉奖励</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills-zh">专业技能</a>
 <a>中文</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/index">English</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchange">English</a>
 </div>
 
 <div id="connection" class="connection">
@@ -121,45 +121,45 @@
 ## 学术交流
 __·2024__
 
-**Conf-Chinese**：第七届中国期刊质量与发展大会  
-**Role**：Reporter    
-**Time**：2024-12    
-**Location**：Hangzhou, Zhejiang, China    
+**会议**：第七届中国期刊质量与发展大会  
+**角色**：分论坛汇报    
+**时间**：2024-12    
+**地点**：中国，浙江，杭州    
 
-**Conf-Chinese**：第十五届全国科学计量学与科教评价研讨会  
-**Role**：Reporter    
-**Time**：2024-11    
-**Location**：Zibo, Shandong, China    
+**会议**：第十五届全国科学计量学与科教评价研讨会  
+**角色**：分论坛汇报    
+**时间**：2024-11    
+**地点**：中国，山东，淄博    
 
-**Conf-Chinese**：科学计量学前沿论坛暨国际期刊投稿与评审经验交流会   
-**Role**：Participant    
-**Time**：2024-5    
-**Location**：Beijing, China    
+**会议**：科学计量学前沿论坛暨国际期刊投稿与评审经验交流会   
+**角色**：参会学习    
+**时间**：2024-5    
+**地点**：中国，北京    
 
 __·2023__
 
-**Conf-Chinese**：第六届科学计量与科技评价天府论坛  
-**Role**：Reporter    
-**Time**：2023-9    
-**Location**：Chengdu, Sichuan, China    
+**会议**：第六届科学计量与科技评价天府论坛  
+**角色**：分论坛汇报    
+**时间**：2023-9    
+**地点**：中国，四川，成都    
 
-**Conf-Chinese**：第十四届全国科学计量学与科教评价研讨会   
-**Role**：Reporter    
-**Time**：2023-6    
-**Location**：Taiyuan, Shanxi, China    
+**会议**：第十四届全国科学计量学与科教评价研讨会   
+**角色**：分论坛汇报    
+**时间**：2023-6    
+**地点**：中国，山西，太原    
 
-**Conf-Chinese**：第七届定量信息分析青年学术论坛   
-**Role**：Participant    
-**Time**：2023-5    
-**Location**：Wuhan, Hubei, China    
+**会议**：第七届定量信息分析青年学术论坛   
+**角色**：参会学习    
+**时间**：2023-5    
+**地点**：中国，湖北，武汉    
 
-**Conf-Chinese**：首届科技计量与科技管理青年论坛  
-**Role**：Participant    
-**Time**：2023-5    
-**Location**：Wuhan, Hubei, China    
+**会议**：首届科技计量与科技管理青年论坛  
+**角色**：参会学习    
+**时间**：2023-5    
+**地点**：中国，湖北，武汉    
 
 **会议**：第二届科技期刊学术论坛  
-**角色**：Participant    
+**角色**：参会学习    
 **时间**：2023-5    
 **地点**：中国，陕西，西安    
 
