@@ -90,22 +90,22 @@
 </style>
 
 <div class="navigation">
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">学术兼职</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects">研究课题</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles-zh">学术兼职</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects-zh">研究课题</a>
 <div class="dropdown">
-    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">出版记录</a>
+    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications-zh">出版记录</a>
     <div class="dropdown-menu">
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025">2025</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024">2024</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2023">2023</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2022">2022</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2021">2021</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020">2020</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025-zh">2025</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024-zh">2024</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2023-zh">2023</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2022-zh">2022</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2021-zh">2021</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020-zh">2020</a>
     </div>
 </div>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">学术交流</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">荣誉奖励</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">专业技能</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges-zh">学术交流</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours-zh">荣誉奖励</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills-zh">专业技能</a>
 <a>中文</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/index">English</a>
 </div>
