@@ -125,21 +125,19 @@
 | 国家奖学金 | 2023 | 中华人民共和国教育部 |
 | 河南省创新之星 | 2024 | 河南省教育厅 |
 | 优秀毕业研究生 | 2024 | 河南省教育厅 |
-| **First Prize of Scholarship** | 2022 | 河南省教育厅 |
-| **First Prize of Scholarship** | 2022 | 河南省教育厅 |
+| 学业奖学金一等奖 | 2022 | 河南省教育厅 |
 | 校创新之星 | 2024 | 河南医药大学 |
 | 校优秀论文 | 2024 | 河南医药大学 |
-| **First Prize of Academic Star** | 2023 | Xinxiang Medical University |
-| **First Prize of University Scholarship** | 2022 | Xinxiang Medical University |
-| **Outstanding Postgraduate Student** | 2022 | Xinxiang Medical University |
-| **Outstanding Postgraduate Student** | 2021 | Xinxiang Medical University |
-| **Outstanding Postgraduate Student** | 2021 | Xinxiang Medical University |
-| **Third Prize of People Scholarship** | 2021 | Nanjing University Jinling College |
-| **Single Prize of People Scholarship** | 2020 | Nanjing University Jinling College |
-| **First Prize of Academic Star** | 2023 | Henan Research Center for Science Journals |
-| **Outstanding Readers** | 2021 | Library of Nanjing University Jinling College |
-| 优秀论文三等奖 | 2024 | The 7th Conference on Quality and Development of Chinese Journals |
-| 优秀论文一等奖 | 2023 | The 14th National Symposium on Scientometrics & Science and Education Evaluation |
-| 优秀论文三等奖 | 2023 | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
-| 三等奖 | 2019 | The 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
-| 三等奖 | 2018 | The 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
+| 学术新星一等奖 | 2023 | 河南医药大学 |
+| 学校奖学金一等奖 | 2022 | 河南医药大学 |
+| 优秀研究生 | 2022 | 河南医药大学 |
+| 优秀研究生 | 2021 | 河南医药大学 |
+| 人民奖学金三等奖 | 2021 | 南京大学金陵学院 |
+| 人民奖学金单项奖 | 2020 | 南京大学金陵学院 |
+| 学术新星分论坛一等奖 | 2023 | 河南省科技期刊研究中心 |
+| 优秀读者 | 2021 | 南京大学金陵学院图书馆 |
+| 优秀论文三等奖 | 2024 | 第七届中国期刊质量与发展大会 |
+| 优秀论文一等奖 | 2023 | 第十四届科学计量学与科教评价国际研讨会 |
+| 优秀论文三等奖 | 2023 | 第六届科学计量与科学评价天府论坛 |
+| 三等奖 | 2019 | 第十届蓝桥杯 江苏赛区 C/C ++程序设计 |
+| 三等奖 | 2018 | 第九届蓝桥杯 江苏赛区 C/C ++程序设计 |
