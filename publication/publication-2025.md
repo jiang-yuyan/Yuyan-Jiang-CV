@@ -90,10 +90,8 @@
 </style>
 
 <div class="navigation">
-<a href="#education">Education</a>
-<a href="#research-direction">Research Direction</a>
-<a href="#academic-role">Academic Role</a>
-<a href="#research-project">Research Project</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">Academic Role</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects">Research Project</a>
 <div class="dropdown">
     <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">Publications</a>
     <div class="dropdown-menu">
@@ -105,19 +103,11 @@
         <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020">2020</a>
     </div>
 </div>
-<a href="#academic-exchange">Academic Exchange</a>
-<a href="#honour">Honour</a>
-<a href="#professional-skills">Professional Skills</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">Academic Exchange</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">Honour</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">Professional Skills</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025-zh">中文（更新中）</a>
 <a>English</a>
-</div>
-
-<div id="connection" class="connection">
-    <a>Yuyan Jiang</a>
-    <a>Lanzhou, Gansu, China</a>
-    📧<a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
-    👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-    <a>WeChat & 📱: +86 13372007365</a>
 </div>
 
 ## Publications
