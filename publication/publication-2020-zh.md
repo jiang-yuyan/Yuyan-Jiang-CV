@@ -141,7 +141,7 @@
 **Tag**：Scopus
 
 [**近五年我国竞争情报文献研究热点研究分析**]()  
-**Source**：*Technology and Economic Guide*    
+**Source**：*科技经济导刊*    
 **Year**：2020    
 **Volume**：28    
 **Issue**：5    
