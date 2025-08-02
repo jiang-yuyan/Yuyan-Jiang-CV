@@ -137,8 +137,5 @@
 **Volume**：-    
 **Issue**：6    
 **Page**：22-24    
-**Author**：Li Y, __Jiang Y__    
+**Author**：李雅茹, ____姜育彦____    
 **Tag**：-    
-
-
-_Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
