@@ -122,13 +122,13 @@
 
 <h3 id="publications-2020">·2020</h3>
 
-[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
-**Source**：*Journal of Library and Information Science in Agriculture*    
+[**基于数字人文视角的“情感——时空”模型探析**](https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
+**Source**：*农业图书情报学报*    
 **Year**：2020    
 **Volume**：32    
 **Issue**：6    
 **Page**：23-33    
-**Author**：__Jiang Y__, Li Y    
+**Author**：__姜育彦__, 李雅茹#    
 **Tag**：Scopus    
 
 [**Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry**](https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32)  
@@ -140,13 +140,13 @@
 **Author**：Yu H, Li Z, __Jiang Y__    
 **Tag**：Scopus
 
-[**Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years**]()  
+[**近五年我国竞争情报文献研究热点研究分析**]()  
 **Source**：*Technology and Economic Guide*    
 **Year**：2020    
 **Volume**：28    
 **Issue**：5    
 **Page**：7-9    
-**Author**：__Jiang Y__, Li Y    
+**Author**：__姜育彦__, 李雅茹#    
 **Tag**：-    
 
 _Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
