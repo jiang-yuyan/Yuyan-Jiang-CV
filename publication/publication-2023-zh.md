@@ -137,7 +137,7 @@
 **Volume**：15    
 **Issue**：2    
 **Page**：969    
-**Author**：__Jiang Y__, Liu X    
+**Author**：__姜育彦__, 刘雪立#    
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
 [**SCIE收录的我国科技期刊创新性评价：基于颠覆性指数的实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
