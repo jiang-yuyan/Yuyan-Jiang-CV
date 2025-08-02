@@ -123,7 +123,7 @@
 <h3 id="publications-2020">·2020</h3>
 
 [**基于数字人文视角的“情感——时空”模型探析**](https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
-**Source**：*农业图书情报学报*    
+**Source**：*《农业图书情报学报》*    
 **Year**：2020    
 **Volume**：32    
 **Issue**：6    
@@ -141,7 +141,7 @@
 **Tag**：Scopus
 
 [**近五年我国竞争情报文献研究热点研究分析**]()  
-**Source**：*科技经济导刊*    
+**Source**：*《科技经济导刊》*    
 **Year**：2020    
 **Volume**：28    
 **Issue**：5    
