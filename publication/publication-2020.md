@@ -106,7 +106,7 @@
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">Academic Exchange</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">Honour</a>
 <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">Professional Skills</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020-zh">中文（更新中）</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020-zh">中文</a>
 <a>English</a>
 </div>
 
