@@ -128,8 +128,8 @@
 **Volume**：128    
 **Issue**：7    
 **Page**：3935-3958    
-**Author**：__Jiang Y__, Liu X    
-**Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q1, JCI Q1, AJG Star 2   
+**Author**：__姜育彦__, 刘雪立#    
+**Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q1, JCI Q1, AJG 2★   
 
 [**A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Securit**](https://www.mdpi.com/2071-1050/15/2/969)  
 **Source**：*Sustainability*    
@@ -140,31 +140,31 @@
 **Author**：__Jiang Y__, Liu X    
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
-[**Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+[**SCIE收录的我国科技期刊创新性评价：基于颠覆性指数的实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
+**Source**：*中国科技期刊研究*    
 **Year**：2023    
 **Volume**：34    
 **Issue**：8    
 **Page**：1060-1068    
-**Author**：__Jiang Y__, Wang L, Liu X    
+**Author**：__姜育彦__, 王丽云, 刘雪立#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-[**Research progress on interdisciplinary evaluation indicators of scientific journals**](https://www.cjstp.cn/CN/10.11946/cjstp.202301130027)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+[**科技期刊跨学科评价指标的研究进展及展望**](https://www.cjstp.cn/CN/10.11946/cjstp.202301130027)  
+**Source**：*中国科技期刊研究*    
 **Year**：2023    
 **Volume**：34    
 **Issue**：7    
 **Page**：944-952    
-**Author**：Zhang Y, __Jiang Y__, Fang H    
+**Author**：张亚杰, __姜育彦__, 方红玲#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-[**The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
-**Source**：*Library and Information Service*    
+[**绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
+**Source**：*图书情报工作*    
 **Year**：2023    
 **Volume**：67    
 **Issue**：3    
 **Page**：96-105    
-**Author**：__Jiang Y__, Liu X    
+**Author**：__姜育彦__, 刘雪立#    
 **Tag**：CSSCI, PKU, CSTPCD     
 
-_Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
+_注：分区结果参考大类/小类中较高分区。_
