@@ -122,22 +122,22 @@
 
 <h3 id="publications-2022">·2022</h3>
 
-[**Open peer review: models, technologies, problems and countermeasures**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+[**开放型同行评议：模式、技术、问题与对策**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
+**Source**：*中国科技期刊研究*    
 **Year**：2022    
 **Volume**：33    
 **Issue**：9    
 **Page**：1196-1205    
-**Author**：__Jiang Y__, Liu X    
+**Author**：__姜育彦__, 刘雪立#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
 [**An innovative evaluation index of scientific journals--Journal Disruption Index (JDI) and its empirical research**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*    
+**Source**：*中国科技期刊研究*    
 **Year**：2022    
 **Volume**：33    
 **Issue**：7    
 **Page**：965-972    
-**Author**：__Jiang Y__, Liu X    
+**Author**：__姜育彦__, 刘雪立#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
 [**Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example**](https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1)  
@@ -146,7 +146,7 @@
 **Volume**：-    
 **Issue**：3    
 **Page**：47-52    
-**Author**：__Jiang Y__, Liu X    
+**Author**：__姜育彦__, 刘雪立#    
 **Tag**：CSSCI(E), CSTPCD    
 
 [**A new model for promoting reading based on word segmentation indexing of collection titles**]()  
