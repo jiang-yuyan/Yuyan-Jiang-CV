@@ -148,5 +148,3 @@
 **Page**：7-9    
 **Author**：__姜育彦__, 李雅茹#    
 **Tag**：-    
-
-_Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
