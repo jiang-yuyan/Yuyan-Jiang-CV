@@ -137,7 +137,7 @@
 **Volume**：1210    
 **Issue**：-    
 **Page**：417-428    
-**Author**：Yu H, Li Z, __Jiang Y__    
+**Author**：俞海#, 李子旋, __姜育彦__    
 **Tag**：Scopus
 
 [**近五年我国竞争情报文献研究热点研究分析**]()  
