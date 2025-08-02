@@ -141,7 +141,7 @@
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
 [**SCIE收录的我国科技期刊创新性评价：基于颠覆性指数的实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
-**Source**：*《中国科技期刊研究》*    
+**Source**：《中国科技期刊研究》    
 **Year**：2023    
 **Volume**：34    
 **Issue**：8    
@@ -150,7 +150,7 @@
 **Tag**：CSSCI, PKU, CSTPCD    
 
 [**科技期刊跨学科评价指标的研究进展及展望**](https://www.cjstp.cn/CN/10.11946/cjstp.202301130027)  
-**Source**：*《中国科技期刊研究》*    
+**Source**：《中国科技期刊研究》    
 **Year**：2023    
 **Volume**：34    
 **Issue**：7    
@@ -159,7 +159,7 @@
 **Tag**：CSSCI, PKU, CSTPCD    
 
 [**绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
-**Source**：*《图书情报工作》*    
+**Source**：《图书情报工作》    
 **Year**：2023    
 **Volume**：67    
 **Issue**：3    
