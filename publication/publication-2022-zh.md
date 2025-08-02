@@ -131,7 +131,7 @@
 **Author**：__姜育彦__, 刘雪立#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-[**An innovative evaluation index of scientific journals--Journal Disruption Index (JDI) and its empirical research**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
+[**科技期刊的创新性评价指标——期刊颠覆性指数(JDI)及其实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
 **Source**：*中国科技期刊研究*    
 **Year**：2022    
 **Volume**：33    
@@ -140,8 +140,8 @@
 **Author**：__姜育彦__, 刘雪立#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-[**Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example**](https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1)  
-**Source**：*Digital Library Forum*    
+[**数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例**](https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1)  
+**Source**：*数字图书馆论坛*    
 **Year**：2022    
 **Volume**：-    
 **Issue**：3    
@@ -149,13 +149,11 @@
 **Author**：__姜育彦__, 刘雪立#    
 **Tag**：CSSCI(E), CSTPCD    
 
-[**A new model for promoting reading based on word segmentation indexing of collection titles**]()  
+[**基于馆藏题录分词索引的阅读推广新模式**]()  
 **Source**：*Digital & Micrographic Imaging*    
 **Year**：2022    
 **Volume**：-    
 **Issue**：1    
 **Page**：37-40    
-**Author**：__Jiang Y__, Liu Y    
+**Author**：__姜育彦__, 李雅茹    
 **Tag**：-    
-
-_Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
