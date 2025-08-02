@@ -157,5 +157,3 @@
 **Page**：37-40    
 **Author**：__Jiang Y__, Li Y#    
 **Tag**：-    
-
-_Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
