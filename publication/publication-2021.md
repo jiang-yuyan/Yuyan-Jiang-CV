@@ -128,7 +128,7 @@
 **Volume**：-    
 **Issue**：4    
 **Page**：39-42    
-**Author**：__Jiang Y__, Li Y    
+**Author**：__Jiang Y__, Li Y#    
 **Tag**：-    
 
 [**Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation**]()  
@@ -137,7 +137,7 @@
 **Volume**：-    
 **Issue**：6    
 **Page**：22-24    
-**Author**：Li Y, __Jiang Y__    
+**Author**：Li Y#, __Jiang Y__    
 **Tag**：-    
 
 
