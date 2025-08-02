@@ -141,7 +141,7 @@
 **Tag**：SCI, JIF = 1.8, CAS Q4, JCR Q2, JCI Q2, AJG 2★ 
 
 [**我国高校学者被撤销论文特征及原因分析**](https://www.cjstp.cn/CN/10.11946/cjstp.202409020964)  
-**Source**：*中国科技期刊研究*     
+**Source**：*《中国科技期刊研究》*     
 **Year**：2024    
 **Volume**：35    
 **Issue**：12    
@@ -150,7 +150,7 @@
 **Tag**：CSSCI, PKU, CSTPCD     
 
 [**作者国际化水平对我国SCI期刊影响力和颠覆性创新的影响**](https://www.cjstp.cn/CN/10.11946/cjstp.202405210538)  
-**Source**：*中国科技期刊研究*    
+**Source**：*《中国科技期刊研究》*    
 **Year**：2024    
 **Volume**：35    
 **Issue**：11    
@@ -159,7 +159,7 @@
 **Tag**：CSSCI, PKU, CSTPCD    
 
 [**SCI来源期刊载文量和影响因子的动态变化及载文量对影响因子的影响**](https://www.cjstp.cn/CN/10.11946/cjstp.202402130115)  
-**Source**：*中国科技期刊研究*    
+**Source**：*《中国科技期刊研究》*    
 **Year**：2024    
 **Volume**：35    
 **Issue**：7    
