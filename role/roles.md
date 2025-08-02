@@ -121,7 +121,7 @@
 ## Academic Role
 __·Society Members__ 🧑‍🎓
 
-&#8195;&#8195;_Specialized Committee on Scientometrics and Information Metrology of China_
+&#8195;&#8195;_Specialized Committee on Scientometrics and Information Metrology of China _ Student Member_
 
 __·Editorial Board__ 👨‍🔬
 
