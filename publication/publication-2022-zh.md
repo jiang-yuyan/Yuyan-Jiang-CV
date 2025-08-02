@@ -150,7 +150,7 @@
 **Tag**：CSSCI(E), CSTPCD    
 
 [**基于馆藏题录分词索引的阅读推广新模式**]()  
-**Source**：*Digital & Micrographic Imaging*    
+**Source**：*数字与缩微影像*    
 **Year**：2022    
 **Volume**：-    
 **Issue**：1    
