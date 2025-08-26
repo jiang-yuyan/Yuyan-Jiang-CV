@@ -139,6 +139,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
 &#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
+&#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
 &#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
 &#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
@@ -176,4 +177,4 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***Statistics:** 14 times (2024); 58 times (2025)  
+***Statistics:** 14 times (2024); 60 times (2025)  
