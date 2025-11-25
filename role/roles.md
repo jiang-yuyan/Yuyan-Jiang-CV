@@ -1,4 +1,4 @@
-<img width="137" height="1703" alt="image" src="https://github.com/user-attachments/assets/7edea821-6bd3-48d1-999e-eaa1a3431ce0" /><style>
+<style>
     /* 设置导航栏固定在页面顶部 */
     .navigation {
         position: fixed;
@@ -90,32 +90,32 @@
 </style>
 
 <div class="navigation">
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">Academic Role</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects">Research Project</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles-zh">学术兼职</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects-zh">研究课题</a>
 <div class="dropdown">
-    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">Publications</a>
+    <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications-zh">出版记录</a>
     <div class="dropdown-menu">
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025">2025</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024">2024</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2023">2023</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2022">2022</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2021">2021</a>
-        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020">2020</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2025-zh">2025</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2024-zh">2024</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2023-zh">2023</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2022-zh">2022</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2021-zh">2021</a>
+        <a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publication-2020-zh">2020</a>
     </div>
 </div>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges">Academic Exchange</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours">Honour</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">Professional Skills</a>
-<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles-zh">中文（更新中）</a>
-<a>English</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/exchange/exchanges-zh">学术交流</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/honour/honours-zh">荣誉奖励</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills-zh">专业技能</a>
+<a>中文</a>
+<a href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">English</a>
 </div>
 
 <div id="connection" class="connection">
-    <a>Yuyan Jiang</a>
-    <a>Lanzhou, Gansu, China</a>
+    <a>姜育彦</a>
+    <a>中国，甘肃，兰州</a>
     📧<a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
     👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-    <a>WeChat & 📱: +86 13372007365</a>
+    <a>微信 & 📱: +86 13372007365</a>
 </div>
 
 ## Academic Role
