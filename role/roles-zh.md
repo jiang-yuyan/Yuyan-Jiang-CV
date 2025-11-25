@@ -126,8 +126,9 @@ __·学会成员__ 🧑‍🎓
 __·编辑委员会__ 👨‍🔬
 
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
-&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
-&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_ **(Scientific Committee Menber)**  
+&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI, Editorial Board)**  
+&#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_ **(Scientific Committee Menber)**  
+&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor,2025-2025)**   
 
 __·审稿人__ 🕵️‍♂️
 
@@ -138,9 +139,9 @@ __·审稿人__ 🕵️‍♂️
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
-&#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
 &#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
-&#8195;&#8195;_**Health Informatics Journal**_ **(SCI)**  
+&#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
+&#8195;&#8195;_**Health Informatics Journal**_ **(SCI)** 
 &#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
 &#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
 &#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
@@ -174,8 +175,8 @@ __·审稿人__ 🕵️‍♂️
 &#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Research Integrity and Peer Review**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
-&#8195;&#8195;_**REVUE DES SCIENCES DE L’ INFORMATION**_  
+&#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***总计:** 14 次 (2024); 73 次 (2025)
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 83 times (2025)  
