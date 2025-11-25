@@ -1,4 +1,4 @@
-<style>
+<img width="137" height="1703" alt="image" src="https://github.com/user-attachments/assets/7edea821-6bd3-48d1-999e-eaa1a3431ce0" /><style>
     /* 设置导航栏固定在页面顶部 */
     .navigation {
         position: fixed;
@@ -126,8 +126,9 @@ __·Society Members__ 🧑‍🎓
 __·Editorial Board__ 👨‍🔬
 
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
-&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor)**  
+&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI, Editorial Board)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_ **(Scientific Committee Menber)**  
+&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor,2025-2025)**  
 
 __·Reviewer__ 🕵️‍♂️
 
@@ -138,8 +139,9 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
-&#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
 &#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
+&#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
+&#8195;&#8195;_**Health Informatics Journal**_ **(SCI)** 
 &#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
 &#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
 &#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
@@ -177,4 +179,4 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***Statistics:** 14 times (2024); 73 times (2025)  
+***Statistics:** 14 times (2024); 85 times (2025)  
