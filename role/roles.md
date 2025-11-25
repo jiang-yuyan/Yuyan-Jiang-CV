@@ -179,4 +179,4 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***Statistics:** 14 times (2024); 85 times (2025)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 83 times (2025)  
