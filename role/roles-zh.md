@@ -141,7 +141,7 @@ __·审稿人__ 🕵️‍♂️
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
 &#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
-&#8195;&#8195;_**Health Informatics Journal**_ **(SCI)** 
+&#8195;&#8195;_**Health Informatics Journal**_ **(SCI)**  
 &#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
 &#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
 &#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
