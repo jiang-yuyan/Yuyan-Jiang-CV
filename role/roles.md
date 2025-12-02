@@ -168,6 +168,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCI)**  
 &#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
 &#8195;&#8195;_**Journal of Knowledge and Communication Management**_  
+&#8195;&#8195;_**Learned Publishing**_ **(SSCI)**  
 &#8195;&#8195;_**New Review of Information Networking**_ **(Scopus)**  
 &#8195;&#8195;_**Nordic Journal of Library and Information Studies**_  
 &#8195;&#8195;_**Online Journal of Public Health Informatics**_ **(ESCI & Scopus)**  
@@ -179,4 +180,4 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 83 times (2025)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 86 times (2025)  
