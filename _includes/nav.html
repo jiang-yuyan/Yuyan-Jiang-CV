@@ -2,14 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Navigation with Dropdown</title>
+<title>{{ page.title | default: "Yuyan Jiang" }}</title>
 
 <style>
 /* ================= 基础 ================= */
 body {
     margin: 0;
-    padding-top: 70px; /* 给固定导航栏让位 */
+    padding-top: 70px;
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
 }
 
 /* ================= 导航栏 ================= */
@@ -22,7 +23,6 @@ body {
     background: #fff;
     border-bottom: 1px solid #ccc;
     z-index: 1000;
-    overflow: visible;
 }
 
 /* 中间导航内容 */
@@ -34,7 +34,6 @@ body {
     gap: 18px;
 }
 
-/* 普通链接 */
 .navigation a {
     text-decoration: none;
     color: #000;
@@ -58,7 +57,6 @@ body {
     height: 60px;
     display: inline-flex;
     align-items: center;
-    padding: 0 2px;
 }
 
 .dropdown-menu {
@@ -90,6 +88,14 @@ body {
     top: 50%;
     transform: translateY(-50%);
     font-weight: bold;
+    margin-left: 12px;
+}
+
+/* ================= 页面主体 ================= */
+.main-content {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 24px;
 }
 
 /* ================= 页面底部 ================= */
@@ -144,11 +150,15 @@ body {
         <a class="nav" href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/skill/skills">Professional Skills</a>
     </div>
 
-    <!-- 语言切换 -->
     <a id="lang-zh" class="lang-switch" href="javascript:void(0)">中文</a>
-    <a id="lang-en" class="lang-switch" href="javascript:void(0)">EN</a>
+    <a id="lang-en" class="lang-switch" href="javascript:void(0)" style="right: 60px;">EN</a>
 
 </nav>
+
+<!-- ================= 页面主体（md 内容） ================= -->
+<main class="main-content">
+    {{ content }}
+</main>
 
 <!-- ================= 页面底部 ================= -->
 <footer class="site-footer">
