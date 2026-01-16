@@ -3,7 +3,16 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
+
+  <style>
+    main {
+      max-width: 900px;   /* ✅ 控制正文宽度 */
+      margin: 0 auto;     /* ✅ 水平居中 */
+      padding: 20px;      /* ✅ 防止贴边 */
+    }
+  </style>
 </head>
+
 <body>
 
   {% include nav.html %}
