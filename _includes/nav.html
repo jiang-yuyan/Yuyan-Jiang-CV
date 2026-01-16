@@ -18,7 +18,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* ✅ 居中导航内容（单独一层） */
+/* ✅ 居中导航内容 */
 .nav-center {
     height: 100%;
     display: flex;
@@ -41,29 +41,38 @@ body {
     color: #007acc;
 }
 
-/* ✅ dropdown 必须是 block 容器 */
+/* ===== 下拉容器 ===== */
 .dropdown {
     position: relative;
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
 }
 
-/* ✅ hover 区域包住文字 + 菜单 */
+/* ✅ 触发按钮，撑满导航栏高度，避免 hover 丢失 */
 .dropdown-trigger {
-    padding: 6px 0;
+    display: inline-flex;
+    align-items: center;
+    height: 60px;
+    padding: 0 2px;
 }
 
 /* ===== 下拉菜单 ===== */
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: 100%;
-    left: 0;
+    top: 60px;                /* 紧贴导航栏 */
+    left: 50%;
+    transform: translateX(-50%);
     background: #fff;
     border: 1px solid #ccc;
     min-width: 140px;
     z-index: 1001;
+
+    /* ✅ hover 缓冲区 */
+    padding-top: 6px;
 }
 
+/* ✅ hover 生效 */
 .dropdown:hover .dropdown-menu {
     display: block;
 }
@@ -75,7 +84,7 @@ body {
     white-space: nowrap;
 }
 
-/* ✅ 语言按钮：绝对定位，屏幕坐标固定 */
+/* ✅ 语言按钮：固定在右侧 */
 .lang-switch {
     position: absolute;
     right: 24px;
@@ -94,6 +103,7 @@ body {
         <a class="nav" href="{{ site.baseurl }}/role/roles">Academic Role</a>
         <a class="nav" href="{{ site.baseurl }}/project/projects">Research Project</a>
 
+        <!-- ✅ 下拉菜单 -->
         <div class="dropdown">
             <a class="nav dropdown-trigger"
                href="{{ site.baseurl }}/publication/publications">
@@ -115,7 +125,7 @@ body {
 
     </div>
 
-    <!-- ✅ 固定坐标语言切换 -->
+    <!-- ✅ 语言切换（同一位置） -->
     <a id="lang-zh" class="lang-switch" href="javascript:void(0)">中文</a>
     <a id="lang-en" class="lang-switch" href="javascript:void(0)">EN</a>
 
@@ -137,12 +147,12 @@ body {
         }
     };
 
-    /* 修正导航链接 */
+    /* 修正导航链��� */
     document.querySelectorAll('.nav').forEach(a => {
         a.href = swapUrl(a.href, isZh);
     });
 
-    /* 语言按钮显示（同一坐标） */
+    /* 语言按钮显示 */
     document.getElementById('lang-zh').style.display = isZh ? 'none' : 'inline';
     document.getElementById('lang-en').style.display = isZh ? 'inline' : 'none';
 
@@ -153,7 +163,7 @@ body {
     document.getElementById('lang-en').onclick =
         () => location.href = swapUrl(location.href, false);
 
-    /* 中文文字 */
+    /* 中文文字替换 */
     if (isZh) {
         const map = {
             "Home Page": "首页",
