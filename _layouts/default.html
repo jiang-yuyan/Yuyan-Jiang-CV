@@ -5,12 +5,27 @@
 <title>{{ page.title }}</title>
 
 <style>
-/* ================= 基础 ================= */
+/* ================= 全站基础（学术风字体） ================= */
+html, body {
+    height: 100%;
+}
+
 body {
     margin: 0;
     padding-top: 70px;
-    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+
+    /* 学术风字体（中英文友好） */
+    font-family:
+        "Times New Roman",
+        "Noto Serif SC",
+        "Source Han Serif SC",
+        "Songti SC",
+        serif;
+
     color: #000;
+    background: #fff;
 }
 
 /* ================= 导航栏 ================= */
@@ -81,15 +96,16 @@ body {
 
 /* ================= 正文 ================= */
 main {
+    flex: 1;               /* 关键：撑开页面 */
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
+    line-height: 1.75;
 }
 
-/* ================= 页脚（单行） ================= */
+/* ================= 底栏（固定在底部） ================= */
 .app-footer {
-    margin-top: 3rem;
-    padding: 1.2rem 1rem;
+    padding: 1rem 1rem;
     background: #f8f9fa;
     border-top: 1px solid #e5e7eb;
     font-size: 0.9rem;
@@ -103,7 +119,7 @@ main {
     justify-content: center;
     align-items: center;
     gap: 28px;
-    flex-wrap: wrap; /* 小屏自动换行 */
+    flex-wrap: wrap;
     line-height: 1.6;
 }
 
@@ -115,7 +131,7 @@ main {
     font-weight: 600;
 }
 
-/* 页脚链接样式：无下划线 */
+/* 底栏链接：无下划线 */
 .app-footer a {
     color: #000;
     text-decoration: none;
@@ -137,9 +153,14 @@ main {
 
 {% include footer.html %}
 
-<!-- ================= 语言切换 JS ================= -->
+<!-- ================= JS：语言切换 + 年份 ================= -->
 <script>
 (() => {
+    /* -------- 自动年份 -------- */
+    document.getElementById('year').textContent =
+        new Date().getFullYear();
+
+    /* -------- 语言切换 -------- */
     const isZh = location.pathname.includes('-zh');
 
     const swapUrl = (url, toZh) => {
@@ -152,14 +173,14 @@ main {
         }
     };
 
-    /* 导航链接 URL 切换 */
     document.querySelectorAll('.nav').forEach(a => {
         a.href = swapUrl(a.href, isZh);
     });
 
-    /* 语言按钮显示 */
-    document.getElementById('lang-zh').style.display = isZh ? 'none' : 'inline';
-    document.getElementById('lang-en').style.display = isZh ? 'inline' : 'none';
+    document.getElementById('lang-zh').style.display =
+        isZh ? 'none' : 'inline';
+    document.getElementById('lang-en').style.display =
+        isZh ? 'inline' : 'none';
 
     document.getElementById('lang-zh').onclick =
         () => location.href = swapUrl(location.href, true);
@@ -167,7 +188,6 @@ main {
     document.getElementById('lang-en').onclick =
         () => location.href = swapUrl(location.href, false);
 
-    /* 文本切换（导航 + 页脚） */
     document.querySelectorAll('[data-en]').forEach(el => {
         el.textContent = isZh ? el.dataset.zh : el.dataset.en;
     });
