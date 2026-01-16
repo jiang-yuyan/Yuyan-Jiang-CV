@@ -5,36 +5,42 @@
 <title>{{ page.title }}</title>
 
 <style>
+/* ================= 高度常量（统一管理） ================= */
 :root {
     --nav-height: 60px;
     --footer-height: 72px;
 }
 
+/* ================= 全站基础 ================= */
 html, body {
     margin: 0;
     padding: 0;
 }
 
 body {
+    /* 关键：一次性避开导航栏 + 底栏 */
     padding-top: var(--nav-height);
     padding-bottom: var(--footer-height);
+
     font-family:
         "Times New Roman",
         "Noto Serif SC",
         "Source Han Serif SC",
         "Songti SC",
         serif;
-    background: #fff;
+
     color: #000;
+    background: #fff;
 }
 
-/* ================= 导航栏 ================= */
+/* ================= 导航栏（fixed，不遮挡） ================= */
 .navigation {
     position: fixed;
     top: 0;
     left: 0;
     height: var(--nav-height);
     width: 100%;
+
     background: #fff;
     border-bottom: 1px solid #ccc;
     z-index: 1000;
@@ -48,64 +54,108 @@ body {
     gap: 18px;
 }
 
-/* ================= 正文 ================= */
+.navigation a {
+    text-decoration: none;
+    color: #000;
+}
+
+.navigation a:hover {
+    color: #007acc;
+}
+
+/* ================= 下拉菜单 ================= */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+    border: 1px solid #ccc;
+    min-width: 140px;
+    z-index: 1001;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu a {
+    display: block;
+    padding: 8px 14px;
+}
+
+/* ================= 语言切换 ================= */
+.lang-switch {
+    position: absolute;
+    right: 24px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* ================= 正文（永远完整可见） ================= */
 main {
     max-width: 900px;
     margin: 0 auto;
+
     padding: 24px 20px;
+
     line-height: 1.75;
 }
 
-/* ✅ Markdown 内容容器 */
-.page-content {
-    width: 100%;
-}
-
-/* ================= ✅ 表格样式（只影响正文） ================= */
-.page-content table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1.5rem 0;
-    font-size: 0.95rem;
-}
-
-.page-content th,
-.page-content td {
-    border: 1px solid #9ca3af;
-    padding: 10px 18px;
-    vertical-align: middle;
-}
-
-.page-content th {
-    background: #f3f4f6;
-    font-weight: 600;
-    text-align: center;
-}
-
-.page-content td {
-    text-align: center;
-}
-
-.page-content td:first-child {
-    text-align: left;
-}
-
-.page-content tr:hover td {
-    background: #f9fafb;
-}
-
-/* ================= 底栏 ================= */
+/* ================= 底栏（fixed，不遮挡） ================= */
 .app-footer {
     position: fixed;
-    bottom: 0;
     left: 0;
+    bottom: 0;
     height: var(--footer-height);
     width: 100%;
+
     background: #f8f9fa;
     border-top: 1px solid #e5e7eb;
+
+    font-size: 0.9rem;
+    color: #374151;
+
     display: flex;
     align-items: center;
+
     z-index: 999;
+}
+
+.footer-row {
+    max-width: 1100px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+
+    flex-wrap: wrap;
+}
+
+.footer-item {
+    white-space: nowrap;
+}
+
+.footer-name {
+    font-weight: 600;
+}
+
+.app-footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+.app-footer a:hover {
+    color: #007acc;
 }
 </style>
 </head>
@@ -115,17 +165,50 @@ main {
 {% include nav.html %}
 
 <main>
-    <div class="page-content">
-        {{ content }}
-    </div>
+    {{ content }}
 </main>
 
 {% include footer.html %}
 
+<!-- ================= JS：年份 + 中英文 ================= -->
 <script>
 (() => {
-    const y = document.getElementById('year');
-    if (y) y.textContent = new Date().getFullYear();
+    /* 年份 */
+    document.getElementById('year').textContent =
+        new Date().getFullYear();
+
+    /* 语言切换 */
+    const isZh = location.pathname.includes('-zh');
+
+    const swapUrl = (url, toZh) => {
+        if (toZh) {
+            return url.includes('-zh')
+                ? url
+                : url.replace(/(\.html)?$/, '-zh$1');
+        } else {
+            return url.replace('-zh', '');
+        }
+    };
+
+    document.querySelectorAll('.nav').forEach(a => {
+        a.href = swapUrl(a.href, isZh);
+    });
+
+    document.getElementById('lang-zh').style.display =
+        isZh ? 'none' : 'inline';
+
+    document.getElementById('lang-en').style.display =
+        isZh ? 'inline' : 'none';
+
+    document.getElementById('lang-zh').onclick =
+        () => location.href = swapUrl(location.href, true);
+
+    document.getElementById('lang-en').onclick =
+        () => location.href = swapUrl(location.href, false);
+
+    document.querySelectorAll('[data-en]').forEach(el => {
+        el.textContent = isZh ? el.dataset.zh : el.dataset.en;
+    });
 })();
 </script>
 
