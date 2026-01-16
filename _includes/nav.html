@@ -22,8 +22,7 @@ body {
     background: #fff;
     border-bottom: 1px solid #ccc;
     z-index: 1000;
-
-    overflow: visible; /* ✅ 关键：允许下拉菜单显示 */
+    overflow: visible;
 }
 
 /* 中间导航内容 */
@@ -55,7 +54,6 @@ body {
     align-items: center;
 }
 
-/* 触发按钮（撑满导航栏高度，防 hover 丢失） */
 .dropdown-trigger {
     height: 60px;
     display: inline-flex;
@@ -63,11 +61,10 @@ body {
     padding: 0 2px;
 }
 
-/* 下拉内容 */
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: 100%;              /* 紧贴触发器底部 */
+    top: 100%;
     left: 50%;
     transform: translateX(-50%);
     background: #fff;
@@ -76,12 +73,10 @@ body {
     z-index: 1001;
 }
 
-/* hover 展开 */
 .dropdown:hover .dropdown-menu {
     display: block;
 }
 
-/* 下拉项 */
 .dropdown-menu a {
     display: block;
     padding: 8px 14px;
@@ -96,6 +91,25 @@ body {
     transform: translateY(-50%);
     font-weight: bold;
 }
+
+/* ================= 页面底部 ================= */
+.site-footer {
+    margin-top: 80px;
+    padding: 20px 0;
+    background: #f8f8f8;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    font-size: 14px;
+}
+
+.site-footer a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
 </style>
 </head>
 
@@ -109,9 +123,9 @@ body {
         <a class="nav" href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/role/roles">Academic Role</a>
         <a class="nav" href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/project/projects">Research Project</a>
 
-        <!-- ✅ 下拉菜单 -->
         <div class="dropdown">
-            <a class="nav dropdown-trigger" href="publications.html">
+            <a class="nav dropdown-trigger"
+               href="https://jiang-yuyan.github.io/Yuyan-Jiang-CV/publication/publications">
                 Publications
             </a>
             <div class="dropdown-menu">
@@ -134,16 +148,26 @@ body {
     <a id="lang-zh" class="lang-switch" href="javascript:void(0)">中文</a>
     <a id="lang-en" class="lang-switch" href="javascript:void(0)">EN</a>
 
-    <div id="connection" class="connection">
-        <a>姜育彦</a>
-        <a>中国，甘肃，兰州</a>
-        📧<a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a>
-        👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a>
-        <a>微信 & 📱: +86 13372007365</a>
-    </div>
 </nav>
 
-<!-- ================= JS（语言切换示例） ================= -->
+<!-- ================= 页面主体（示例） ================= -->
+<main style="min-height: 60vh; padding: 40px; text-align: center;">
+    <h1>Welcome to My Academic Homepage</h1>
+    <p>Main content goes here.</p>
+</main>
+
+<!-- ================= 页面底部 ================= -->
+<footer class="site-footer">
+    <div id="connection">
+        <span>姜育彦</span> |
+        <span>中国，甘肃，兰州</span> |
+        📧 <a href="mailto:jiangyuyancite@163.com">jiangyuyancite@163.com</a> |
+        👨‍🎓 <a href="https://scholar.google.com/citations?user=QTCEilEAAAAJ">Google Scholar</a> |
+        <span>微信 / 📱: +86 13372007365</span>
+    </div>
+</footer>
+
+<!-- ================= JS（语言切换） ================= -->
 <script>
 (() => {
     const isZh = location.pathname.includes('-zh');
@@ -171,7 +195,6 @@ body {
     document.getElementById('lang-en').onclick =
         () => location.href = swapUrl(location.href, false);
 
-    /* 中文文字替换 */
     if (isZh) {
         const map = {
             "Home Page": "首页",
