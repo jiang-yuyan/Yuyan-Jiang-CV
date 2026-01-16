@@ -156,6 +156,25 @@ body {
 
     document.getElementById('lang-en').onclick =
         () => location.href = swapUrl(location.href, false);
+
+     if (isZh) {
+        const map = {
+            "Home Page": "首页",
+            "Academic Role": "学术兼职",
+            "Research Project": "研究课题",
+            "Publications": "出版记录",
+            "Academic Exchange": "学术交流",
+            "Honour": "荣誉奖励",
+            "Professional Skills": "专业技能"
+        };
+
+        document
+            .querySelectorAll('.nav-center > .nav, .dropdown-trigger')
+            .forEach(a => {
+                const t = a.textContent.trim();
+                if (map[t]) a.textContent = map[t];
+            });
+    }
 })();
 </script>
 
