@@ -18,7 +18,7 @@ html, body {
 }
 
 body {
-    /* 关键：一次性避开导航栏 + 底栏 */
+    /* 避开导航栏 + 底栏 */
     padding-top: var(--nav-height);
     padding-bottom: var(--footer-height);
 
@@ -99,38 +99,39 @@ body {
     cursor: pointer;
 }
 
-/* ================= 正文（永远完整可见） ================= */
+/* ================= 正文（弹性宽度） ================= */
 main {
-    max-width: 900px;
+    /* 
+       最小 900px
+       理想 90vw
+       最大 1200px
+    */
+    max-width: clamp(900px, 90vw, 1200px);
     margin: 0 auto;
 
     padding: 24px 20px;
-
     line-height: 1.75;
 }
 
-
 /* =========================================================
-   正文表格：单元格全框线，无表格外框，列间距来自 padding
-   仅作用于 main 内表格
+   正文表格：单元格全框线，无表格外框
    ========================================================= */
 main table {
     width: 100%;
-    border-collapse: collapse;   /* 合并边框，避免出现框线间距 */
-    border: none;                /* 明确：表格本身无外框 */
+    border-collapse: collapse;
+    border: none;
 }
 
 main th,
 main td {
-    border: 1px solid #000;      /* 单元格全框线 */
-    padding: 6px 16px;           /* 列间距来自 padding（不在框线之间） */
+    border: 1px solid #000;
+    padding: 6px 16px;
     text-align: center;
 }
 
 main th {
     font-weight: 600;
 }
-/* ================= 新增样式结束 ================= */
 
 /* ================= 底栏（fixed，不遮挡） ================= */
 .app-footer {
@@ -188,7 +189,7 @@ main th {
 {% include nav.html %}
 
 <main>
-    {{content }}
+    {{ content }}
 </main>
 
 {% include footer.html %}
