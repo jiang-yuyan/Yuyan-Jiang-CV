@@ -1,6 +1,6 @@
 <!-- ================= Navigation ================= -->
 <style>
-body { padding: 60px 0; }
+body { padding: 70px 0; }
 
 .navigation {
     position: fixed;
@@ -13,6 +13,7 @@ body { padding: 60px 0; }
     gap: 10px;
     border-bottom: 1px solid #ccc;
     z-index: 1000;
+    overflow: visible; /* ✅ 关键 */
 }
 
 .navigation a:not(:last-child)::after {
@@ -21,7 +22,10 @@ body { padding: 60px 0; }
     color: #666;
 }
 
-.dropdown { position: relative; }
+.dropdown {
+    position: relative;
+    padding-bottom: 10px; /* ✅ hover 缓冲区 */
+}
 
 .dropdown-menu {
     display: none;
@@ -34,11 +38,15 @@ body { padding: 60px 0; }
     z-index: 1001;
 }
 
-.dropdown:hover .dropdown-menu { display: block; }
+.dropdown:hover > .dropdown-menu,
+.dropdown-menu:hover {
+    display: block; /* ✅ hover 不会丢失 */
+}
 
 .dropdown-menu a {
     display: block;
     padding: 8px 12px;
+    white-space: nowrap;
 }
 
 .dropdown-menu a::after { content: none !important; }
