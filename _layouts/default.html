@@ -5,15 +5,22 @@
 <title>{{ page.title }}</title>
 
 <style>
-/* ================= 全站基础（学术风字体） ================= */
+/* ================= 高度常量（统一管理） ================= */
+:root {
+    --nav-height: 60px;
+    --footer-height: 72px;
+}
+
+/* ================= 全站基础 ================= */
 html, body {
-    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-    margin: 0;
-    padding-top: 70px;      /* 导航栏高度 */
-    padding-bottom: 80px;   /* 底栏高度（非常关键） */
+    /* 关键：一次性避开导航栏 + 底栏 */
+    padding-top: var(--nav-height);
+    padding-bottom: var(--footer-height);
 
     font-family:
         "Times New Roman",
@@ -26,13 +33,14 @@ body {
     background: #fff;
 }
 
-/* ================= 导航栏 ================= */
+/* ================= 导航栏（fixed，不遮挡） ================= */
 .navigation {
     position: fixed;
     top: 0;
     left: 0;
+    height: var(--nav-height);
     width: 100%;
-    height: 60px;
+
     background: #fff;
     border-bottom: 1px solid #ccc;
     z-index: 1000;
@@ -79,7 +87,6 @@ body {
 .dropdown-menu a {
     display: block;
     padding: 8px 14px;
-    white-space: nowrap;
 }
 
 /* ================= 语言切换 ================= */
@@ -92,26 +99,32 @@ body {
     cursor: pointer;
 }
 
-/* ================= 正文 ================= */
+/* ================= 正文（永远完整可见） ================= */
 main {
     max-width: 900px;
     margin: 0 auto;
-    padding: 20px;
+
+    padding: 24px 20px;
+
     line-height: 1.75;
 }
 
-/* ================= 固定底栏 ================= */
+/* ================= 底栏（fixed，不遮挡） ================= */
 .app-footer {
     position: fixed;
     left: 0;
     bottom: 0;
+    height: var(--footer-height);
     width: 100%;
 
-    padding: 0.9rem 1rem;
     background: #f8f9fa;
     border-top: 1px solid #e5e7eb;
+
     font-size: 0.9rem;
     color: #374151;
+
+    display: flex;
+    align-items: center;
 
     z-index: 999;
 }
@@ -126,7 +139,6 @@ main {
     gap: 28px;
 
     flex-wrap: wrap;
-    line-height: 1.6;
 }
 
 .footer-item {
@@ -137,7 +149,6 @@ main {
     font-weight: 600;
 }
 
-/* 底栏链接：无下划线 */
 .app-footer a {
     color: #000;
     text-decoration: none;
@@ -162,11 +173,11 @@ main {
 <!-- ================= JS：年份 + 中英文 ================= -->
 <script>
 (() => {
-    /* -------- 自动年份 -------- */
+    /* 年份 */
     document.getElementById('year').textContent =
         new Date().getFullYear();
 
-    /* -------- 语言切换 -------- */
+    /* 语言切换 */
     const isZh = location.pathname.includes('-zh');
 
     const swapUrl = (url, toZh) => {
