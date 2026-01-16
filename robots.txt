@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jiang-yuyan.github.io/Yuyan-Jiang-CV/sitemap.xml
