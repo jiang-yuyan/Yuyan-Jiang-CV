@@ -3,64 +3,71 @@ layout: default
 title: projects-zh
 ---
 
-## Research Project
+## 研究项目（部分信息待更新）
 
-**Source**: **Nantong Social Science Research Project**  
-Code: SKB25-106  
-Role: Participant  
-Time: 2025-2025  
-Type: In-Research
+**来源**: **南通市社科研究一般课题**  
+题目：公共图书馆数据资源开放共享及治理机制研究
+编号: SKB25-106  
+角色: 参研  
+周期: 2025-2025  
+状态: 结项
 
-**Source**: **Liyungang Federation of Philosophy and Social Sciences Project**  
-Code: 25xsj50 
-Role: Participant  
-Time: 2025-2025  
-Type: In-Research
+**来源**: **盐城市哲学社会科学联合会新四军研究专项课题**  
+题目：文旅融合视域下新四军红色公共文化项目空间沉浸式叙事设计研究
+编号: 25xsj50 
+角色: 参研  
+周期: 2025-2025  
+状态: 结项
 
-**Source**: **Intellectual Property Program of Gansu Province**  
-Code: 24ZSCQ022  
-Role: Participant  
-Time: 2024-2026  
-Type: In-Research
+**来源**: **甘肃省知识产权局项目**  
+题目：氢能产业专利导航及甘肃省氢能产业发展策略建议
+编号: 24ZSCQ022  
+角色: 参研  
+周期: 2024-2026  
+状态: 在研
 
-**Source**: **Project of Key Laboratory of Ecological Security and Sustainable Development in Arid Areas**  
-Code: -  
-Role: Participant  
-Time: 2024-2025  
-Type: In-Research  
+**来源**: **干旱区生态安全与可持续发展全国重点实验室开放课题**  
+题目：干旱区区域发展与生态韧性的耦合评价研究
+编号: -  
+角色: 参研  
+周期: 2024-2025  
+状态: 在研  
 
-**Source**: **Major Project of Henan Provincial Department of Education**  
-Code: 2024-JCZD-23  
-Role: Participant  
-Time: 2024-2026  
-Type: In-Research  
+**来源**: **河南省教育厅基础研究重大项目**  
+编号: 2024-JCZD-23  
+角色: 参研  
+周期: 2024-2026  
+状态: 在研  
 
-**Source**: **Project of Society of Scientific and Technological Periodicals**  
-Code: YJH202315    
-Role: Participant  
-Time: 2023-2023  
-Type: Finished  
+**来源**: **中国科学院自然科学期刊编辑研究会课题**  
+编号: YJH202315    
+角色: 参研  
+周期: 2023-2023  
+状态: 结项  
 
-**Source**: **General Project of National Social Science Fund**  
-Code: 23BTQ085  
-Role: Participant  
-Time: 2023-2027  
-Type: In-Research  
+**来源**: **国家社会科学基金项目一般项目**  
+题目: 颠覆性指数引证数据来源和结构优化及其应用效果评价研究  
+编号: 23BTQ085  
+角色: 参研  
+周期: 2023-2027  
+状态: 在研  
 
-**Source**: **Xinxiang Medical University Postgraduate Research Innovation Support Program**  
-Code: YJSCX202277Y  
-Role: Host  
-Time: 2022-2024  
-Type: Finished  
+**来源**: **新乡医学院研究生科研创新支持计划项目**  
+题目: 我国高等医学院校及其科技人才的颠覆性创新测度与评价  
+编号: YJSCX202277Y  
+角色: 主持  
+周期: 2022-2024  
+状态: 结项  
 
-**Source**: **General Project of National Social Science Fund**  
-Code: 19BTQ087  
-Role: Participant  
-Time: 2019-2023  
-Type: Finished  
+**来源**: **国家社会科学基金项目**  
+题目: 引证指标的学科标准化方法与跨学科学术评价研究  
+编号: 19BTQ087  
+角色: 参研  
+周期: 2019-2023  
+状态: 结项  
 
-**Source**: **Nanjing University Jinling College Undergraduate Innovation Training Program Project**  
-Code: 136462019007X    
-Role: Participant  
-Time: 2019-2021  
-Type: Finished
+**来源**: **南京大学金陵学院大学生创新创业项目**  
+编号: 136462019007X    
+角色: 参研  
+周期: 2019-2021  
+状态: 结项
