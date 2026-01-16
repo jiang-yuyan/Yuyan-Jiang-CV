@@ -86,6 +86,9 @@ body {
 <nav class="navigation">
 
     <!-- 学术兼职 -->
+    <a class="nav" href="{{ site.baseurl }}/index">Home Page</a>
+    
+    <!-- 学术兼职 -->
     <a class="nav" href="{{ site.baseurl }}/role/roles">Academic Role</a>
 
     <!-- 研究项目 -->
@@ -157,6 +160,7 @@ body {
     /* ===== 中文页面：导航文字自动替换为中文 ===== */
     if (isZh) {
         const map = {
+            "Home Page": "首页"
             "Academic Role": "学术兼职",
             "Research Project": "研究课题",
             "Publications": "出版记录",
