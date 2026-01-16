@@ -1,12 +1,9 @@
-<!-- ===================== Navigation ===================== -->
-
 <style>
 body {
     padding-top: 70px;
     margin: 0;
 }
 
-/* ===== 导航栏 ===== */
 .navigation {
     position: fixed;
     top: 0;
@@ -16,9 +13,9 @@ body {
     border-bottom: 1px solid #ccc;
     z-index: 1000;
     font-family: Arial, Helvetica, sans-serif;
+    overflow: visible; /* ✅ 关键 */
 }
 
-/* ✅ 居中导航内容 */
 .nav-center {
     height: 100%;
     display: flex;
@@ -27,12 +24,10 @@ body {
     gap: 18px;
 }
 
-/* ===== 普通链接 ===== */
 .navigation a {
     text-decoration: none !important;
     color: #000;
     cursor: pointer;
-    line-height: 1.4;
     display: inline-flex;
     align-items: center;
 }
@@ -41,149 +36,37 @@ body {
     color: #007acc;
 }
 
-/* ===== 下拉容器 ===== */
 .dropdown {
     position: relative;
     display: inline-flex;
     align-items: center;
 }
 
-/* ✅ 触发按钮，撑满导航栏高度，避免 hover 丢失 */
 .dropdown-trigger {
+    height: 60px;
     display: inline-flex;
     align-items: center;
-    height: 60px;
-    padding: 0 2px;
 }
 
-/* ===== 下拉菜单 ===== */
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: 60px;                /* 紧贴导航栏 */
+    top: 100%;
     left: 50%;
     transform: translateX(-50%);
     background: #fff;
     border: 1px solid #ccc;
     min-width: 140px;
     z-index: 1001;
-
-    /* ✅ hover 缓冲区 */
-    padding-top: 6px;
 }
 
-/* ✅ hover 生效 */
 .dropdown:hover .dropdown-menu {
     display: block;
 }
 
-/* ===== 下拉项 ===== */
 .dropdown-menu a {
     display: block;
     padding: 8px 14px;
     white-space: nowrap;
 }
-
-/* ✅ 语言按钮：固定在右侧 */
-.lang-switch {
-    position: absolute;
-    right: 24px;
-    top: 50%;
-    transform: translateY(-50%);
-    font-weight: bold;
-}
 </style>
-
-<nav class="navigation">
-
-    <!-- ✅ 居中内容 -->
-    <div class="nav-center">
-
-        <a class="nav" href="{{ site.baseurl }}/index">Home Page</a>
-        <a class="nav" href="{{ site.baseurl }}/role/roles">Academic Role</a>
-        <a class="nav" href="{{ site.baseurl }}/project/projects">Research Project</a>
-
-        <!-- ✅ 下拉菜单 -->
-        <div class="dropdown">
-            <a class="nav dropdown-trigger"
-               href="{{ site.baseurl }}/publication/publications">
-                Publications
-            </a>
-            <div class="dropdown-menu">
-                {% for y in (2026..2020) %}
-                <a class="nav"
-                   href="{{ site.baseurl }}/publication/publication-{{ y }}">
-                    {{ y }}
-                </a>
-                {% endfor %}
-            </div>
-        </div>
-
-        <a class="nav" href="{{ site.baseurl }}/exchange/exchanges">Academic Exchange</a>
-        <a class="nav" href="{{ site.baseurl }}/honour/honours">Honour</a>
-        <a class="nav" href="{{ site.baseurl }}/skill/skills">Professional Skills</a>
-
-    </div>
-
-    <!-- ✅ 语言切换（同一位置） -->
-    <a id="lang-zh" class="lang-switch" href="javascript:void(0)">中文</a>
-    <a id="lang-en" class="lang-switch" href="javascript:void(0)">EN</a>
-
-</nav>
-
-<script>
-(() => {
-
-    const isZh = location.pathname.includes('-zh');
-
-    /* URL 切换 */
-    const swapUrl = (url, toZh) => {
-        if (toZh) {
-            return url.includes('-zh')
-                ? url
-                : url.replace(/(\.html)?$/, '-zh$1');
-        } else {
-            return url.replace('-zh', '');
-        }
-    };
-
-    /* 修正导航链��� */
-    document.querySelectorAll('.nav').forEach(a => {
-        a.href = swapUrl(a.href, isZh);
-    });
-
-    /* 语言按钮显示 */
-    document.getElementById('lang-zh').style.display = isZh ? 'none' : 'inline';
-    document.getElementById('lang-en').style.display = isZh ? 'inline' : 'none';
-
-    /* 点击切换 */
-    document.getElementById('lang-zh').onclick =
-        () => location.href = swapUrl(location.href, true);
-
-    document.getElementById('lang-en').onclick =
-        () => location.href = swapUrl(location.href, false);
-
-    /* 中文文字替换 */
-    if (isZh) {
-        const map = {
-            "Home Page": "首页",
-            "Academic Role": "学术兼职",
-            "Research Project": "研究课题",
-            "Publications": "出版记录",
-            "Academic Exchange": "学术交流",
-            "Honour": "荣誉奖励",
-            "Professional Skills": "专业技能"
-        };
-
-        document
-            .querySelectorAll('.nav-center > .nav, .dropdown-trigger')
-            .forEach(a => {
-                const t = a.textContent.trim();
-                if (map[t]) a.textContent = map[t];
-            });
-    }
-
-})();
-</script>
-
-<!-- ===================== End Navigation ===================== -->
