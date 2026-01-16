@@ -10,6 +10,7 @@ body {
     margin: 0;
     padding-top: 70px;
     font-family: Arial, Helvetica, sans-serif;
+    color: #000;
 }
 
 /* ================= 导航栏 ================= */
@@ -22,7 +23,6 @@ body {
     background: #fff;
     border-bottom: 1px solid #ccc;
     z-index: 1000;
-    overflow: visible;
 }
 
 .nav-center {
@@ -36,9 +36,6 @@ body {
 .navigation a {
     text-decoration: none;
     color: #000;
-    display: inline-flex;
-    align-items: center;
-    cursor: pointer;
 }
 
 .navigation a:hover {
@@ -48,14 +45,6 @@ body {
 /* ================= 下拉菜单 ================= */
 .dropdown {
     position: relative;
-    display: inline-flex;
-    align-items: center;
-}
-
-.dropdown-trigger {
-    height: 60px;
-    display: inline-flex;
-    align-items: center;
 }
 
 .dropdown-menu {
@@ -87,6 +76,7 @@ body {
     top: 50%;
     transform: translateY(-50%);
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* ================= 正文 ================= */
@@ -96,25 +86,43 @@ main {
     padding: 20px;
 }
 
-/* ================= 页脚 ================= */
+/* ================= 页脚（单行） ================= */
 .app-footer {
     margin-top: 3rem;
-    padding: 1.5rem 1rem;
+    padding: 1.2rem 1rem;
     background: #f8f9fa;
     border-top: 1px solid #e5e7eb;
-    text-align: center;
     font-size: 0.9rem;
     color: #374151;
 }
 
-.footer-content {
-    max-width: 960px;
+.footer-row {
+    max-width: 1100px;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+    flex-wrap: wrap; /* 小屏自动换行 */
     line-height: 1.6;
+}
+
+.footer-item {
+    white-space: nowrap;
 }
 
 .footer-name {
     font-weight: 600;
+}
+
+/* 页脚链接样式：无下划线 */
+.app-footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+.app-footer a:hover {
+    color: #007acc;
 }
 </style>
 </head>
@@ -144,12 +152,12 @@ main {
         }
     };
 
-    /* 链接切换 */
+    /* 导航链接 URL 切换 */
     document.querySelectorAll('.nav').forEach(a => {
         a.href = swapUrl(a.href, isZh);
     });
 
-    /* 按钮显示 */
+    /* 语言按钮显示 */
     document.getElementById('lang-zh').style.display = isZh ? 'none' : 'inline';
     document.getElementById('lang-en').style.display = isZh ? 'inline' : 'none';
 
