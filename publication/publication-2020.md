@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications 2020
+title: publications-2020
 ---
 
 ## Publications
