@@ -21,6 +21,10 @@ title: honours
 | **Single Prize of People Scholarship** | 2020 | Nanjing University Jinling College |
 | **First Prize of Academic Star** | 2023 | Henan Research Center for Science Journals |
 | **Outstanding Readers** | 2021 | Library of Nanjing University Jinling College |
+| **High-Quality Paper** | 2025 | 2025 Annual Conference China Editology Society of Science Preiodicals |
+| **Third Prize of Outstanding Paper** | 2025 | Graduate Student Academic Forum, University of Chinese Academy of Sciences |
+| **Third Prize of Outstanding Paper** | 2025 | The 8th Tianfu Forum on Scientometrics and Scientific Evaluation |
+| **Third Prize of Outstanding Paper** | 2025 | The 16th National Symposium on Scientometrics & Science and Education Evaluation |
 | **Third Prize of Outstanding Paper** | 2024 | The 7th Conference on Quality and Development of Chinese Journals |
 | **First Prize of Outstanding Paper** | 2023 | The 14th National Symposium on Scientometrics & Science and Education Evaluation |
 | **Third Prize of Outstanding Paper** | 2023 | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
