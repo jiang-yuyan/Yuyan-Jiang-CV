@@ -75,19 +75,39 @@ body { padding: 70px 0; }
 
 <script>
 (() => {
-    const zh = location.pathname.includes('-zh');
-    const swap = (u, toZh) =>
+    const isZh = location.pathname.includes('-zh');
+
+    const swapUrl = (u, toZh) =>
         u.replace(/(-zh)?(\.html)?$/, toZh ? '-zh$2' : '$2');
 
-    document.querySelectorAll('.nav').forEach(a =>
-        a.href = swap(a.href, zh)
-    );
+    /* ========= 链接中英切换 ========= */
+    document.querySelectorAll('.nav').forEach(a => {
+        a.href = swapUrl(a.href, isZh);
+    });
 
     document.getElementById('lang-zh').onclick =
-        () => location.href = swap(location.href, true);
+        () => location.href = swapUrl(location.href, true);
 
     document.getElementById('lang-en').onclick =
-        () => location.href = swap(location.href, false);
+        () => location.href = swapUrl(location.href, false);
+
+    /* ========= 导航文字中英切换 ========= */
+    if (isZh) {
+        const map = {
+            "Academic Role": "学术兼职",
+            "Research Project": "研究课题",
+            "Publications": "出版记录",
+            "Academic Exchange": "学术交流",
+            "Honour": "荣誉奖励",
+            "Professional Skills": "专业技能"
+        };
+
+        document.querySelectorAll('.navigation > .nav, .dropdown > .nav')
+            .forEach(a => {
+                const t = a.textContent.trim();
+                if (map[t]) a.textContent = map[t];
+            });
+    }
 })();
 </script>
 <!-- ================= End Navigation ================= -->
