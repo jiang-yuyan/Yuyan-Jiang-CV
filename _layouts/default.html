@@ -109,21 +109,21 @@ main {
     line-height: 1.75;
 }
 
+
 /* =========================================================
-   ✅ 新增：正文表格样式（全框线 + 列间距）
-   仅作用于 main 内的表格，不影响其他任何部分
+   正文表格：单元格全框线，无表格外框，列间距来自 padding
+   仅作用于 main 内表格
    ========================================================= */
 main table {
     width: 100%;
-    border-collapse: separate;     /* 允许单元格间距 */
-    border-spacing: 12px 8px;       /* 列间距 12px，行间距 8px */
-    border: 1px solid #000;         /* 表格外框 */
+    border-collapse: collapse;   /* 合并边框，避免出现框线间距 */
+    border: none;                /* 明确：表格本身无外框 */
 }
 
 main th,
 main td {
-    border: 1px solid #000;         /* 单元格全框线 */
-    padding: 6px 10px;
+    border: 1px solid #000;      /* 单元格全框线 */
+    padding: 6px 16px;           /* 列间距来自 padding（不在框线之间） */
     text-align: center;
 }
 
