@@ -4,6 +4,23 @@ title: exchanges
 ---
 
 ## Academic Exchange
+__·2025__
+
+**Conf**：**Graduate Student Academic Forum, University of Chinese Academy of Sciences**  
+**Role**：Reporter    
+**Time**：2025-12    
+**Location**：Lanzhou, Gansu, China    
+
+**Conf**：**The 8th Tianfu Forum on Scientometrics and Scientific Evaluation**  
+**Role**：Reporter    
+**Time**：2025-9    
+**Location**：Chengdu, Sichuan, China    
+
+**Conf**：**The 16th National Symposium on Scientometrics and Science and Education Evaluation**  
+**Role**：Participant    
+**Time**：2025-8    
+**Location**：Lanzhou, Gansu, China    
+
 __·2024__
 
 **Conf**：**The 7th Conference on Quality and Development of Chinese Journals**  
