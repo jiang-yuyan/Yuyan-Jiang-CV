@@ -1,6 +1,6 @@
 ---
 layout: default
-title: role-zh
+title: roles-zh
 ---
 
 ## 学术兼职
