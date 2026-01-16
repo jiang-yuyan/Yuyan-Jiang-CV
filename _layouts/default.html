@@ -109,6 +109,29 @@ main {
     line-height: 1.75;
 }
 
+/* =========================================================
+   ✅ 新增：正文表格样式（全框线 + 列间距）
+   仅作用于 main 内的表格，不影响其他任何部分
+   ========================================================= */
+main table {
+    width: 100%;
+    border-collapse: separate;     /* 允许单元格间距 */
+    border-spacing: 12px 8px;       /* 列间距 12px，行间距 8px */
+    border: 1px solid #000;         /* 表格外框 */
+}
+
+main th,
+main td {
+    border: 1px solid #000;         /* 单元格全框线 */
+    padding: 6px 10px;
+    text-align: center;
+}
+
+main th {
+    font-weight: 600;
+}
+/* ================= 新增样式结束 ================= */
+
 /* ================= 底栏（fixed，不遮挡） ================= */
 .app-footer {
     position: fixed;
@@ -165,7 +188,7 @@ main {
 {% include nav.html %}
 
 <main>
-    {{ content }}
+    {{content }}
 </main>
 
 {% include footer.html %}
@@ -214,3 +237,31 @@ main {
 
 </body>
 </html>
+---
+layout: default
+title: honours
+---
+
+## Honour
+
+| Award | Year | Source |
+| :-: | :-: | :-: |
+| **National Postgraduate Scholarship** | 2023 | Ministry of Education of China |
+| **Innovation Star** | 2024 | Department of Education of Henan Province |
+| **Outstanding Graduate Students** | 2024 | Department of Education of Henan Province |
+| **First Prize of Scholarship** | 2022 | Department of Education of Henan Province |
+| **Innovation Star** | 2024 | Xinxiang Medical University |
+| **Outstanding Dissertation** | 2024 | Xinxiang Medical University |
+| **First Prize of Academic Star** | 2023 | Xinxiang Medical University |
+| **First Prize of University Scholarship** | 2022 | Xinxiang Medical University |
+| **Outstanding Postgraduate Student** | 2022 | Xinxiang Medical University |
+| **Outstanding Postgraduate Student** | 2021 | Xinxiang Medical University |
+| **Third Prize of People Scholarship** | 2021 | Nanjing University Jinling College |
+| **Single Prize of People Scholarship** | 2020 | Nanjing University Jinling College |
+| **First Prize of Academic Star** | 2023 | Henan Research Center for Science Journals |
+| **Outstanding Readers** | 2021 | Library of Nanjing University Jinling College |
+| **Third Prize of Outstanding Paper** | 2024 | The 7th Conference on Quality and Development of Chinese Journals |
+| **First Prize of Outstanding Paper** | 2023 | The 14th National Symposium on Scientometrics & Science and Education Evaluation |
+| **Third Prize of Outstanding Paper** | 2023 | The 6th Tianfu Forum on Scientometrics and Scientific Evaluation |
+| **Third Prize** | 2019 | The 10th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
+| **Third Prize** | 2018 | The 9th Blue Bridge Cup C/C++ Programming of Jiangsu Province |
