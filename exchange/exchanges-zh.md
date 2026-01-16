@@ -1,5 +1,5 @@
 ---
-layout: default-zh
+layout: default
 title: exchanges-zh
 ---
 
