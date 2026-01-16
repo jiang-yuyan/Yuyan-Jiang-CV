@@ -1,56 +1,61 @@
-<!-- ===================== 导航栏 Navigation ===================== -->
+<!-- ===================== Navigation ===================== -->
 
 <style>
-/* ===== 给 body 留出顶部空间，避免被固定导航遮挡 ===== */
+/* ===== 给 body 留出顶部空间 ===== */
 body {
-    padding: 70px 0;
+    padding-top: 70px;
     margin: 0;
 }
 
-/* ===== 导航栏整体样式 ===== */
+/* ===== 导航栏整体 ===== */
 .navigation {
-    position: fixed;            /* 固定在页面顶部 */
+    position: fixed;
     top: 0;
     width: 100%;
-    background: #fff;           /* 白色背景 */
-    padding: 10px;
-    display: flex;              /* 横向排列 */
-    justify-content: center;    /* 居中对齐 */
-    gap: 10px;                  /* 菜单间距 */
+    background: #fff;
+    padding: 10px 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
     border-bottom: 1px solid #ccc;
-    z-index: 1000;              /* 确保在页面最上层 */
-    overflow: visible;          /* 允许下拉菜单溢出显示 */
+    z-index: 1000;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* ===== 导航链接样式（去掉所有下划线） ===== */
-.navigation a,
-.navigation a:visited,
-.navigation a:hover,
-.navigation a:active {
-    text-decoration: none !important; /* ✅ 强制去掉下划线 */
+/* ===== 所有导航链接 ===== */
+.navigation a {
+    text-decoration: none !important;
     color: #000;
     cursor: pointer;
+    line-height: 1.4;
+    display: inline-flex;              /* ✅ 防止中英文跳动 */
+    align-items: center;
 }
 
-/* ===== 链接之间的分隔符 | ===== */
-.navigation a:not(:last-child)::after {
+/* ===== hover 效果 ===== */
+.navigation a:hover {
+    color: #007acc;
+}
+
+/* ===== 链接分隔符 | ===== */
+.navigation > a:not(:last-child)::after,
+.navigation > .dropdown:not(:last-child)::after {
     content: " | ";
     margin-left: 10px;
     color: #666;
 }
 
-/* ===== 下拉菜单容器 ===== */
+/* ===== 下拉菜单 ===== */
 .dropdown {
-    position: relative;     /* 为下拉菜单提供定位基准 */
-    padding-bottom: 10px;
+    position: relative;
+    padding-bottom: 6px;
 }
 
-/* ===== 下拉菜单内容 ===== */
 .dropdown-menu {
-    display: none;          /* 默认隐藏 */
+    display: none;
     position: absolute;
-    top: 100%;              /* 紧贴父菜单下方 */
+    top: 100%;
     left: 0;
     background: #fff;
     border: 1px solid #ccc;
@@ -58,49 +63,45 @@ body {
     z-index: 1001;
 }
 
-/* ===== 鼠标悬停时显示下拉菜单 ===== */
-.dropdown:hover > .dropdown-menu,
-.dropdown-menu:hover {
+.dropdown:hover .dropdown-menu {
     display: block;
 }
 
-/* ===== 下拉菜单里的链接样式 ===== */
+/* ===== 下拉菜单项 ===== */
 .dropdown-menu a {
-    display: block;         /* 垂直排列 */
+    display: block;
     padding: 8px 12px;
-    white-space: nowrap;    /* 不换行 */
+    white-space: nowrap;
 }
 
-/* ===== 去掉下拉菜单里的分隔符 | ===== */
+/* ===== 下拉菜单不显示分隔符 ===== */
 .dropdown-menu a::after {
     content: none !important;
 }
 
-/* ===== 鼠标悬停效果（可选） ===== */
-.navigation a:hover {
-    color: #007acc;
+/* ===== 语言按钮 ===== */
+.lang-btn {
+    font-weight: bold;
+}
+
+/* 语言按钮不显示分隔符 */
+.lang-btn::after {
+    content: none !important;
 }
 </style>
 
-<!-- ===================== HTML 导航结构 ===================== -->
 <nav class="navigation">
 
-    <!-- 首页 -->
     <a class="nav" href="{{ site.baseurl }}/index">Home Page</a>
-    
-    <!-- 学术兼职 -->
+
     <a class="nav" href="{{ site.baseurl }}/role/roles">Academic Role</a>
 
-    <!-- 研究项目 -->
     <a class="nav" href="{{ site.baseurl }}/project/projects">Research Project</a>
 
-    <!-- 出版物（带下拉年份） -->
     <div class="dropdown">
         <a class="nav" href="{{ site.baseurl }}/publication/publications">
             Publications
         </a>
-
-        <!-- 下拉菜单：按年份生成（Jekyll Liquid） -->
         <div class="dropdown-menu">
             {% for y in (2026..2020) %}
             <a class="nav" href="{{ site.baseurl }}/publication/publication-{{ y }}">
@@ -110,57 +111,57 @@ body {
         </div>
     </div>
 
-    <!-- 学术交流 -->
     <a class="nav" href="{{ site.baseurl }}/exchange/exchanges">
         Academic Exchange
     </a>
 
-    <!-- 荣誉奖励 -->
     <a class="nav" href="{{ site.baseurl }}/honour/honours">
         Honour
     </a>
 
-    <!-- 专业技能 -->
     <a class="nav" href="{{ site.baseurl }}/skill/skills">
         Professional Skills
     </a>
 
-    <!-- 语言切换按钮 -->
-    <a id="lang-zh">中文</a>
-    <a id="lang-en">English</a>
+    <!-- 语言切换 -->
+    <a id="lang-zh" class="lang-btn" href="javascript:void(0)">中文</a>
+    <a id="lang-en" class="lang-btn" href="javascript:void(0)">English</a>
+
 </nav>
 
-<!-- ===================== JS：中英文切换逻辑 ===================== -->
 <script>
 (() => {
 
-    /* 判断当前页面是否为中文页面（是否包含 -zh） */
+    /* 当前是否为中文页面 */
     const isZh = location.pathname.includes('-zh');
 
-    /* 
-       根据是否为中文页面，自动切换链接：
-       - 英文页面：xxx.html
-       - 中文页面：xxx-zh.html
-    */
-    const swapUrl = (url, toZh) =>
-        url.replace(/(-zh)?(\.html)?$/, toZh ? '-zh$2' : '$2');
+    /* 稳定版 URL 切换 */
+    const swapUrl = (url, toZh) => {
+        if (toZh) {
+            return url.includes('-zh')
+                ? url
+                : url.replace(/(\.html)?$/, '-zh$1');
+        } else {
+            return url.replace('-zh', '');
+        }
+    };
 
-    /* ===== 自动修正导航栏中所有链接的语言 ===== */
+    /* 自动修正导航链接语言 */
     document.querySelectorAll('.nav').forEach(a => {
         a.href = swapUrl(a.href, isZh);
     });
 
-    /* ===== 点击语言按钮时切换页面 ===== */
+    /* 语言按钮点击 */
     document.getElementById('lang-zh').onclick =
         () => location.href = swapUrl(location.href, true);
 
     document.getElementById('lang-en').onclick =
         () => location.href = swapUrl(location.href, false);
 
-    /* ===== 中文页面：导航文字自动替换为中文 ===== */
+    /* 中文页面：导航文字替换 */
     if (isZh) {
         const map = {
-            "Home Page": "首页"
+            "Home Page": "首页",
             "Academic Role": "学术兼职",
             "Research Project": "研究课题",
             "Publications": "出版记录",
@@ -169,12 +170,11 @@ body {
             "Professional Skills": "专业技能"
         };
 
-        /* 仅替换顶级导航文字，不影响下拉年份 */
         document
             .querySelectorAll('.navigation > .nav, .dropdown > .nav')
             .forEach(a => {
-                const text = a.textContent.trim();
-                if (map[text]) a.textContent = map[text];
+                const t = a.textContent.trim();
+                if (map[t]) a.textContent = map[t];
             });
     }
 
