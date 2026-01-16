@@ -12,11 +12,9 @@ html, body {
 
 body {
     margin: 0;
-    padding-top: 70px;
-    display: flex;
-    flex-direction: column;
+    padding-top: 70px;      /* 导航栏高度 */
+    padding-bottom: 80px;   /* 底栏高度（非常关键） */
 
-    /* 学术风字体（中英文友好） */
     font-family:
         "Times New Roman",
         "Noto Serif SC",
@@ -96,29 +94,37 @@ body {
 
 /* ================= 正文 ================= */
 main {
-    flex: 1;               /* 关键：撑开页面 */
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
     line-height: 1.75;
 }
 
-/* ================= 底栏（固定在底部） ================= */
+/* ================= 固定底栏 ================= */
 .app-footer {
-    padding: 1rem 1rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    padding: 0.9rem 1rem;
     background: #f8f9fa;
     border-top: 1px solid #e5e7eb;
     font-size: 0.9rem;
     color: #374151;
+
+    z-index: 999;
 }
 
 .footer-row {
     max-width: 1100px;
     margin: 0 auto;
+
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 28px;
+
     flex-wrap: wrap;
     line-height: 1.6;
 }
@@ -153,7 +159,7 @@ main {
 
 {% include footer.html %}
 
-<!-- ================= JS：语言切换 + 年份 ================= -->
+<!-- ================= JS：年份 + 中英文 ================= -->
 <script>
 (() => {
     /* -------- 自动年份 -------- */
@@ -179,6 +185,7 @@ main {
 
     document.getElementById('lang-zh').style.display =
         isZh ? 'none' : 'inline';
+
     document.getElementById('lang-en').style.display =
         isZh ? 'inline' : 'none';
 
