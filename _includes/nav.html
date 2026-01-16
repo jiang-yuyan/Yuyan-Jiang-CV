@@ -1,21 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Navigation with Dropdown</title>
+
 <style>
+/* ================= 基础 ================= */
 body {
-    padding-top: 70px;
     margin: 0;
+    padding-top: 70px; /* 给固定导航栏让位 */
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+/* ================= 导航栏 ================= */
 .navigation {
     position: fixed;
     top: 0;
+    left: 0;
     width: 100%;
     height: 60px;
     background: #fff;
     border-bottom: 1px solid #ccc;
     z-index: 1000;
-    font-family: Arial, Helvetica, sans-serif;
-    overflow: visible; /* ✅ 关键 */
+
+    overflow: visible; /* ✅ 关键：允许下拉菜单显示 */
 }
 
+/* 中间导航内容 */
 .nav-center {
     height: 100%;
     display: flex;
@@ -24,34 +35,39 @@ body {
     gap: 18px;
 }
 
+/* 普通链接 */
 .navigation a {
-    text-decoration: none !important;
+    text-decoration: none;
     color: #000;
-    cursor: pointer;
     display: inline-flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .navigation a:hover {
     color: #007acc;
 }
 
+/* ================= 下拉菜单 ================= */
 .dropdown {
     position: relative;
     display: inline-flex;
     align-items: center;
 }
 
+/* 触发按钮（撑满导航栏高度，防 hover 丢失） */
 .dropdown-trigger {
     height: 60px;
     display: inline-flex;
     align-items: center;
+    padding: 0 2px;
 }
 
+/* 下拉内容 */
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: 100%;
+    top: 100%;              /* 紧贴触发器底部 */
     left: 50%;
     transform: translateX(-50%);
     background: #fff;
@@ -60,13 +76,95 @@ body {
     z-index: 1001;
 }
 
+/* hover 展开 */
 .dropdown:hover .dropdown-menu {
     display: block;
 }
 
+/* 下拉项 */
 .dropdown-menu a {
     display: block;
     padding: 8px 14px;
     white-space: nowrap;
 }
+
+/* ================= 语言切换 ================= */
+.lang-switch {
+    position: absolute;
+    right: 24px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+}
 </style>
+</head>
+
+<body>
+
+<!-- ================= 导航 ================= -->
+<nav class="navigation">
+
+    <div class="nav-center">
+        <a class="nav" href="index.html">Home Page</a>
+        <a class="nav" href="roles.html">Academic Role</a>
+        <a class="nav" href="projects.html">Research Project</a>
+
+        <!-- ✅ 下拉菜单 -->
+        <div class="dropdown">
+            <a class="nav dropdown-trigger" href="publications.html">
+                Publications
+            </a>
+            <div class="dropdown-menu">
+                <a class="nav" href="publication-2026.html">2026</a>
+                <a class="nav" href="publication-2025.html">2025</a>
+                <a class="nav" href="publication-2024.html">2024</a>
+                <a class="nav" href="publication-2023.html">2023</a>
+                <a class="nav" href="publication-2022.html">2022</a>
+                <a class="nav" href="publication-2021.html">2021</a>
+                <a class="nav" href="publication-2020.html">2020</a>
+            </div>
+        </div>
+
+        <a class="nav" href="exchanges.html">Academic Exchange</a>
+        <a class="nav" href="honours.html">Honour</a>
+        <a class="nav" href="skills.html">Professional Skills</a>
+    </div>
+
+    <!-- 语言切换 -->
+    <a id="lang-zh" class="lang-switch" href="javascript:void(0)">中文</a>
+    <a id="lang-en" class="lang-switch" href="javascript:void(0)">EN</a>
+
+</nav>
+
+<!-- ================= JS（语言切换示例） ================= -->
+<script>
+(() => {
+    const isZh = location.pathname.includes('-zh');
+
+    const swapUrl = (url, toZh) => {
+        if (toZh) {
+            return url.includes('-zh')
+                ? url
+                : url.replace(/(\.html)?$/, '-zh$1');
+        } else {
+            return url.replace('-zh', '');
+        }
+    };
+
+    document.querySelectorAll('.nav').forEach(a => {
+        a.href = swapUrl(a.href, isZh);
+    });
+
+    document.getElementById('lang-zh').style.display = isZh ? 'none' : 'inline';
+    document.getElementById('lang-en').style.display = isZh ? 'inline' : 'none';
+
+    document.getElementById('lang-zh').onclick =
+        () => location.href = swapUrl(location.href, true);
+
+    document.getElementById('lang-en').onclick =
+        () => location.href = swapUrl(location.href, false);
+})();
+</script>
+
+</body>
+</html>
