@@ -1,25 +1,170 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+<meta charset="UTF-8">
+<title>{{ page.title }}</title>
 
-  <style>
-    main {
-      max-width: 900px;   /* ✅ 控制正文宽度 */
-      margin: 0 auto;     /* ✅ 水平居中 */
-      padding: 20px;      /* ✅ 防止贴边 */
-    }
-  </style>
+<style>
+/* ================= 基础 ================= */
+body {
+    margin: 0;
+    padding-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ================= 导航栏 ================= */
+.navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+    z-index: 1000;
+    overflow: visible;
+}
+
+.nav-center {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #000;
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.navigation a:hover {
+    color: #007acc;
+}
+
+/* ================= 下拉菜单 ================= */
+.dropdown {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+}
+
+.dropdown-trigger {
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+    border: 1px solid #ccc;
+    min-width: 140px;
+    z-index: 1001;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu a {
+    display: block;
+    padding: 8px 14px;
+    white-space: nowrap;
+}
+
+/* ================= 语言切换 ================= */
+.lang-switch {
+    position: absolute;
+    right: 24px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+}
+
+/* ================= 正文 ================= */
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ================= 页脚 ================= */
+.app-footer {
+    margin-top: 3rem;
+    padding: 1.5rem 1rem;
+    background: #f8f9fa;
+    border-top: 1px solid #e5e7eb;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #374151;
+}
+
+.footer-content {
+    max-width: 960px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+.footer-name {
+    font-weight: 600;
+}
+</style>
 </head>
 
 <body>
 
-  {% include nav.html %}
+{% include nav.html %}
 
-  <main>
+<main>
     {{ content }}
-  </main>
+</main>
+
+{% include footer.html %}
+
+<!-- ================= 语言切换 JS ================= -->
+<script>
+(() => {
+    const isZh = location.pathname.includes('-zh');
+
+    const swapUrl = (url, toZh) => {
+        if (toZh) {
+            return url.includes('-zh')
+                ? url
+                : url.replace(/(\.html)?$/, '-zh$1');
+        } else {
+            return url.replace('-zh', '');
+        }
+    };
+
+    /* 链接切换 */
+    document.querySelectorAll('.nav').forEach(a => {
+        a.href = swapUrl(a.href, isZh);
+    });
+
+    /* 按钮显示 */
+    document.getElementById('lang-zh').style.display = isZh ? 'none' : 'inline';
+    document.getElementById('lang-en').style.display = isZh ? 'inline' : 'none';
+
+    document.getElementById('lang-zh').onclick =
+        () => location.href = swapUrl(location.href, true);
+
+    document.getElementById('lang-en').onclick =
+        () => location.href = swapUrl(location.href, false);
+
+    /* 文本切换（导航 + 页脚） */
+    document.querySelectorAll('[data-en]').forEach(el => {
+        el.textContent = isZh ? el.dataset.zh : el.dataset.en;
+    });
+})();
+</script>
 
 </body>
 </html>
