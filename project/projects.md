@@ -3,7 +3,7 @@ layout: default
 title: project
 ---
 
-## Research Project
+## Research Project (Some information is pending update)
 
 **Source**: **Nantong Social Science Research Project**  
 Code: SKB25-106  
@@ -11,7 +11,7 @@ Role: Participant
 Time: 2025-2025  
 Type: In-Research
 
-**Source**: **Liyungang Federation of Philosophy and Social Sciences Project**  
+**Source**: **Yancheng Federation of Philosophy and Social Sciences Project**  
 Code: 25xsj50 
 Role: Participant  
 Time: 2025-2025  
