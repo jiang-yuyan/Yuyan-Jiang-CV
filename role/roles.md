@@ -38,7 +38,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Interactive Journal of Medical Research**_ **(ESCI)**  
 &#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**International Journal of Bibliometrics in Business and Management**_  
-&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_  
+&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_ **(Scopus)** 
 &#8195;&#8195;_**Issues in Science and Technology Librarianship**_ **(Scopus)**  
 &#8195;&#8195;_**JMIR Aging**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Cancer**_ **(ESCI & Scopus)**  
@@ -72,4 +72,4 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 7 times (2026)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 16 times (2026)  
