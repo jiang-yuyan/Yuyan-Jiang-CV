@@ -70,6 +70,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
+&#8195;&#8195;_**SN Business & Economics**_ **(Scopus)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
 ***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 16 times (2026)  
