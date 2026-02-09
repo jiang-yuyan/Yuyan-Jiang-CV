@@ -4,18 +4,18 @@ title: roles-zh
 ---
 
 ## 学术兼职
-__·学会成员__ 🧑‍🎓
+__·学会__ 🧑‍🎓
 
 &#8195;&#8195;_中国科学学与科技政策研究会科学计量学与信息计量学专业委员会 学生会员_
 
-__·编辑委员会__ 👨‍🔬
+__·编辑__ 👨‍🔬
 
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI, Editorial Board)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_ **(Scientific Committee Menber)**  
 &#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor, 2025-2025)**   
 
-__·审稿人__ 🕵️‍♂️
+__·评审__ 🕵️‍♂️
 
 &#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
 &#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
@@ -38,7 +38,7 @@ __·审稿人__ 🕵️‍♂️
 &#8195;&#8195;_**Interactive Journal of Medical Research**_ **(ESCI)**  
 &#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**International Journal of Bibliometrics in Business and Management**_  
-&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_ **(Scopus)** 
+&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_ **(Scopus)**  
 &#8195;&#8195;_**Issues in Science and Technology Librarianship**_ **(Scopus)**  
 &#8195;&#8195;_**JMIR Aging**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Cancer**_ **(ESCI & Scopus)**  
