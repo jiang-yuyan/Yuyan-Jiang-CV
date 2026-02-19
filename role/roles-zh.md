@@ -70,8 +70,9 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Research Integrity and Peer Review**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
+&#8195;&#8195;_**Scientometrics**_ **(SCI & SSCI)**  
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**SN Business & Economics**_ **(Scopus)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 
-***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 16 次 (2026)
+***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 22 次 (2026)
