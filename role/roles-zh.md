@@ -74,5 +74,6 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
 &#8195;&#8195;_**SN Business & Economics**_ **(Scopus)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_**Trends in Scholarly Publishing**_  
 
 ***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 22 次 (2026)
