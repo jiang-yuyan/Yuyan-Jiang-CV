@@ -2,44 +2,22 @@
 layout: default
 title: publications
 ---
-<style>
-  /* 给所有年份锚点设置滚动偏移（关键） */
-  #publications-2026,
-  #publications-2025,
-  #publications-2024,
-  #publications-2023,
-  #publications-2022,
-  #publications-2021,
-  #publications-2020 {
-    /* 80px替换为你导航栏的实际高度 */
-    scroll-margin-top: 80px; 
-    /* 兼容旧浏览器的备用方案 */
-    scroll-padding-top: 80px;
-  }
-</style>
-
-## Publications
-**2020s:** [2026](#publications-2026), [2025](#publications-2025), [2024](#publications-2024), [2023](#publications-2023), [2022](#publications-2022), [2021](#publications-2021), [2020](#publications-2020)
 
 <h3 id="publications-2026">·2026</h3>
+[]()
+**Source**：**编辑学报**    
+**Author**：    
+**Tag**：    
 
 <h3 id="publications-2025">·2025</h3>
 
 [**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](https://www.nature.com/articles/s41599-025-05387-6)  
-**Source**：*Humanities and Social Sciences Communications*    
-**Year**：2025    
-**Volume**：12    
-**Issue**：1    
-**Page**：1-10    
+**Source**：*Humanities and Social Sciences Communications*, 2025, 12(1), 1-10    
 **Author**：__Jiang Y__, Ma J    
 **Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
 
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
-**Source**：*Journal of Medical Internet Research*    
-**Year**：2025    
-**Volume**：27    
-**Issue**：-    
-**Page**：e59598    
+**Source**：*Journal of Medical Internet Research*, 2025, 27, e59598    
 **Author**：__Jiang Y__, Liu X, Wang L    
 **Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1    
 

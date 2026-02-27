@@ -6,24 +6,20 @@ title: publications-zh
 ## Publications
 
 <h3 id="publications-2026">·2026</h3>
+[]()
+**Source**：**编辑学报**    
+**Author**：    
+**Tag**：    
 
 <h3 id="publications-2025">·2025</h3>
 
 [**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](http://www.nature.com/articles/s41599-025-05387-6)  
-**Source**：*Humanities and Social Sciences Communications*    
-**Year**：2025    
-**Volume**：12    
-**Issue**：1    
-**Page**：1-10    
+**Source**：*Humanities and Social Sciences Communications*, 2025, 12(1), 1-10    
 **Author**：__姜育彦__, 马建霞#    
 **Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
 
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
-**Source**：*Journal of Medical Internet Research*    
-**Year**：2025    
-**Volume**：27    
-**Issue**：-    
-**Page**：e59598    
+**Source**：*Journal of Medical Internet Research*, 2025, 27, e59598    
 **Author**：__姜育彦__, 刘雪立#, 王丽云    
 **Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1    
 
@@ -104,11 +100,7 @@ title: publications-zh
 <h3 id="publications-2023">·2023</h3>
 
 [**A construction and empirical research of the journal disruption index based on open citation data**](https://link.springer.com/article/10.1007/s11192-023-04737-y)  
-**Source**：*Scientometrics*    
-**Year**：2023    
-**Volume**：128    
-**Issue**：7    
-**Page**：3935-3958    
+**Source**：*Scientometrics*, 2023, 128(7), 3935-3958    
 **Author**：__姜育彦__, 刘雪立#    
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q1, JCI Q1, AJG 2★   
 
