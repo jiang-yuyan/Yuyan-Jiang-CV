@@ -113,11 +113,7 @@ title: publications-zh
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q1, JCI Q1, AJG 2★   
 
 [**A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Securit**](https://www.mdpi.com/2071-1050/15/2/969)  
-**Source**：*Sustainability*    
-**Year**：2023    
-**Volume**：15    
-**Issue**：2    
-**Page**：969    
+**Source**：*Sustainability*, 2023, 15(2), 969    
 **Author**：__姜育彦__, 刘雪立#    
 **Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
