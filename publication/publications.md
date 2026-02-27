@@ -5,7 +5,16 @@ title: publications
 
 ## Publications
 
-<h3 id="publications-2025">·2025</h3>
+<details open>
+  <summary>
+    <h3 id="publications-2026">·2026</h3>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <h3 id="publications-2025">·2025</h3>
+  </summary>
 
 [**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](https://www.nature.com/articles/s41599-025-05387-6)  
 **Source**：*Humanities and Social Sciences Communications*    
@@ -51,6 +60,7 @@ title: publications
 **Page**：272-277    
 **Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
 **Tag**：CSSCI, PKU, CSTPCD   
+</details>
 
 <h3 id="publications-2024">·2024</h3>
 
