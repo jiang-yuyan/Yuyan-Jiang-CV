@@ -4,6 +4,7 @@ title: publications
 ---
 
 ## Publications
+**2020s:** [2026](#publications-2026), [2025](#publications-2025), [2024](#publications-2024), [2023](#publications-2023), [2022](#publications-2022), [2021](#publications-2021), [2020](#publications-2020)
 
 <h3 id="publications-2026">·2026</h3>
 
