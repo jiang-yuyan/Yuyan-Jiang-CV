@@ -25,7 +25,9 @@ title: index-zh
 
 &#8195;&#8195;截至目前，我已发表学术论文20余篇，研究成果发表于 **Humanities and Social Sciences Communications**、**Journal of Medical Internet Research**、**Scientometrics**、**Journal of Information Science**、**Journal of Scholarly Publishing**、**Sustainability** 等国际期刊，以及**《图书情报工作》**、**《中国科技期刊研究》**、**《编辑学报》**、**《数字图书馆论坛》**、**《农业图书情报学报》**等国内核心期刊。
 
-&#8195;&#8195;同时我担任**COLLNET Journal of Scientometrics and Information Management**, **IP Indian Journal of Library Science and Information Technology**, **Jurnal Kajian Informasi & Perpustakaan** 编辑委员会成员，**Health Informatics Journal** 评审委员会成员，**Revue des Sciences de l'Information** 科学委员会成员，**《中国科技期刊研究》** (CSSCI), **Health Information and Libraries Journal** (SSCI), **Information Research** (SSCI) , **JMIR mHealth and uHealth** (SCI), **JMIR Public Health and Surveillance** (SCI), **JMIR Serious Games** (SCI), **Journal of Medical Internet Research** (SCI), **Journal of the Medical Library Association** (SSCI), **Learned Publishing** (SSCI), **Malaysian Journal of Library and Information Science** (SSCI), **Scientometrics** (SSCI), **Serials Review** (SSCI)等五十余本国内外期刊审稿人。随时欢迎收到更多相关领域的编辑/审稿邀请。
+&#8195;&#8195;同时，我担任**COLLNET Journal of Scientometrics and Information Management**, **IP Indian Journal of Library Science and Information Technology**, **Jurnal Kajian Informasi & Perpustakaan** 编辑委员会成员，**Health Informatics Journal** 评审委员会成员，**Revue des Sciences de l'Information** 科学委员会成员  
+
+&#8195;&#8195;以及**《中国科技期刊研究》** (CSSCI), **Health Information and Libraries Journal** (SSCI), **Information Research** (SSCI) , **JMIR mHealth and uHealth** (SCI), **JMIR Public Health and Surveillance** (SCI), **JMIR Serious Games** (SCI), **Journal of Medical Internet Research** (SCI), **Journal of the Medical Library Association** (SSCI), **Learned Publishing** (SSCI), **Malaysian Journal of Library and Information Science** (SSCI), **Scientometrics** (SSCI), **Serials Review** (SSCI)等五十余本国内外期刊审稿人。随时欢迎收到更多相关领域的编辑/审稿邀请。
 
 &#8195;&#8195;未来，我将进一步致力于从多学科视角推动情报科学与元科学研究的发展，关注科技评价政策、学术交流体系与知识传播模式的演进。
 
