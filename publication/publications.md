@@ -6,15 +6,15 @@ title: publications
 ## Publications
 
 <details open>
-  <summary>
-    <h3 id="publications-2026">·2026</h3>
-  </summary>
+  <summary>·2026</summary>
+  <div id="publications-2026">
+    <!-- 2026年暂无内容，如需添加可在此处补充 -->
+  </div>
 </details>
 
 <details>
-  <summary>
-    <h3 id="publications-2025">·2025</h3>
-  </summary>
+  <summary>·2025</summary>
+  <div id="publications-2025">
 
 [**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](https://www.nature.com/articles/s41599-025-05387-6)  
 **Source**：*Humanities and Social Sciences Communications*    
@@ -32,7 +32,7 @@ title: publications
 **Issue**：-    
 **Page**：e59598    
 **Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1    
+**Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1  
 
 [**The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals**](https://utppublishing.com/doi/10.3138/jsp-2023-0056)  
 **Source**：*Journal of Scholarly Publishing*    
@@ -60,9 +60,12 @@ title: publications
 **Page**：272-277    
 **Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
 **Tag**：CSSCI, PKU, CSTPCD   
+  </div>
 </details>
 
-<h3 id="publications-2024">·2024</h3>
+<details>
+  <summary>·2024</summary>
+  <div id="publications-2024">
 
 [**Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation**](https://www.jmir.org/2024/1/e55121)  
 **Source**：*Journal of Medical Internet Research*    
@@ -108,8 +111,12 @@ title: publications
 **Page**：982-994    
 **Author**：Wang L, Liu X, __Jiang Y__    
 **Tag**：CSSCI, PKU, CSTPCD    
+  </div>
+</details>
 
-<h3 id="publications-2023">·2023</h3>
+<details>
+  <summary>·2023</summary>
+  <div id="publications-2023">
 
 [**A construction and empirical research of the journal disruption index based on open citation data**](https://link.springer.com/article/10.1007/s11192-023-04737-y)  
 **Source**：*Scientometrics*    
@@ -155,8 +162,12 @@ title: publications
 **Page**：96-105    
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD    
+  </div>
+</details>
 
-<h3 id="publications-2022">·2022</h3>
+<details>
+  <summary>·2022</summary>
+  <div id="publications-2022">
 
 [**Open peer review: models, technologies, problems and countermeasures**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*    
@@ -193,8 +204,12 @@ title: publications
 **Page**：37-40    
 **Author**：__Jiang Y__, Liu Y    
 **Tag**：-    
+  </div>
+</details>
 
-<h3 id="publications-2021">·2021</h3>
+<details>
+  <summary>·2021</summary>
+  <div id="publications-2021">
 
 [**An analysis of the collection construction model of university libraries driven by reader behavior data**]()  
 **Source**：*Digital & Micrographic Imaging*    
@@ -213,8 +228,12 @@ title: publications
 **Page**：22-24    
 **Author**：Li Y, __Jiang Y__    
 **Tag**：-    
+  </div>
+</details>
 
-<h3 id="publications-2020">·2020</h3>
+<details>
+  <summary>·2020</summary>
+  <div id="publications-2020">
 
 [**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
 **Source**：*Journal of Library and Information Science in Agriculture*    
@@ -242,5 +261,7 @@ title: publications
 **Page**：7-9    
 **Author**：__Jiang Y__, Li Y    
 **Tag**：-    
+  </div>
+</details>
 
 _Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
