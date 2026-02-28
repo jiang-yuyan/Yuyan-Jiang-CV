@@ -13,6 +13,7 @@ __·Editorial Board__ 👨‍🔬
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board, 2025-)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI, Editorial Board, 2026-)**  
 &#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_ **(Scopus, International Editorial Board, 2026-)**  
+&#8195;&#8195;_**Jurnal Kajian Informasi & Perpustakaan**_ **(International Editorial Board, 2026-)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_ **(Scientific Committee Menber, 2025-)**  
 &#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor, 2025-2025)**   
 

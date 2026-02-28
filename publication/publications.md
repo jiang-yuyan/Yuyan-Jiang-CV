@@ -3,11 +3,13 @@ layout: default
 title: publications
 ---
 
+## Publications
+
 <h3 id="publications-2026">·2026</h3>
-[]()
-**Source**：**编辑学报**    
-**Author**：,__Jiang Y__,    
-**Tag**：    
+[Updating]()
+**Source**：**Acta Editologica**, 2026, 38(S1),    
+**Author**：, __Jiang Y__,    
+**Tag**：CSSCI, PKU, CSTPCD    
 
 <h3 id="publications-2025">·2025</h3>
 
@@ -27,7 +29,7 @@ title: publications
 **Tag**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
 
 [**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2025, 36(4), 512-521
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2025, 36(4), 512-521    
 **Author**：Liu X, __Jiang Y__#    
 **Tag**：CSSCI, PKU, CSTPCD    
 

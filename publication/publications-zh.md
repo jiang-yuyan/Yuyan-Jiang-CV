@@ -6,10 +6,10 @@ title: publications-zh
 ## Publications
 
 <h3 id="publications-2026">·2026</h3>
-[]()
-**来源**：**编辑学报**    
-**作者**：    
-**注**：    
+[待更新]()
+**来源**：**编辑学报**, 2026, 38(S1),    
+**作者**：, __姜育彦__,    
+**注**： CSSCI, PKU, CSTPCD    
 
 <h3 id="publications-2025">·2025</h3>
 
@@ -29,67 +29,39 @@ title: publications-zh
 **注**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
 
 [**基于引证数据来源优化的期刊颠覆性指数及其实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
-**期刊**：*中国科技期刊研究**    
-**年份**：2025    
-**卷号**：36    
-**期号**：4    
-**页码**：512-521    
+**期刊**：**中国科技期刊研究**, 2025, 36(4), 512-521    
 **作者**：刘雪立, __姜育彦#__    
 **注**：CSSCI, PKU, CSTPCD    
 
 [**警惕开放获取环境下期刊的掠夺性畸变**](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)  
-**期刊**：《编辑学报》    
-**年份**：2025    
-**卷号**：37    
-**期号**：3    
-**页码**：272-277    
+**期刊**：**编辑学报**, 2025, 37(3), 272-277    
 **作者**：卢颖超, __姜育彦__, 张亚杰, 郑嘉琪, 刘雪立, 方红玲#    
 **注**：CSSCI, PKU, CSTPCD   
 
 <h3 id="publications-2024">·2024</h3>
 
 [**Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation**](https://www.jmir.org/2024/1/e55121)  
-**来源**：*Journal of Medical Internet Research*    
-**Year**：2024    
-**Volume**：26    
-**Issue**：-    
-**Page**：e55121    
+**来源**：*Journal of Medical Internet Research*, 2024, 26, e55121    
 **作者**：__姜育彦__, 刘雪立#, 王丽云    
 **注**：SCI, JIF = 5.8, CAS Q2 Top, JCR Q1, JCI Q1  
 
 [**A new method of calculating the disruption index based on open citation data**](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545)  
-**来源**：*Journal of Information Science*    
-**Year**：2024    
-**Volume**：26    
-**Issue**：-    
-**Page**：01655515241263545 (Online First)    
+**来源**：*Journal of Information Science*, 2024, 26, 01655515241263545 (Online First)    
 **作者**：__姜育彦__, 刘雪立#    
 **注**：SCI, JIF = 1.8, CAS Q4, JCR Q2, JCI Q2, AJG 2★ 
 
 [**我国高校学者被撤销论文特征及原因分析**](https://www.cjstp.cn/CN/10.11946/cjstp.202409020964)  
-**来源**：《中国科技期刊研究》     
-**Year**：2024    
-**Volume**：35    
-**Issue**：12    
-**Page**：1732-1743    
+**来源**：**中国科技期刊研究**, 2024, 35(12), 1732-1743    
 **作者**：曹金磊, 高健, __姜育彦__, 周志新#    
 **注**：CSSCI, PKU, CSTPCD     
 
 [**作者国际化水平对我国SCI期刊影响力和颠覆性创新的影响**](https://www.cjstp.cn/CN/10.11946/cjstp.202405210538)  
-**来源**：《中国科技期刊研究》    
-**Year**：2024    
-**Volume**：35    
-**Issue**：11    
-**Page**：1611-1618    
+**来源**：**中国科技期刊研究**, 2024, 35(11), 1611-1618    
 **作者**：张紫璇, 杨心如, 刘雪立#, __姜育彦__    
 **注**：CSSCI, PKU, CSTPCD    
 
 [**SCI来源期刊载文量和影响因子的动态变化及载文量对影响因子的影响**](https://www.cjstp.cn/CN/10.11946/cjstp.202402130115)  
-**来源**：《中国科技期刊研究》    
-**Year**：2024    
-**Volume**：35    
-**Issue**：7    
-**Page**：982-994    
+**来源**：**中国科技期刊研究**, 2024, 35(7), 982-994    
 **作者**：王丽云, 刘雪立#, __姜育彦__    
 **注**：CSSCI, PKU, CSTPCD    
 
@@ -106,87 +78,51 @@ title: publications-zh
 **注**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
 
 [**SCIE收录的我国科技期刊创新性评价：基于颠覆性指数的实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
-**来源**：《中国科技期刊研究》    
-**Year**：2023    
-**Volume**：34    
-**Issue**：8    
-**Page**：1060-1068    
+**来源**：**中国科技期刊研究**, 2023, 34(8), 1060-1068    
 **作者**：__姜育彦__, 王丽云, 刘雪立#    
 **注**：CSSCI, PKU, CSTPCD    
 
 [**科技期刊跨学科评价指标的研究进展及展望**](https://www.cjstp.cn/CN/10.11946/cjstp.202301130027)  
-**来源**：《中国科技期刊研究》    
-**Year**：2023    
-**Volume**：34    
-**Issue**：7    
-**Page**：944-952    
+**来源**：**中国科技期刊研究**, 2023, 34(7), 944-952    
 **作者**：张亚杰, __姜育彦__, 方红玲#    
 **注**：CSSCI, PKU, CSTPCD    
 
 [**绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
-**来源**：《图书情报工作》    
-**Year**：2023    
-**Volume**：67    
-**Issue**：3    
-**Page**：96-105    
+**来源**：**图书情报工作**, 2023, 67(3), 96-105    
 **作者**：__姜育彦__, 刘雪立#    
 **注**：CSSCI, PKU, CSTPCD
 
 <h3 id="publications-2022">·2022</h3>
 
 [**开放型同行评议：模式、技术、问题与对策**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
-**来源**：《中国科技期刊研究》    
-**Year**：2022    
-**Volume**：33    
-**Issue**：9    
-**Page**：1196-1205    
+**来源**：**中国科技期刊研究**, 2022, 33(9), 1196-1205    
 **作者**：__姜育彦__, 刘雪立#    
 **注**：CSSCI, PKU, CSTPCD    
 
 [**科技期刊的创新性评价指标——期刊颠覆性指数(JDI)及其实证研究**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
-**来源**：《中国科技期刊研究》    
-**Year**：2022    
-**Volume**：33    
-**Issue**：7    
-**Page**：965-972    
+**来源**：**中国科技期刊研究**, 2022, 33(7), 965-972    
 **作者**：__姜育彦__, 刘雪立#    
 **注**：CSSCI, PKU, CSTPCD    
 
 [**数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例**](https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1)  
-**来源**：《数字图书馆论坛》    
-**Year**：2022    
-**Volume**：-    
-**Issue**：3    
-**Page**：47-52    
+**来源**：**数字图书馆论坛**, 2022(3), 47-52    
 **作者**：__姜育彦__, 刘雪立#    
 **注**：CSSCI(E), CSTPCD    
 
 [**基于馆藏题录分词索引的阅读推广新模式**]()  
-**来源**：《数字与缩微影像》    
-**Year**：2022    
-**Volume**：-    
-**Issue**：1    
-**Page**：37-40    
+**来源**：**数字与缩微影像**, 2022(1), 37-40    
 **作者**：__姜育彦__, 李雅茹#    
 **注**：-    
 
 <h3 id="publications-2021">·2021</h3>
 
 [**读者行为数据驱动的高校图书馆馆藏建设模式探析**]()  
-**来源**：《数字与缩微影像》    
-**Year**：2021    
-**Volume**：-    
-**Issue**：4    
-**Page**：39-42    
+**来源**：**数字与缩微影像**, 2021(4),39-42    
 **作者**：__姜育彦__, 李雅茹#    
 **注**：-    
 
 [**双创背景下独立学院创客空间建设模式思考**]()  
-**来源**：《科学咨询》    
-**Year**：2021    
-**Volume**：-    
-**Issue**：6    
-**Page**：22-24    
+**来源**：**科学咨询**, 2021(6), 22-24    
 **作者**：李雅茹#, __姜育彦__    
 **注**：-       
 
