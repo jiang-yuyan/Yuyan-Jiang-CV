@@ -90,7 +90,7 @@ title: publications-zh
 [**绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
 **来源**：**图书情报工作**, 2023, 67(3), 96-105    
 **作者**：__姜育彦__, 刘雪立#    
-**注**：CSSCI, PKU, CSTPCD
+**注**：CSSCI, PKU, CSTPCD, Scopus
 
 <h3 id="publications-2022">·2022</h3>
 
