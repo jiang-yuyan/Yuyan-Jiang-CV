@@ -5,7 +5,7 @@ title: publications-zh
 
 ## Publications
 
-当前简要统计：SCIE&SSCI&AHCI - 7 (第一作者)；CSSCI - 4(第一作者)+1(通讯作者)
+当前简要统计：SCIE & SSCI & AHCI - 7 (第一作者)；CSSCI - 4 (第一作者) + 1 (通讯作者)
 
 <h3 id="publications-2026">·2026</h3>
 [待更新]()  
