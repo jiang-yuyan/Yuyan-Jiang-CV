@@ -5,6 +5,8 @@ title: publications-zh
 
 ## Publications
 
+当前简要统计：SCIE&SSCI&AHCI - 7 (第一作者)；CSSCI - 4(第一作者)+1(通讯作者)
+
 <h3 id="publications-2026">·2026</h3>
 [待更新]()  
 **来源**：**编辑学报**, 2026, 38(S1),    
@@ -17,6 +19,11 @@ title: publications-zh
 **来源**：*Humanities and Social Sciences Communications*, 2025, 12(1), 1-10    
 **作者**：__姜育彦__, 马建霞#    
 **注**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
+
+[**Do cover papers have higher disruption and citations? Evidence from Nature and Science**](https://link.springer.com/article/10.1007/s11192-025-05486-w)  
+**来源**：*Scientometrics*, 2025, 130,  6727–6746    
+**作者**：杨心如, 刘雪立#, 张紫璇, 席蒙娟 & __姜育彦__    
+**注**：SCI, JIF = 3.5, CAS Q2 , JCR Q1, JCI Q1, AJG 2★    
 
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
 **来源**：*Journal of Medical Internet Research*, 2025, 27, e59598    
