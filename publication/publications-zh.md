@@ -6,7 +6,7 @@ title: publications-zh
 ## Publications
 
 <h3 id="publications-2026">·2026</h3>
-[待更新]()
+[待更新]()  
 **来源**：**编辑学报**, 2026, 38(S1),    
 **作者**：, __姜育彦__,    
 **注**： CSSCI, PKU, CSTPCD    

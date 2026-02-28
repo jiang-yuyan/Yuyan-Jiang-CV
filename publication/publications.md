@@ -6,8 +6,8 @@ title: publications
 ## Publications
 
 <h3 id="publications-2026">·2026</h3>
-[Updating]()
-**Source**：**Acta Editologica**, 2026, 38(S1),    
+[Updating]()  
+**Source**：*Acta Editologica*, 2026, 38(S1),    
 **Author**：, __Jiang Y__,    
 **Tag**：CSSCI, PKU, CSTPCD    
 
