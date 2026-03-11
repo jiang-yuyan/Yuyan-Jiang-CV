@@ -52,6 +52,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**JMIR Infodemiology**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Medical Education**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCI)**  
+&#8195;&#8195;_**JMIR Pediatrics and Parenting**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Public Health and Surveillance**_ **(SCI)**  
 &#8195;&#8195;_**JMIR Research Protocols**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Serious Games**_ **(SCI)**  
@@ -77,4 +78,4 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Trends in Scholarly Publishing**_  
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 25 times (2026)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 29 times (2026)  
