@@ -58,6 +58,7 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**JMIR Serious Games**_ **(SCI)**  
 &#8195;&#8195;_**JMIRxMed**_  
 &#8195;&#8195;_**Journal of Hospital Librarianship**_ **(Scopus)**  
+&#8195;&#8195;_**Journal of Information Science**_ **(SCI & SSCI)**  
 &#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
 &#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCI)**  
 &#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
@@ -78,4 +79,4 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Trends in Scholarly Publishing**_  
 
-***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 29 次 (2026)
+***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 34 次 (2026)
