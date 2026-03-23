@@ -13,6 +13,12 @@ Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 4 (Fi
 **Author**：, __Jiang Y__,    
 **Tag**：CSSCI, PKU, CSTPCD    
 
+[Updating]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2026, 37(),    
+**Author**：, __Jiang Y__,    
+**Tag**：CSSCI, PKU, CSTPCD    
+
+
 <h3 id="publications-2025">·2025</h3>
 
 [**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](https://www.nature.com/articles/s41599-025-05387-6)  

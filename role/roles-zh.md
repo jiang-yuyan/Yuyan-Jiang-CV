@@ -50,7 +50,7 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**JMIR Formative Research**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Human Factors**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Infodemiology**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Medical Education**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**JMIR Medical Education**_ **(SCIE)**  
 &#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCI)**  
 &#8195;&#8195;_**JMIR Pediatrics and Parenting**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Public Health and Surveillance**_ **(SCI)**  
@@ -70,7 +70,7 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Online Journal of Public Health Informatics**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**Research Integrity and Peer Review**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCIE & SSCI)**  
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
 &#8195;&#8195;_**Scientometrics**_ **(SCI & SSCI)**  

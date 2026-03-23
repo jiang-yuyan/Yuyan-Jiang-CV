@@ -13,6 +13,11 @@ title: publications-zh
 **作者**：, __姜育彦__,    
 **注**： CSSCI, PKU, CSTPCD    
 
+[待更新]() 
+**来源**：**中国科技期刊研究**, 2026, 37(),    
+**作者**：, __姜育彦__,    
+**注**： CSSCI, PKU, CSTPCD    
+
 <h3 id="publications-2025">·2025</h3>
 
 [**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](http://www.nature.com/articles/s41599-025-05387-6)  
