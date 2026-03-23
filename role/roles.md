@@ -70,7 +70,7 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Online Journal of Public Health Informatics**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCIE & SSCI)**  
+&#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCI & SSCI)**  
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
 &#8195;&#8195;_**Scientometrics**_ **(SCI & SSCI)**  
