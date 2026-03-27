@@ -27,7 +27,7 @@ title: index-zh
 
 &#8195;&#8195;同时，我担任**Health Informatics Journal** (SCI)，**COLLNET Journal of Scientometrics and Information Management** (ESCI), **IP Indian Journal of Library Science and Information Technology** (Scopus)等期刊的编辑/评审/科学委员会成员。  
 
-&#8195;&#8195;以及**《中国科技期刊研究》** (CSSCI), **Health Information and Libraries Journal** (SSCI), **Information Research** (SSCI), **JMIR Medical Education** (SCI)，**JMIR mHealth and uHealth** (SCI), **JMIR Public Health and Surveillance** (SCI), **JMIR Serious Games** (SCI), **Journal of Information Science** (SCI & SSCI), **Journal of Medical Internet Research** (SCI), **Journal of the Medical Library Association** (SSCI), **Learned Publishing** (SSCI), **Malaysian Journal of Library and Information Science** (SSCI), **Research Integrity and Peer Review** (SCI & SSCI) ，**Scientometrics** (SCI & SSCI) and **Serials Review** (SSCI)等五十余本国内外期刊的审稿工作。随时欢迎收到更多相关领域的编辑/审稿邀请。
+&#8195;&#8195;以及**《中国科技期刊研究》** (CSSCI), **Health Information and Libraries Journal** (SSCI), **Information Research** (SSCI), **JMIR Medical Education** (SCI)，**JMIR mHealth and uHealth** (SCI), **JMIR Public Health and Surveillance** (SCI), **JMIR Serious Games** (SCI), **Journal of Information Science** (SCI & SSCI), **Journal of Medical Internet Research** (SCI), **Journal of the Medical Library Association** (SSCI), **Learned Publishing** (SSCI), **Malaysian Journal of Library and Information Science** (SSCI), **PLOS One** (SCI), **Research Integrity and Peer Review** (SCI & SSCI)，**Scientometrics** (SCI & SSCI), **Serials Review** (SSCI)等六十余本国内外期刊的审稿工作。随时欢迎收到更多相关领域的编辑/审稿邀请。
 
 &#8195;&#8195;未来，我将进一步致力于从多学科视角推动情报科学与元科学研究的发展，关注科技评价政策、学术交流体系与知识传播模式的演进。
 
