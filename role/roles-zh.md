@@ -25,7 +25,7 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
 &#8195;&#8195;_**Applied Network Science**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
+&#8195;&#8195;**《中国科技期刊研究》** **(CSSCI)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
 &#8195;&#8195;_**Discover Education**_ **(Scopus)**  
 &#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
