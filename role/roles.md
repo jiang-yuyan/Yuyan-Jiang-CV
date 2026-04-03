@@ -19,13 +19,17 @@ __·Editorial Board__ 👨‍🔬
 
 __·Reviewer__ 🕵️‍♂️
 
+**Chinese Journals:**  
+&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
+&#8195;&#8195;_**Publishing & Media Research**_  
+
+**International Journals:**  
 &#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
 &#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
 &#8195;&#8195;_**Annals of Library and Information Studies**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
 &#8195;&#8195;_**Applied Network Science**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
 &#8195;&#8195;_**Discover Education**_ **(Scopus)**  
 &#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
@@ -80,4 +84,4 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Trends in Scholarly Publishing**_  
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 41 times (2026)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 43 times (2026)  

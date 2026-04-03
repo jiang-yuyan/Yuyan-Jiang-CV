@@ -19,13 +19,17 @@ __·编辑__ 👨‍🔬
 
 __·评审__ 🕵️‍♂️
 
+**中文期刊:**  
+&#8195;&#8195;**《中国科技期刊研究》** **(CSSCI)**  
+&#8195;&#8195;**《出版传媒研究》**  
+
+**国际期刊:**  
 &#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
 &#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
 &#8195;&#8195;_**Annals of Library and Information Studies**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
 &#8195;&#8195;_**Applied Network Science**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;**《中国科技期刊研究》** **(CSSCI)**  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
 &#8195;&#8195;_**Discover Education**_ **(Scopus)**  
 &#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
@@ -80,4 +84,4 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Trends in Scholarly Publishing**_  
 
-***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 41 次 (2026)
+***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 43 次 (2026)
