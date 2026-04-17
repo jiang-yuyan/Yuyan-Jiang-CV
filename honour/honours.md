@@ -5,6 +5,11 @@ title: honours
 
 ## Honour
 
+<h3 id="honours-2026">·2025</h3>
+
+**Source**：IP Indian Journal of Library Science and Information Technology  
+**Award**：Best Reviewer  
+
 <h3 id="honours-2025">· 2025</h3>
 
 **Source**: Graduate Student Academic Forum, University of Chinese Academy of Sciences  

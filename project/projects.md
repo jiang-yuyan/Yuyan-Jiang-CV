@@ -5,6 +5,12 @@ title: project
 
 ## Research Project (Some Project information is pending update)
 
+**来源**: **Annual Research Projects of the Science and Technology Journals Editorial Society of Hubei Province**  
+Code:   
+Role: Participant  
+Time: 2026-  
+Type: In-Research  
+
 **Source**: **Society of China University Journals - Contrimetric Journal Impact Enhancement Fund**  
 Code: SKB25-106  
 Role: Participant  

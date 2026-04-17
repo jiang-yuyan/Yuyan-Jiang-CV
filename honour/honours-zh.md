@@ -5,6 +5,11 @@ title: honours-zh
 
 ## 荣誉奖励
 
+<h3 id="honours-2026">·2025</h3>
+
+**来源**：IP Indian Journal of Library Science and Information Technology  
+**奖项**：最佳审稿人奖  
+
 <h3 id="honours-2025">·2025</h3>
 
 **来源**：中国科学院大学研究生学术论坛  

@@ -75,6 +75,7 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**PLOS One**_ **(SCI)**  
+&#8195;&#8195;_**Research Evaluation**_ **(SSCI)**  
 &#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCI & SSCI)**  
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
@@ -84,4 +85,4 @@ __·评审__ 🕵️‍♂️
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Trends in Scholarly Publishing**_  
 
-***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 43 次 (2026)
+***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 50 次 (2026)
