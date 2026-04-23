@@ -5,7 +5,7 @@ title: project
 
 ## Research Project (Some Project information is pending update)
 
-**来源**: **Annual Research Projects of the Science and Technology Journals Editorial Society of Hubei Province**  
+**Source**: **Annual Research Projects of the Science and Technology Journals Editorial Society of Hubei Province**  
 Code:   
 Role: Participant  
 Time: 2026-  
