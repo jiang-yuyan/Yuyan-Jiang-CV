@@ -36,7 +36,7 @@ Time: 2025-2025
 Type: In-Research  
 
 **Source**: **Yancheng Federation of Philosophy and Social Sciences Project**  
-Code: 25xsj50 
+Code: 25xsj50  
 Role: Participant  
 Time: 2025-2025  
 Type: In-Research  
