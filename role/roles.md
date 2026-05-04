@@ -20,69 +20,82 @@ __·Editorial Board__ 👨‍🔬
 __·Reviewer__ 🕵️‍♂️
 
 **Chinese Journals:**  
+
+**CSSCI**  
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
+
+**Other**  
 &#8195;&#8195;_**Publishing & Media Research**_  
 
 **International Journals:**  
-&#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
-&#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
+
+**SCIE · SSCI · AHCI**  
+&#8195;&#8195;_**Health Informatics Journal**_ **(SCIE)**  
+&#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
+&#8195;&#8195;_**Humanities and Social Sciences Communications**_ **(SSCI & AHCI)**  
+&#8195;&#8195;_**Information Research**_ **(SSCI)**  
+&#8195;&#8195;_**JMIR Medical Education**_ **(SCIE)**  
+&#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCIE)**  
+&#8195;&#8195;_**JMIR Public Health and Surveillance**_ **(SCIE)**  
+&#8195;&#8195;_**JMIR Serious Games**_ **(SCIE)**  
+&#8195;&#8195;_**Journal of Economic Surveys**_ **(SSCI)**  
+&#8195;&#8195;_**Journal of Information Science**_ **(SCIE & SSCI)**  
+&#8195;&#8195;_**Journal of Librarianship & Information Science**_ **(SSCI)**  
+&#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCIE)**  
+&#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
+&#8195;&#8195;_**Learned Publishing**_ **(SSCI)**  
+&#8195;&#8195;_**Malaysian Journal of Library and Information Science**_ **(SSCI)**  
+&#8195;&#8195;_**PLOS One**_ **(SCIE)**  
+&#8195;&#8195;_**Research Evaluation**_ **(SSCI)**  
+&#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCIE & SSCI)**  
+&#8195;&#8195;_**Scientometrics**_ **(SCIE & SSCI)**  
+&#8195;&#8195;_**Serials Review**_ **(SSCI)**  
+
+**ESCI · Scopus**  
 &#8195;&#8195;_**Annals of Library and Information Studies**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
 &#8195;&#8195;_**Applied Network Science**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
 &#8195;&#8195;_**Discover Education**_ **(Scopus)**  
 &#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
-&#8195;&#8195;_**Health Informatics Journal**_ **(SCI)**  
-&#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
 &#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
 &#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Information Research**_ **(SSCI)**  
 &#8195;&#8195;_**Insights - the USKG Journal**_ **(ESCI & Scopus)**   
 &#8195;&#8195;_**Interactive Journal of Medical Research**_ **(ESCI)**  
 &#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**International Journal of Bibliometrics in Business and Management**_  
 &#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_ **(Scopus)**  
 &#8195;&#8195;_**Issues in Science and Technology Librarianship**_ **(Scopus)**  
 &#8195;&#8195;_**JMIR Aging**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Cancer**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Cardio**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Data**_    
 &#8195;&#8195;_**JMIR Dermatology**_ **(Scopus)**  
 &#8195;&#8195;_**JMIR Formative Research**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Human Factors**_ **(ESCI & Scopus)**  
 &#8195;&#8195;_**JMIR Infodemiology**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Medical Education**_ **(SCIE)**  
-&#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCI)**  
 &#8195;&#8195;_**JMIR Pediatrics and Parenting**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Public Health and Surveillance**_ **(SCI)**  
 &#8195;&#8195;_**JMIR Research Protocols**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Serious Games**_ **(SCI)**  
-&#8195;&#8195;_**JMIRxMed**_  
 &#8195;&#8195;_**Journal of Hospital Librarianship**_ **(Scopus)**  
-&#8195;&#8195;_**Journal of Information Science**_ **(SCI & SSCI)**  
-&#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
-&#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCI)**  
-&#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
-&#8195;&#8195;_**Journal of Knowledge and Communication Management**_  
-&#8195;&#8195;_**Learned Publishing**_ **(SSCI)**  
 &#8195;&#8195;_**New Review of Information Networking**_ **(Scopus)**  
-&#8195;&#8195;_**Nordic Journal of Library and Information Studies**_ **(SSCI)**  
-&#8195;&#8195;_**Malaysian Journal of Library and Information Science**_  
 &#8195;&#8195;_**Online Journal of Public Health Informatics**_ **(ESCI & Scopus)**  
+&#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
+&#8195;&#8195;_**SN Business & Economics**_ **(Scopus)**  
+
+**Other**  
+&#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
+&#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
+&#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
+&#8195;&#8195;_**International Journal of Bibliometrics in Business and Management**_  
+&#8195;&#8195;_**JMIR Data**_    
+&#8195;&#8195;_**JMIRxMed**_  
+&#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
+&#8195;&#8195;_**Journal of Knowledge and Communication Management**_  
+&#8195;&#8195;_**Nordic Journal of Library and Information Studies**_  
 &#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
 &#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**PLOS One**_ **(SCI)**  
-&#8195;&#8195;_**Research Evaluation**_ **(SSCI)**  
-&#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCI & SSCI)**  
-&#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
-&#8195;&#8195;_**Scientometrics**_ **(SCI & SSCI)**  
-&#8195;&#8195;_**Serials Review**_ **(SSCI)**  
-&#8195;&#8195;_**SN Business & Economics**_ **(Scopus)**  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Trends in Scholarly Publishing**_  
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 60 times (2026)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 63 times (2026)  

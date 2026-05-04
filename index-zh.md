@@ -23,11 +23,11 @@ title: index-zh
 
 &#8195;&#8195;我的研究主要围绕科学计量学展开，重点关注学术期刊、开放科学、科技评价等议题。同时，我也非常关注同行评审和研究伦理问题，并致力于促进学术诚信。此外，我亦涉足数字人文研究与智慧图书馆建设等交叉方向。
 
-&#8195;&#8195;截至目前，我已发表学术论文20余篇，研究成果发表于 **Humanities and Social Sciences Communications**、**Journal of Medical Internet Research**、**Scientometrics**、**Journal of Information Science**、**Journal of Scholarly Publishing**、**Sustainability** 等国际期刊，以及**《图书情报工作》**、**《中国科技期刊研究》**、**《编辑学报》**、**《数字图书馆论坛》**、**《农业图书情报学报》**等国内核心期刊。
+&#8195;&#8195;截至目前，我已发表学术论文20余篇，研究成果发表于 **Humanities and Social Sciences Communications**、**Journal of Medical Internet Research**、**Scientometrics**、**Journal of Information Science**、**Journal of Scholarly Publishing**、**Sustainability** 等国际期刊，以及 **《图书情报工作》**、**《中国科技期刊研究》**、**《编辑学报》**、**《数字图书馆论坛》**、**《农业图书情报学报》**等国内核心期刊。
 
 &#8195;&#8195;同时，我担任**Health Informatics Journal** (SCI)，**COLLNET Journal of Scientometrics and Information Management** (ESCI), **IP Indian Journal of Library Science and Information Technology** (Scopus)等期刊的编辑/评审/科学委员会成员。  
 
-&#8195;&#8195;以及**《中国科技期刊研究》** (CSSCI), **Health Information and Libraries Journal** (SSCI), **Information Research** (SSCI), **JMIR Medical Education** (SCI)，**JMIR mHealth and uHealth** (SCI), **JMIR Public Health and Surveillance** (SCI), **JMIR Serious Games** (SCI), **Journal of Information Science** (SCI & SSCI), **Journal of Medical Internet Research** (SCI), **Journal of the Medical Library Association** (SSCI), **Learned Publishing** (SSCI), **Malaysian Journal of Library and Information Science** (SSCI), **PLOS One** (SCI), **Research Evalution** (SSCI)，**Research Integrity and Peer Review** (SCI & SSCI)，**Scientometrics** (SCI & SSCI), **Serials Review** (SSCI)等六十余本国内外期刊的审稿工作。随时欢迎收到更多相关领域的编辑/审稿邀请。
+&#8195;&#8195;以及 **《中国科技期刊研究》** (CSSCI), **Health Information and Libraries Journal** (SSCI), **Humanities and Social Sciences Communications** (SSCI & AHCI), **Information Research** (SSCI), **JMIR Medical Education** (SCI)，**JMIR mHealth and uHealth** (SCI), **JMIR Public Health and Surveillance** (SCI), **JMIR Serious Games** (SCI), **Journal of Economic Surveys** (SSCI), **Journal of Information Science** (SCI & SSCI), **Journal of Librarianship & Information Science** (SSCI), **Journal of Medical Internet Research** (SCI), **Journal of the Medical Library Association** (SSCI), **Learned Publishing** (SSCI), **Malaysian Journal of Library and Information Science** (SSCI), **PLOS One** (SCI), **Research Evalution** (SSCI)，**Research Integrity and Peer Review** (SCI & SSCI)，**Scientometrics** (SCI & SSCI), **Serials Review** (SSCI)等六十余本国内外期刊的审稿工作。随时欢迎收到更多相关领域的编辑/审稿邀请。
 
 &#8195;&#8195;未来，我将进一步致力于从多学科视角推动情报科学与元科学研究的发展，关注科技评价政策、学术交流体系与知识传播模式的演进。
 
