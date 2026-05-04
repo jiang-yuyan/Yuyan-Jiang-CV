@@ -13,114 +13,101 @@ __·Society Members__ 🧑‍🎓
 
 __·Editorial Board__ 👨‍🔬
 
-&#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board, 2025-)**  
-&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI, Editorial Board, 2026-)**  
-&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_ **(Scopus, International Editorial Board, 2026-)**  
-&#8195;&#8195;_**Jurnal Kajian Informasi & Perpustakaan**_ **(International Editorial Board, 2026-)**  
-&#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_ **(Scientific Committee Menber, 2025-)**  
-&#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor, 2025-2025)**   
+&#8195;&#8195;_Health Informatics Journal_ (SCI, Editorial Review Board, 2025-)  
+&#8195;&#8195;_COLLNET Journal of Scientometrics and Information Management_ (ESCI, Editorial Board, 2026-)  
+&#8195;&#8195;_IP Indian Journal of Library Science and Information Technology_ (Scopus, International Editorial Board, 2026-)  
+&#8195;&#8195;_Jurnal Kajian Informasi & Perpustakaan_ (International Editorial Board, 2026-)  
+&#8195;&#8195;_REVUE DES SCIENCES DE L' INFORMATION_ (Scientific Committee Menber, 2025-)  
+&#8195;&#8195;_Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)   
 
 ---
 
 
-__·Reviewer__ 🕵️‍♂️
-
----
-
-
-**Chinese Journals:**  
-
----
+__·Reviewer for Chinese Journals__ 🕵️‍♂️
 
 **CSSCI**  
-&#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
-
----
+&#8195;&#8195;_Chinese Journal of Scientific and Technical Periodicals_ (CSSCI)  
 
 **Other**  
-&#8195;&#8195;_**Publishing & Media Research**_  
+&#8195;&#8195;_Publishing & Media Research**_  
 
 ---
 
-
-**International Journals:**  
-
----
-
+__·Reviewer for International Journals__ 🕵️‍♂️
 
 **SCIE · SSCI · AHCI**  
-&#8195;&#8195;_**Health Informatics Journal**_ **(SCIE)**  
-&#8195;&#8195;_**Health Information and Libraries Journal**_ **(SSCI)**  
-&#8195;&#8195;_**Humanities and Social Sciences Communications**_ **(SSCI & AHCI)**  
-&#8195;&#8195;_**Information Research**_ **(SSCI)**  
-&#8195;&#8195;_**JMIR Medical Education**_ **(SCIE)**  
-&#8195;&#8195;_**JMIR mHealth and uHealth**_ **(SCIE)**  
-&#8195;&#8195;_**JMIR Public Health and Surveillance**_ **(SCIE)**  
-&#8195;&#8195;_**JMIR Serious Games**_ **(SCIE)**  
-&#8195;&#8195;_**Journal of Economic Surveys**_ **(SSCI)**  
-&#8195;&#8195;_**Journal of Information Science**_ **(SCIE & SSCI)**  
-&#8195;&#8195;_**Journal of Librarianship & Information Science**_ **(SSCI)**  
-&#8195;&#8195;_**Journal of Medical Internet Research**_ **(SCIE)**  
-&#8195;&#8195;_**Journal of the Medical Library Association**_ **(SSCI)**  
-&#8195;&#8195;_**Learned Publishing**_ **(SSCI)**  
-&#8195;&#8195;_**Malaysian Journal of Library and Information Science**_ **(SSCI)**  
-&#8195;&#8195;_**PLOS One**_ **(SCIE)**  
-&#8195;&#8195;_**Research Evaluation**_ **(SSCI)**  
-&#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCIE & SSCI)**  
-&#8195;&#8195;_**Scientometrics**_ **(SCIE & SSCI)**  
-&#8195;&#8195;_**Serials Review**_ **(SSCI)**  
+&#8195;&#8195;_Health Informatics Journal_ (SCIE)  
+&#8195;&#8195;_Health Information and Libraries Journal_ (SSCI)  
+&#8195;&#8195;_Humanities and Social Sciences Communications_ (SSCI & AHCI)  
+&#8195;&#8195;_Information Research_ (SSCI)  
+&#8195;&#8195;_JMIR Medical Education_ (SCIE)  
+&#8195;&#8195;_JMIR mHealth and uHealth_ (SCIE)  
+&#8195;&#8195;_JMIR Public Health and Surveillance_ (SCIE)  
+&#8195;&#8195;_JMIR Serious Games_ (SCIE)  
+&#8195;&#8195;_Journal of Economic Surveys_ (SSCI)  
+&#8195;&#8195;_Journal of Information Science_ (SCIE & SSCI)  
+&#8195;&#8195;_Journal of Librarianship & Information Science_ (SSCI)  
+&#8195;&#8195;_Journal of Medical Internet Research_ (SCIE)  
+&#8195;&#8195;_Journal of the Medical Library Association_ (SSCI)  
+&#8195;&#8195;_Learned Publishing_ (SSCI)  
+&#8195;&#8195;_Malaysian Journal of Library and Information Science_ (SSCI)  
+&#8195;&#8195;_PLOS One_ (SCIE)  
+&#8195;&#8195;_Research Evaluation_ (SSCI)  
+&#8195;&#8195;_Research Integrity and Peer Review_ (SCIE & SSCI)  
+&#8195;&#8195;_Scientometrics_ (SCIE & SSCI)  
+&#8195;&#8195;_Serials Review_ (SSCI)  
 
 ---
 
 **ESCI · Scopus**  
-&#8195;&#8195;_**Annals of Library and Information Studies**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Asian/Pacific Island Nursing Journal**_ **(Scopus)**  
-&#8195;&#8195;_**Applied Network Science**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**COLLNET Journal of Scientometrics and Information Management**_ **(ESCI)**  
-&#8195;&#8195;_**Discover Education**_ **(Scopus)**  
-&#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Folia Toruniensia**_ **(Scopus)**  
-&#8195;&#8195;_**Iberoamerican Journal of Science Measurement and Communication**_ **(Scopus)**  
-&#8195;&#8195;_**Ibersid: revista de sistemas de información y documentación**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Insights - the USKG Journal**_ **(ESCI & Scopus)**   
-&#8195;&#8195;_**Interactive Journal of Medical Research**_ **(ESCI)**  
-&#8195;&#8195;_**Discover Psychologyl**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**IP Indian Journal of Library Science and Information Technology**_ **(Scopus)**  
-&#8195;&#8195;_**Issues in Science and Technology Librarianship**_ **(Scopus)**  
-&#8195;&#8195;_**JMIR Aging**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Cancer**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Cardio**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Dermatology**_ **(Scopus)**  
-&#8195;&#8195;_**JMIR Formative Research**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Human Factors**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Infodemiology**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Pediatrics and Parenting**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**JMIR Research Protocols**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Journal of Hospital Librarianship**_ **(Scopus)**  
-&#8195;&#8195;_**New Review of Information Networking**_ **(Scopus)**  
-&#8195;&#8195;_**Online Journal of Public Health Informatics**_ **(ESCI & Scopus)**  
-&#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
-&#8195;&#8195;_**SN Business & Economics**_ **(Scopus)**  
+&#8195;&#8195;_Annals of Library and Information Studies_ (ESCI & Scopus)  
+&#8195;&#8195;_Asian/Pacific Island Nursing Journal_ (Scopus)  
+&#8195;&#8195;_Applied Network Science_ (ESCI & Scopus)  
+&#8195;&#8195;_COLLNET Journal of Scientometrics and Information Management_ (ESCI)  
+&#8195;&#8195;_Discover Education_ (Scopus)  
+&#8195;&#8195;_Discover Psychologyl_ (ESCI & Scopus)  
+&#8195;&#8195;_Folia Toruniensia_ (Scopus)  
+&#8195;&#8195;_Iberoamerican Journal of Science Measurement and Communication_ (Scopus)  
+&#8195;&#8195;_Ibersid: revista de sistemas de información y documentación_ (ESCI & Scopus)  
+&#8195;&#8195;_Insights - the USKG Journal_ (ESCI & Scopus)   
+&#8195;&#8195;_Interactive Journal of Medical Research_ (ESCI)  
+&#8195;&#8195;_Discover Psychologyl_ (ESCI & Scopus)  
+&#8195;&#8195;_IP Indian Journal of Library Science and Information Technology_ (Scopus)  
+&#8195;&#8195;_Issues in Science and Technology Librarianship_ (Scopus)  
+&#8195;&#8195;_JMIR Aging_ (ESCI & Scopus)  
+&#8195;&#8195;_JMIR Cancer_ (ESCI & Scopus)  
+&#8195;&#8195;_JMIR Cardio_ (ESCI & Scopus)  
+&#8195;&#8195;_JMIR Dermatology_ (Scopus)  
+&#8195;&#8195;_JMIR Formative Research_ (ESCI & Scopus)  
+&#8195;&#8195;_JMIR Human Factors_ (ESCI & Scopus)  
+&#8195;&#8195;_JMIR Infodemiology_ (ESCI & Scopus)  
+&#8195;&#8195;_JMIR Pediatrics and Parenting_ (ESCI & Scopus)  
+&#8195;&#8195;_JMIR Research Protocols_ (ESCI & Scopus)  
+&#8195;&#8195;_Journal of Hospital Librarianship_ (Scopus)  
+&#8195;&#8195;_New Review of Information Networking_ (Scopus)  
+&#8195;&#8195;_Online Journal of Public Health Informatics_ (ESCI & Scopus)  
+&#8195;&#8195;_Revista Interamericana de Bibliotecología_ (Scopus)  
+&#8195;&#8195;_SN Business & Economics_ (Scopus)  
 
 ---
 
 
 **Other**  
-&#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
-&#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
-&#8195;&#8195;_**Berkala Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**Edulib: Journal of Library and Information Science**_  
-&#8195;&#8195;_**International Journal of Bibliometrics in Business and Management**_  
-&#8195;&#8195;_**JMIR Data**_    
-&#8195;&#8195;_**JMIRxMed**_  
-&#8195;&#8195;_**Journal of Librarianship and Scholarly Communication**_  
-&#8195;&#8195;_**Journal of Knowledge and Communication Management**_  
-&#8195;&#8195;_**Nordic Journal of Library and Information Studies**_  
-&#8195;&#8195;_**Pustabiblia: Journal of Library and Information Science**_  
-&#8195;&#8195;_**Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
-&#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
-&#8195;&#8195;_**Trends in Scholarly Publishing**_  
+&#8195;&#8195;_ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
+&#8195;&#8195;_ACCESS: An International Journal of Nepal Library Association**_  
+&#8195;&#8195;_Berkala Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_Edulib: Journal of Library and Information Science**_  
+&#8195;&#8195;_International Journal of Bibliometrics in Business and Management**_  
+&#8195;&#8195;_JMIR Data**_    
+&#8195;&#8195;_JMIRxMed**_  
+&#8195;&#8195;_Journal of Librarianship and Scholarly Communication**_  
+&#8195;&#8195;_Journal of Knowledge and Communication Management**_  
+&#8195;&#8195;_Nordic Journal of Library and Information Studies**_  
+&#8195;&#8195;_Pustabiblia: Journal of Library and Information Science**_  
+&#8195;&#8195;_Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_REVUE DES SCIENCES DE L' INFORMATION**_  
+&#8195;&#8195;_Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
+&#8195;&#8195;_Trends in Scholarly Publishing**_  
 
 ---
 
