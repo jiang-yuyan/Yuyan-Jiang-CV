@@ -8,6 +8,9 @@ __·Society Members__ 🧑‍🎓
 
 &#8195;&#8195;_Specialized Committee on Scientometrics and Information Metrology of China _ Student Member_
 
+---
+
+
 __·Editorial Board__ 👨‍🔬
 
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCI, Editorial Review Board, 2025-)**  
@@ -17,17 +20,33 @@ __·Editorial Board__ 👨‍🔬
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_ **(Scientific Committee Menber, 2025-)**  
 &#8195;&#8195;_**Transportation Safety and Environment**_ **(ESCI & EI, Part-time Assistant Editor, 2025-2025)**   
 
+---
+
+
 __·Reviewer__ 🕵️‍♂️
 
+---
+
+
 **Chinese Journals:**  
+
+---
 
 **CSSCI**  
 &#8195;&#8195;_**Chinese Journal of Scientific and Technical Periodicals**_ **(CSSCI)**  
 
+---
+
 **Other**  
 &#8195;&#8195;_**Publishing & Media Research**_  
 
+---
+
+
 **International Journals:**  
+
+---
+
 
 **SCIE · SSCI · AHCI**  
 &#8195;&#8195;_**Health Informatics Journal**_ **(SCIE)**  
@@ -50,6 +69,8 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Research Integrity and Peer Review**_ **(SCIE & SSCI)**  
 &#8195;&#8195;_**Scientometrics**_ **(SCIE & SSCI)**  
 &#8195;&#8195;_**Serials Review**_ **(SSCI)**  
+
+---
 
 **ESCI · Scopus**  
 &#8195;&#8195;_**Annals of Library and Information Studies**_ **(ESCI & Scopus)**  
@@ -81,6 +102,9 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**Revista Interamericana de Bibliotecología**_ **(Scopus)**  
 &#8195;&#8195;_**SN Business & Economics**_ **(Scopus)**  
 
+---
+
+
 **Other**  
 &#8195;&#8195;_**ABDI PUSTAKA: Jurnal Perpustakaan dan Kearsipan**_  
 &#8195;&#8195;_**ACCESS: An International Journal of Nepal Library Association**_  
@@ -97,5 +121,8 @@ __·Reviewer__ 🕵️‍♂️
 &#8195;&#8195;_**REVUE DES SCIENCES DE L' INFORMATION**_  
 &#8195;&#8195;_**Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi**_  
 &#8195;&#8195;_**Trends in Scholarly Publishing**_  
+
+---
+
 
 ***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 63 times (2026)  
