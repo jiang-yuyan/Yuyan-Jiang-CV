@@ -10,7 +10,7 @@ __·Society Members__ 🧑‍🎓
 
 ---
 
-__·Editorial Board__ 👨‍🔬
+__·Editorial Board for International Journals__ 👨‍🔬
 
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ (SCI, Editorial Review Board, 2025-)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_COLLNET Journal of Scientometrics and Information Management_ (ESCI, Editorial Board, 2026-)  
@@ -23,12 +23,7 @@ __·Editorial Board__ 👨‍🔬
 
 __·Reviewer for Chinese Journals__ 🕵️‍♂️
 
-&#8195;&#8195;&#8195;&#8195;**CSSCI**  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Chinese Journal of Scientific and Technical Periodicals_ (CSSCI)  
-
----
-
-&#8195;&#8195;&#8195;&#8195;**Other**  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Publishing & Media Research_  
 
 ---
