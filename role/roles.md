@@ -105,5 +105,4 @@ __·Reviewer for International Journals__ 🕵️‍♂️
 
 ---
 
-
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 63 times (2026)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 64 times (2026)  
