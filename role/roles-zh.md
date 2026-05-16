@@ -31,6 +31,7 @@ __·中文期刊评审__ 🕵️‍♂️
 __·国际期刊评审__ 🕵️‍♂️
 
 &#8195;&#8195;&#8195;&#8195;**SCIE · SSCI · AHCI**  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_BMC Medical Research Methodology_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Information and Libraries Journal_ (SSCI)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Humanities and Social Sciences Communications_ (SSCI & AHCI)  

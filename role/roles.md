@@ -31,7 +31,7 @@ __·Reviewer for Chinese Journals__ 🕵️‍♂️
 __·Reviewer for International Journals__ 🕵️‍♂️
 
 &#8195;&#8195;&#8195;&#8195;**SCIE · SSCI · AHCI**  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;BMC Medical Research Methodology_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_BMC Medical Research Methodology_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Information and Libraries Journal_ (SSCI)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Humanities and Social Sciences Communications_ (SSCI & AHCI)  
