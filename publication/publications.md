@@ -9,14 +9,14 @@ Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 4 (Fi
 
 <h3 id="publications-2026">·2026</h3>
 
-[Updating]()  
+[**Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective**]()  
 **Source**：*Acta Editologica*, 2026, 38(S1),    
-**Author**：, __Jiang Y__,    
+**Author**：Chen C, __Jiang Y__, Guan X, Yu L#    
 **Tag**：CSSCI, PKU, CSTPCD    
 
-[Updating]()  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2026, 37(),    
-**Author**：, __Jiang Y__,    
+[**Full⁃chain operation practice and enlightenment of domestic scientific journal publishing platforms**](https://www.cjstp.cn/CN/10.11946/cjstp.202506160702)  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2026, 37(3), 384-392    
+**Author**：Ye X, Zhao G, Zhang Q, __Jiang Y__, Chang Z#, Zhang J, Chen X    
 **Tag**：CSSCI, PKU, CSTPCD    
 
 
@@ -28,9 +28,9 @@ Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 4 (Fi
 **Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
 
 [**Do cover papers have higher disruption and citations? Evidence from Nature and Science**](https://link.springer.com/article/10.1007/s11192-025-05486-w)  
-**来源**：*Scientometrics*, 2025, 130,  6727–6746    
-**作者**：Xinru Yang, Xueli Liu#, Zixuan Zhang, Mengjuan Xi, __Yuyan Jiang__    
-**注**：SCI, JIF = 3.5, CAS Q2 , JCR Q1, JCI Q1, AJG 2★    
+**Source**：*Scientometrics*, 2025, 130,  6727–6746    
+**Author**：Xinru Yang, Xueli Liu#, Zixuan Zhang, Mengjuan Xi, __Yuyan Jiang__    
+**Tag**：SCI, JIF = 3.5, CAS Q2 , JCR Q1, JCI Q1, AJG 2★    
 
 [**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
 **Source**：*Journal of Medical Internet Research*, 2025, 27, e59598    

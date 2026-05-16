@@ -1,0 +1,37 @@
+name: Auto Generate Sitemap
+on:
+  push:
+    branches:
+      - main  # 如果你用的是 master 就改成 master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 自动生成 sitemap.xml
+      - name: Generate sitemap
+        uses: cicirello/generate-sitemap@v1.8.0
+        with:
+          base-url: "https://jiang-yuyan.github.io/Yuyan-Jiang-CV/"  # 👈 只改这里！
+          path-to-root: "."
+          include-html: true
+          include-pdf: false
+          include-images: false
+          changefreq: weekly
+          priority: 0.5
+
+      # 自动提交 sitemap.xml 到仓库
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto-update sitemap.xml"
+          file_pattern: "sitemap.xml"
