@@ -12,12 +12,12 @@ __·学会__ 🧑‍🎓
 
 __·国际期刊编辑__ 👨‍🔬
 
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ (SCI, Editorial Review Board, 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_COLLNET Journal of Scientometrics and Information Management_ (ESCI, Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_IP Indian Journal of Library Science and Information Technology_ (Scopus, International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Jurnal Kajian Informasi & Perpustakaan_ (International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_REVUE DES SCIENCES DE L' INFORMATION_ (Scientific Committee Menber, 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)   
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ [(SCIE, Editorial Review Board, 2025-)](https://journals.sagepub.com/editorial-board/JHI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_COLLNET Journal of Scientometrics and Information Management_ [(ESCI, Editorial Board, 2026-)](https://www.tarupublications.com/journal/CJSIM/editorial-board)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Folia Toruniensia_ [(Scopus, Subject Editor, 2026-) ](https://apcz.umk.pl/FT/about/editorialTeam)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_IP Indian Journal of Library Science and Information Technology_ [(Scopus, International Editorial Board, 2026-)](https://ijlsit.org/editorial)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Jurnal Kajian Informasi & Perpustakaan_ [(International Editorial Board, 2026-)](https://jurnal.unpad.ac.id/jkip/about/editorialTeam)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_REVUE DES SCIENCES DE L' INFORMATION_ [(Scientific Committee Menber, 2025-)](https://revues.imist.ma/index.php/JIS/about/editorialTeam)  
 
 ---
 
@@ -31,7 +31,7 @@ __·中文期刊评审__ 🕵️‍♂️
 __·国际期刊评审__ 🕵️‍♂️
 
 &#8195;&#8195;&#8195;&#8195;**SCIE · SSCI · AHCI**  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_BMC Medical Research Methodology_ (SCIE) [🔎](https://link.springer.com/journal/12874)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_BMC Medical Research Methodology_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Information and Libraries Journal_ (SSCI)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Humanities and Social Sciences Communications_ (SSCI & AHCI)  
@@ -106,4 +106,9 @@ __·国际期刊评审__ 🕵️‍♂️
 
 ---
 
-***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 64 次 (2026)
+__·过往经历__ 🕵️‍♂️
+
+&#8195;&#8195;&#8195;&#8195;**编辑**  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)  
+
+***统计:** 1 次 (2022); 1 次 (2023); 14 次 (2024); 97 次 (2025); 76 次 (2026)

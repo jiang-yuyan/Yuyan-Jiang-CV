@@ -12,12 +12,12 @@ __·Society Members__ 🧑‍🎓
 
 __·Editorial Board for International Journals__ 👨‍🔬
 
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ (SCI, Editorial Review Board, 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_COLLNET Journal of Scientometrics and Information Management_ (ESCI, Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_IP Indian Journal of Library Science and Information Technology_ (Scopus, International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Jurnal Kajian Informasi & Perpustakaan_ (International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_REVUE DES SCIENCES DE L' INFORMATION_ (Scientific Committee Menber, 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)   
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Health Informatics Journal_ [(SCIE, Editorial Review Board, 2025-)](https://journals.sagepub.com/editorial-board/JHI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_COLLNET Journal of Scientometrics and Information Management_ [(ESCI, Editorial Board, 2026-)](https://www.tarupublications.com/journal/CJSIM/editorial-board)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Folia Toruniensia_ [(Scopus, Subject Editor, 2026-) ](https://apcz.umk.pl/FT/about/editorialTeam)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_IP Indian Journal of Library Science and Information Technology_ [(Scopus, International Editorial Board, 2026-)](https://ijlsit.org/editorial)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Jurnal Kajian Informasi & Perpustakaan_ [(International Editorial Board, 2026-)](https://jurnal.unpad.ac.id/jkip/about/editorialTeam)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_REVUE DES SCIENCES DE L' INFORMATION_ [(Scientific Committee Menber, 2025-)](https://revues.imist.ma/index.php/JIS/about/editorialTeam)  
 
 ---
 
@@ -106,4 +106,9 @@ __·Reviewer for International Journals__ 🕵️‍♂️
 
 ---
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 64 times (2026)  
+__·Past Experience__ 🕵️‍♂️
+
+&#8195;&#8195;&#8195;&#8195;**Editorial**  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;_Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)  
+
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 76 times (2026)  
