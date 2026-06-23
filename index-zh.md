@@ -24,7 +24,7 @@ title: index-zh
 
 &#8195;&#8195;我的研究主要围绕科学计量学展开，重点关注科技创新、学术期刊、开放科学、科技评价等议题。同时，我也非常关注同行评审和研究伦理问题，并致力于促进学术诚信。此外，我亦涉足数字人文研究与智慧图书馆建设等交叉方向。
 
-&#8195;&#8195;截至目前，我已发表学术论文20余篇，研究成果发表于 ***Humanities and Social Sciences Communications***，***Journal of Medical Internet Research***，***Scientometrics***，***Journal of Information Science***，***Journal of Scholarly Publishing***，***Sustainability*** 等国际期刊，以及 **《图书情报工作》**、**《中国科技期刊研究》**、**《编辑学报》**、**《数字图书馆论坛》**、**《农业图书情报学报》** 等国内核心期刊。
+&#8195;&#8195;截至目前，我已发表学术论文20余篇，研究成果发表于 ***Humanities and Social Sciences Communications***、***Journal of Medical Internet Research***、***Scientometrics***、***Journal of Information Science***、***Journal of Scholarly Publishing***、***Sustainability*** 等国际期刊，以及 **《图书情报工作》**、**《中国科技期刊研究》**、**《编辑学报》**、**《数字图书馆论坛》**、**《农业图书情报学报》** 等国内核心期刊。
 
 &#8195;&#8195;同时，担任***COLLNET Journal of Scientometrics and Information Management*** 编委 (ESCI, 2025至今)、***Folia Toruniensia*** 学科编辑 (Scopus, 2026至今)、***Health Informatics Journal*** 编辑评审委员 (SCIE, 2025至今)、***IP Indian Journal of Library Science and Information Technology*** 编委 (Scopus, 2026至今)、***Jurnal Kajian Informasi & Perpustakaan*** 编委 (2026至今)、***Knowledge Organization*** 青年编委 (SSCI, 2026至今) 以及***Revue Des Sciences De L' Information*** 学术委员 (2025至今)。  
 
