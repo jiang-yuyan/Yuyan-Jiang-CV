@@ -13,7 +13,7 @@ title: index
         <h2 style="margin-top: 0;">Yuyan Jiang</h2>
         <p><strong>Not a cat, but a PhD student!</strong></p>
         <p><strong>This is my personal academic homepage!</strong></p>
-        <a href="https://raw.githubusercontent.com/jiang-yuyan/Yuyan-Jiang-CV/main/file/CV_en.docx" download="CV_en.docx"><strong>CV_English (Feature coming soon)</strong></a>
+        <a href="https://raw.githubusercontent.com/jiang-yuyan/Yuyan-Jiang-CV/main/file/CV_en.docx" download style="text-decoration:none; color:inherit;" download="CV_en.docx"><strong>CV_English (Feature coming soon)</strong></a>
     </div>
 </div>
 

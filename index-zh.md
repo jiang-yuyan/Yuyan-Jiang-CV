@@ -13,7 +13,7 @@ title: index-zh
         <h2 style="margin-top: 0;">姜育彦</h2>
         <p><strong>不是猫，而是一只博士生！</strong></p>
         <p><strong>这里是我的个人学术主页！</strong></p>
-        <a href="https://raw.githubusercontent.com/jiang-yuyan/Yuyan-Jiang-CV/main/file/CV_zh.docx" download="CV_zh.docx"><strong>CV_Chinese 中文简历下载</strong></a>
+        <a href="https://raw.githubusercontent.com/jiang-yuyan/Yuyan-Jiang-CV/main/file/CV_zh.docx" download style="text-decoration:none; color:inherit;" download="CV_zh.docx"><strong>CV_Chinese 中文简历下载</strong></a>
     </div>
 </div>
 
