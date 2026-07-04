@@ -3,18 +3,28 @@ layout: default
 title: index-zh
 ---
 
-<div style="display: flex; margin-bottom: 30px;">
-  <!-- 左侧头像区域 -->
-    <div style="flex: 0 0 300px; margin-right: 60px;">
-        <img src="file/cat.jpeg" style="width: 300px; height: 300px; object-fit: cover;">
-    </div>
+<div style="display: flex; margin-bottom: 30px; flex-wrap: wrap; gap: 20px;">
+  <!-- 左侧头像区域：a包裹图片，点击下载CV -->
+  <div style="flex: 0 0 300px; margin-right: 60px;">
+    <a 
+      href="https://raw.githubusercontent.com/jiang-yuyan/Yuyan-Jiang-CV/main/file/CV_zh.docx" 
+      download="CV_zh.docx"
+      style="text-decoration: none; color: inherit;"
+    >
+      <img 
+        src="file/cat.jpeg" 
+        style="width: 300px; height: 300px; object-fit: cover; cursor: pointer;"
+        alt="头像，点击下载中文简历"
+      >
+    </a>
+  </div>
   <!-- 右侧个人简介区域 -->
-    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-        <h2 style="margin-top: 0;">姜育彦</h2>
-        <p><strong>不是猫，而是一只博士生！</strong></p>
-        <p><strong>这里是我的个人学术主页！</strong></p>
-        <a href="https://raw.githubusercontent.com/jiang-yuyan/Yuyan-Jiang-CV/main/file/CV_zh.docx" download style="text-decoration:none; color:inherit;" download="CV_zh.docx"><strong>CV_Chinese 中文简历下载</strong></a>
-    </div>
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+    <h2 style="margin-top: 0;">姜育彦</h2>
+    <p><strong>>不是猫，而是一只博士生！</strong></p>
+    <p><strong>>这里是我的个人学术主页。</strong></p>
+    <p><strong>点击左侧的🐱获取我的CV。</strong></p>
+  </div>
 </div>
 
 ---
