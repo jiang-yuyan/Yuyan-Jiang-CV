@@ -5,6 +5,10 @@ title: project
 
 ## Research Project (Some Project information is pending update)
 
+__·In-Research__  
+
+__·Finished__  
+
 **Source**: **Annual Research Projects of the Science and Technology Journals Editorial Society of Hubei Province**  
 Code:   
 Role: Participant  
