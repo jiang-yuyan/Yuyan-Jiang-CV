@@ -5,55 +5,45 @@ title: publications
 
 ## Publications
 
-Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 4 (First Author) + 1 (Corresponding Author) 
+Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 5 (First Author) + 1 (Corresponding Author) 
+
+Note: Click the number to navigate to the paper's online page.  
+
 
 <h3 id="publications-2026">·2026</h3>
 
-[[**1**]](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545) **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2026, 52(3): 837-852.  
+<a href="https://journals.sagepub.com/doi/abs/10.1177/01655515241263545" style="text-decoration:none; color:inherit;">**[1]**</a>  **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2026, 52(3): 837-852.  
 **Tag**：SCIE & SSCI, JIF-2025 = 2.6, XR Q3, JCR Q2, JCI Q2, AJG 2★  
 
-[[**2**]]() **Y Jiang**, J Ma<sup>#</sup>, C Chen, G Bai. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2026, 37():.  
+<a href="" style="text-decoration:none; color:inherit;">**[2]**</a>  **Y Jiang**, J Ma<sup>#</sup>, C Chen, G Bai. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2026, 37():.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[[**3**]](https://www.cjstp.cn/CN/Y2026/V37/I3/384) X Ye, G Zhao, Q Zhang, **Y Jiang**, Z Chang<sup>#</sup>, J Zhang, X Chen. Full⁃chain operation practice and enlightenment of domestic scientific journal publishing platforms[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2026, 37(3):384-392.  
+<a href="https://www.cjstp.cn/CN/Y2026/V37/I3/384" style="text-decoration:none; color:inherit;">**[3]**</a> X Ye, G Zhao, Q Zhang, **Y Jiang**, Z Chang<sup>#</sup>, J Zhang, X Chen. Full⁃chain operation practice and enlightenment of domestic scientific journal publishing platforms[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2026, 37(3):384-392.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[[**4**]]() C Chen, **Y Jiang**, X Guan X, L Yu<sup>#</sup>. Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective[J]. ***Acta Editologica***, 2026, 38(S1): 1-6.  
+<a href="" style="text-decoration:none; color:inherit;">**[4]**</a>  C Chen, **Y Jiang**, X Guan X, L Yu<sup>#</sup>. Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective[J]. ***Acta Editologica***, 2026, 38(S1): 1-6.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD   
 
 
 <h3 id="publications-2025">·2025</h3>
 
-[**Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data**](https://www.nature.com/articles/s41599-025-05387-6)  
-**Source**：*Humanities and Social Sciences Communications*, 2025, 12(1), 1-10    
-**Author**：__Jiang Y__, Ma J    
-**Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
-**Reference**：Jiang, Y., & Ma, J. (2025). Are Nature Index journals a valid basis for academic assessment: A study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data. Humanities and Social Sciences Communications, 12(1), 1062.
+[[**1**]](http://www.nature.com/articles/s41599-025-05387-6) **Y Jiang**, Ma J#. Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data[J]. ***Humanities and Social Sciences Communications***, 2025, 12(1): 1-10.  
+**Tag**：AHCI, SSCI, JIF_2025 = 4.8, CAS Q1, JCR Q1, JCI Q1  
 
-[**Do cover papers have higher disruption and citations? Evidence from Nature and Science**](https://link.springer.com/article/10.1007/s11192-025-05486-w)  
-**Source**：*Scientometrics*, 2025, 130,  6727–6746    
-**Author**：Xinru Yang, Xueli Liu#, Zixuan Zhang, Mengjuan Xi, __Yuyan Jiang__    
-**Tag**：SCI, JIF = 3.5, CAS Q2 , JCR Q1, JCI Q1, AJG 2★    
+[[**2**]](https://www.jmir.org/2025/1/e59598) Y Jiang, X Liu#, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.  
+**Tag**：SCIE, JIF_2025 = 8.2, CAS Q1, JCR Q1, JCI Q1  
 
-[**Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation**](https://www.jmir.org/2025/1/e59598)  
-**Source**：*Journal of Medical Internet Research*, 2025, 27, e59598    
-**Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：SCI, JIF = 6.0, CAS Q2 Top, JCR Q1, JCI Q1    
+[[**3**]](https://utppublishing.com/doi/10.3138/jsp-2023-0056) Y Jiang, X Liu#, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. ***Journal of Scholarly Publishing***, 2025,56(1): 60-78.  
+**Tag**：AHCI, SSCI, JIF_2025 = 1.0, CAS Q2, JCR Q3, JCI Q1   
 
-[**The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals**](https://utppublishing.com/doi/10.3138/jsp-2023-0056)  
-**Source**：*Journal of Scholarly Publishing*, 2025, 56(1), 60-78    
-**Author**：__Jiang Y__, Liu X, Wang L    
-**Tag**：AHCI, SSCI, JIF = 0.8, CAS Q2, JCR Q3, JCI Q1 
+[[**4**]](https://link.springer.com/article/10.1007/s11192-025-05486-w) , X Liu#, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. ***Scientometrics***, 2025, 130(11): 6727–6746.  
+**Tag**：SCIE & SSCI, JIF_2025 = 3.8, CAS Q2 , JCR Q1, JCI Q1, AJG 2★  
 
-[**Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study**](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2025, 36(4), 512-521    
-**Author**：Liu X, __Jiang Y__#    
-**Tag**：CSSCI, PKU, CSTPCD    
+[[**5**]](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210) Liu X, **Jiang Y**. Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2025, 36(4): 512-521.  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[**Beware of the Predatory Distortion of Journals in the Open Access Environment**](https://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1)  
-**Source**：*Acta Editologica*, 2025, 37(3), 272-277    
-**Author**：Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H    
-**Tag**：CSSCI, PKU, CSTPCD   
+[[**6**]](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1) Lu Y, __Jiang Y__, Zhang Y, Zheng J, Liu X, Fang H. Beware of the Predatory Distortion of Journals in the Open Access Environment[J]. ***Acta Editologica***, 2025, 37(3):272-277.  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
 <h3 id="publications-2024">·2024</h3>
 
