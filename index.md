@@ -13,6 +13,7 @@ title: index
         <h2 style="margin-top: 0;">Yuyan Jiang</h2>
         <p><strong>Not a cat, but a PhD student!</strong></p>
         <p><strong>This is my personal academic homepage!</strong></p>
+        <a href="./file/CV_en.docx" download="CV_en.docx">CV_English Download (Feature coming soon)</a>
     </div>
 </div>
 

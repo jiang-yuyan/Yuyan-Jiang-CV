@@ -8,30 +8,35 @@ title: publications-zh
 
 <h3 id="publications-2026">·2026</h3>  
 
-[[1]](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545) **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2026, 52(3): 837-852.  
+[[**1**]](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545) **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2026, 52(3): 837-852.  
 **注**：SCIE & SSCI, JIF-2025 = 2.6, XR Q3, JCR Q2, JCI Q2, AJG 2★  
 
-[[2]]() **姜育彦**, 马建霞<sup>#</sup>, 陈春, 白光祖. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. **中国科技期刊研究**, 2026, 37():.  
+[[**2**]]() **姜育彦**, 马建霞<sup>#</sup>, 陈春, 白光祖. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. **中国科技期刊研究**, 2026, 37():.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
-[[3]](https://www.cjstp.cn/CN/Y2026/V37/I3/384) 叶喜艳, 赵光平, 张启松, **姜育彦**, 常宗强#, 张静辉, 陈小红. 国产科技期刊出版平台全链条运营实践及启示[J]. **中国科技期刊研究**, 2026, 37(3):384-392.  
+[[**3**]](https://www.cjstp.cn/CN/Y2026/V37/I3/384) 叶喜艳, 赵光平, 张启松, **姜育彦**, 常宗强#, 张静辉, 陈小红. 国产科技期刊出版平台全链条运营实践及启示[J]. **中国科技期刊研究**, 2026, 37(3):384-392.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
-[[3]]() 陈辰, **姜育彦**, 官鑫. 于磊#. 全流程视角下高校自科学报出版伦理制度建设现状与思考[J]. **编辑学报**, 2026, 38(S1): 1-6.  
+[[**4**]]() 陈辰, **姜育彦**, 官鑫. 于磊#. 全流程视角下高校自科学报出版伦理制度建设现状与思考[J]. **编辑学报**, 2026, 38(S1): 1-6.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
 <h3 id="publications-2025">·2025</h3>
 
 [[1]](http://www.nature.com/articles/s41599-025-05387-6) **Y Jiang**, Ma J#. Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data[J]. ***Humanities and Social Sciences Communications***, 2025, 12(1): 1-10.  
 **注**：AHCI, SSCI, JIF-2025 = 4.8, CAS Q1, JCR Q1, JCI Q1  
+
 [[2]](https://www.jmir.org/2025/1/e59598) Y Jiang, X Liu#, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.  
 **注**：SCIE, JIF-2025 = 8.2, CAS Q1, JCR Q1, JCI Q1  
+
 [[3]](https://utppublishing.com/doi/10.3138/jsp-2023-0056) Y Jiang, X Liu#, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. ***Journal of Scholarly Publishing***, 2025,56(1): 60-78.  
 **注**：AHCI, SSCI, JIF = 1.0, CAS Q2, JCR Q3, JCI Q1   
+
 [[4]](https://link.springer.com/article/10.1007/s11192-025-05486-w) X Yang, X Liu#, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. ***Scientometrics***, 2025, 130(11): 6727–6746.  
 **注**：SCIE & SSCI, JIF_2025 = 3.8, CAS Q2 , JCR Q1, JCI Q1, AJG 2★  
+
 [[5]](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210) 刘雪立, 姜育彦#. 基于引证数据来源优化的期刊颠覆性指数及其实证研究[J]. 中国科技期刊研究, 2025, 36(4): 512-521.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
+
 [[6]](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1) 卢颍超, 姜育彦, 张亚杰, 郑嘉祺, 刘雪立, 方红玲* 警惕开放获取环境下期刊的掠夺性畸变[J]. 编辑学报, 2025, 37(3):272-277.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 

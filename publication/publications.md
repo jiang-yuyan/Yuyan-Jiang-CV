@@ -9,21 +9,17 @@ Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 4 (Fi
 
 <h3 id="publications-2026">·2026</h3>
 
-[****]()  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2026, 37  
-**Author**：__Jiang Y__,  
+[[**1**]](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545) **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2026, 52(3): 837-852.  
+**Tag**：SCIE & SSCI, JIF-2025 = 2.6, XR Q3, JCR Q2, JCI Q2, AJG 2★  
+
+[[**2**]]() **Y Jiang**, J Ma<sup>#</sup>, C Chen, G Bai. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2026, 37():.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD  
-**Reference**：
 
-[**Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective**]()  
-**Source**：*Acta Editologica*, 2026, 38(S1),    
-**Author**：Chen C, __Jiang Y__, Guan X, Yu L#    
-**Tag**：CSSCI, PKU, AMI Core, CSTPCD    
+[[**3**]](https://www.cjstp.cn/CN/Y2026/V37/I3/384) X Ye, G Zhao, Q Zhang, **Y Jiang**, Z Chang<sup>#</sup>, J Zhang, X Chen. Full⁃chain operation practice and enlightenment of domestic scientific journal publishing platforms[J]. ***Chinese Journal of Scientific and Technical Periodicals***, 2026, 37(3):384-392.  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[**Full⁃chain operation practice and enlightenment of domestic scientific journal publishing platforms**](https://www.cjstp.cn/CN/10.11946/cjstp.202506160702)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2026, 37(3), 384-392    
-**Author**：Ye X, Zhao G, Zhang Q, __Jiang Y__, Chang Z#, Zhang J, Chen X    
-**Tag**：CSSCI, PKU, AMI Core, CSTPCD    
+[[**4**]]() C Chen, **Y Jiang**, X Guan X, L Yu<sup>#</sup>. Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective[J]. ***Acta Editologica***, 2026, 38(S1): 1-6.  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD   
 
 
 <h3 id="publications-2025">·2025</h3>
