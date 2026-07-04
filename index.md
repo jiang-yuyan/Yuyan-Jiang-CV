@@ -6,7 +6,7 @@ title: index
 <div style="display: flex; margin-bottom: 30px;">
   <!-- 左侧头像区域 -->
     <div style="flex: 0 0 300px; margin-right: 60px;">
-        <img src="cat.jpeg" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="file/cat.jpeg" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
   <!-- 右侧个人简介区域 -->
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">

@@ -10,10 +10,12 @@ title: publications-zh
 
 [[1]](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545) **Y Jiang**, X Liu#. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2026, 52(3): 837-852.  
 **注**：SCIE & SSCI, JIF-2025 = 2.6, XR Q3, JCR Q2, JCI Q2, AJG 2★  
-[[2]](https://www.cjstp.cn/CN/Y2026/V37/I3/384) 叶喜艳, 赵光平, 张启松, **姜育彦**, 常宗强#, 张静辉, 陈小红. 国产科技期刊出版平台全链条运营实践及启示[J]. **中国科技期刊研究**, 2026, 37(3):384-392.  
-**注**：CSSCI, PKU, AMI Core, CSTPCD  
+[[2]]() 叶喜艳, 赵光平, 张启松, **姜育彦**, 常宗强#, 张静辉, 陈小红. 国产科技期刊出版平台全链条运营实践及启示[J]. **中国科技期刊研究**, 2026, 37():.   
+**注**：CSSCI, PKU, AMI核心, CSTPCD  
+[[3]](https://www.cjstp.cn/CN/Y2026/V37/I3/384) 叶喜艳, 赵光平, 张启松, **姜育彦**, 常宗强#, 张静辉, 陈小红. 国产科技期刊出版平台全链条运营实践及启示[J]. **中国科技期刊研究**, 2026, 37(3):384-392.  
+**注**：CSSCI, PKU, AMI核心, CSTPCD  
 [[3]]() 陈辰, **姜育彦**, 官鑫. 于磊#. 全流程视角下高校自科学报出版伦理制度建设现状与思考[J]. **编辑学报**, 2026, 38(S1): 1-6.  
-**注**：CSSCI, PKU, AMI Core, CSTPCD  
+**注**：CSSCI, PKU, AMI核心, CSTPCD  
 
 <h3 id="publications-2025">·2025</h3>
 
@@ -75,6 +77,7 @@ title: publications-zh
 **注**：-  
   
 <h3 id="publications-2020">·2020</h3>
-  
+
+**注**：-  
 
 _注：分区结果参考大类/小类中较高分区。_

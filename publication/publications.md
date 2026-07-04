@@ -9,15 +9,21 @@ Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 4 (Fi
 
 <h3 id="publications-2026">·2026</h3>
 
+[****]()  
+**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2026, 37  
+**Author**：__Jiang Y__,  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD  
+**Reference**：
+
 [**Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective**]()  
 **Source**：*Acta Editologica*, 2026, 38(S1),    
 **Author**：Chen C, __Jiang Y__, Guan X, Yu L#    
-**Tag**：CSSCI, PKU, CSTPCD    
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD    
 
 [**Full⁃chain operation practice and enlightenment of domestic scientific journal publishing platforms**](https://www.cjstp.cn/CN/10.11946/cjstp.202506160702)  
 **Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2026, 37(3), 384-392    
 **Author**：Ye X, Zhao G, Zhang Q, __Jiang Y__, Chang Z#, Zhang J, Chen X    
-**Tag**：CSSCI, PKU, CSTPCD    
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD    
 
 
 <h3 id="publications-2025">·2025</h3>
@@ -26,6 +32,7 @@ Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 4 (Fi
 **Source**：*Humanities and Social Sciences Communications*, 2025, 12(1), 1-10    
 **Author**：__Jiang Y__, Ma J    
 **Tag**：AHCI, SSCI, JIF = 3.6, CAS Q1, JCR Q1, JCI Q1  
+**Reference**：Jiang, Y., & Ma, J. (2025). Are Nature Index journals a valid basis for academic assessment: A study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data. Humanities and Social Sciences Communications, 12(1), 1062.
 
 [**Do cover papers have higher disruption and citations? Evidence from Nature and Science**](https://link.springer.com/article/10.1007/s11192-025-05486-w)  
 **Source**：*Scientometrics*, 2025, 130,  6727–6746    
