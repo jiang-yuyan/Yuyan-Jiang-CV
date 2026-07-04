@@ -7,6 +7,9 @@ title: honours
 
 <h3 id="honours-2026">· 2026</h3>
 
+**Source**：University of Chinese Academy of Sciences  
+**Award**：Pacemaker to Merit Student  
+
 **Source**：IP Indian Journal of Library Science and Information Technology  
 **Award**：Best Reviewer  
 

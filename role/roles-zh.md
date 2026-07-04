@@ -118,4 +118,4 @@ __·过往经历__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;**编辑**  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. _Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)  
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 89 times (2026)  
+***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 92 times (2026)  

@@ -8,7 +8,7 @@ title: honours-zh
 <h3 id="honours-2026">· 2026</h3>
 
 **来源**：中国科学院大学  
-**奖项**：三好学生  
+**奖项**：三好学生标兵  
 
 **来源**：IP Indian Journal of Library Science and Information Technology  
 **奖项**：最佳审稿人奖  

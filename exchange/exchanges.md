@@ -4,6 +4,13 @@ title: exchanges
 ---
 
 ## Academic Exchange
+__·2026__
+
+**Conf**：**China Intelligence Science Annual Conference**  
+**Role**：Participant  
+**Time**：2026-7   
+**Location**：Nanjing，Jiangsu，China  
+
 __·2025__
 
 **Conf**：**Graduate Student Academic Forum, University of Chinese Academy of Sciences**  
