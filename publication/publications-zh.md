@@ -25,27 +25,27 @@ title: publications-zh
 
 <h3 id="publications-2025">·2025</h3>
 
-[[**1**]](http://www.nature.com/articles/s41599-025-05387-6) **Y Jiang**, Ma J<sup>#</sup>. Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data[J]. ***Humanities and Social Sciences Communications***, 2025, 12(1): 1-10.  
+<a href="http://www.nature.com/articles/s41599-025-05387-6" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, Ma J<sup>#</sup>. Are Nature Index journals a valid basis for academic assessment: a study of academic impact and disruptive innovation assessment based on open bibliographic metadata and citation data[J]. **Humanities and Social Sciences Communications**, 2025, 12(1): 1-10.  
 **注**：AHCI, SSCI, JIF-2025 = 4.8, CAS Q1, JCR Q1, JCI Q1  
 
-[[**2**]](https://www.jmir.org/2025/1/e59598) Y Jiang, X Liu<sup>#</sup>, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.  
+<a href="https://www.jmir.org/2025/1/e59598" style="text-decoration:none; color:inherit;">**[2]**</a> Y Jiang, X Liu<sup>#</sup>, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. **Journal of Medical Internet Research**, 2025, 27: e59598.  
 **注**：SCIE, JIF-2025 = 8.2, CAS Q1, JCR Q1, JCI Q1  
 
-[[**3**]](https://utppublishing.com/doi/10.3138/jsp-2023-0056) Y Jiang, X Liu<sup>#</sup>, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. ***Journal of Scholarly Publishing***, 2025,56(1): 60-78.  
+<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> Y Jiang, X Liu<sup>#</sup>, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
 **注**：AHCI, SSCI, JIF = 1.0, CAS Q2, JCR Q3, JCI Q1   
 
-[[**4**]](https://link.springer.com/article/10.1007/s11192-025-05486-w) X Yang, X Liu<sup>#</sup>, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. ***Scientometrics***, 2025, 130(11): 6727–6746.  
+<a href="https://link.springer.com/article/10.1007/s11192-025-05486-w" style="text-decoration:none; color:inherit;">**[4]**</a> X Yang, X Liu<sup>#</sup>, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. **Scientometrics**, 2025, 130(11): 6727–6746.  
 **注**：SCIE & SSCI, JIF_2025 = 3.8, CAS Q2 , JCR Q1, JCI Q1, AJG 2★  
 
-[[**5**]](https://www.cjstp.cn/CN/10.11946/cjstp.202411071210) 刘雪立, **姜育彦**<sup>#</sup>. 基于引证数据来源优化的期刊颠覆性指数及其实证研究[J]. 中国科技期刊研究, 2025, 36(4): 512-521.  
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202411071210" style="text-decoration:none; color:inherit;">**[5]**</a> 刘雪立, **姜育彦**<sup>#</sup>. 基于引证数据来源优化的期刊颠覆性指数及其实证研究[J]. 中国科技期刊研究, 2025, 36(4): 512-521.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[[**6**]](http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1) 卢颍超, **姜育彦**, 张亚杰, 郑嘉祺, 刘雪立, 方红玲<sup>#</sup>. 警惕开放获取环境下期刊的掠夺性畸变[J]. 编辑学报, 2025, 37(3):272-277.  
+<a href="http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1" style="text-decoration:none; color:inherit;">**[6]**</a> 卢颍超, **姜育彦**, 张亚杰, 郑嘉祺, 刘雪立, 方红玲<sup>#</sup>. 警惕开放获取环境下期刊的掠夺性畸变[J]. 编辑学报, 2025, 37(3):272-277.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
 <h3 id="publications-2025">·2024</h3>
 
-[[1]]() Y Jiang, X Liu<sup>#</sup>, Z Zhang, X Yang. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. ***Journal of Medical Internet Research***, 2024, 26: e55121.  
+[[1]]() Y Jiang, X Liu<sup>#</sup>, Z Zhang, X Yang. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. **Journal of Medical Internet Research**, 2024, 26: e55121.  
 **注**：SCIE, JIF-2025 = 6.0, CAS Q1, JCR Q1, JCI Q1  
 [2] 曹金磊, 高健, 姜育彦, 周志新<sup>#</sup>. 我国高校学者被撤销论文特征及原因分析[J]. 中国科技期刊研究, 2024, 35(12):1732-1743.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
