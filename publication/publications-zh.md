@@ -11,7 +11,7 @@ title: publications-zh
 [[1]](https://journals.sagepub.com/doi/abs/10.1177/01655515241263545) **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. ***Journal of Information Science***, 2026, 52(3): 837-852.  
 **注**：SCIE & SSCI, JIF-2025 = 2.6, XR Q3, JCR Q2, JCI Q2, AJG 2★  
 
-[[2]]() **姜育彦**, 马建霞<sup>#</sup>, 陈春, 白光祖. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. **中国科技期刊研究**, 2026, 37():.   
+[[2]]() **姜育彦**, 马建霞<sup>#</sup>, 陈春, 白光祖. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. **中国科技期刊研究**, 2026, 37():.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
 [[3]](https://www.cjstp.cn/CN/Y2026/V37/I3/384) 叶喜艳, 赵光平, 张启松, **姜育彦**, 常宗强#, 张静辉, 陈小红. 国产科技期刊出版平台全链条运营实践及启示[J]. **中国科技期刊研究**, 2026, 37(3):384-392.  
