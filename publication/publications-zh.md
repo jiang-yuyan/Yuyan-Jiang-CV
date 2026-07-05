@@ -31,7 +31,7 @@ title: publications-zh
 <a href="https://www.jmir.org/2025/1/e59598" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. **Journal of Medical Internet Research**, 2025, 27: e59598.  
 **注**：SCIE, JIF-2025 = 8.2, CAS Q1, JCR Q1, JCI Q1  
 
-<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
+<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
 **注**：AHCI, SSCI, JIF = 1.0, CAS Q2, JCR Q3, JCI Q1   
 
 <a href="https://link.springer.com/article/10.1007/s11192-025-05486-w" style="text-decoration:none; color:inherit;">**[4]**</a> X Yang, X Liu<sup>#</sup>, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. **Scientometrics**, 2025, 130(11): 6727–6746.  
@@ -76,13 +76,13 @@ title: publications-zh
 
 <h3 id="publications-2022">·2022</h3>
 
-<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202202280120" style="text-decoration:none; color:inherit;">**[1]**</a> 姜育彦, 刘雪立<sup>#</sup>. 开放型同行评议：模式、技术、问题与对策[J]. **中国科技期刊研究**, 2022, 33(9): 1196-1205.  
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202202280120" style="text-decoration:none; color:inherit;">**[1]**</a> **姜育彦**, 刘雪立<sup>#</sup>. 开放型同行评议：模式、技术、问题与对策[J]. **中国科技期刊研究**, 2022, 33(9): 1196-1205.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202205240418" style="text-decoration:none; color:inherit;">**[2]**</a> 姜育彦, 刘雪立<sup>#</sup>. 科技期刊的创新性评价指标—颠覆性指数(JDI)及其实证研究[J]. **中国科技期刊研究**, 2022, 33(7): 965-972.   
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202205240418" style="text-decoration:none; color:inherit;">**[2]**</a> **姜育彦**, 刘雪立<sup>#</sup>. 科技期刊的创新性评价指标—颠覆性指数(JDI)及其实证研究[J]. **中国科技期刊研究**, 2022, 33(7): 965-972.   
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-<a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1" style="text-decoration:none; color:inherit;">**[3]**</a> 姜育彦, 刘雪立<sup>#</sup>. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. **数字图书馆论坛**, 2022(3): 47-52.  
+<a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1" style="text-decoration:none; color:inherit;">**[3]**</a> **姜育彦**, 刘雪立<sup>#</sup>. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. **数字图书馆论坛**, 2022(3): 47-52.  
 **注**：CSSCI Extend, AMI Extend, CSTPCD  
 
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a> **姜育彦**, 李雅茹<sup>#</sup>. 基于馆藏题录分词索引的阅读推广新模式[J]. **数字与缩微影像**, 2022(1): 37-40  

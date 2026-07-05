@@ -100,13 +100,13 @@ Note: Click the number to navigate to the paper's online page.
 
 <h3 id="publications-2020">·2020</h3>
 
-<a href="https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170" style="text-decoration:none; color:inherit;">**[1]**</a> **Jiang Y**, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity[J]. **Journal of Library and Information Science in Agriculture**, 2020, 32(6): 23-33  
+<a href="https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, Y Li<sup>#</sup>. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity[J]. **Journal of Library and Information Science in Agriculture**, 2020, 32(6): 23-33  
 **Tag**：Scopus  
 
-<a href="https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32" style="text-decoration:none; color:inherit;">**[2]**</a> Yu H, Li Z, **Jiang Y**. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. **Big Data and Security**, 2020, 1210: 417-428  
+<a href="https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32" style="text-decoration:none; color:inherit;">**[2]**</a> H Yu, Z Li, **Y Jiang**. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. **Big Data and Security**, 2020, 1210: 417-428  
 **Tag**：Scopus
 
-<a href="" style="text-decoration:none; color:inherit;">**[3]**</a> **Jiang Y**, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years[J]. **Technology and Economic Guide**, 2020, 28(5): 7-9  
+<a href="" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, Y Li<sup>#</sup>. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years[J]. **Technology and Economic Guide**, 2020, 28(5): 7-9  
 **Tag**：-  
 
 _Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
