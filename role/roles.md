@@ -4,11 +4,10 @@ title: roles
 ---
 
 ## Academic Role
+
 __·Society Members__ 🧑‍🎓
 
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;1. <a href="http://www.casssp.org.cn/product/65.html" style="text-decoration:none; color:inherit;">*Specialized Committee on Scientometrics and Information Metrology of China*</a> (Student Member, 2022-)
-
-注：点击学会名可跳转至网页。  
 
 ---
 
@@ -21,8 +20,6 @@ __·Editorial Board for International Journals__ 👨‍🔬
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. <a href="https://jurnal.unpad.ac.id/jkip/about/editorialTeam" style="text-decoration:none; color:inherit;">*Jurnal Kajian Informasi & Perpustakaan*</a> (International Editorial Board, 2026-)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. <a href="" style="text-decoration:none; color:inherit;">*Knowledge Organization*</a> (SSCI, ECR Editorial Board 2025-)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="https://revues.imist.ma/index.php/JIS/about/editorialTeam" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
-
-注：点击期刊名可跳转至网页。  
 
 ---
 
@@ -114,7 +111,7 @@ __·Reviewer for International Journals__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;14. _Pustaka Karya: Jurnal Ilmiah Ilmu Perpustakaan dan Informasi_  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;15. _REVUE DES SCIENCES DE L' INFORMATION_  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;16. _Tibanndaru : Jurnal Ilmu Perpustakaan dan Informasi_  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 17. _Trends in Scholarly Publishing_  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;17. _Trends in Scholarly Publishing_  
 
 ---
 
@@ -124,3 +121,5 @@ __·Past Experience__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. _Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)  
 
 ***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 92 times (2026)  
+
+**Note**: Click the name of the society/journal(Editorial) to visit the webpage. 
