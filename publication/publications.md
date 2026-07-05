@@ -7,8 +7,9 @@ title: publications
 
 Current Summary Statistics: SCIE & SSCI & AHCI - 7 (First Author); CSSCI - 5 (First Author) + 1 (Corresponding Author) 
 
-Note: Click the number to navigate to the paper's online page.  
+Note: Click the serial number to navigate to the paper's online page. All categorised results are based on the highest of the results in the major and minor subdivisions.  
 
+---
 
 <h3 id="publications-2026">·2026</h3>
 
@@ -24,6 +25,7 @@ Note: Click the number to navigate to the paper's online page.
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a>  C Chen, **Y Jiang**, X Guan X, L Yu<sup>#</sup>. Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective[J]. **Acta Editologica**, 2026, 38(S1): 1-6.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD   
 
+---
 
 <h3 id="publications-2025">·2025</h3>
 
@@ -45,6 +47,8 @@ Note: Click the number to navigate to the paper's online page.
 <a href="http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20250309&flag=1" style="text-decoration:none; color:inherit;">**[6]**</a> Y Lu, **Y Jiang**, Y Zhang, J Zheng, X Liu, H Fang. Beware of the Predatory Distortion of Journals in the Open Access Environment[J]. **Acta Editologica**, 2025, 37(3):272-277.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
+---
+
 <h3 id="publications-2024">·2024</h3>
 
 <a href="https://www.jmir.org/2024/1/e55121" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang,** X Liu<sup>#</sup>, Z Zhang, X Yang. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. **Journal of Medical Internet Research**, 2024, 26: e55121.  
@@ -58,6 +62,8 @@ Note: Click the number to navigate to the paper's online page.
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202402130115" style="text-decoration:none; color:inherit;">**[4]**</a> L Wang, X Liu<sup>#</sup>, **Y Jiang**. Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2024, 35(7):982-994.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD 
+
+---
 
 <h3 id="publications-2023">·2023</h3>
 
@@ -76,6 +82,8 @@ Note: Click the number to navigate to the paper's online page.
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202301130027" style="text-decoration:none; color:inherit;">**[5]**</a> Y Zhang, **Y Jiang**, H Fang<sup>#</sup>. Research progress on interdisciplinary evaluation indicators of scientific journals[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2023, 34(7): 944-952.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD 
 
+---
+
 <h3 id="publications-2022">·2022</h3>
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202202280120" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. Open peer review: models, technologies, problems and countermeasures[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2022, 33(9): 1196-1205.  
@@ -90,6 +98,8 @@ Note: Click the number to navigate to the paper's online page.
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a> **Y Jiang**, Y Li<sup>#</sup>. A new model for promoting reading based on word segmentation indexing of collection titles[J].**Digital & Micrographic Imaging**, 2022(1): 37-40  
 **Tag**：-  
 
+---
+
 <h3 id="publications-2021">·2021</h3>
 
 <a href="" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, Y Li<sup>#</sup> An analysis of the collection construction model of university libraries driven by reader behavior data[J]. **Digital & Micrographic Imaging**, 2021(4): 39-42  
@@ -97,6 +107,8 @@ Note: Click the number to navigate to the paper's online page.
 
 <a href="" style="text-decoration:none; color:inherit;">**[2]**</a> Y Li<sup>#</sup>, **Y Jiang**. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation[J]. **Policy & Scientific Consult**, 2021(6): 22-24  
 **Tag**：-    
+
+---
 
 <h3 id="publications-2020">·2020</h3>
 
@@ -108,5 +120,3 @@ Note: Click the number to navigate to the paper's online page.
 
 <a href="" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, Y Li<sup>#</sup>. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years[J]. **Technology and Economic Guide**, 2020, 28(5): 7-9  
 **Tag**：-  
-
-_Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
