@@ -7,8 +7,6 @@ title: project
 
 __·In-Research__  
 
-__·Finished__  
-
 **Source**: **Annual Research Projects of the Science and Technology Journals Editorial Society of Hubei Province**  
 Code:   
 Role: Participant  
@@ -33,23 +31,37 @@ Role: Participant
 Time: 2025-2026  
 Type: In-Research  
 
-**Source**: **Nantong Social Science Research Project**  
-Code: SKB25-106  
-Role: Participant  
-Time: 2025-2025  
-Type: In-Research  
-
-**Source**: **Yancheng Federation of Philosophy and Social Sciences Project**  
-Code: 25xsj50  
-Role: Participant  
-Time: 2025-2025  
-Type: In-Research  
-
 **Source**: **Intellectual Property Program of Gansu Province**  
 Code: 24ZSCQ022  
 Role: Participant  
 Time: 2024-2026  
 Type: In-Research  
+
+**Source**: **Major Project of Henan Provincial Department of Education**  
+Code: 2024-JCZD-23  
+Role: Participant  
+Time: 2024-2026  
+Type: In-Research  
+
+**Source**: **General Project of National Social Science Fund**  
+Code: 23BTQ085  
+Role: Participant  
+Time: 2023-2027  
+Type: In-Research  
+
+__·Finished__  
+
+**Source**: **Nantong Social Science Research Project**  
+Code: SKB25-106  
+Role: Participant  
+Time: 2025-2025  
+Type: Finished  
+
+**Source**: **Yancheng Federation of Philosophy and Social Sciences Project**  
+Code: 25xsj50  
+Role: Participant  
+Time: 2025-2025  
+Type: Finished  
 
 **Source**: **Research Project on the Science Journals Publication in Higher Education Institutions of Jiangsu Province**  
 Code: JSLK2024B17  
@@ -63,23 +75,11 @@ Role: Participant
 Time: 2024-2025  
 Type: Finished  
 
-**Source**: **Major Project of Henan Provincial Department of Education**  
-Code: 2024-JCZD-23  
-Role: Participant  
-Time: 2024-2026  
-Type: In-Research  
-
 **Source**: **Project of Society of Scientific and Technological Periodicals**  
 Code: YJH202315    
 Role: Participant  
 Time: 2023-2023  
 Type: Finished  
-
-**Source**: **General Project of National Social Science Fund**  
-Code: 23BTQ085  
-Role: Participant  
-Time: 2023-2027  
-Type: In-Research  
 
 **Source**: **Xinxiang Medical University Postgraduate Research Innovation Support Program**  
 Code: YJSCX202277Y  

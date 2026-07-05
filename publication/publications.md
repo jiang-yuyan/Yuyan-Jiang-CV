@@ -33,7 +33,7 @@ Note: Click the number to navigate to the paper's online page.
 <a href="https://www.jmir.org/2025/1/e59598" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. **Journal of Medical Internet Research**, 2025, 27: e59598.  
 **Tag**：SCIE, JIF-2025 = 8.2, CAS Q1, JCR Q1, JCI Q1  
 
-<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
+<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
 **Tag**：AHCI, SSCI, JIF-2025 = 1.0, CAS Q2, JCR Q3, JCI Q1   
 
 <a href="https://link.springer.com/article/10.1007/s11192-025-05486-w" style="text-decoration:none; color:inherit;">**[4]**</a> X Yang, X Liu<sup>#</sup>, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. **Scientometrics**, 2025, 130(11): 6727–6746.  
@@ -62,10 +62,10 @@ Note: Click the number to navigate to the paper's online page.
 <h3 id="publications-2023">·2023</h3>
 
 <a href="https://link.springer.com/article/10.1007/s11192-023-04737-y" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. A construction and empirical research of the journal disruption index based on open citation data[J]. Scientometrics, 2023, 128(7): 3935-3958.  
-**Tag**：  
+**Tag**：SCIE & SSCI, JIF_2023 = 3.5, CAS Q3 , JCR Q1, JCI Q1, AJG 2★  
 
 <a href="https://www.mdpi.com/2071-1050/15/2/969" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. Sustainability, 2023, 15(2): 969.  
-**Tag**：  
+**Tag**：SCIE & SSCI, JIF_2023 = 3.3, CAS Q3 , JCR Q3, JCI Q2  
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202302190096" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, L Wang, X Liu<sup>#</sup>. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2023, 34(8): 1060-1068.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD  
@@ -79,44 +79,34 @@ Note: Click the number to navigate to the paper's online page.
 <h3 id="publications-2022">·2022</h3>
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202202280120" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. Open peer review: models, technologies, problems and countermeasures[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2022, 33(9): 1196-1205.  
-**注**：CSSCI, PKU, AMI Core, CSTPCD  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202205240418" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>. An innovative evaluation index of scientific journals--Journal Disruption Index (JDI) and its empirical research[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2022, 33(7): 965-972.   
-**注**：CSSCI, PKU, AMI Core, CSTPCD  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
-<a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>. A new model for promoting reading based on word segmentation indexing of collection titles[J]. Digital Library Forum, 2022(3): 47-52.  
-**注**：CSSCI Extend, AMI Extend, CSTPCD  
+<a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>. A new model for promoting reading based on word segmentation indexing of collection titles[J]. **Digital Library Forum**, 2022(3): 47-52.  
+**Tag**：CSSCI Extend, AMI Extend, CSTPCD  
 
-[**A new model for promoting reading based on word segmentation indexing of collection titles**]()  
-**Source**：*Digital & Micrographic Imaging*, 2022(1), 37-40    
-**Author**：__Jiang Y__, Liu Y    
-**Tag**：-    
+<a href="" style="text-decoration:none; color:inherit;">**[4]**</a> **Y Jiang**, Y Li<sup>#</sup>. A new model for promoting reading based on word segmentation indexing of collection titles[J].**Digital & Micrographic Imaging**, 2022(1): 37-40  
+**Tag**：-  
 
 <h3 id="publications-2021">·2021</h3>
 
-[**An analysis of the collection construction model of university libraries driven by reader behavior data**]()  
-**Source**：*Digital & Micrographic Imaging*, 2021(4),39-42    
-**Author**：__Jiang Y__, Liu Y    
+<a href="" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, Y Li<sup>#</sup> An analysis of the collection construction model of university libraries driven by reader behavior data[J]. **Digital & Micrographic Imaging**, 2021(4): 39-42  
 **Tag**：-    
 
-[**Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation**]()  
-**Source**：*Policy & Scientific Consult*, 2021(6), 22-24    
-**Author**：Li Y, __Jiang Y__    
+<a href="" style="text-decoration:none; color:inherit;">**[2]**</a> Y Li<sup>#</sup>, **Y Jiang**. Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation[J]. **Policy & Scientific Consult**, 2021(6): 22-24  
 **Tag**：-    
 
 <h3 id="publications-2020">·2020</h3>
 
-<a href="https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170" style="text-decoration:none; color:inherit;">**[1]**</a> **Jiang Y**, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity.[J] **Journal of Library and Information Science in Agriculture**, 2020, 32(6), 23-33    
-**Tag**：Scopus    
+<a href="https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170" style="text-decoration:none; color:inherit;">**[1]**</a> **Jiang Y**, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity[J]. **Journal of Library and Information Science in Agriculture**, 2020, 32(6): 23-33  
+**Tag**：Scopus  
 
-[**Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry**](https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32)  
-**Source**：*Big Data and Security*, 2020, 1210, 417-428    
-**Author**：Yu H, Li Z, __Jiang Y__    
+<a href="https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32" style="text-decoration:none; color:inherit;">**[2]**</a> Yu H, Li Z, **Jiang Y**. Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry[C]. **Big Data and Security**, 2020, 1210: 417-428  
 **Tag**：Scopus
 
-[**Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years**]()  
-**Source**：*Technology and Economic Guide*, 2020, 28(5), 7-9    
-**Author**：__Jiang Y__, Li Y    
-**Tag**：-    
+<a href="" style="text-decoration:none; color:inherit;">**[3]**</a> **Jiang Y**, Li Y. Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years[J]. **Technology and Economic Guide**, 2020, 28(5): 7-9  
+**Tag**：-  
 
 _Note: All categorised results are based on the highest of the results in the major and minor subdivisions._
