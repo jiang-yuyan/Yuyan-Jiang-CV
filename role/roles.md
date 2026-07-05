@@ -91,7 +91,6 @@ __·Reviewer for International Journals__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;28. _SN Business & Economics_ (Scopus)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;29. _Sport Sciences for Health_ (ESCI & Scopus)  
 
-
 ---
 
 &#8195;&#8195;&#8195;&#8195;**Other**  
@@ -120,6 +119,8 @@ __·Past Experience__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;**Editorial**  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. _Transportation Safety and Environment_ (ESCI & EI, Part-time Assistant Editor, 2025-2025)  
 
-***Statistics:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 92 times (2026)  
+---
 
-**Note**: Click the name of the society/journal(Editorial) to visit the webpage. 
+***Statistics:*** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 92 times (2026)  
+
+***Note:*** Click the name of the society and journal (editorial) to visit the webpage. 
