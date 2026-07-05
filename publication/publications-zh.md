@@ -76,40 +76,43 @@ title: publications-zh
 
 <h3 id="publications-2022">·2022</h3>
 
-[1] 姜育彦, 刘雪立<sup>#</sup>. 开放型同行评议：模式、技术、问题与对策[J]. 中国科技期刊研究, 2022, 33(9): 1196-1205.  
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202202280120" style="text-decoration:none; color:inherit;">**[1]**</a> 姜育彦, 刘雪立<sup>#</sup>. 开放型同行评议：模式、技术、问题与对策[J]. 中国科技期刊研究, 2022, 33(9): 1196-1205.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[2] 姜育彦, 刘雪立<sup>#</sup>. 科技期刊的创新性评价指标—颠覆性指数(JDI)及其实证研究[J]. 中国科技期刊研究, 2022, 33(7): 965-972.   
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202205240418" style="text-decoration:none; color:inherit;">**[2]**</a> 姜育彦, 刘雪立<sup>#</sup>. 科技期刊的创新性评价指标—颠覆性指数(JDI)及其实证研究[J]. 中国科技期刊研究, 2022, 33(7): 965-972.   
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[3] 姜育彦, 刘雪立<sup>#</sup>. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. 数字图书馆论坛, 2022(3): 47-52.  
+<a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1" style="text-decoration:none; color:inherit;">**[3]**</a> 姜育彦, 刘雪立<sup>#</sup>. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. 数字图书馆论坛, 2022(3): 47-52.  
 **注**：CSSCI Extend, AMI Extend, CSTPCD  
+
+[**A new model for promoting reading based on word segmentation indexing of collection titles**]()  
+**Source**：*Digital & Micrographic Imaging*, 2022(1), 37-40    
+**Author**：__Jiang Y__, Liu Y    
+**Tag**：-  
 
 <h3 id="publications-2021">·2021</h3>
 
-[**An analysis of the collection construction model of university libraries driven by reader behavior data**]()  
+<a href="" style="text-decoration:none; color:inherit;">**[1]**</a> **An analysis of the collection construction model of university libraries driven by reader behavior data**
 **Source**：*Digital & Micrographic Imaging*, 2021(4),39-42    
 **Author**：__Jiang Y__, Liu Y    
 **Tag**：-    
 
-[**Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation**]()  
+<a href="" style="text-decoration:none; color:inherit;">**[2]**</a> [**Reflections on the Construction Mode of Creative Space in Independent Colleges under the Background of Double Creation**]()  
 **Source**：*Policy & Scientific Consult*, 2021(6), 22-24    
 **Author**：Li Y, __Jiang Y__    
 **Tag**：-    
 
 <h3 id="publications-2020">·2020</h3>
 
-[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
-**Source**：*Journal of Library and Information Science in Agriculture*, 2020, 32(6), 23-33    
-**Author**：__Jiang Y__, Li Y    
-**Tag**：Scopus    
+<a href="https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170" style="text-decoration:none; color:inherit;">**[1]**</a> **Jiang Y**, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity.[J] **Journal of Library and Information Science in Agriculture**, 2020, 32(6), 23-33    
+**注**：Scopus    
 
-[**Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry**](https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32)  
+<a href="" style="text-decoration:none; color:inherit;">**[2]**</a> [**Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry**](https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32)  
 **Source**：*Big Data and Security*, 2020, 1210, 417-428    
 **Author**：Yu H, Li Z, __Jiang Y__    
 **Tag**：Scopus
 
-[**Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years**]()  
+<a href="" style="text-decoration:none; color:inherit;">**[3]**</a> [**Analysis of Research Hotspots in Competitive Intelligence Literature of China in Recent Five Years**]()  
 **Source**：*Technology and Economic Guide*, 2020, 28(5), 7-9    
 **Author**：__Jiang Y__, Li Y    
 **Tag**：-    

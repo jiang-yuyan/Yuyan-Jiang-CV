@@ -61,31 +61,6 @@ Note: Click the number to navigate to the paper's online page.
 
 <h3 id="publications-2023">·2023</h3>
 
-[**A construction and empirical research of the journal disruption index based on open citation data**](https://link.springer.com/article/10.1007/s11192-023-04737-y)  
-**Source**：*Scientometrics*, 2023, 128(7), 3935-3958    
-**Author**：__Jiang Y__, Liu X    
-**Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q1, JCI Q1, AJG Star 2   
-
-[**A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Securit**](https://www.mdpi.com/2071-1050/15/2/969)  
-**Source**：*Sustainability*, 2023, 15(2), 969    
-**Author**：__Jiang Y__, Liu X    
-**Tag**：SCI, JIF = 3.9, CAS Q3, JCR Q2, JCI Q2   
-
-[**Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index**](https://www.cjstp.cn/CN/10.11946/cjstp.202302190096)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2023, 34(8), 1060-1068    
-**Author**：__Jiang Y__, Wang L, Liu X    
-**Tag**：CSSCI, PKU, CSTPCD    
-
-[**Research progress on interdisciplinary evaluation indicators of scientific journals**](https://www.cjstp.cn/CN/10.11946/cjstp.202301130027)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2023, 34(7), 944-952    
-**Author**：Zhang Y, __Jiang Y__, Fang H    
-**Tag**：CSSCI, PKU, CSTPCD    
-
-[**The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers**](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009)  
-**Source**：*Library and Information Service*, 2023, 67(3), 96-105    
-**Author**：__Jiang Y__, Liu X    
-**Tag**：CSSCI, PKU, CSTPCD, Scopus    
-
 <a href="https://link.springer.com/article/10.1007/s11192-023-04737-y" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. A construction and empirical research of the journal disruption index based on open citation data[J]. Scientometrics, 2023, 128(7): 3935-3958.  
 **Tag**：  
 
@@ -103,20 +78,14 @@ Note: Click the number to navigate to the paper's online page.
 
 <h3 id="publications-2022">·2022</h3>
 
-[**Open peer review: models, technologies, problems and countermeasures**](https://www.cjstp.cn/CN/10.11946/cjstp.202202280120)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2022, 33(9), 1196-1205    
-**Author**：__Jiang Y__, Liu X    
-**Tag**：CSSCI, PKU, CSTPCD    
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202202280120" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. Open peer review: models, technologies, problems and countermeasures[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2022, 33(9): 1196-1205.  
+**注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[**An innovative evaluation index of scientific journals--Journal Disruption Index (JDI) and its empirical research**](https://www.cjstp.cn/CN/10.11946/cjstp.202205240418)  
-**Source**：*Chinese Journal of Scientific and Technical Periodicals*, 2022, 33(7), 965-972    
-**Author**：__Jiang Y__, Liu X    
-**Tag**：CSSCI, PKU, CSTPCD    
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202205240418" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>. An innovative evaluation index of scientific journals--Journal Disruption Index (JDI) and its empirical research[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2022, 33(7): 965-972.   
+**注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[**Protection and Rebirth of Microform Materials from the Perspective of Digital Humanities: Taking Digital Cicognara Library as an Example**](https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1)  
-**Source**：*Digital Library Forum*, 2022(3), 47-52    
-**Author**：__Jiang Y__, Liu X    
-**Tag**：CSSCI(E), CSTPCD    
+<a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>. A new model for promoting reading based on word segmentation indexing of collection titles[J]. Digital Library Forum, 2022(3): 47-52.  
+**注**：CSSCI Extend, AMI Extend, CSTPCD  
 
 [**A new model for promoting reading based on word segmentation indexing of collection titles**]()  
 **Source**：*Digital & Micrographic Imaging*, 2022(1), 37-40    
@@ -137,9 +106,7 @@ Note: Click the number to navigate to the paper's online page.
 
 <h3 id="publications-2020">·2020</h3>
 
-[**An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity**](https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170)  
-**Source**：*Journal of Library and Information Science in Agriculture*, 2020, 32(6), 23-33    
-**Author**：__Jiang Y__, Li Y    
+<a href="https://nytsqb.aiijournal.com/CN/10.13998/j.cnki.issn1002-1248.2020.03.16-0170" style="text-decoration:none; color:inherit;">**[1]**</a> **Jiang Y**, Li Y. An Analysis of the "Emotion Space Time" Model from the Perspective of Digital Humanity.[J] **Journal of Library and Information Science in Agriculture**, 2020, 32(6), 23-33    
 **Tag**：Scopus    
 
 [**Using GitHub Open Sources and Database Methods Designed to Auto-Generate Chinese Tang Dynasty Poetry**](https://link.springer.com/chapter/10.1007/978-981-15-7530-3_32)  
