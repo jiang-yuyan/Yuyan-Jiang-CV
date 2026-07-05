@@ -3,7 +3,7 @@ layout: default
 title: project
 ---
 
-## Research Project (Some Project information is pending update)
+## Research Project
 
 __·In-Research__  
 

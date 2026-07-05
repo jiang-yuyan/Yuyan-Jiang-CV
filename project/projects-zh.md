@@ -3,7 +3,7 @@ layout: default
 title: projects-zh
 ---
 
-## 研究项目（部分项目信息待更新）
+## 研究项目
 
 __·在研__  
 
