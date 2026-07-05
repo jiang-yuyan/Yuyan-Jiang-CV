@@ -9,7 +9,7 @@ __·2026__
 **Conf**：**China Intelligence Science Annual Conference**  
 **Role**：Participant  
 **Time**：2026-7   
-**Location**：Nanjing，Jiangsu，China  
+**Location**：Nanjing, Jiangsu, China  
 
 __·2025__
 

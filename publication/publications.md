@@ -62,10 +62,10 @@ Note: Click the number to navigate to the paper's online page.
 <h3 id="publications-2023">·2023</h3>
 
 <a href="https://link.springer.com/article/10.1007/s11192-023-04737-y" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. A construction and empirical research of the journal disruption index based on open citation data[J]. Scientometrics, 2023, 128(7): 3935-3958.  
-**Tag**：SCIE & SSCI, JIF_2023 = 3.5, CAS Q3 , JCR Q1, JCI Q1, AJG 2★  
+**Tag**：SCIE & SSCI, JIF-2023 = 3.5, CAS Q3 , JCR Q1, JCI Q1, AJG 2★  
 
 <a href="https://www.mdpi.com/2071-1050/15/2/969" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. Sustainability, 2023, 15(2): 969.  
-**Tag**：SCIE & SSCI, JIF_2023 = 3.3, CAS Q3 , JCR Q3, JCI Q2  
+**Tag**：SCIE & SSCI, JIF-2023 = 3.3, CAS Q3 , JCR Q3, JCI Q2  
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202302190096" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, L Wang, X Liu<sup>#</sup>. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2023, 34(8): 1060-1068.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD  
