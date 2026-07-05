@@ -33,7 +33,7 @@ Note: Click the number to navigate to the paper's online page.
 <a href="https://www.jmir.org/2025/1/e59598" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. **Journal of Medical Internet Research**, 2025, 27: e59598.  
 **Tag**：SCIE, JIF-2025 = 8.2, CAS Q1, JCR Q1, JCI Q1  
 
-<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> Y** Jiang**, X Liu<sup>#</sup>, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
+<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>, Liyun Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
 **Tag**：AHCI, SSCI, JIF-2025 = 1.0, CAS Q2, JCR Q3, JCI Q1   
 
 <a href="https://link.springer.com/article/10.1007/s11192-025-05486-w" style="text-decoration:none; color:inherit;">**[4]**</a> X Yang, X Liu<sup>#</sup>, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. **Scientometrics**, 2025, 130(11): 6727–6746.  
@@ -85,6 +85,21 @@ Note: Click the number to navigate to the paper's online page.
 **Source**：*Library and Information Service*, 2023, 67(3), 96-105    
 **Author**：__Jiang Y__, Liu X    
 **Tag**：CSSCI, PKU, CSTPCD, Scopus    
+
+<a href="https://link.springer.com/article/10.1007/s11192-023-04737-y" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. A construction and empirical research of the journal disruption index based on open citation data[J]. Scientometrics, 2023, 128(7): 3935-3958.  
+**Tag**：  
+
+<a href="https://www.mdpi.com/2071-1050/15/2/969" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. Sustainability, 2023, 15(2): 969.  
+**Tag**：  
+
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202302190096" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, L Wang, X Liu<sup>#</sup>. Innovative evaluation of Chinese SCIE-indexed scientific journals: An empirical study based on the disruption index[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2023, 34(8): 1060-1068.  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD  
+
+<a href="https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009" style="text-decoration:none; color:inherit;">**[4]**</a> **Y Jiang**, X Liu<sup>#</sup>. The relationship between absolute disruptive index, peer review index and CNCI: a study based on virology papers[J]. **Library and Information Service**, 2023, 67(3): 96-105.  
+**Tag**：CSSCI, PKU, AMI Authoritaty, CSTPCD  
+
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202301130027" style="text-decoration:none; color:inherit;">**[5]**</a> Y Zhang, **Y Jiang**, H Fang<sup>#</sup>. Research progress on interdisciplinary evaluation indicators of scientific journals[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2023, 34(7): 944-952.  
+**Tag**：CSSCI, PKU, AMI Core, CSTPCD 
 
 <h3 id="publications-2022">·2022</h3>
 

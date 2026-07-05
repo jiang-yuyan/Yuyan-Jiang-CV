@@ -59,19 +59,19 @@ title: publications-zh
 
 <h3 id="publications-2023">·2023</h3> 
 
-[[1]]() Y Jiang, X Liu<sup>#</sup>. A construction and empirical research of the journal disruption index based on open citation data[J]. Scientometrics, 2023, 128(7): 3935-3958.  
+<a href="https://link.springer.com/article/10.1007/s11192-023-04737-y" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. A construction and empirical research of the journal disruption index based on open citation data[J]. Scientometrics, 2023, 128(7): 3935-3958.  
 **注**：  
 
-[[2]]() Y Jiang, X Liu<sup>#</sup>. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. Sustainability, 2023, 15(2): 969.  
+<a href="https://www.mdpi.com/2071-1050/15/2/969" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. Sustainability, 2023, 15(2): 969.  
 **注**：  
 
-[3] 姜育彦, 王丽云, 刘雪立<sup>#</sup>. SCIE收录的我国科技期刊的创新性评价：基于颠覆性指数的实证研究[J]. 中国科技期刊研究, 2023, 34(8):1060-1068.  
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202302190096" style="text-decoration:none; color:inherit;">**[3]**</a> **姜育彦**, 王丽云, 刘雪立<sup>#</sup>. SCIE收录的我国科技期刊的创新性评价：基于颠覆性指数的实证研究[J]. 中国科技期刊研究, 2023, 34(8): 1060-1068.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
-[4] 姜育彦, 刘雪立<sup>#</sup>. 绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究[J]. 图书情报工作, 2023, 67(3): 96-105.  
+<a href="https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.03.009" style="text-decoration:none; color:inherit;">**[4]**</a> **姜育彦**, 刘雪立<sup>#</sup>. 绝对颠覆性指数与同行评议指标及CNCI的关系：基于病毒学论文的研究[J]. 图书情报工作, 2023, 67(3): 96-105.  
 **注**：CSSCI, PKU, AMI Authoritaty, CSTPCD  
 
-[5] 张亚杰, 姜育彦, 方红玲<sup>#</sup>. 科技期刊跨学科评价指标的研究进展及展望[J]. 中国科技期刊研究, 2023, 34(7):944-952.  
+<a href="https://www.cjstp.cn/CN/10.11946/cjstp.202301130027" style="text-decoration:none; color:inherit;">**[5]**</a> 张亚杰, **姜育彦**, 方红玲<sup>#</sup>. 科技期刊跨学科评价指标的研究进展及展望[J]. 中国科技期刊研究, 2023, 34(7): 944-952.  
 **注**：CSSCI, PKU, AMI Core, CSTPCD  
 
 <h3 id="publications-2022">·2022</h3>
