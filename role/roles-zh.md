@@ -6,19 +6,23 @@ title: roles-zh
 ## 学术兼职
 __·学会__ 🧑‍🎓
 
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;[**中国科学学与科技政策研究会科学计量学与信息计量学专业委员会**](http://www.casssp.org.cn/product/65.html) (学生会员, 2022-)
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;1. <a href="http://www.casssp.org.cn/product/65.html" style="text-decoration:none; color:inherit;">**中国科学学与科技政策研究会科学计量学与信息计量学专业委员会**</a> (学生会员, 2022-)  
+
+Note: Click the name of the society to visit the webpage.  
 
 ---
 
 __·国际期刊编辑__ 👨‍🔬
 
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. _COLLNET Journal of Scientometrics and Information Management_ [(ESCI, Editorial Board, 2026-)](https://www.tarupublications.com/journal/CJSIM/editorial-board)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2. _Folia Toruniensia_ [(Scopus, Subject Editor, 2026-) ](https://apcz.umk.pl/FT/about/editorialTeam)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 3. _Health Informatics Journal_ [(SCIE, Editorial Review Board, 2025-)](https://journals.sagepub.com/editorial-board/JHI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. _IP Indian Journal of Library Science and Information Technology_ [(Scopus, International Editorial Board, 2026-)](https://ijlsit.org/editorial)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. _Jurnal Kajian Informasi & Perpustakaan_ [(International Editorial Board, 2026-)](https://jurnal.unpad.ac.id/jkip/about/editorialTeam)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. _Knowledge Organization_ [(SSCI, ECR Editorial Board 2025-)]()  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. _REVUE DES SCIENCES DE L' INFORMATION_ [(Scientific Committee Menber, 2025-)](https://revues.imist.ma/index.php/JIS/about/editorialTeam)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. <a href="https://www.tarupublications.com/journal/CJSIM/editorial-board" style="text-decoration:none; color:inherit;">*COLLNET Journal of Scientometrics and Information Management*</a> (ESCI, Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2. <a href="https://apcz.umk.pl/FT/about/editorialTeam" style="text-decoration:none; color:inherit;">*Folia Toruniensia*</a> (Scopus, Subject Editor, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 3. <a href="https://journals.sagepub.com/editorial-board/JHI" style="text-decoration:none; color:inherit;">*Health Informatics Journal*</a> (SCIE, Editorial Review Board, 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. <a href="https://ijlsit.org/editorial" style="text-decoration:none; color:inherit;">*IP Indian Journal of Library Science and Information Technology*</a> (Scopus, International Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. <a href="https://jurnal.unpad.ac.id/jkip/about/editorialTeam" style="text-decoration:none; color:inherit;">*Jurnal Kajian Informasi & Perpustakaan*</a> (International Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. <a href="" style="text-decoration:none; color:inherit;">*Knowledge Organization*</a> (SSCI, ECR Editorial Board 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="https://revues.imist.ma/index.php/JIS/about/editorialTeam" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
+
+Note: Click the journal name to visit the webpage.  
 
 ---
 
