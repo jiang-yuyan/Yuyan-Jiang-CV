@@ -19,7 +19,7 @@ __·国际期刊编辑__ 👨‍🔬
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. <a href="https://ijlsit.org/editorial" style="text-decoration:none; color:inherit;">*IP Indian Journal of Library Science and Information Technology*</a> (Scopus, International Editorial Board, 2026-)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. <a href="https://jurnal.unpad.ac.id/jkip/about/editorialTeam" style="text-decoration:none; color:inherit;">*Jurnal Kajian Informasi & Perpustakaan*</a> (International Editorial Board, 2026-)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. <a href="" style="text-decoration:none; color:inherit;">*Knowledge Organization*</a> (SSCI, ECR Editorial Board 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="https://revues.imist.ma/index.php/JIS/about/editorialTeam" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="https://revues.imist.ma/index.php/JIS/about/editorialHistory" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
 
 ---
 

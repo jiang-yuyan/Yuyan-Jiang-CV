@@ -35,11 +35,11 @@ title: publications-zh
 <a href="https://www.jmir.org/2025/1/e59598" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. **Journal of Medical Internet Research**, 2025, 27: e59598.  
 **注**：SCIE, JIF-2025 = 8.2, CAS Q1, JCR Q1, JCI Q1  
 
-<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025,56(1): 60-78.  
+<a href="https://utppublishing.com/doi/10.3138/jsp-2023-0056" style="text-decoration:none; color:inherit;">**[3]**</a> **Y Jiang**, X Liu<sup>#</sup>, L Wang. The disruptive innovation evaluation and empirical analysis of Chinese, Japanese, Indian and South Korean scientific journals[J]. **Journal of Scholarly Publishing**, 2025, 56(1): 60-78.  
 **注**：AHCI, SSCI, JIF = 1.0, CAS Q2, JCR Q3, JCI Q1   
 
 <a href="https://link.springer.com/article/10.1007/s11192-025-05486-w" style="text-decoration:none; color:inherit;">**[4]**</a> X Yang, X Liu<sup>#</sup>, Z Zhang, M Xi, **Y Jiang**. Do cover papers have higher disruption and citations? Evidence from Nature and Science[J]. **Scientometrics**, 2025, 130(11): 6727–6746.  
-**注**：SCIE & SSCI, JIF-2025 = 3.8, CAS Q2 , JCR Q1, JCI Q1, AJG 2★  
+**注**：SCIE & SSCI, JIF-2025 = 3.8, CAS Q2, JCR Q1, JCI Q1, AJG 2★  
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202411071210" style="text-decoration:none; color:inherit;">**[5]**</a> 刘雪立, **姜育彦**<sup>#</sup>. 基于引证数据来源优化的期刊颠覆性指数及其实证研究[J]. **中国科技期刊研究**, 2025, 36(4): 512-521.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
@@ -51,7 +51,7 @@ title: publications-zh
 
 <h3 id="publications-2024">·2024</h3>
 
-<a href="https://www.jmir.org/2024/1/e55121" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang,** X Liu<sup>#</sup>, Z Zhang, X Yang. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. **Journal of Medical Internet Research**, 2024, 26: e55121.  
+<a href="https://www.jmir.org/2024/1/e55121" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**,  X Liu<sup>#</sup>, Z Zhang, X Yang. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. **Journal of Medical Internet Research**, 2024, 26: e55121.  
 **注**：SCIE, JIF-2025 = 6.0, CAS Q1, JCR Q1, JCI Q1  
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202409020964" style="text-decoration:none; color:inherit;">**[2]**</a> 曹金磊, 高健, **姜育彦**, 周志新<sup>#</sup>. 我国高校学者被撤销论文特征及原因分析[J]. **中国科技期刊研究**, 2024, 35(12): 1732-1743.  
@@ -68,10 +68,10 @@ title: publications-zh
 <h3 id="publications-2023">·2023</h3> 
 
 <a href="https://link.springer.com/article/10.1007/s11192-023-04737-y" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. A construction and empirical research of the journal disruption index based on open citation data[J]. **Scientometrics**, 2023, 128(7): 3935-3958.  
-**注**：SCIE & SSCI, JIF-2023 = 3.5, CAS Q3 , JCR Q1, JCI Q1, AJG 2★  
+**注**：SCIE & SSCI, JIF-2023 = 3.5, CAS Q3, JCR Q1, JCI Q1, AJG 2★  
 
 <a href="https://www.mdpi.com/2071-1050/15/2/969" style="text-decoration:none; color:inherit;">**[2]**</a> **Y Jiang**, X Liu<sup>#</sup>. A Bibliometric Analysis and Disruptive Innovation Evaluation for the Field of Energy Security[J]. **Sustainability**, 2023, 15(2): 969.  
-**注**：SCIE & SSCI, JIF-2023 = 3.3, CAS Q3 , JCR Q3, JCI Q2  
+**注**：SCIE & SSCI, JIF-2023 = 3.3, CAS Q3, JCR Q3, JCI Q2  
 
 <a href="https://www.cjstp.cn/CN/10.11946/cjstp.202302190096" style="text-decoration:none; color:inherit;">**[3]**</a> **姜育彦**, 王丽云, 刘雪立<sup>#</sup>. SCIE收录的我国科技期刊的创新性评价：基于颠覆性指数的实证研究[J]. **中国科技期刊研究**, 2023, 34(8): 1060-1068.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
