@@ -93,7 +93,7 @@ title: publications-zh
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
 <a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202203007&flag=1" style="text-decoration:none; color:inherit;">**[3]**</a> **姜育彦**, 刘雪立<sup>#</sup>. 数字人文视域下缩微资料的保护与新生——以Digital Cicognara Library为例[J]. **数字图书馆论坛**, 2022(3): 47-52.  
-**注**：CSSCI Extend, AMI扩展, CSTPCD  
+**注**：CSSCI 扩展, AMI扩展, CSTPCD  
 
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a> **姜育彦**, 李雅茹<sup>#</sup>. 基于馆藏题录分词索引的阅读推广新模式[J]. **数字与缩微影像**, 2022(1): 37-40  
 **注**：-  
