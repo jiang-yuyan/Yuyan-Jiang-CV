@@ -23,7 +23,7 @@ title: index
     <h2 style="margin-top: 0;">Yuyan Jiang</h2>
     <p><strong>>Not a cat, but a PhD student!</strong></p>
     <p><strong>>This is my personal academic homepage!</strong></p>
-    <p><strong>Click the 🐱 on the left to get my CV.</strong></p>
+    <p><strong>Click the 🐱 on the left to get my CV. (Waiting updating!)</strong></p>
   </div>
 </div>
 
