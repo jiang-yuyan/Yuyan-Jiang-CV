@@ -13,13 +13,14 @@ __·Society Members__ 🧑‍🎓
 
 __·Editorial Board for International Journals__ 👨‍🔬
 
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. <a href="https://www.tarupublications.com/journal/CJSIM/editorial-board" style="text-decoration:none; color:inherit;">*COLLNET Journal of Scientometrics and Information Management*</a> (ESCI, Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2. <a href="https://apcz.umk.pl/FT/about/editorialTeam" style="text-decoration:none; color:inherit;">*Folia Toruniensia*</a> (Scopus, Subject Editor, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 3. <a href="https://journals.sagepub.com/editorial-board/JHI" style="text-decoration:none; color:inherit;">*Health Informatics Journal*</a> (SCIE, Editorial Review Board, 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. <a href="https://ijlsit.org/editorial" style="text-decoration:none; color:inherit;">*IP Indian Journal of Library Science and Information Technology*</a> (Scopus, International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. <a href="https://jurnal.unpad.ac.id/jkip/about/editorialTeam" style="text-decoration:none; color:inherit;">*Jurnal Kajian Informasi & Perpustakaan*</a> (International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. <a href="" style="text-decoration:none; color:inherit;">*Knowledge Organization*</a> (SSCI, ECR Editorial Board 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="https://revues.imist.ma/index.php/JIS/about/editorialHistory" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. <a href="https://jurnal.ugm.ac.id/v3/BIP/about/editorialTeam" style="text-decoration:none; color:inherit;">*Berkala Ilmu Perpustakaan dan Informasi*</a> (Section Editor, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2. <a href="https://www.tarupublications.com/journal/CJSIM/editorial-board" style="text-decoration:none; color:inherit;">*COLLNET Journal of Scientometrics and Information Management*</a> (ESCI, Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 3. <a href="https://apcz.umk.pl/FT/about/editorialTeam" style="text-decoration:none; color:inherit;">*Folia Toruniensia*</a> (Scopus, Subject Editor, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. <a href="https://journals.sagepub.com/editorial-board/JHI" style="text-decoration:none; color:inherit;">*Health Informatics Journal*</a> (SCIE, Editorial Review Board, 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. <a href="https://ijlsit.org/editorial" style="text-decoration:none; color:inherit;">*IP Indian Journal of Library Science and Information Technology*</a> (Scopus, International Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. <a href="https://jurnal.unpad.ac.id/jkip/about/editorialTeam" style="text-decoration:none; color:inherit;">*Jurnal Kajian Informasi & Perpustakaan*</a> (International Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="" style="text-decoration:none; color:inherit;">*Knowledge Organization*</a> (SSCI, ECR Editorial Board 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 8. <a href="https://revues.imist.ma/index.php/JIS/about/editorialHistory" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
 
 ---
 
@@ -37,26 +38,27 @@ __·Reviewer for International Journals__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. _BMC Medical Research Methodology_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2. _Health Informatics Journal_ (SCIE)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 3. _Health Information and Libraries Journal_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. _Humanities and Social Sciences Communications_ (SSCI & AHCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. _Information Research_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. _JMIR Medical Education_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. _JMIR Medical Informatics_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 8. _JMIR mHealth and uHealth_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 9. _JMIR Public Health and Surveillance_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;10. _JMIR Serious Games_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;11. _Journal of Cardiothoracic Surgery_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;12. _Journal of Economic Surveys_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;13. _Journal of Information Science_ (SCIE & SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;14. _Journal of Librarianship & Information Science_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;15. _Journal of Medical Internet Research_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;16. _Journal of the Medical Library Association_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;17. _Learned Publishing_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;18. _Malaysian Journal of Library and Information Science_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;19. _PLOS One_ (SCIE)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;20. _Research Evaluation_ (SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;21. _Research Integrity and Peer Review_ (SCIE & SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;22. _Scientometrics_ (SCIE & SSCI)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;23. _Serials Review_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. _Health Research Policy and Systems_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. _Humanities and Social Sciences Communications_ (SSCI & AHCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. _Information Research_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. _JMIR Medical Education_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 8. _JMIR Medical Informatics_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 9. _JMIR mHealth and uHealth_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;10. _JMIR Public Health and Surveillance_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;11. _JMIR Serious Games_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;12. _Journal of Cardiothoracic Surgery_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;13. _Journal of Economic Surveys_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;14. _Journal of Information Science_ (SCIE & SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;15. _Journal of Librarianship & Information Science_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;16. _Journal of Medical Internet Research_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;17. _Journal of the Medical Library Association_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;18. _Learned Publishing_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;19. _Malaysian Journal of Library and Information Science_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;20. _PLOS One_ (SCIE)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;21. _Research Evaluation_ (SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;22. _Research Integrity and Peer Review_ (SCIE & SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;23. _Scientometrics_ (SCIE & SSCI)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;24. _Serials Review_ (SSCI)  
 
 ---
 
@@ -89,7 +91,8 @@ __·Reviewer for International Journals__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;26. _Online Journal of Public Health Informatics_ (ESCI & Scopus)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;27. _Revista Interamericana de Bibliotecología_ (Scopus)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;28. _SN Business & Economics_ (Scopus)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;29. _Sport Sciences for Health_ (ESCI & Scopus)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;29. _SN Social Sciences_ (Scopus)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;30. _Sport Sciences for Health_ (ESCI & Scopus)  
 
 ---
 
@@ -121,6 +124,6 @@ __·Past Experience__ 🕵️‍♂️
 
 ---
 
-***Statistics:*** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 92 times (2026)  
+***Statistics:*** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); -- times (2026) ~ Updating☺  
 
 ***Note:*** Click the name of the society and journal (editorial) to visit the webpage. 

@@ -13,13 +13,14 @@ __·学会__ 🧑‍🎓
 
 __·国际期刊编辑__ 👨‍🔬
 
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. <a href="https://www.tarupublications.com/journal/CJSIM/editorial-board" style="text-decoration:none; color:inherit;">*COLLNET Journal of Scientometrics and Information Management*</a> (ESCI, Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2. <a href="https://apcz.umk.pl/FT/about/editorialTeam" style="text-decoration:none; color:inherit;">*Folia Toruniensia*</a> (Scopus, Subject Editor, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 3. <a href="https://journals.sagepub.com/editorial-board/JHI" style="text-decoration:none; color:inherit;">*Health Informatics Journal*</a> (SCIE, Editorial Review Board, 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. <a href="https://ijlsit.org/editorial" style="text-decoration:none; color:inherit;">*IP Indian Journal of Library Science and Information Technology*</a> (Scopus, International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. <a href="https://jurnal.unpad.ac.id/jkip/about/editorialTeam" style="text-decoration:none; color:inherit;">*Jurnal Kajian Informasi & Perpustakaan*</a> (International Editorial Board, 2026-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. <a href="" style="text-decoration:none; color:inherit;">*Knowledge Organization*</a> (SSCI, ECR Editorial Board 2025-)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="https://revues.imist.ma/index.php/JIS/about/editorialHistory" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 1. <a href="https://jurnal.ugm.ac.id/v3/BIP/about/editorialTeam" style="text-decoration:none; color:inherit;">*Berkala Ilmu Perpustakaan dan Informasi*</a> (Section Editor, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2. <a href="https://www.tarupublications.com/journal/CJSIM/editorial-board" style="text-decoration:none; color:inherit;">*COLLNET Journal of Scientometrics and Information Management*</a> (ESCI, Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 3. <a href="https://apcz.umk.pl/FT/about/editorialTeam" style="text-decoration:none; color:inherit;">*Folia Toruniensia*</a> (Scopus, Subject Editor, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 4. <a href="https://journals.sagepub.com/editorial-board/JHI" style="text-decoration:none; color:inherit;">*Health Informatics Journal*</a> (SCIE, Editorial Review Board, 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 5. <a href="https://ijlsit.org/editorial" style="text-decoration:none; color:inherit;">*IP Indian Journal of Library Science and Information Technology*</a> (Scopus, International Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 6. <a href="https://jurnal.unpad.ac.id/jkip/about/editorialTeam" style="text-decoration:none; color:inherit;">*Jurnal Kajian Informasi & Perpustakaan*</a> (International Editorial Board, 2026-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 7. <a href="" style="text-decoration:none; color:inherit;">*Knowledge Organization*</a> (SSCI, ECR Editorial Board 2025-)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 8. <a href="https://revues.imist.ma/index.php/JIS/about/editorialHistory" style="text-decoration:none; color:inherit;">*REVUE DES SCIENCES DE L' INFORMATION*</a> (Scientific Committee Menber, 2025-)  
 
 ---
 
@@ -89,7 +90,8 @@ __·国际期刊评审__ 🕵️‍♂️
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;26. _Online Journal of Public Health Informatics_ (ESCI & Scopus)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;27. _Revista Interamericana de Bibliotecología_ (Scopus)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;28. _SN Business & Economics_ (Scopus)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;29. _Sport Sciences for Health_ (ESCI & Scopus)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;29. _SN Social Sciences_ (Scopus)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;30. _Sport Sciences for Health_ (ESCI & Scopus)  
 
 ---
 
@@ -121,6 +123,6 @@ __·过往经历__ 🕵️‍♂️
 
 ---
 
-**统计:** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); 92 times (2026)  
+**统计:** 1 次(2022); 1 次(2023); 14 次(2024); 97 次(2025); -- 次(2026) ~ 待更新☺  
 
 **注：** 点击学会和期刊（编辑）可跳转至网页。 
