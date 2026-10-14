@@ -16,7 +16,7 @@ Note: Click the serial number to navigate to the paper's online page. All catego
 <a href="https://journals.sagepub.com/doi/abs/10.1177/01655515241263545" style="text-decoration:none; color:inherit;">**[1]**</a>  **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. **Journal of Information Science**, 2026, 52(3): 837-852.  
 **Tag**：SCIE & SSCI, JIF-2025 = 2.6, XR Q3, JCR Q2, JCI Q2, AJG 2★  
 
-<a href="" style="text-decoration:none; color:inherit;">**[2]**</a>  **Y Jiang**, J Ma<sup>#</sup>, C Chen, G Bai. Selection criteria evaluation of the Nature Index applied science journals and reflections on the development of Chinese scientific journals[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2026, 37():.  
+<a href="" style="text-decoration:none; color:inherit;">**[2]**</a>  **Y Jiang**, J Ma<sup>#</sup>, C Chen, G Bai. Selection criteria evaluation of the Nature Index applied science journals and reflections on the development of Chinese scientific journals[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2026, 37(6): 908-920.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD  
 
 <a href="https://www.cjstp.cn/CN/Y2026/V37/I3/384" style="text-decoration:none; color:inherit;">**[3]**</a> X Ye, G Zhao, Q Zhang, **Y Jiang**, Z Chang<sup>#</sup>, J Zhang, X Chen. Full⁃chain operation practice and enlightenment of domestic scientific journal publishing platforms[J]. **Chinese Journal of Scientific and Technical Periodicals**, 2026, 37(3): 384-392.  
@@ -25,7 +25,7 @@ Note: Click the serial number to navigate to the paper's online page. All catego
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a>  C Chen, **Y Jiang**, X Guan X, L Yu<sup>#</sup>. Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective[J]. **Acta Editologica**, 2026, 38(S1): 1-6.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD   
 
-<a href="http://kcbhyly.xml-journal.net/article/doi/10.13779/j.cnki.issn1001-0076.2026.09.003" style="text-decoration:none; color:inherit;">**[5]**</a> C Chen, J Ma, Z Chen, Y Niu, **Y Jiang**, A Wang<sup>#</sup>. Fifty years of attapulgite in China: Current status and future prospects of patent applications[J]. **Conservation and Utilization of Mineral Resources**, 2026, 46(5):31-43.  
+<a href="http://kcbhyly.xml-journal.net/article/doi/10.13779/j.cnki.issn1001-0076.2026.09.003" style="text-decoration:none; color:inherit;">**[5]**</a> C Chen, J Ma, Z Chen, Y Niu, **Y Jiang**, A Wang<sup>#</sup>. Fifty years of attapulgite in China: Current status and future prospects of patent applications[J]. **Conservation and Utilization of Mineral Resources**, 2026, 46(5): 31-43.  
 **Tag**：CSCD Extend, CSTPCD  
 
 ---

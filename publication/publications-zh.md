@@ -16,7 +16,7 @@ title: publications-zh
 <a href="https://journals.sagepub.com/doi/abs/10.1177/01655515241263545" style="text-decoration:none; color:inherit;">**[1]**</a> **Y Jiang**, X Liu<sup>#</sup>. A new method of calculating the disruption index based on open citation data[J]. **Journal of Information Science**, 2026, 52(3): 837-852.  
 **注**：SCIE & SSCI, JIF-2025 = 2.6, XR Q3, JCR Q2, JCI Q2, AJG 2★  
 
-<a href="" style="text-decoration:none; color:inherit;">**[2]**</a> **姜育彦**, 马建霞<sup>#</sup>, 陈春, 白光祖. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. **中国科技期刊研究**, 2026, 37():.  
+<a href="" style="text-decoration:none; color:inherit;">**[2]**</a> **姜育彦**, 马建霞<sup>#</sup>, 陈春, 白光祖. 自然指数应用科学期刊遴选规则评估及对我国科技期刊发展的思考[J]. **中国科技期刊研究**, 2026, 37(6):908-920.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
 <a href="https://www.cjstp.cn/CN/Y2026/V37/I3/384" style="text-decoration:none; color:inherit;">**[3]**</a> 叶喜艳, 赵光平, 张启松, **姜育彦**, 常宗强<sup>#</sup>, 张静辉, 陈小红. 国产科技期刊出版平台全链条运营实践及启示[J]. **中国科技期刊研究**, 2026, 37(3): 384-392.  
@@ -25,7 +25,7 @@ title: publications-zh
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a> 陈辰, **姜育彦**, 官鑫. 于磊<sup>#</sup>. 全流程视角下高校自科学报出版伦理制度建设现状与思考[J]. **编辑学报**, 2026, 38(S1): 1-6.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
-<a href="http://kcbhyly.xml-journal.net/article/doi/10.13779/j.cnki.issn1001-0076.2026.09.003" style="text-decoration:none; color:inherit;">**[5]**</a> 陈春, 马建霞, 陈子倩, 牛艺博, **姜育彦**, 王爱勤<sup>#</sup>. 中国凹凸棒石50年：专利申请现状与展望[J]. **矿产保护与利用**, 2026, 46(5):31-43.  
+<a href="http://kcbhyly.xml-journal.net/article/doi/10.13779/j.cnki.issn1001-0076.2026.09.003" style="text-decoration:none; color:inherit;">**[5]**</a> 陈春, 马建霞, 陈子倩, 牛艺博, **姜育彦**, 王爱勤<sup>#</sup>. 中国凹凸棒石50年：专利申请现状与展望[J]. **矿产保护与利用**, 2026, 46(5): 31-43.  
 **注**：CSCD 扩展, CSTPCD  
 
 ---
