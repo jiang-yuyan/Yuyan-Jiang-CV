@@ -25,6 +25,9 @@ title: publications-zh
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a> 陈辰, **姜育彦**, 官鑫. 于磊<sup>#</sup>. 全流程视角下高校自科学报出版伦理制度建设现状与思考[J]. **编辑学报**, 2026, 38(S1): 1-6.  
 **注**：CSSCI, PKU, AMI核心, CSTPCD  
 
+<a href="http://kcbhyly.xml-journal.net/article/doi/10.13779/j.cnki.issn1001-0076.2026.09.003" style="text-decoration:none; color:inherit;">**[5]**</a> 陈春, 马建霞, 陈子倩, 牛艺博, **姜育彦**, 王爱勤<sup>#</sup>. 中国凹凸棒石50年：专利申请现状与展望[J]. **矿产保护与利用**, 2026, 46(5):31-43.  
+**注**：CSCD 扩展, CSTPCD  
+
 ---
 
 <h3 id="publications-2025">·2025</h3>

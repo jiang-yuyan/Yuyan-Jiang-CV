@@ -124,6 +124,8 @@ __·Past Experience__ 🕵️‍♂️
 
 ---
 
-***Statistics:*** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); -- times (2026) ~ Updating☺  
+***Review Statistics:*** 1 time (2022); 1 time(2023); 14 times (2024); 97 times (2025); -- times (2026) ~ Updating☺  
+
+***Editorial Statistics:*** -- times (2026) ~ Updating☺ 
 
 ***Note:*** Click the name of the society and journal (editorial) to visit the webpage. 

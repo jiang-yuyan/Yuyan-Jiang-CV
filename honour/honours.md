@@ -7,6 +7,9 @@ title: honours
 
 <h3 id="honours-2026">· 2026</h3>
 
+**Source**: Ministry of Education of China  
+**Award**: National Postgraduate Scholarship  
+
 **Source**：University of Chinese Academy of Sciences  
 **Award**：Pacemaker to Merit Student  
 

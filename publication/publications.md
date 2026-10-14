@@ -25,6 +25,9 @@ Note: Click the serial number to navigate to the paper's online page. All catego
 <a href="" style="text-decoration:none; color:inherit;">**[4]**</a>  C Chen, **Y Jiang**, X Guan X, L Yu<sup>#</sup>. Current status and considerations on the construction of publication ethics system for university natural science journal from a whole process perspective[J]. **Acta Editologica**, 2026, 38(S1): 1-6.  
 **Tag**：CSSCI, PKU, AMI Core, CSTPCD   
 
+<a href="http://kcbhyly.xml-journal.net/article/doi/10.13779/j.cnki.issn1001-0076.2026.09.003" style="text-decoration:none; color:inherit;">**[5]**</a> C Chen, J Ma, Z Chen, Y Niu, **Y Jiang**, A Wang<sup>#</sup>. Fifty years of attapulgite in China: Current status and future prospects of patent applications[J]. **Conservation and Utilization of Mineral Resources**, 2026, 46(5):31-43.  
+**Tag**：CSCD Extend, CSTPCD  
+
 ---
 
 <h3 id="publications-2025">·2025</h3>
